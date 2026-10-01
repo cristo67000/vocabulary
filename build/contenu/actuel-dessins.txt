@@ -1,0 +1,288 @@
+# L'essentiel en dessins : les petits mots qu'un dessin explique mieux
+# qu'une phrase — prépositions de lieu et de temps, depuis / il y a, temps
+# des verbes, comparatifs, quantités, registres, grands nombres. Chaque fiche
+# porte son dessin (js/schemas/apprendre.js).
+# Rédigé pour Vocabulary.
+module: actuel
+t: dessins
+
+# ————— Où ? Les prépositions de lieu —————
+
+@ in
+tr: dans, à l’intérieur de
+d-fr: À l’intérieur d’un espace fermé ou délimité.
+d-en: Inside a space.
+sc: app-lieu
+x: The keys are in the drawer. | Les clés sont dans le tiroir.
+v: on, under
+
+@ on
+tr: sur
+d-fr: En contact avec une surface, posé dessus.
+d-en: Touching a surface, resting on it.
+n-fr: Aussi pour les moyens de transport qu’on « monte » : « on the bus », « on the train », « on a bike ».
+n-en: « dans le bus » = on the bus.
+sc: app-lieu
+x: Your phone is on the table. | Ton téléphone est sur la table.
+v: in, above
+
+@ under
+tr: sous, en dessous de
+d-fr: Plus bas que quelque chose, et couvert par lui.
+d-en: Lower than something and covered by it.
+sc: app-lieu
+x: The cat is under the bed. | Le chat est sous le lit.
+v: above
+
+@ above
+tr: au-dessus de
+d-fr: Plus haut que quelque chose, sans le toucher ; le contraire : « below » (au-dessous de).
+d-en: Higher than something, without touching it.
+sc: app-lieu
+x: The lamp is above the table. | La lampe est au-dessus de la table.
+v: on, under
+
+@ behind
+tr: derrière
+d-fr: De l’autre côté, caché par quelque chose.
+d-en: At the back of something.
+sc: app-lieu
+x: The garden is behind the house. | Le jardin est derrière la maison.
+v: in_front_of
+
+@ in_front_of
+w: in front of
+tr: devant
+nat: preposition
+d-fr: Du côté visible, face à nous.
+d-en: At the front of something.
+a-fr: « in front of » : devant ; « opposite » : en face de (de l’autre côté de la rue).
+a-en: « devant » = in front of; « en face de » = opposite.
+sc: app-lieu
+x: I’ll meet you in front of the cinema. | Je te retrouve devant le cinéma.
+v: behind, opposite
+
+@ next_to
+w: next to
+tr: à côté de
+nat: preposition
+al: beside
+d-fr: Tout près, sur le côté.
+d-en: At the side of something, very close.
+sc: app-lieu
+x: Can I sit next to you? | Je peux m’asseoir à côté de toi ?
+v: between
+
+@ between
+tr: entre
+d-fr: Au milieu de deux choses ou de deux personnes ; parmi plus de deux : « among ».
+d-en: In the space separating two things.
+sc: app-lieu
+x: The chemist’s is between the bank and the café. | La pharmacie est entre la banque et le café.
+v: next_to
+
+@ opposite
+tr: en face de
+d-fr: De l’autre côté, face à face (souvent de l’autre côté de la rue).
+d-en: Facing something, on the other side.
+n-fr: Américain : plutôt « across from ».
+sc: app-lieu
+x: The bus stop is opposite the station. | L’arrêt de bus est en face de la gare.
+v: in_front_of
+
+# ————— Quand ? At, on, in —————
+
+@ at-heure
+w: at
+tr: à (heure, moment précis)
+d-fr: Pour un moment précis : l’heure (« at seven »), « at night », « at noon », « at Christmas », « at the weekend » (britannique).
+d-en: For a precise point in time: a clock time, night, noon, festivals.
+sc: app-quand
+x: The film starts at eight. | Le film commence à vingt heures.
+v: on-jour, in-periode
+
+@ on-jour
+w: on
+tr: le (jour, date)
+d-fr: Pour un jour ou une date : « on Monday » (lundi), « on the 3rd of May » (le 3 mai), « on my birthday ».
+d-en: For days and dates.
+a-fr: Le français n’a pas de préposition : « on Monday » = lundi ; « on Mondays » = le lundi (chaque semaine).
+a-en: No preposition in French: « lundi », « le 3 mai ».
+sc: app-quand
+x: See you on Friday! | À vendredi !
+v: at-heure, in-periode
+
+@ in-periode
+w: in
+tr: en, au, dans (mois, année, saison)
+d-fr: Pour une période : un mois (« in July »), une année (« in 2026 »), une saison (« in winter »), une partie de la journée (« in the morning »).
+d-en: For longer periods: months, years, seasons, parts of the day.
+n-fr: « in two days » : dans deux jours (délai à partir de maintenant).
+sc: app-quand
+x: We met in 2019. | Nous nous sommes rencontrés en 2019.
+v: at-heure, on-jour
+
+# ————— Depuis, pendant, il y a —————
+
+@ since
+tr: depuis (un point de départ)
+d-fr: Suivi d’un point de départ : une date, une heure, un événement (« since 2020 », « since Monday »).
+d-en: Followed by a starting point in time.
+a-fr: Avec le present perfect : « I have lived here since 2020 » (j’habite ici depuis 2020) — jamais « I live here since ».
+a-en: French uses the present: « j’habite ici depuis 2020 ».
+sc: app-depuis
+x: I’ve known her since school. | Je la connais depuis l’école.
+v: for-duree, ago, present_perfect
+
+@ for-duree
+w: for
+tr: depuis, pendant (une durée)
+d-fr: Suivi d’une durée : « for six years », « for two hours ». Avec le present perfect, il se traduit par « depuis » ; au passé, par « pendant ».
+d-en: Followed by a length of time.
+a-fr: « I have lived here for six years » : j’habite ici depuis six ans ; « I lived there for six years » : j’y ai habité pendant six ans.
+a-en: « depuis six ans » = for six years (present perfect).
+sc: app-depuis
+x: We’ve been waiting for an hour. | Nous attendons depuis une heure.
+v: since, ago
+
+@ ago
+tr: il y a
+d-fr: Placé après la durée : « two days ago » (il y a deux jours). S’emploie avec le prétérit.
+d-en: Placed after the length of time, with the past simple.
+a-fr: Toujours après la durée, et avec le prétérit : « I moved here six years ago ».
+a-en: « il y a » comes first in French: « il y a deux jours ».
+sc: app-depuis
+x: I moved here six years ago. | J’ai emménagé ici il y a six ans.
+v: since, for-duree
+
+@ present_perfect
+w: present perfect
+tr: le present perfect, le passé composé anglais
+nat: n
+d-fr: Le temps « have + participe passé » : il relie le passé au présent. Il sert pour ce qui dure encore (avec « since », « for »), pour un passé sans date précise et pour un résultat visible maintenant.
+d-en: The tense “have + past participle”, linking the past to the present.
+a-fr: Dès qu’un moment passé est précis (« yesterday », « in 2019 », « ago »), c’est le prétérit : « I saw him yesterday », pas « I have seen him yesterday ».
+a-en: French uses the passé composé in both cases: « je l’ai vu hier ».
+sc: app-temps
+x: I’ve lost my keys. | J’ai perdu mes clés.
+x: Have you ever been to Scotland? | Tu es déjà allé en Écosse ?
+v: since, tense
+
+@ tense
+tr: le temps (grammatical)
+d-fr: La forme du verbe qui situe l’action dans le passé, le présent ou le futur.
+d-en: The form of a verb showing past, present or future.
+a-fr: Le temps qu’il fait : « weather » ; le temps qui passe : « time » ; le temps du verbe : « tense ».
+a-en: « le temps » = weather, time or tense.
+sc: app-temps
+x: The past tense of “go” is “went”. | Le prétérit de « go » est « went ».
+v: present_perfect
+
+# ————— Comparer —————
+
+@ comparative
+tr: le comparatif
+d-fr: Pour comparer deux choses : « -er » pour les mots courts (« bigger »), « more » pour les longs (« more expensive »), puis « than » (que).
+d-en: The form used to compare two things.
+a-fr: Irréguliers : « good → better », « bad → worse », « far → further ».
+sc: app-comparer
+x: London is bigger than Paris. | Londres est plus grand que Paris.
+v: superlative
+
+@ superlative
+tr: le superlatif
+d-fr: Pour dire « le plus » : « the + -est » (« the biggest ») ou « the most » (« the most expensive »).
+d-en: The form used to say something is “the most” of a group.
+a-fr: Irréguliers : « the best » (le meilleur), « the worst » (le pire).
+sc: app-comparer
+x: It’s the best film I’ve ever seen. | C’est le meilleur film que j’aie jamais vu.
+v: comparative
+
+# ————— Combien ? —————
+
+@ much
+tr: beaucoup de (indénombrable)
+d-fr: « Much » avec les indénombrables (« much water », « much time »), surtout dans les questions et les négations.
+d-en: Used with uncountable nouns, mainly in questions and negatives.
+sc: app-quantite
+x: How much money have you got? | Combien d’argent as-tu ?
+v: many, a_lot_of
+
+@ many
+tr: beaucoup de (dénombrable)
+d-fr: « Many » avec les dénombrables au pluriel (« many cars », « many people »), surtout dans les questions et les négations.
+d-en: Used with plural countable nouns, mainly in questions and negatives.
+sc: app-quantite
+x: How many people are coming? | Combien de personnes viennent ?
+v: much, a_lot_of
+
+@ a_lot_of
+w: a lot of
+tr: beaucoup de
+nat: determiner
+al: lots of
+d-fr: « Beaucoup de » avec tous les noms, dénombrables ou non ; c’est la tournure la plus naturelle dans les phrases affirmatives.
+d-en: Used with all nouns, the most natural choice in positive sentences.
+sc: app-quantite
+x: She’s got a lot of friends. | Elle a beaucoup d’amis.
+v: much, many
+
+@ a_few
+w: a few
+tr: quelques
+nat: determiner
+d-fr: « Quelques » avec les dénombrables (« a few days ») ; « few » sans « a » : peu de.
+d-en: A small number of (countable nouns).
+sc: app-quantite
+x: I’ll be back in a few minutes. | Je reviens dans quelques minutes.
+v: a_little
+
+@ a_little
+w: a little
+tr: un peu de
+nat: determiner
+d-fr: « Un peu de » avec les indénombrables (« a little milk ») ; « little » sans « a » : peu de.
+d-en: A small amount of (uncountable nouns).
+sc: app-quantite
+x: Just a little sugar, please. | Juste un peu de sucre, s’il vous plaît.
+v: a_few
+
+# ————— Les grands nombres —————
+
+@ billion
+tr: un milliard
+d-fr: Mille millions : 1 000 000 000.
+d-en: A thousand million: 1,000,000,000.
+a-fr: Faux ami : le « billion » français vaut mille milliards, soit « a trillion » en anglais.
+a-en: French « un billion » is an English trillion.
+sc: app-nombres
+x: The project cost two billion pounds. | Le projet a coûté deux milliards de livres.
+v: trillion, decimal_point
+
+@ trillion
+tr: mille milliards, un billion
+d-fr: Mille milliards : 1 000 000 000 000.
+d-en: A thousand billion: 1,000,000,000,000.
+sc: app-nombres
+x: The national debt is over two trillion pounds. | La dette publique dépasse les deux mille milliards de livres.
+v: billion
+
+@ decimal_point
+tr: la virgule (décimale)
+nat: n
+d-fr: L’anglais écrit les décimales avec un point (3.5, « three point five ») et sépare les milliers par une virgule (1,000).
+d-en: English uses a point for decimals and a comma for thousands; French does the opposite.
+a-fr: 3,5 € s’écrit €3.50 en anglais ; 1 000 s’écrit 1,000.
+a-en: In French, 3.5 is written 3,5 and 1,000 is written 1 000.
+sc: app-nombres
+x: Two point five per cent. | Deux virgule cinq pour cent.
+v: billion
+
+# ————— Le bon registre —————
+
+@ register
+tr: le registre, le niveau de langue
+d-fr: La manière de parler selon la situation : soutenu, courant, familier, argotique, vulgaire. Les fiches de l’application portent ces marques.
+d-en: The style of language suited to a situation: formal, neutral, informal, slang, vulgar.
+sc: app-registres
+x: “Knackered” is informal. | « Knackered » est familier.

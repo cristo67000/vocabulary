@@ -1,0 +1,968 @@
+# Argot et français familier — vedettes françaises.
+# Rédigé pour Vocabulary.
+module: argot
+langue: fr
+# Dans ce fichier, les exemples sont écrits « français | anglais ».
+exemples: fr-en
+
+# ————— Argot et familier —————
+
+@ mec
+t: fr-argot
+tr: guy, bloke, dude
+mq: fam
+nat: n
+g: masc
+d-fr: Un homme, un garçon ; « mon mec » : mon copain.
+d-en: A man or boy; “mon mec” means my boyfriend.
+x: C’est un mec sympa. | He’s a nice guy.
+v: meuf, pote
+
+@ pote
+t: fr-argot
+tr: mate, buddy, pal
+mq: fam
+nat: n
+d-fr: Un ami, un copain.
+d-en: A friend, a mate.
+x: Je sors avec des potes ce soir. | I’m going out with some mates tonight.
+v: mec
+
+@ boulot
+t: fr-argot
+tr: job, work
+mq: fam
+nat: n
+g: masc
+d-fr: Le travail, l’emploi ; aussi une tâche (« ça, c’est du bon boulot »).
+d-en: Work, a job; also a task (“good job”).
+x: Je pars au boulot à huit heures. | I leave for work at eight.
+v: taf, bosser
+
+@ taf
+t: fr-argot
+tr: work, job
+mq: arg
+nat: n
+g: masc
+d-fr: Le travail (argot) ; s’écrit aussi « taff ».
+d-en: Work, a job (slang); also spelt “taff”.
+x: J’ai trop de taf cette semaine. | I’ve got way too much work this week.
+al: taff
+v: boulot
+
+@ bosser
+t: fr-argot
+tr: to work, to graft
+mq: fam
+nat: v
+d-fr: Travailler, souvent dur.
+d-en: To work, often hard.
+x: Il bosse dans une banque. | He works in a bank.
+v: boulot
+
+@ bagnole
+t: fr-argot
+tr: car, motor
+mq: fam
+nat: n
+g: fem
+d-fr: Une voiture.
+d-en: A car.
+x: Il a une vieille bagnole. | He’s got an old car.
+
+@ fric
+t: fr-argot
+tr: money, dosh, cash
+mq: fam
+nat: n
+g: masc
+d-fr: L’argent.
+d-en: Money.
+x: Il a plein de fric. | He’s loaded.
+v: thune, balle
+
+@ thune
+t: fr-argot
+tr: cash, dosh, money
+mq: fam
+nat: n
+g: fem
+d-fr: L’argent ; « pas une thune » : pas un sou. S’écrit aussi « tune ».
+d-en: Money; “pas une thune”: not a penny.
+x: J’ai plus une thune. | I’m skint.
+al: tune
+v: fric, balle
+
+@ balle
+t: fr-argot
+tr: euro, quid, buck
+mq: fam
+nat: n
+g: fem
+d-fr: Un euro (autrefois un franc) : « dix balles », dix euros.
+d-en: A euro (formerly a franc): “dix balles” = ten euros.
+x: Ça coûte vingt balles. | It costs twenty euros.
+v: fric
+
+@ bouffe
+t: fr-argot
+tr: grub, food, nosh
+mq: fam
+nat: n
+g: fem
+d-fr: La nourriture, le repas. Verbe : bouffer, manger (avec appétit).
+d-en: Food, a meal. Verb “bouffer”: to eat.
+x: On se fait une bouffe samedi ? | Shall we have dinner together on Saturday?
+v: la_dalle
+
+@ flic
+t: fr-argot
+tr: cop, copper
+mq: fam
+nat: n
+g: masc
+d-fr: Un policier.
+d-en: A police officer.
+x: Les flics sont arrivés tout de suite. | The cops got there straight away.
+v: keuf
+
+@ clope
+t: fr-argot
+tr: cig, ciggy
+mq: fam
+nat: n
+g: fem
+d-fr: Une cigarette.
+d-en: A cigarette.
+a-fr: « Fag » se comprend « clope » au Royaume-Uni, mais c’est une insulte homophobe aux États-Unis : préférez « cig ».
+a-en: In the US, “fag” is a homophobic slur — “cig” is safer.
+x: Je sors fumer une clope. | I’m popping out for a cig.
+
+@ bouquin
+t: fr-argot
+tr: book
+mq: fam
+nat: n
+g: masc
+d-fr: Un livre.
+d-en: A book.
+x: T’as lu ce bouquin ? | Have you read this book?
+
+@ gosse
+t: fr-argot
+tr: kid
+mq: fam
+nat: n
+d-fr: Un enfant. (Au Québec, le mot est grossier : il désigne les testicules.)
+d-en: A child. (In Quebec it is vulgar.)
+x: Les gosses jouent dehors. | The kids are playing outside.
+
+@ piaule
+t: fr-argot
+tr: room, pad
+mq: fam
+nat: n
+g: fem
+d-fr: Une chambre, un logement.
+d-en: A room, a place to live.
+x: Viens chez moi, ma piaule est à deux pas. | Come round, my place is just round the corner.
+
+@ se_barrer
+w: se barrer
+t: fr-argot
+tr: to clear off, to split, to leave
+mq: fam
+nat: v
+d-fr: Partir, s’en aller ; « barre-toi ! » : va-t’en !
+d-en: To leave, to go away.
+x: Il est tard, je me barre. | It’s late, I’m off.
+v: se_casser
+
+@ se_casser
+w: se casser
+t: fr-argot
+tr: to clear off, to get lost
+mq: fam
+nat: v
+d-fr: Partir ; « casse-toi ! » est brutal.
+d-en: To leave; “casse-toi!” is rude.
+x: On se casse, cette soirée est nulle. | Let’s get out of here, this party’s rubbish.
+v: se_barrer
+
+@ galere
+w: galère
+t: fr-argot
+tr: hassle, nightmare, pain
+mq: fam
+nat: n
+g: fem
+d-fr: Une situation pénible, une suite d’ennuis. « Quelle galère ! » : quelle plaie !
+d-en: A tiresome situation, a series of hassles.
+x: Trouver un appart à Paris, c’est la galère. | Finding a flat in Paris is a nightmare.
+v: galerer
+
+@ galerer
+w: galérer
+t: fr-argot
+tr: to struggle, to have a hard time
+mq: fam
+nat: v
+d-fr: Avoir du mal, peiner.
+d-en: To struggle.
+x: J’ai galéré pour trouver l’adresse. | I struggled to find the address.
+v: galere
+
+@ kiffer
+t: fr-argot
+tr: to love, to be into, to fancy
+mq: arg
+nat: v
+d-fr: Aimer beaucoup, prendre plaisir à ; « je te kiffe » : je t’aime bien, tu me plais.
+d-en: To really like or enjoy; “je te kiffe”: I like you / I fancy you.
+x: Je kiffe trop cette chanson. | I’m so into this song.
+
+@ la_flemme
+w: avoir la flemme
+t: fr-argot
+tr: can’t be bothered, to feel lazy
+mq: fam
+nat: locution
+d-fr: Ne pas avoir envie de faire un effort.
+d-en: Not to feel like making any effort.
+x: J’ai la flemme de faire la vaisselle. | I can’t be bothered to do the washing-up.
+
+@ la_dalle
+w: avoir la dalle
+t: fr-argot
+tr: to be starving, to be famished
+mq: fam
+nat: locution
+d-fr: Avoir très faim.
+d-en: To be very hungry.
+x: J’ai la dalle, on mange quand ? | I’m starving, when are we eating?
+v: bouffe
+
+@ creve
+w: crevé
+t: fr-argot
+tr: knackered, shattered, exhausted
+mq: fam
+nat: adj
+d-fr: Très fatigué.
+d-en: Extremely tired.
+x: Je suis crevé, je vais me coucher. | I’m knackered, I’m going to bed.
+v: knackered, naze
+
+@ naze
+t: fr-argot
+tr: knackered, rubbish, useless
+mq: fam
+nat: adj
+d-fr: Épuisé ; ou nul, hors d’usage. S’écrit aussi « nase ».
+d-en: Exhausted; or useless, broken. Also spelt “nase”.
+x: Ce film est naze. | This film is rubbish.
+al: nase
+v: creve
+
+@ grave
+t: fr-argot
+tr: totally, big time, really
+mq: fam
+nat: adv
+d-fr: Employé comme adverbe : très, complètement. « Grave ! » : carrément !
+d-en: Used as an adverb: very, totally. “Grave!” means “totally!”.
+x: Je suis grave d’accord. | I totally agree.
+v: trop
+
+@ trop
+t: fr-argot
+tr: so, really, super
+mq: fam
+nat: adv
+d-fr: À l’oral, souvent « très » plutôt qu’« excessivement » : « trop bien », très bien.
+d-en: In speech, often means “very” rather than “too much”: “trop bien” = really good.
+a-fr: « Trop bien » n’est pas une critique : c’est un compliment.
+a-en: “Trop bien” is praise, not criticism.
+x: Ce gâteau est trop bon ! | This cake is so good!
+v: grave
+
+@ genre
+t: fr-argot
+tr: like, sort of
+mq: fam
+nat: adv
+d-fr: Mot de remplissage à l’oral : « il était genre énervé », il avait l’air énervé.
+d-en: A filler word in speech, like English “like”.
+x: Il m’a regardé genre « t’es qui toi ? ». | He looked at me like, “who are you?”.
+
+@ en_mode
+w: en mode
+t: fr-argot
+tr: in … mode, like
+mq: fam
+nat: locution
+d-fr: « Être en mode vacances » : être dans un état d’esprit ; « il arrive en mode star » : comme une star.
+d-en: “En mode vacances”: in holiday mode; “en mode star”: like a star.
+x: Ce week-end, je suis en mode détente. | This weekend I’m in chill mode.
+
+@ askip
+t: fr-argot
+tr: apparently, word is, rumour has it
+mq: arg, web
+nat: adv
+d-fr: Contraction de « à ce qu’il paraît ».
+d-en: Short for “à ce qu’il paraît” (apparently).
+x: Askip ils se sont séparés. | Apparently they’ve split up.
+
+@ wesh
+t: fr-argot
+tr: hey, yo, alright
+mq: arg
+nat: interjection
+d-fr: Salutation familière (de l’arabe algérien) ; aussi exclamation de surprise.
+d-en: A casual greeting (from Algerian Arabic); also an exclamation of surprise.
+x: Wesh, ça va ? | Alright, how’s it going?
+v: wagwan
+
+@ bolosse
+t: fr-argot
+tr: loser, dork, mug
+mq: arg, pej
+nat: n
+d-fr: Personne jugée naïve, ringarde ou faible. S’écrit aussi « boloss ».
+d-en: Someone seen as naive, uncool or weak.
+x: Arrête de faire le bolosse. | Stop being such a dork.
+al: boloss
+
+@ ca_gere
+w: ça gère
+t: fr-argot
+tr: it’s all good, sorted, that’s great
+mq: arg
+nat: locution
+d-fr: Tout va bien, c’est réussi ; « il gère » : il assure.
+d-en: Everything’s fine; “il gère”: he’s doing great.
+x: T’as trouvé les billets ? Ça gère ! | You got the tickets? Sorted!
+
+@ tinquiete
+w: t’inquiète
+t: fr-argot
+tr: no worries, don’t worry about it
+mq: fam
+nat: locution
+d-fr: « Ne t’inquiète pas », raccourci ; aussi : de rien.
+d-en: Short for “don’t worry”; also: you’re welcome.
+x: Merci pour le coup de main ! — T’inquiète. | Thanks for the help! — No worries.
+al: tkt, tqt
+v: fr-tkt
+
+@ cest_chaud
+w: c’est chaud
+t: fr-argot
+tr: it’s tough, it’s tricky, that’s rough
+mq: fam
+nat: locution
+d-fr: C’est difficile, risqué ou tendu.
+d-en: It’s difficult, risky or tense.
+x: Finir avant ce soir, c’est chaud. | Finishing by tonight is going to be tough.
+
+@ style
+w: stylé
+t: fr-argot
+tr: cool, stylish, sick
+mq: fam
+nat: adj
+d-fr: Qui a de l’allure, réussi.
+d-en: Cool, looking good.
+x: Elle est stylée, ta veste. | Your jacket is really cool.
+
+@ dinguerie
+t: fr-argot
+tr: something insane, epic
+mq: arg, neo
+nat: n
+g: fem
+d-fr: Une chose folle, extraordinaire : « c’est une dinguerie ! »
+d-en: Something crazy or amazing.
+x: Ce concert, c’était une dinguerie. | That gig was insane.
+
+@ en_pls
+w: en PLS
+t: fr-argot
+tr: in pieces, a wreck, devastated
+mq: arg
+nat: locution
+d-fr: De « position latérale de sécurité » : être anéanti, au bout du rouleau.
+d-en: From the first-aid “recovery position”: to be devastated, wiped out.
+x: Après cet examen, je suis en PLS. | After that exam I’m a wreck.
+
+@ cheh
+t: fr-argot
+tr: serves you right!, ha!
+mq: arg
+nat: interjection
+d-fr: Exprime une satisfaction moqueuse devant le malheur mérité de quelqu’un.
+d-en: Expresses mocking satisfaction at someone’s deserved misfortune.
+x: T’as perdu ? Cheh ! | You lost? Serves you right!
+
+@ la_hess
+w: la hess
+t: fr-argot
+tr: being skint, hard times
+mq: arg
+nat: n
+d-fr: La pauvreté, la dèche ; « c’est la hess » : c’est la galère financière.
+d-en: Poverty, being broke.
+x: Fin du mois, c’est la hess. | End of the month, I’m skint.
+v: skint
+
+@ seum
+w: avoir le seum
+t: fr-argot
+tr: to be gutted, to be salty
+mq: arg
+nat: locution
+d-fr: Être dégoûté, amer, frustré (de l’arabe « poison »).
+d-en: To be gutted, bitter or frustrated.
+x: J’ai trop le seum d’avoir raté le concert. | I’m so gutted I missed the gig.
+v: gutted, salty
+
+@ gueule_de_bois
+w: avoir la gueule de bois
+t: fr-argot
+tr: to have a hangover, to be hungover
+mq: fam
+nat: locution
+d-fr: Être mal en point après avoir trop bu.
+d-en: To feel ill after drinking too much.
+x: Il a la gueule de bois ce matin. | He’s hungover this morning.
+
+@ bader
+t: fr-argot
+tr: to feel low, to be down
+mq: arg
+nat: v
+d-fr: Avoir le moral à zéro (de l’anglais « bad »).
+d-en: To feel down (from English “bad”).
+x: Il fait gris, je bade. | It’s grey out, I’m feeling low.
+
+@ mytho
+t: fr-argot
+tr: liar, fibber
+mq: arg
+nat: n
+d-fr: Un menteur (de « mythomane »).
+d-en: A liar (from “mythomane”, compulsive liar).
+x: Arrête, t’es trop mytho ! | Come off it, you’re such a liar!
+
+@ se_planter
+w: se planter
+t: fr-argot
+tr: to mess up, to get it wrong, to crash
+mq: fam
+nat: v
+d-fr: Se tromper, échouer ; aussi : avoir un accident.
+d-en: To get something wrong, to fail; also to crash.
+x: Je me suis planté de date. | I got the date wrong.
+
+@ piger
+t: fr-argot
+tr: to get it, to catch on
+mq: fam
+nat: v
+d-fr: Comprendre.
+d-en: To understand.
+x: T’as pigé ? | Got it?
+
+@ raler
+w: râler
+t: fr-argot
+tr: to moan, to grumble, to whinge
+mq: fam
+nat: v
+d-fr: Protester, se plaindre ; un sport national, dit-on.
+d-en: To complain, to grumble — a French national pastime, they say.
+x: Il râle tout le temps. | He’s always moaning.
+
+@ apero
+w: apéro
+t: fr-argot
+tr: pre-dinner drinks, drinks
+mq: fam
+nat: n
+g: masc
+d-fr: L’apéritif : boissons et amuse-bouches avant le repas, moment de convivialité.
+d-en: Pre-dinner drinks and nibbles.
+x: Vous venez prendre l’apéro ? | Do you want to come over for drinks?
+
+@ nickel
+t: fr-argot
+tr: spotless, perfect, spot on
+mq: fam
+nat: adj
+d-fr: Impeccable, parfait : « c’est nickel ».
+d-en: Spotless or perfect.
+x: Ton appart est nickel. | Your flat is spotless.
+
+@ la_loose
+w: la loose
+t: fr-argot
+tr: what a fail, bad luck
+mq: fam
+nat: n
+d-fr: La malchance, l’échec (de l’anglais « lose ») ; s’écrit aussi « lose ».
+d-en: Bad luck, failure (from English “lose”).
+x: J’ai raté le bus, la loose. | I missed the bus, what a fail.
+
+@ frimer
+t: fr-argot
+tr: to show off, to flex
+mq: fam
+nat: v
+d-fr: Se mettre en valeur, crâner.
+d-en: To show off.
+x: Il frime avec sa nouvelle voiture. | He’s showing off with his new car.
+v: flex
+
+@ genant
+w: gênant
+t: fr-argot
+tr: cringe, awkward, embarrassing
+mq: fam
+nat: adj
+d-fr: Qui met mal à l’aise ; « malaisant » dit la même chose, plus fort.
+d-en: Awkward or embarrassing; “malaisant” is stronger.
+x: C’était gênant, personne n’a ri. | It was cringe, nobody laughed.
+al: malaisant
+v: cringe
+
+@ enjailler
+w: s’enjailler
+t: fr-argot
+tr: to have fun, to party
+mq: arg
+nat: v
+d-fr: S’amuser, faire la fête (du nouchi ivoirien, de l’anglais « enjoy »).
+d-en: To have fun, to party (from Ivorian slang, from English “enjoy”).
+x: On s’est enjaillés toute la nuit. | We partied all night.
+
+@ la_bise
+w: faire la bise
+t: fr-argot
+tr: to kiss on the cheek, to greet with a kiss
+mq: fam
+nat: locution
+d-fr: Se saluer d’un ou plusieurs baisers sur la joue.
+d-en: To greet with kisses on the cheek.
+n-fr: Le nombre de bises varie selon les régions (deux à Paris, trois ou quatre ailleurs). Au Royaume-Uni, on se serre la main ou on se fait une accolade.
+n-en: The number of kisses varies by region (two in Paris, three or four elsewhere). In the UK, people shake hands or hug.
+x: On se fait la bise ? | Shall we kiss hello?
+
+@ ca_marche
+w: ça marche
+t: fr-argot
+tr: sounds good, okay, deal
+mq: fam
+nat: locution
+d-fr: D’accord, entendu.
+d-en: Okay, agreed.
+x: Demain à midi ? — Ça marche ! | Tomorrow at noon? — Sounds good!
+v: bet
+
+# ————— Verlan —————
+
+@ meuf
+t: verlan
+tr: girl, woman, girlfriend
+mq: arg
+nat: n
+g: fem
+d-fr: Verlan de « femme » : une femme, une fille ; « ma meuf » : ma copine.
+d-en: Verlan of “femme”: a woman, a girl; “ma meuf”: my girlfriend.
+x: Il est venu avec sa meuf. | He came with his girlfriend.
+v: mec
+
+@ keuf
+t: verlan
+tr: cop, pig
+mq: arg, pej
+nat: n
+g: masc
+d-fr: Verlan de « flic » : un policier.
+d-en: Verlan of “flic”: a police officer.
+x: Attention, v’là les keufs ! | Watch out, here come the cops!
+v: flic
+
+@ relou
+t: verlan
+tr: annoying, a pain, tiresome
+mq: arg, pej
+nat: adj
+d-fr: Verlan de « lourd » : pénible, agaçant.
+d-en: Verlan of “lourd”: annoying.
+x: Il est trop relou avec ses questions. | He’s so annoying with his questions.
+v: long
+
+@ chelou
+t: verlan
+tr: dodgy, weird, sketchy
+mq: arg
+nat: adj
+d-fr: Verlan de « louche » : bizarre, suspect.
+d-en: Verlan of “louche”: weird, suspicious.
+x: C’est chelou, cette histoire. | This story is weird.
+v: sus, dodgy
+
+@ ouf
+t: verlan
+tr: crazy, insane, amazing
+mq: arg
+nat: adj
+d-fr: Verlan de « fou » ; « de ouf » : incroyable, énorme.
+d-en: Verlan of “fou” (mad); “de ouf”: incredible.
+x: Il y avait un monde de ouf. | There were loads of people.
+v: lit
+
+@ venere
+w: vénère
+t: verlan
+tr: fuming, furious, raging
+mq: arg
+nat: adj
+d-fr: Verlan de « énervé » : très en colère.
+d-en: Verlan of “énervé”: very angry.
+x: Il était vénère qu’on soit en retard. | He was fuming that we were late.
+
+@ zarbi
+t: verlan
+tr: weird, odd
+mq: arg
+nat: adj
+d-fr: Verlan de « bizarre ».
+d-en: Verlan of “bizarre”.
+x: Il a un style zarbi. | He’s got a weird style.
+
+@ teuf
+t: verlan
+tr: party, do
+mq: arg
+nat: n
+g: fem
+d-fr: Verlan de « fête » : une soirée.
+d-en: Verlan of “fête”: a party.
+x: Y a une teuf chez Julie samedi. | There’s a party at Julie’s on Saturday.
+
+@ reuf
+t: verlan
+tr: bro, bruv
+mq: arg
+nat: n
+g: masc
+d-fr: Verlan de « frère » : un frère ou un ami proche. « Frérot » dit la même chose.
+d-en: Verlan of “frère”: a brother or close friend.
+x: Ça va, reuf ? | Alright, bro?
+al: frérot
+v: bruv
+
+@ daron
+t: verlan
+tr: dad, old man
+mq: arg
+nat: n
+g: masc
+d-fr: Le père (« la daronne » : la mère) ; « les darons » : les parents.
+d-en: Dad (“la daronne”: mum); “les darons”: parents.
+x: Mes darons partent en vacances. | My parents are going on holiday.
+al: daronne
+
+@ chanme
+w: chanmé
+t: verlan
+tr: great, awesome, sick
+mq: arg
+nat: adj
+d-fr: Verlan de « méchant », au sens de « génial ».
+d-en: Verlan of “méchant”, meaning great.
+x: Ton nouveau vélo est chanmé. | Your new bike is sick.
+
+@ ripou
+t: verlan
+tr: bent, corrupt
+mq: arg
+nat: adj
+d-fr: Verlan de « pourri » : se dit d’un policier corrompu.
+d-en: Verlan of “pourri”: said of a corrupt police officer.
+x: C’est l’histoire de deux flics ripoux. | It’s about two bent cops.
+
+# ————— Abréviations françaises —————
+
+@ fr-mdr
+w: mdr
+t: fr-sms
+tr: LOL, lol
+mq: abr, web
+nat: interjection
+d-fr: « Mort de rire ».
+d-en: “Mort de rire” (dying of laughter): the French LOL.
+x: Il est tombé dans la piscine mdr | He fell in the pool lol
+al: MDR, mdrr
+v: LOL
+
+@ fr-ptdr
+w: ptdr
+t: fr-sms
+tr: LMAO, ROFL
+mq: abr, web
+nat: interjection
+d-fr: « Pété de rire » : plus fort que mdr.
+d-en: “Pété de rire”: stronger than mdr.
+x: Ptdr la tête qu’il a fait | LMAO the face he pulled
+v: LMAO
+
+@ fr-jsp
+w: jsp
+t: fr-sms
+tr: IDK, I dunno
+mq: abr, web
+nat: locution
+d-fr: « Je sais pas ».
+d-en: “Je sais pas” (I don’t know).
+x: Jsp si je viens ce soir | IDK if I’m coming tonight
+v: IDK
+
+@ fr-jpp
+w: jpp
+t: fr-sms
+tr: I can’t take it anymore, I can’t even
+mq: abr, web
+nat: locution
+d-fr: « J’en peux plus » : épuisement ou fou rire.
+d-en: “J’en peux plus”: exhaustion, or uncontrollable laughter.
+x: Encore des devoirs, jpp | More homework, I can’t take it anymore
+
+@ fr-tkt
+w: tkt
+t: fr-sms
+tr: no worries, don’t worry
+mq: abr, web
+nat: locution
+d-fr: « T’inquiète » ; s’écrit aussi « tqt ».
+d-en: “T’inquiète” (don’t worry); also “tqt”.
+x: Tkt je m’en occupe | Don’t worry, I’ll sort it
+al: tqt
+v: tinquiete
+
+@ fr-stp
+w: stp
+t: fr-sms
+tr: please, pls
+mq: abr
+nat: locution
+d-fr: « S’il te plaît » ; « svp » : s’il vous plaît.
+d-en: “S’il te plaît” (please, informal); “svp” is the formal one.
+x: Tu peux m’appeler stp ? | Can you call me pls?
+al: svp
+
+@ fr-slt
+w: slt
+t: fr-sms
+tr: hi, hey
+mq: abr, web
+nat: interjection
+d-fr: « Salut ».
+d-en: “Salut” (hi).
+x: Slt ça va ? | Hey, how are you?
+
+@ fr-cc
+w: cc
+t: fr-sms
+tr: hi, hey there
+mq: abr, web
+nat: interjection
+d-fr: « Coucou » : bonjour affectueux.
+d-en: “Coucou”: a friendly hello.
+x: Cc, tu fais quoi ? | Hey, wyd?
+
+@ fr-bcp
+w: bcp
+t: fr-sms
+tr: a lot, lots
+mq: abr
+nat: adv
+d-fr: « Beaucoup ».
+d-en: “Beaucoup” (a lot).
+x: Merci bcp ! | Thanks a lot!
+
+@ fr-dsl
+w: dsl
+t: fr-sms
+tr: sorry, soz
+mq: abr, web
+nat: interjection
+d-fr: « Désolé ».
+d-en: “Désolé” (sorry).
+x: Dsl j’ai pas vu ton message | Soz, I didn’t see your message
+
+@ fr-pk
+w: pk
+t: fr-sms
+tr: why
+mq: abr, web
+nat: adv
+d-fr: « Pourquoi » ; aussi « pq ».
+d-en: “Pourquoi” (why).
+x: Pk tu réponds pas ? | Why aren’t you answering?
+al: pq
+
+@ fr-jtm
+w: jtm
+t: fr-sms
+tr: ILY, love you
+mq: abr, web
+nat: locution
+d-fr: « Je t’aime ».
+d-en: “Je t’aime” (I love you).
+x: Bonne nuit jtm | Night, love you
+v: ILY
+
+@ fr-mtn
+w: mtn
+t: fr-sms
+tr: now, rn
+mq: abr, web
+nat: adv
+d-fr: « Maintenant ».
+d-en: “Maintenant” (now).
+x: J’arrive mtn | Coming now
+
+@ fr-rdv
+w: rdv
+t: fr-sms
+tr: meeting, appointment, date
+mq: abr
+nat: n
+d-fr: « Rendez-vous », très courant même à l’écrit soutenu.
+d-en: “Rendez-vous”: appointment or meeting; common even in formal writing.
+x: Rdv à 18 h devant le ciné | Meet at 6 outside the cinema
+
+@ fr-bg
+w: bg
+t: fr-sms
+tr: hottie, good-looking guy
+mq: abr, web
+nat: n
+d-fr: « Beau gosse » ; parfois ironique.
+d-en: “Beau gosse” (handsome guy); sometimes ironic.
+x: T’es trop bg sur cette photo | You look so good in this photo
+
+@ fr-osef
+w: osef
+t: fr-sms
+tr: who cares, whatever
+mq: abr, web, fam
+nat: locution
+d-fr: « On s’en fout » : peu importe (familier, un peu grossier).
+d-en: “On s’en fout”: who cares (informal, slightly rude).
+x: Il pleut ? Osef, on y va quand même | Raining? Who cares, we’re going anyway
+
+@ fr-oklm
+w: oklm
+t: fr-sms
+tr: chilling, relaxed
+mq: abr, web
+nat: adv
+d-fr: « Au calme » : tranquille, détendu.
+d-en: “Au calme”: chilled, relaxed.
+x: Dimanche oklm à la maison | Chilled Sunday at home
+
+@ fr-a_plus
+w: à+
+t: fr-sms
+tr: see you, cya, laters
+mq: abr, web
+nat: interjection
+d-fr: « À plus (tard) » ; s’écrit aussi « a+ » ou « @+ ».
+d-en: “À plus tard” (see you later).
+x: Bonne soirée, à+ | Have a good evening, cya
+al: a+, @+
+
+@ fr-bisous
+w: bisous
+t: fr-sms
+tr: kisses, xx, love
+mq: fam
+nat: interjection
+d-fr: Formule affectueuse en fin de message, même entre amis.
+d-en: An affectionate sign-off, even between friends.
+n-fr: Plus courant et moins intime que « kisses » en anglais : un Britannique mettrait plutôt « xx ».
+n-en: More common and less intimate than English “kisses”; a Brit would write “xx”.
+x: À demain, bisous ! | See you tomorrow, xx
+v: XOXO
+
+# ————— Jurons et gros mots (masqués d'office) —————
+
+@ putain
+t: jurons
+tr: fuck, bloody hell, shit
+mq: vulg
+nat: interjection
+cru: 1
+d-fr: Juron très fréquent : surprise, colère, admiration. Grossier.
+d-en: A very common French swear word: surprise, anger, admiration. Rude.
+a-fr: Très courant à l’oral en France, mais « fuck » choque davantage en anglais : « bloody hell » est souvent plus juste.
+a-en: Very common in spoken French; often closer to “bloody hell” than to “fuck” in strength.
+x: Putain, il fait froid ! | Bloody hell, it’s cold!
+
+@ merde
+t: jurons
+tr: shit, damn
+mq: vulg
+nat: interjection
+cru: 1
+d-fr: Juron courant. Au théâtre, « merde ! » souhaite bonne chance (on ne dit pas « bonne chance »).
+d-en: A common swear word. In the theatre, “merde!” means good luck.
+x: Merde, j’ai oublié mon téléphone. | Shit, I forgot my phone.
+v: expressions:break_a_leg
+
+@ con
+t: jurons
+tr: idiot, jerk, prat
+mq: vulg, inj
+nat: n
+cru: 1
+d-fr: Imbécile (insulte) ; adjectif : stupide. Très courant, grossier.
+d-en: Idiot (insult); as an adjective, stupid.
+x: Ne fais pas le con ! | Don’t be an idiot!
+
+@ connard
+t: jurons
+tr: jerk, arsehole, prick
+mq: inj
+nat: n
+cru: 1
+d-fr: Insulte : personne méprisable.
+d-en: An insult for a contemptible person.
+x: Quel connard ! | What a jerk!
+
+@ chier
+w: faire chier
+t: jurons
+tr: to piss off, to be a pain in the arse
+mq: vulg
+nat: locution
+cru: 1
+d-fr: « Ça me fait chier » : ça m’agace beaucoup. Grossier.
+d-en: “Ça me fait chier”: that really annoys me. Rude.
+x: Ça me fait chier de bosser le dimanche. | It really pisses me off working on Sundays.
+
+@ fr-ptn
+w: ptn
+t: jurons
+tr: fuck, damn
+mq: abr, vulg
+nat: interjection
+cru: 1
+d-fr: Abréviation écrite de « putain ».
+d-en: Written abbreviation of “putain”.
+x: Ptn, encore en retard | Damn, late again

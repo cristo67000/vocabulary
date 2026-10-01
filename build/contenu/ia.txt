@@ -1,0 +1,376 @@
+# IA : les mots de l'actualité. Complète les termes d'IA du glossaire de Code
+# en clair (LLM, prompt, token, agent, RAG, hallucination…), sans les
+# répéter.
+# Rédigé pour Vocabulary.
+module: tech
+t: ia-plus
+
+@ generative_ai
+w: generative AI
+tr: l’IA générative
+nat: n
+al: GenAI
+d-fr: Une intelligence artificielle qui produit du contenu nouveau — texte, image, son, vidéo, code — à partir d’une consigne.
+d-en: Artificial intelligence that creates new content — text, images, audio, video, code — from an instruction.
+x: Generative AI is changing how we work. | L’IA générative transforme notre façon de travailler.
+v: chatbot, image_generator
+
+@ chatbot
+tr: un agent conversationnel, un dialogueur, un chatbot
+d-fr: Un programme avec lequel on converse par écrit ou à l’oral ; les plus récents reposent sur un grand modèle de langage.
+d-en: A program you can have a conversation with, by text or voice; the latest ones run on a large language model.
+n-fr: Termes officiels français : « agent conversationnel », « dialogueur ».
+x: I asked the chatbot to summarise the report. | J’ai demandé à l’agent conversationnel de résumer le rapport.
+v: generative_ai, tech:llm
+
+@ neural_network
+w: neural network
+tr: un réseau de neurones
+nat: n
+d-fr: Un programme fait de couches de petites unités de calcul reliées entre elles, qui apprend à partir d’exemples ; inspiré, de loin, du cerveau.
+d-en: A program made of layers of connected units that learns from examples, loosely inspired by the brain.
+x: The neural network recognises faces. | Le réseau de neurones reconnaît les visages.
+v: deep_learning
+
+@ deep_learning
+w: deep learning
+tr: l’apprentissage profond
+nat: n
+d-fr: L’apprentissage automatique avec des réseaux de neurones à très nombreuses couches ; il est à l’origine des progrès récents de l’IA.
+d-en: Machine learning using neural networks with many layers; behind most recent progress in AI.
+x: Deep learning needs huge amounts of data. | L’apprentissage profond demande d’énormes quantités de données.
+v: neural_network, tech:machine-learning
+
+@ training_data
+w: training data
+tr: les données d’entraînement
+nat: n
+al: dataset
+d-fr: Les exemples (textes, images…) à partir desquels un modèle apprend ; un ensemble de données : « a dataset ».
+d-en: The examples a model learns from; a collection of them is a dataset.
+a-fr: « data » est souvent indénombrable : « the data is… ».
+x: The quality of the training data is crucial. | La qualité des données d’entraînement est essentielle.
+v: bias, synthetic_data
+
+@ weights
+tr: les poids (d’un modèle)
+d-fr: Les milliards de nombres réglés pendant l’entraînement, qui contiennent ce que le modèle a appris.
+d-en: The billions of numbers adjusted during training, which hold what the model has learnt.
+x: The company published the model’s weights. | L’entreprise a publié les poids du modèle.
+v: open-weight
+
+@ open-weight
+w: open-weight model
+tr: un modèle à poids ouverts
+nat: n
+d-fr: Un modèle dont les poids sont publiés : chacun peut le télécharger, le faire tourner et l’adapter.
+d-en: A model whose weights are published, so anyone can download, run and adapt it.
+a-fr: Pas forcément « open source » : les données et le code d’entraînement peuvent rester secrets.
+x: You can run an open-weight model on your own computer. | On peut faire tourner un modèle à poids ouverts sur son propre ordinateur.
+v: weights
+
+@ multimodal
+tr: multimodal
+d-fr: Se dit d’un modèle qui comprend ou produit plusieurs types de contenu : texte, images, son, vidéo.
+d-en: Describes a model that can handle several kinds of content: text, images, audio, video.
+x: The new model is multimodal: you can show it a photo. | Le nouveau modèle est multimodal : on peut lui montrer une photo.
+
+@ image_generator
+w: image generator
+tr: un générateur d’images
+nat: n
+al: text-to-image
+d-fr: Un outil d’IA qui crée une image à partir d’une description écrite.
+d-en: An AI tool that creates a picture from a written description.
+x: I made this poster with an image generator. | J’ai fait cette affiche avec un générateur d’images.
+v: diffusion_model, deepfake
+
+@ diffusion_model
+w: diffusion model
+tr: un modèle de diffusion
+nat: n
+d-fr: Un modèle qui fabrique une image en partant d’un bruit aléatoire qu’il nettoie pas à pas.
+d-en: A model that creates an image by starting from random noise and cleaning it up step by step.
+x: Most image generators use diffusion models. | La plupart des générateurs d’images utilisent des modèles de diffusion.
+v: image_generator
+
+@ deepfake
+tr: un hypertrucage, un deepfake
+d-fr: Une vidéo, une image ou une voix truquée par l’IA pour faire dire ou faire à quelqu’un ce qu’il n’a jamais dit ou fait.
+d-en: A video, image or voice faked with AI to show someone saying or doing something they never did.
+n-fr: Terme officiel français : « hypertrucage ».
+x: The video of the president was a deepfake. | La vidéo du président était un hypertrucage.
+v: watermark
+
+@ ai_slop
+w: AI slop
+tr: la bouillie d’IA, du contenu d’IA bas de gamme
+mq: fam, pej
+nat: n
+d-fr: Des textes, images ou vidéos générés en masse par l’IA, de piètre qualité, qui envahissent Internet.
+d-en: Low-quality text, images or videos mass-produced with AI that flood the internet.
+x: My feed is full of AI slop. | Mon fil est plein de bouillie d’IA.
+
+@ system_prompt
+w: system prompt
+tr: l’instruction système, le prompt système
+nat: n
+d-fr: Les consignes cachées données au modèle avant la conversation : son rôle, son ton, ses limites.
+d-en: Hidden instructions given to a model before the conversation: its role, tone and limits.
+x: The system prompt tells the assistant to answer in French. | L’instruction système demande à l’assistant de répondre en français.
+v: tech:prompt, prompt_injection
+
+@ prompt_injection
+w: prompt injection
+tr: l’injection de prompt, l’injection d’instructions
+nat: n
+d-fr: Une attaque qui glisse des consignes malveillantes dans un texte lu par une IA (page web, courriel, document) pour lui faire faire autre chose.
+d-en: An attack that hides malicious instructions in text read by an AI — a web page, an email, a document — to hijack it.
+x: The agent was tricked by a prompt injection in the web page. | L’agent a été piégé par une injection de prompt cachée dans la page web.
+v: system_prompt, guardrails
+
+@ jailbreak
+tr: un débridage ; débrider
+d-fr: Une ruse pour contourner les règles de sécurité d’une IA et lui faire produire ce qu’elle doit refuser.
+d-en: A trick to get round an AI’s safety rules and make it produce what it should refuse.
+x: The company fixed the jailbreak within hours. | L’entreprise a corrigé le débridage en quelques heures.
+v: guardrails
+
+@ guardrails
+tr: des garde-fous
+d-fr: Les règles et contrôles qui empêchent une IA de produire des contenus dangereux ou interdits.
+d-en: Rules and checks that stop an AI producing harmful or forbidden content.
+x: The chatbot has strong guardrails. | L’agent conversationnel a de solides garde-fous.
+v: alignment, jailbreak
+
+@ alignment
+tr: l’alignement
+d-fr: Le fait qu’une IA agisse conformément aux intentions et aux valeurs humaines.
+d-en: Making sure an AI acts in line with human intentions and values.
+x: Alignment is a major research field. | L’alignement est un grand domaine de recherche.
+v: ai_safety
+
+@ ai_safety
+w: AI safety
+tr: la sûreté de l’IA
+nat: n
+d-fr: Les recherches et pratiques qui visent à éviter que l’IA ne cause des dommages, par accident ou mauvais usage.
+d-en: Research and practices aimed at preventing AI from causing harm, by accident or misuse.
+x: The lab has a large AI safety team. | Le laboratoire a une grande équipe consacrée à la sûreté de l’IA.
+v: alignment
+
+@ bias
+tr: un biais
+d-fr: Une erreur systématique d’un modèle, souvent héritée de ses données : il favorise ou désavantage certains groupes.
+d-en: A systematic error in a model, often inherited from its data, that favours or disadvantages certain groups.
+x: The hiring tool showed a gender bias. | L’outil de recrutement présentait un biais de genre.
+v: training_data
+
+@ reasoning_model
+w: reasoning model
+tr: un modèle de raisonnement
+nat: n
+d-fr: Un modèle qui « réfléchit » par étapes avant de répondre, ce qui l’aide pour les maths, le code et la logique.
+d-en: A model that works through a problem step by step before answering, which helps with maths, code and logic.
+x: Reasoning models are slower but more accurate. | Les modèles de raisonnement sont plus lents mais plus justes.
+v: chain_of_thought
+
+@ chain_of_thought
+w: chain of thought
+tr: la chaîne de pensée, le raisonnement pas à pas
+nat: n
+d-fr: Les étapes intermédiaires qu’un modèle écrit pour arriver à sa réponse.
+d-en: The intermediate steps a model writes out to reach its answer.
+x: Ask the model to show its chain of thought. | Demande au modèle de montrer son raisonnement pas à pas.
+v: reasoning_model
+
+@ agi
+w: AGI
+tr: l’IA générale
+mq: abr
+al: artificial general intelligence
+d-fr: Une IA hypothétique capable d’égaler l’humain dans presque toutes les tâches intellectuelles.
+d-en: A hypothetical AI able to match humans at almost any intellectual task.
+x: Nobody agrees on when AGI will arrive. | Personne ne s’accorde sur la date d’arrivée de l’IA générale.
+
+@ agentic
+tr: agentique
+d-fr: Se dit d’une IA qui agit seule, en plusieurs étapes, pour atteindre un but : chercher, utiliser des outils, décider.
+d-en: Describes AI that acts on its own over several steps to reach a goal: searching, using tools, deciding.
+x: Agentic AI can book a trip from start to finish. | Une IA agentique peut organiser un voyage de bout en bout.
+v: tech:agent
+
+@ ai_assistant
+w: AI assistant
+tr: un assistant IA, un copilote
+nat: n
+d-fr: Un outil d’IA intégré à un logiciel qui aide à écrire, chercher, résumer ou coder.
+d-en: An AI tool built into software to help you write, search, summarise or code.
+x: The AI assistant drafted the email for me. | L’assistant IA a rédigé le courriel à ma place.
+v: tech:assistant-de-code
+
+@ gpu
+w: GPU
+tr: un processeur graphique, une carte graphique
+mq: abr
+al: graphics processing unit
+d-fr: Une puce conçue pour les images, devenue indispensable pour entraîner et faire tourner les modèles d’IA.
+d-en: A chip designed for graphics that has become essential for training and running AI models.
+x: Training the model took thousands of GPUs. | L’entraînement du modèle a mobilisé des milliers de GPU.
+v: compute, data_centre
+
+@ compute
+tr: la puissance de calcul
+d-fr: Dans le jargon de l’IA, nom : la quantité de calcul (et de puces) disponible pour entraîner et utiliser les modèles.
+d-en: In AI jargon, as a noun: the computing power available to train and run models.
+x: The race for compute is driving up chip prices. | La course à la puissance de calcul fait grimper le prix des puces.
+v: gpu
+
+@ data_centre
+w: data centre
+tr: un centre de données, un datacenter
+nat: n
+al: data center
+d-fr: Un bâtiment rempli de serveurs ; ceux de l’IA consomment beaucoup d’électricité et d’eau. Américain : « data center ».
+d-en: A building full of servers; AI data centres use a lot of electricity and water.
+x: A new data centre is being built near the town. | Un nouveau centre de données est en construction près de la ville.
+v: gpu
+
+@ speech_recognition
+w: speech recognition
+tr: la reconnaissance vocale
+nat: n
+al: speech-to-text
+d-fr: La transcription automatique de la parole en texte.
+d-en: Automatically turning spoken words into text.
+x: Speech recognition works well even with accents. | La reconnaissance vocale fonctionne bien, même avec un accent.
+v: text-to-speech
+
+@ text-to-speech
+tr: la synthèse vocale
+al: TTS
+d-fr: La lecture à voix haute d’un texte par une voix de synthèse — celle qui prononce les mots dans cette application.
+d-en: Reading text aloud with a synthetic voice — like the one that says the words in this app.
+x: Text-to-speech voices sound much more natural now. | Les voix de synthèse sont bien plus naturelles aujourd’hui.
+v: speech_recognition
+
+@ machine_translation
+w: machine translation
+tr: la traduction automatique
+nat: n
+d-fr: La traduction d’un texte par un logiciel, sans traducteur humain.
+d-en: Translation of text by software, without a human translator.
+a-fr: Utile pour comprendre, risquée pour publier : les faux amis et les expressions idiomatiques la piègent encore.
+x: Machine translation has improved enormously. | La traduction automatique a fait d’énormes progrès.
+
+@ ocr
+w: OCR
+tr: la reconnaissance optique de caractères, l’OCR
+mq: abr
+al: optical character recognition
+d-fr: La lecture automatique du texte présent dans une image ou un document scanné.
+d-en: Automatically reading the text in an image or scanned document.
+x: OCR turns your photo of a receipt into text. | L’OCR transforme la photo d’un ticket en texte.
+
+@ computer_vision
+w: computer vision
+tr: la vision par ordinateur
+nat: n
+d-fr: La branche de l’IA qui permet à une machine d’analyser des images et des vidéos.
+d-en: The branch of AI that lets machines understand images and video.
+x: Self-driving cars rely on computer vision. | Les voitures autonomes reposent sur la vision par ordinateur.
+
+@ recommendation_algorithm
+w: recommendation algorithm
+tr: un algorithme de recommandation
+nat: n
+al: the algorithm
+d-fr: Le programme qui choisit ce qu’on nous montre — vidéos, publications, produits — selon nos goûts supposés ; familier : « l’algo ».
+d-en: The program that decides what content or products you are shown, based on your supposed tastes.
+x: The algorithm keeps showing me cat videos. | L’algorithme n’arrête pas de me montrer des vidéos de chats.
+
+@ ai-generated
+w: AI-generated
+tr: généré par IA
+d-fr: Produit par une intelligence artificielle, et non par un humain.
+d-en: Made by artificial intelligence rather than a person.
+x: This image is AI-generated. | Cette image a été générée par IA.
+v: watermark
+
+@ watermark
+tr: un filigrane, un tatouage numérique
+d-fr: Une marque, visible ou cachée, qui signale l’origine d’une image ou d’un texte — par exemple qu’il a été généré par IA.
+d-en: A visible or hidden mark showing where an image or text comes from, for instance that it was AI-generated.
+x: The generator adds an invisible watermark. | Le générateur ajoute un filigrane invisible.
+v: deepfake
+
+@ knowledge_cutoff
+w: knowledge cutoff
+tr: la date limite des connaissances
+nat: n
+d-fr: La date après laquelle un modèle n’a plus appris d’informations nouvelles.
+d-en: The date after which a model learnt no new information.
+x: The model doesn’t know about it: it’s after its knowledge cutoff. | Le modèle n’en sait rien : c’est après sa date limite des connaissances.
+
+@ vector_database
+w: vector database
+tr: une base de données vectorielle
+nat: n
+d-fr: Une base qui range des textes ou des images sous forme de vecteurs, pour retrouver ce qui a un sens proche.
+d-en: A database that stores text or images as vectors, to find items with similar meaning.
+x: The chatbot searches a vector database before answering. | L’agent conversationnel interroge une base vectorielle avant de répondre.
+v: tech:embedding, tech:rag
+
+@ supervised_learning
+w: supervised learning
+tr: l’apprentissage supervisé
+nat: n
+d-fr: Un apprentissage à partir d’exemples étiquetés, avec la bonne réponse (« chat », « chien »).
+d-en: Learning from labelled examples that include the right answer.
+x: Spam filters use supervised learning. | Les filtres antispam utilisent l’apprentissage supervisé.
+v: reinforcement_learning
+
+@ reinforcement_learning
+w: reinforcement learning
+tr: l’apprentissage par renforcement
+nat: n
+d-fr: Un apprentissage par essais et erreurs, guidé par des récompenses et des pénalités.
+d-en: Learning by trial and error, guided by rewards and penalties.
+x: The program learnt chess through reinforcement learning. | Le programme a appris les échecs par renforcement.
+v: supervised_learning
+
+@ overfitting
+tr: le surapprentissage
+d-fr: Quand un modèle apprend ses exemples par cœur au lieu de généraliser : il réussit l’entraînement mais échoue sur du nouveau.
+d-en: When a model memorises its training examples instead of generalising, and fails on new data.
+x: More data can reduce overfitting. | Plus de données peut réduire le surapprentissage.
+
+@ synthetic_data
+w: synthetic data
+tr: des données synthétiques
+nat: n
+d-fr: Des données fabriquées (souvent par une IA) pour entraîner ou tester un modèle.
+d-en: Data created artificially, often by AI, to train or test a model.
+x: They trained the model partly on synthetic data. | Ils ont en partie entraîné le modèle sur des données synthétiques.
+v: training_data
+
+@ automation
+tr: l’automatisation
+d-fr: Le fait de confier à une machine ou à un programme une tâche faite jusque-là à la main ; « to automate » : automatiser.
+d-en: Using machines or software to do tasks that people used to do.
+x: Automation could replace many office jobs. | L’automatisation pourrait remplacer beaucoup d’emplois de bureau.
+
+@ no-code
+tr: le sans-code, le no-code
+d-fr: Des outils qui permettent de créer une appli ou un site sans écrire de code, par glisser-déposer.
+d-en: Tools that let you build an app or website without writing code.
+x: She built the app with a no-code tool. | Elle a créé l’appli avec un outil sans code.
+v: tech:vibe-coding
+
+@ ai_act
+w: AI Act
+tr: le règlement européen sur l’IA, l’AI Act
+nat: n
+d-fr: La loi de l’Union européenne qui encadre l’intelligence artificielle selon ses risques, adoptée en 2024.
+d-en: The European Union law regulating artificial intelligence according to its risks, adopted in 2024.
+x: The AI Act bans some uses of facial recognition. | L’AI Act interdit certains usages de la reconnaissance faciale.

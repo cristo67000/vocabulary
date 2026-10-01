@@ -1,0 +1,16 @@
+/* Pages annexes (confidentialité, à propos) : du texte, rien d'autre. */
+:root { color-scheme: light dark; }
+body {
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  max-width: 40rem;
+  background: #faf7f2;
+  color: #1a1a1c;
+  font: 16px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) { body { background: #16171a; color: #ececf0; } }
+h1 { font-size: 1.45rem; margin: 0 0 1.5rem; }
+h2 { font-size: 1.1rem; margin: 2rem 0 .5rem; }
+a { color: #1d3557; }
+@media (prefers-color-scheme: dark) { a { color: #8fb4e3; } }
+.retour { display: inline-block; margin-bottom: 1.5rem; }

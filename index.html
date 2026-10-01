@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <!-- L'application ne parle à personne : ni police distante, ni mesure
+       d'audience. `connect-src 'self'` suffit, et le dit. -->
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <meta name="description" content="Dictionnaire anglais ⇄ français hors ligne : mots courants et actuels, argot et abréviations, termes de l’IA et du code, expressions et phrases, exercices de mémorisation. Voix britannique et voix de France. Tout reste sur l’appareil.">
+  <meta name="theme-color" content="#16324f">
+  <!-- La version de la coquille, la même que dans sw.js : à l'installation,
+       le service worker refuse une page d'une autre version. -->
+  <meta name="application-version" content="v1.0.0">
+  <title>Vocabulary — anglais ⇄ français</title>
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Vocabulary">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Vocabulary">
+  <meta property="og:title" content="Vocabulary — dictionnaire anglais ⇄ français">
+  <meta property="og:description" content="Mots courants et actuels, argot, IA et code, expressions : cherchez, écoutez (voix britannique et voix de France), apprenez. Hors ligne, sans compte, sans publicité.">
+  <meta property="og:url" content="https://cristo67000.github.io/vocabulary/">
+  <meta property="og:image" content="https://cristo67000.github.io/vocabulary/icons/apercu-1200x630.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Vocabulary — dictionnaire anglais ⇄ français hors ligne">
+  <meta property="og:locale" content="fr_FR">
+  <meta property="og:locale:alternate" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/favicon-48.png" type="image/png" sizes="48x48">
+  <link rel="icon" href="icons/icon-192.png" type="image/png" sizes="192x192">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/app.css">
+  <link rel="stylesheet" href="css/schema.css">
+</head>
+<body>
+
+  <div id="demarrage" role="status">
+    <div class="marque">Vocabulary</div>
+    <p data-t="demarrage.chargement">Ouverture du dictionnaire…</p>
+  </div>
+
+  <header id="barre">
+    <h1><span class="marque-petite">Vocabulary</span></h1>
+    <p class="sous-titre" data-t="app.sous-titre">anglais ⇄ français</p>
+  </header>
+
+  <main id="scene">
+
+    <!-- ————— Chercher ————— -->
+    <section id="vue-chercher" class="vue">
+      <div id="bloc-recherche">
+        <input id="q" type="search" autocomplete="off" autocapitalize="off"
+               autocorrect="off" spellcheck="false"
+               data-t-ph="chercher.champ" data-t-aria="chercher.aria">
+        <button id="q-vider" type="button" data-t-aria="chercher.vider" hidden>✕</button>
+      </div>
+
+      <div id="accueil">
+        <p id="etat-hors-ligne" class="discret etat-hors-ligne" hidden></p>
+        <div id="accueil-modules" class="tuiles tuiles-accueil"></div>
+        <section id="accueil-decouvrir" class="bloc-accueil" hidden>
+          <h3 data-t="chercher.decouvrir"></h3>
+          <div id="decouvrir" class="decouvrir"></div>
+        </section>
+        <p class="essayez"><span data-t="chercher.essayez"></span> <span id="suggestions"></span></p>
+        <div id="recents"></div>
+      </div>
+
+      <ul id="resultats" role="listbox" aria-label="Résultats" hidden></ul>
+
+      <div id="resultats-modules" hidden></div>
+
+      <div id="resultats-expressions" hidden></div>
+
+      <div id="resultats-conversation" hidden></div>
+
+      <ul id="resultats-suite" role="listbox" aria-label="Autres mots" hidden></ul>
+
+      <button id="b-ajouter-liste" type="button" class="bouton-discret ajouter-mot"
+              data-t="perso.ajouter.autre" hidden></button>
+
+      <div id="rien" hidden>
+        <p data-t="chercher.rien"></p>
+        <p class="discret" id="rien-conseil"></p>
+        <button id="b-ajouter-rien" type="button" class="bouton-principal"></button>
+      </div>
+    </section>
+
+    <!-- ————— Modules ————— -->
+    <section id="vue-modules" class="vue" hidden>
+      <div id="modules-contenu"></div>
+    </section>
+
+    <!-- ————— Phrases et dialogues (dans « Expressions & phrases ») ————— -->
+    <section id="vue-conversation" class="vue" hidden>
+      <button id="b-conv-retour" type="button" class="lien-discret module-retour"
+              data-t="module.retour-modules"></button>
+      <h2 data-t="conv.titre"></h2>
+      <p class="discret" data-t="conv.intro"></p>
+
+      <div class="conv-recherche">
+        <input id="conv-q" type="search" autocomplete="off" autocapitalize="off"
+               autocorrect="off" spellcheck="false"
+               data-t-ph="conv.chercher" data-t-aria="conv.chercher.aria">
+        <button id="conv-q-vider" type="button" data-t-aria="chercher.vider" hidden>✕</button>
+      </div>
+
+      <div id="conv-outils"></div>
+      <p id="conv-indisponible" class="discret" data-t="conv.indisponible" hidden></p>
+      <div id="conv-liste"></div>
+      <p id="conv-rien" class="discret" data-t="conv.rien" hidden></p>
+
+      <section class="bloc conv-perso">
+        <h3 data-t="conv.perso.titre"></h3>
+        <p class="discret" data-t="conv.perso.note"></p>
+        <div class="ligne-boutons conv-perso-boutons">
+          <button id="b-conv-ajouter-phrase" type="button" class="bouton-discret"
+                  data-t="conv.perso.ajouter-phrase"></button>
+          <button id="b-conv-ajouter-dialogue" type="button" class="bouton-discret"
+                  data-t="conv.perso.ajouter-dialogue"></button>
+        </div>
+        <ul id="conv-perso-liste"></ul>
+        <p id="conv-perso-vide" class="discret" data-t="conv.perso.vide" hidden></p>
+      </section>
+    </section>
+
+    <!-- ————— Mes mots ————— -->
+    <section id="vue-mesmots" class="vue" hidden>
+      <h2 data-t="perso.titre"></h2>
+      <p class="discret" data-t="perso.note"></p>
+      <button id="b-ajouter-mot" type="button" class="bouton-principal"
+              data-t="perso.ajouter"></button>
+
+      <section class="bloc">
+        <h3><span data-t="perso.liste"></span><span id="perso-compte" class="compte"></span></h3>
+        <input id="perso-filtre" type="search" autocomplete="off" autocapitalize="off"
+               spellcheck="false" data-t-ph="perso.filtrer" data-t-aria="perso.filtrer" hidden>
+        <ul id="perso-liste"></ul>
+        <p id="perso-vide" class="discret" data-t="perso.vide" hidden></p>
+        <p id="perso-rien" class="discret" data-t="perso.filtre-vide" hidden></p>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="notes.liste.titre"></h3>
+        <p class="discret" data-t="notes.liste.note"></p>
+        <ul id="notes-liste"></ul>
+        <p id="notes-vide" class="discret" data-t="notes.liste.vide" hidden></p>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="historique.titre"></h3>
+        <ul id="historique-liste"></ul>
+        <p id="historique-vide" class="discret" data-t="historique.vide" hidden></p>
+        <button id="b-effacer-historique" type="button" class="lien-discret"
+                data-t="historique.effacer" hidden></button>
+      </section>
+    </section>
+
+    <!-- ————— Réviser ————— -->
+    <section id="vue-reviser" class="vue" hidden>
+
+      <div id="revision-accueil">
+        <h2 data-t="reviser.titre"></h2>
+        <div id="revision-compteurs" class="compteurs"></div>
+        <button id="b-commencer" type="button" class="bouton-principal"
+                data-t="reviser.commencer"></button>
+        <div id="revision-vide" hidden>
+          <p data-t="reviser.vide.texte"></p>
+          <button id="b-vers-recherche" type="button" class="bouton-discret"
+                  data-t="reviser.vide.bouton"></button>
+        </div>
+        <div id="revision-avance" hidden>
+          <p class="discret" data-t="reviser.rien-du-jour"></p>
+        </div>
+
+        <section id="bloc-ateliers">
+          <h3 data-t="atelier.titre"></h3>
+          <p class="discret" data-t="atelier.note"></p>
+          <div id="ateliers"></div>
+          <p id="atelier-avis" class="discret" hidden></p>
+        </section>
+
+        <section id="mots-suivis" hidden>
+          <h3><span data-t="suivis.titre"></span><span id="suivis-compte" class="compte"></span></h3>
+          <input id="suivis-filtre" type="search" autocomplete="off" autocapitalize="off"
+                 spellcheck="false" data-t-ph="suivis.filtrer" data-t-aria="suivis.filtrer" hidden>
+          <ul id="suivis-liste"></ul>
+          <p id="suivis-reste" class="discret" hidden></p>
+          <p id="suivis-rien" class="discret" data-t="suivis.rien" hidden></p>
+        </section>
+      </div>
+
+      <div id="seance" hidden>
+        <div class="seance-tete">
+          <div class="jauge"><div id="seance-jauge"></div></div>
+          <button id="b-arreter" type="button" class="lien-discret"
+                  data-t="reviser.arreter"></button>
+        </div>
+
+        <p id="seance-libre" class="bandeau-libre" data-t="atelier.bandeau" hidden></p>
+        <p id="seance-consigne" class="consigne"></p>
+        <div id="seance-enonce"></div>
+        <div id="seance-zone"></div>
+
+        <div id="seance-verdict" hidden>
+          <p id="verdict-texte"></p>
+          <p id="verdict-remarque" class="discret"></p>
+          <div id="verdict-fiche"></div>
+          <div id="verdict-boutons"></div>
+        </div>
+      </div>
+
+      <div id="seance-bilan" hidden>
+        <h2 data-t="reviser.bilan.titre"></h2>
+        <div id="bilan-chiffres" class="compteurs"></div>
+        <p id="bilan-mot" class="discret"></p>
+        <button id="b-continuer" type="button" class="bouton-principal"
+                data-t="reviser.bilan.continuer"></button>
+        <button id="b-terminer" type="button" class="bouton-discret"
+                data-t="reviser.bilan.terminer"></button>
+      </div>
+
+    </section>
+
+    <!-- ————— Progrès ————— -->
+    <section id="vue-progres" class="vue" hidden>
+      <h2 data-t="progres.titre"></h2>
+      <div id="progres-contenu"></div>
+    </section>
+
+    <!-- ————— Réglages ————— -->
+    <section id="vue-reglages" class="vue" hidden>
+      <h2 data-t="reglages.titre"></h2>
+
+      <section class="bloc">
+        <h3 data-t="reglages.interface"></h3>
+        <div class="segments" role="group">
+          <button type="button" data-langue="fr" aria-pressed="false">Français</button>
+          <button type="button" data-langue="en" aria-pressed="false">English</button>
+        </div>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="reglages.dictionnaire"></h3>
+        <p id="etat-dictionnaire" class="discret"></p>
+        <label class="bascule">
+          <input type="checkbox" id="reglage-hors-ligne">
+          <span data-t="reglages.hors-ligne"></span>
+        </label>
+        <p class="discret" data-t="reglages.hors-ligne.note"></p>
+        <div id="zone-telechargement"></div>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="reglages.affichage"></h3>
+        <label class="bascule">
+          <input type="checkbox" id="reglage-crus">
+          <span data-t="reglages.crus"></span>
+        </label>
+        <p class="discret" data-t="reglages.crus.note"></p>
+        <label class="bascule">
+          <input type="checkbox" id="reglage-us">
+          <span data-t="reglages.us"></span>
+        </label>
+        <p class="discret" data-t="reglages.us.note"></p>
+      </section>
+
+      <section class="bloc" id="bloc-installer" hidden>
+        <h3 data-t="reglages.installer"></h3>
+        <p class="discret" data-t="reglages.installer.detail"></p>
+        <div id="zone-installer"></div>
+      </section>
+
+      <section class="bloc" id="bloc-partager">
+        <h3 data-t="reglages.partager"></h3>
+        <p class="discret" data-t="reglages.partager.detail"></p>
+        <div id="zone-partager"></div>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="reglages.rythme"></h3>
+        <label class="champ-nombre">
+          <span data-t="reglages.rythme.nouveautes"></span>
+          <input type="number" id="reglage-nouveautes" min="0" max="60" step="5" inputmode="numeric">
+        </label>
+        <p class="discret" data-t="reglages.rythme.note"></p>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="reglages.sens"></h3>
+        <div class="segments" role="group" id="reglage-sens">
+          <button type="button" data-sens="les-deux" aria-pressed="false"
+                  data-t="reglages.sens.les-deux"></button>
+          <button type="button" data-sens="vers-en" aria-pressed="false"
+                  data-t="reglages.sens.vers-en"></button>
+          <button type="button" data-sens="vers-fr" aria-pressed="false"
+                  data-t="reglages.sens.vers-fr"></button>
+        </div>
+        <p class="discret" data-t="reglages.sens.note"></p>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="reglages.exigence"></h3>
+        <label class="bascule">
+          <input type="checkbox" id="reglage-article">
+          <span data-t="reglages.exigence.article"></span>
+        </label>
+        <p class="discret" data-t="reglages.exigence.note"></p>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="sauvegarde.titre"></h3>
+        <p class="discret" data-t="sauvegarde.detail"></p>
+        <div id="zone-sauvegarde"></div>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="reglages.voix"></h3>
+        <label class="bascule">
+          <input type="checkbox" id="reglage-voix">
+          <span data-t="reglages.voix.active"></span>
+        </label>
+        <p class="discret" data-t="reglages.voix.note"></p>
+        <div id="zone-voix"></div>
+        <p id="etat-voix" class="discret"></p>
+      </section>
+
+      <section class="bloc">
+        <h3 data-t="reglages.apropos"></h3>
+        <p class="discret" id="apropos-versions"></p>
+        <p class="discret" data-t="reglages.apropos.sources"></p>
+        <div class="ligne-maj">
+          <button id="b-verifier-maj" type="button" class="bouton-discret"
+                  data-t="maj.verifier"></button>
+          <span id="etat-maj" class="discret"></span>
+        </div>
+        <p><a href="confidentialite.html" data-t="reglages.confidentialite"></a></p>
+      </section>
+    </section>
+
+  </main>
+
+  <div id="donnees-anciennes" class="bandeau-fixe" role="status" aria-live="polite" hidden>
+    <p id="donnees-anciennes-texte"></p>
+    <div class="maj-boutons">
+      <button id="b-donnees-mettre-a-jour" type="button" class="bouton-principal"
+              data-t="donnees.anciennes.bouton"></button>
+      <button id="b-donnees-plus-tard" type="button" class="lien-discret" data-t="maj.plus-tard"></button>
+    </div>
+  </div>
+  <div id="mise-a-jour" role="status" aria-live="polite" hidden>
+    <p id="mise-a-jour-texte" data-t="maj.prete"></p>
+    <div class="maj-boutons">
+      <button id="b-mettre-a-jour" type="button" class="bouton-principal"
+              data-t="maj.bouton"></button>
+      <button id="b-maj-plus-tard" type="button" class="lien-discret" data-t="maj.plus-tard"></button>
+    </div>
+  </div>
+
+  <nav id="onglets" aria-label="Sections">
+    <button type="button" data-vue="chercher" aria-current="true">
+      <span class="pictogramme" aria-hidden="true">⌕</span><span data-t="onglet.chercher"></span>
+    </button>
+    <button type="button" data-vue="modules">
+      <span class="pictogramme" aria-hidden="true">▦</span><span data-t="onglet.modules"></span>
+    </button>
+    <button type="button" data-vue="reviser">
+      <span class="pictogramme" aria-hidden="true">◳</span><span data-t="onglet.reviser"></span>
+    </button>
+    <button type="button" data-vue="mesmots">
+      <span class="pictogramme" aria-hidden="true">✎</span><span data-t="onglet.mesmots"></span>
+    </button>
+    <button type="button" data-vue="progres">
+      <span class="pictogramme" aria-hidden="true">◔</span><span data-t="onglet.progres"></span>
+    </button>
+    <button type="button" data-vue="reglages">
+      <span class="pictogramme" aria-hidden="true">⚙</span><span data-t="onglet.reglages"></span>
+    </button>
+  </nav>
+
+  <aside id="fiche" hidden aria-modal="true" role="dialog">
+    <div id="fiche-contenu"></div>
+  </aside>
+
+  <aside id="panneau-perso" hidden aria-modal="true" role="dialog">
+    <div id="formulaire-perso"></div>
+  </aside>
+
+  <aside id="panneau-conversation" hidden aria-modal="true" role="dialog">
+    <div id="formulaire-conversation"></div>
+  </aside>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/outils.js"></script>
+  <script src="js/lexique.js"></script>
+  <script src="js/store.js"></script>
+  <script src="js/voix.js"></script>
+  <script src="js/revision.js"></script>
+  <script src="js/exercices.js"></script>
+  <script src="js/notes.js"></script>
+  <script src="js/perso.js"></script>
+  <script src="js/conversation.js"></script>
+  <script src="js/motsvifs.js"></script>
+  <script src="js/schema.js"></script>
+  <script src="js/schemas/apprendre.js"></script>
+  <script src="js/schemas/git.js"></script>
+  <script src="js/schemas/shell.js"></script>
+  <script src="js/schemas/web.js"></script>
+  <script src="js/schemas/reseau.js"></script>
+  <script src="js/schemas/data.js"></script>
+  <script src="js/schemas/secu.js"></script>
+  <script src="js/schemas/langage.js"></script>
+  <script src="js/schemas/outils.js"></script>
+  <script src="js/schemas/image.js"></script>
+  <script src="js/schemas/bdd.js"></script>
+  <script src="js/schemas/mobile.js"></script>
+  <script src="js/schemas/ia.js"></script>
+  <script src="js/schemas/qualite.js"></script>
+  <script src="js/schemas/archi.js"></script>
+  <script src="js/fiche.js"></script>
+  <script src="js/modules.js"></script>
+  <script src="js/seance.js"></script>
+  <script src="js/progres.js"></script>
+  <script src="js/atelier.js"></script>
+  <script src="js/suivis.js"></script>
+  <script src="js/mesmots.js"></script>
+  <script src="js/situations.js"></script>
+  <script src="js/sauvegarde.js"></script>
+  <script src="js/paquets.js"></script>
+  <script src="js/installer.js"></script>
+  <script src="js/miseajour.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/demarrage.js"></script>
+</body>
+</html>

@@ -1,0 +1,3549 @@
+{
+ "format": "vocabulary-conversation",
+ "version": 1,
+ "construit": "2026-10-01",
+ "licence": "CC BY-SA 4.0",
+ "themes": [
+  {
+   "id": "salutations",
+   "fr": "Saluer et se présenter",
+   "en": "Greetings & introductions"
+  },
+  {
+   "id": "politesse",
+   "fr": "Politesse et petits mots",
+   "en": "Being polite"
+  },
+  {
+   "id": "comprendre",
+   "fr": "Se faire comprendre",
+   "en": "Making yourself understood"
+  },
+  {
+   "id": "chemin",
+   "fr": "Demander son chemin",
+   "en": "Asking the way"
+  },
+  {
+   "id": "transports",
+   "fr": "Se déplacer",
+   "en": "Getting around"
+  },
+  {
+   "id": "hotel",
+   "fr": "À l’hôtel",
+   "en": "At the hotel"
+  },
+  {
+   "id": "restaurant",
+   "fr": "Au café, au restaurant, au pub",
+   "en": "Cafés, restaurants & pubs"
+  },
+  {
+   "id": "courses",
+   "fr": "Magasins et achats",
+   "en": "Shopping"
+  },
+  {
+   "id": "sante",
+   "fr": "Santé et urgences",
+   "en": "Health & emergencies"
+  },
+  {
+   "id": "telephone",
+   "fr": "Au téléphone",
+   "en": "On the phone"
+  },
+  {
+   "id": "travail",
+   "fr": "Au travail",
+   "en": "At work"
+  },
+  {
+   "id": "sortir",
+   "fr": "Sortir, se voir",
+   "en": "Going out"
+  },
+  {
+   "id": "conversation",
+   "fr": "Faire la conversation",
+   "en": "Small talk"
+  },
+  {
+   "id": "numerique",
+   "fr": "Numérique au quotidien",
+   "en": "Tech help"
+  }
+ ],
+ "phrases": [
+  {
+   "id": "ph-salutations-bonjour",
+   "theme": "salutations",
+   "fr": "Bonjour ! Comment allez-vous ?",
+   "en": "Good morning! How are you?",
+   "situation": {
+    "fr": "Le matin, avec quelqu’un qu’on vouvoie. « Good afternoon » l’après-midi, « Good evening » le soir.",
+    "en": "In the morning, politely."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Morning! How are you?",
+     "Good morning, how are you?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-salutations-salut",
+   "theme": "salutations",
+   "fr": "Salut ! Ça va ?",
+   "en": "Hi! How’s it going?",
+   "variantes": {
+    "fr": [
+     "Salut, ça va ?"
+    ],
+    "en": [
+     "Hiya! How’s it going?",
+     "Hi, how are you doing?"
+    ]
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-salutations-ca-va-bien",
+   "theme": "salutations",
+   "fr": "Ça va bien, merci. Et toi ?",
+   "en": "I’m fine, thanks. And you?",
+   "situation": {
+    "fr": "« How are you? » n’appelle pas le récit de sa journée : on répond court et on renvoie la question.",
+    "en": "Keep it short and ask back."
+   },
+   "variantes": {
+    "fr": [
+     "Très bien, merci. Et vous ?"
+    ],
+    "en": [
+     "Fine, thanks. And you?",
+     "I’m good, thanks. You?"
+    ]
+   }
+  },
+  {
+   "id": "ph-salutations-pas-mal",
+   "theme": "salutations",
+   "fr": "Pas mal, merci.",
+   "en": "Not bad, thanks.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Not too bad, thanks."
+    ]
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-salutations-je-m-appelle",
+   "theme": "salutations",
+   "fr": "Je m’appelle Claire.",
+   "en": "My name’s Claire.",
+   "variantes": {
+    "fr": [
+     "Moi, c’est Claire."
+    ],
+    "en": [
+     "I’m Claire.",
+     "My name is Claire."
+    ]
+   }
+  },
+  {
+   "id": "ph-salutations-enchante",
+   "theme": "salutations",
+   "fr": "Enchanté.",
+   "en": "Nice to meet you.",
+   "situation": {
+    "fr": "À la première rencontre ; la réponse : « Nice to meet you too. »",
+    "en": "When meeting someone for the first time."
+   },
+   "variantes": {
+    "fr": [
+     "Enchantée.",
+     "Ravi de vous rencontrer."
+    ],
+    "en": [
+     "Pleased to meet you.",
+     "Lovely to meet you."
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-salutations-d-ou-venez-vous",
+   "theme": "salutations",
+   "fr": "D’où venez-vous ?",
+   "en": "Where are you from?",
+   "variantes": {
+    "fr": [
+     "Tu viens d’où ?"
+    ],
+    "en": []
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-salutations-je-viens-de",
+   "theme": "salutations",
+   "fr": "Je viens de Lyon, en France.",
+   "en": "I’m from Lyon, in France.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "I come from Lyon, in France."
+    ]
+   }
+  },
+  {
+   "id": "ph-salutations-qu-est-ce-que-vous-faites",
+   "theme": "salutations",
+   "fr": "Qu’est-ce que vous faites dans la vie ?",
+   "en": "What do you do?",
+   "situation": {
+    "fr": "La question pour demander le métier de quelqu’un — et non ce qu’il fait en ce moment.",
+    "en": "Asking about someone’s job."
+   },
+   "variantes": {
+    "fr": [
+     "Vous faites quoi dans la vie ?"
+    ],
+    "en": [
+     "What do you do for a living?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-salutations-je-travaille-comme",
+   "theme": "salutations",
+   "fr": "Je suis infirmier.",
+   "en": "I work as a nurse.",
+   "situation": {
+    "fr": "En anglais, l’article est obligatoire devant le métier : « I’m a nurse ».",
+    "en": "English needs “a” before a job."
+   },
+   "variantes": {
+    "fr": [
+     "Je suis infirmière.",
+     "Je travaille comme infirmier."
+    ],
+    "en": [
+     "I’m a nurse."
+    ]
+   }
+  },
+  {
+   "id": "ph-salutations-je-vous-presente",
+   "theme": "salutations",
+   "fr": "Je vous présente mon collègue, James.",
+   "en": "Let me introduce you to my colleague, James.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "This is my colleague, James."
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-salutations-longtemps",
+   "theme": "salutations",
+   "fr": "Ça fait longtemps !",
+   "en": "Long time no see!",
+   "variantes": {
+    "fr": [
+     "Ça fait un bail !"
+    ],
+    "en": []
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-salutations-au-revoir",
+   "theme": "salutations",
+   "fr": "Au revoir ! À bientôt.",
+   "en": "Goodbye! See you soon.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Bye! See you soon.",
+     "See you later!"
+    ]
+   }
+  },
+  {
+   "id": "ph-salutations-bonne-journee",
+   "theme": "salutations",
+   "fr": "Bonne journée !",
+   "en": "Have a nice day!",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Have a good day!"
+    ]
+   }
+  },
+  {
+   "id": "ph-salutations-a-plus",
+   "theme": "salutations",
+   "fr": "À plus !",
+   "en": "See you later!",
+   "variantes": {
+    "fr": [
+     "À plus tard !",
+     "À tout à l’heure !"
+    ],
+    "en": [
+     "See ya!",
+     "Laters!",
+     "Catch you later!"
+    ]
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-salutations-bonne-nuit",
+   "theme": "salutations",
+   "fr": "Bonne nuit, dors bien.",
+   "en": "Good night, sleep well.",
+   "situation": {
+    "fr": "« Good night » se dit en partant le soir ou avant d’aller dormir, jamais pour saluer en arrivant.",
+    "en": "Only when leaving or going to bed."
+   }
+  },
+  {
+   "id": "ph-politesse-s-il-vous-plait",
+   "theme": "politesse",
+   "fr": "Je pourrais avoir un verre d’eau, s’il vous plaît ?",
+   "en": "Could I have a glass of water, please?",
+   "situation": {
+    "fr": "En anglais, « please » est presque obligatoire, et une question (« Could I… ? ») est plus polie qu’un ordre.",
+    "en": "“Please” is almost compulsory."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Can I have a glass of water, please?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-politesse-merci-beaucoup",
+   "theme": "politesse",
+   "fr": "Merci beaucoup.",
+   "en": "Thank you very much.",
+   "variantes": {
+    "fr": [
+     "Merci bien."
+    ],
+    "en": [
+     "Thanks a lot.",
+     "Thank you so much.",
+     "Cheers!"
+    ]
+   }
+  },
+  {
+   "id": "ph-politesse-de-rien",
+   "theme": "politesse",
+   "fr": "De rien.",
+   "en": "You’re welcome.",
+   "variantes": {
+    "fr": [
+     "Je vous en prie.",
+     "Avec plaisir."
+    ],
+    "en": [
+     "No problem.",
+     "Not at all.",
+     "No worries."
+    ]
+   }
+  },
+  {
+   "id": "ph-politesse-pardon-passer",
+   "theme": "politesse",
+   "fr": "Pardon, je peux passer ?",
+   "en": "Excuse me, can I get past?",
+   "situation": {
+    "fr": "« Excuse me » pour attirer l’attention ou déranger ; « Sorry » pour s’excuser d’une gêne déjà causée.",
+    "en": "Excuse me before, sorry after."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Excuse me, could I get past?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-politesse-desole",
+   "theme": "politesse",
+   "fr": "Je suis désolé, je ne l’ai pas fait exprès.",
+   "en": "I’m sorry, I didn’t mean to.",
+   "variantes": {
+    "fr": [
+     "Désolée, je ne l’ai pas fait exprès."
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-politesse-pardon-repeter",
+   "theme": "politesse",
+   "fr": "Pardon ? Vous pouvez répéter ?",
+   "en": "Sorry? Could you say that again?",
+   "situation": {
+    "fr": "« Sorry? » avec une intonation montante : la façon la plus courante de faire répéter.",
+    "en": "The most natural way to ask someone to repeat."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Pardon? Could you repeat that?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-politesse-ca-ne-fait-rien",
+   "theme": "politesse",
+   "fr": "Ce n’est pas grave.",
+   "en": "Don’t worry about it.",
+   "variantes": {
+    "fr": [
+     "Ça ne fait rien."
+    ],
+    "en": [
+     "It doesn’t matter.",
+     "Never mind.",
+     "No worries."
+    ]
+   }
+  },
+  {
+   "id": "ph-politesse-apres-vous",
+   "theme": "politesse",
+   "fr": "Après vous.",
+   "en": "After you.",
+   "registre": "poli"
+  },
+  {
+   "id": "ph-politesse-bon-appetit",
+   "theme": "politesse",
+   "fr": "Bon appétit !",
+   "en": "Enjoy your meal!",
+   "situation": {
+    "fr": "Il n’y a pas de vraie formule anglaise ; au restaurant, le serveur dit « Enjoy your meal ».",
+    "en": "There’s no real English equivalent."
+   }
+  },
+  {
+   "id": "ph-politesse-sante",
+   "theme": "politesse",
+   "fr": "Santé !",
+   "en": "Cheers!",
+   "variantes": {
+    "fr": [
+     "À la vôtre !",
+     "À la tienne !"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-politesse-avec-plaisir",
+   "theme": "politesse",
+   "fr": "Avec plaisir, merci.",
+   "en": "I’d love to, thanks.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "I’d love to."
+    ]
+   }
+  },
+  {
+   "id": "ph-politesse-non-merci",
+   "theme": "politesse",
+   "fr": "Non merci, ça ira.",
+   "en": "No, thank you. I’m fine.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "No thanks, I’m fine."
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-politesse-felicitations",
+   "theme": "politesse",
+   "fr": "Félicitations !",
+   "en": "Congratulations!",
+   "variantes": {
+    "fr": [
+     "Bravo !"
+    ],
+    "en": [
+     "Well done!"
+    ]
+   }
+  },
+  {
+   "id": "ph-politesse-bon-courage",
+   "theme": "politesse",
+   "fr": "Bon courage !",
+   "en": "Good luck!",
+   "situation": {
+    "fr": "« Bon courage » n’a pas d’équivalent exact : « Good luck! » avant une épreuve, « Hang in there! » dans une période difficile.",
+    "en": "No exact equivalent."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Best of luck!"
+    ]
+   }
+  },
+  {
+   "id": "ph-politesse-bon-anniversaire",
+   "theme": "politesse",
+   "fr": "Joyeux anniversaire !",
+   "en": "Happy birthday!",
+   "variantes": {
+    "fr": [
+     "Bon anniversaire !"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-comprendre-parlez-vous-francais",
+   "theme": "comprendre",
+   "fr": "Vous parlez français ?",
+   "en": "Do you speak French?",
+   "variantes": {
+    "fr": [
+     "Parlez-vous français ?"
+    ],
+    "en": []
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-comprendre-un-peu-anglais",
+   "theme": "comprendre",
+   "fr": "Je ne parle qu’un peu anglais.",
+   "en": "I only speak a little English.",
+   "variantes": {
+    "fr": [
+     "Je parle un peu anglais."
+    ],
+    "en": [
+     "I speak a little English."
+    ]
+   }
+  },
+  {
+   "id": "ph-comprendre-plus-lentement",
+   "theme": "comprendre",
+   "fr": "Pourriez-vous parler plus lentement, s’il vous plaît ?",
+   "en": "Could you speak more slowly, please?",
+   "variantes": {
+    "fr": [
+     "Vous pouvez parler plus lentement, s’il vous plaît ?"
+    ],
+    "en": [
+     "Can you speak more slowly, please?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-comprendre-je-ne-comprends-pas",
+   "theme": "comprendre",
+   "fr": "Désolé, je ne comprends pas.",
+   "en": "I’m sorry, I don’t understand.",
+   "variantes": {
+    "fr": [
+     "Désolée, je ne comprends pas."
+    ],
+    "en": [
+     "Sorry, I don’t understand."
+    ]
+   }
+  },
+  {
+   "id": "ph-comprendre-que-veut-dire",
+   "theme": "comprendre",
+   "fr": "Que veut dire « knackered » ?",
+   "en": "What does “knackered” mean?",
+   "variantes": {
+    "fr": [
+     "Ça veut dire quoi, « knackered » ?"
+    ],
+    "en": [
+     "What does knackered mean?"
+    ]
+   }
+  },
+  {
+   "id": "ph-comprendre-comment-dit-on",
+   "theme": "comprendre",
+   "fr": "Comment dit-on « bouchon » en anglais ?",
+   "en": "How do you say “bouchon” in English?",
+   "variantes": {
+    "fr": [
+     "Comment on dit « bouchon » en anglais ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-comprendre-comment-ca-s-ecrit",
+   "theme": "comprendre",
+   "fr": "Comment ça s’écrit ?",
+   "en": "How do you spell that?",
+   "variantes": {
+    "fr": [
+     "Vous pouvez l’épeler ?"
+    ],
+    "en": [
+     "Could you spell that, please?"
+    ]
+   }
+  },
+  {
+   "id": "ph-comprendre-ecrire",
+   "theme": "comprendre",
+   "fr": "Pourriez-vous me l’écrire, s’il vous plaît ?",
+   "en": "Could you write it down, please?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Can you write it down for me?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-comprendre-comment-ca-se-prononce",
+   "theme": "comprendre",
+   "fr": "Comment se prononce ce mot ?",
+   "en": "How do you pronounce this word?",
+   "variantes": {
+    "fr": [
+     "Comment on prononce ce mot ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-comprendre-est-ce-correct",
+   "theme": "comprendre",
+   "fr": "C’est correct ?",
+   "en": "Is that right?",
+   "variantes": {
+    "fr": [
+     "C’est juste ?",
+     "J’ai bien dit ?"
+    ],
+    "en": [
+     "Did I say that right?"
+    ]
+   }
+  },
+  {
+   "id": "ph-comprendre-je-cherche-le-mot",
+   "theme": "comprendre",
+   "fr": "Le mot ne me revient pas.",
+   "en": "I can’t think of the word.",
+   "variantes": {
+    "fr": [
+     "Comment dit-on déjà… ?"
+    ],
+    "en": [
+     "What’s the word…?"
+    ]
+   }
+  },
+  {
+   "id": "ph-comprendre-vous-voulez-dire",
+   "theme": "comprendre",
+   "fr": "Vous voulez dire la gare ou l’arrêt de bus ?",
+   "en": "Do you mean the station or the bus stop?",
+   "registre": "poli"
+  },
+  {
+   "id": "ph-comprendre-j-apprends",
+   "theme": "comprendre",
+   "fr": "J’apprends l’anglais.",
+   "en": "I’m learning English."
+  },
+  {
+   "id": "ph-chemin-ou-est",
+   "theme": "chemin",
+   "fr": "Excusez-moi, où est la station de métro la plus proche ?",
+   "en": "Excuse me, where’s the nearest Tube station?",
+   "variantes": {
+    "fr": [
+     "Pardon, où est la station de métro la plus proche ?"
+    ],
+    "en": [
+     "Excuse me, where is the nearest Tube station?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-chemin-c-est-loin",
+   "theme": "chemin",
+   "fr": "C’est loin d’ici ?",
+   "en": "Is it far from here?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Is it far?"
+    ]
+   }
+  },
+  {
+   "id": "ph-chemin-comment-aller",
+   "theme": "chemin",
+   "fr": "Comment aller au British Museum ?",
+   "en": "How do I get to the British Museum?",
+   "variantes": {
+    "fr": [
+     "Pour aller au British Museum, s’il vous plaît ?"
+    ],
+    "en": [
+     "Could you tell me how to get to the British Museum?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-chemin-a-pied",
+   "theme": "chemin",
+   "fr": "On peut y aller à pied ?",
+   "en": "Can I walk there?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Is it within walking distance?"
+    ]
+   }
+  },
+  {
+   "id": "ph-chemin-tout-droit",
+   "theme": "chemin",
+   "fr": "Allez tout droit, puis prenez la deuxième à gauche.",
+   "en": "Go straight on, then take the second left.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Go straight ahead, then take the second left."
+    ]
+   }
+  },
+  {
+   "id": "ph-chemin-au-feu",
+   "theme": "chemin",
+   "fr": "Tournez à droite au feu.",
+   "en": "Turn right at the traffic lights."
+  },
+  {
+   "id": "ph-chemin-en-face",
+   "theme": "chemin",
+   "fr": "C’est en face de la banque.",
+   "en": "It’s opposite the bank."
+  },
+  {
+   "id": "ph-chemin-a-cote",
+   "theme": "chemin",
+   "fr": "C’est juste au coin de la rue.",
+   "en": "It’s just around the corner.",
+   "situation": {
+    "fr": "« Just around the corner » veut aussi dire « tout près ».",
+    "en": "Also means “very close”."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "It’s round the corner."
+    ]
+   }
+  },
+  {
+   "id": "ph-chemin-perdu",
+   "theme": "chemin",
+   "fr": "Je crois que je suis perdu.",
+   "en": "I think I’m lost.",
+   "variantes": {
+    "fr": [
+     "Je crois que je suis perdue."
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-chemin-sur-la-carte",
+   "theme": "chemin",
+   "fr": "Vous pouvez me montrer sur la carte ?",
+   "en": "Could you show me on the map?",
+   "registre": "poli"
+  },
+  {
+   "id": "ph-chemin-combien-de-temps",
+   "theme": "chemin",
+   "fr": "Combien de temps faut-il à pied ?",
+   "en": "How long does it take on foot?",
+   "variantes": {
+    "fr": [
+     "Ça prend combien de temps à pied ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-chemin-pas-d-ici",
+   "theme": "chemin",
+   "fr": "Désolé, je ne suis pas d’ici.",
+   "en": "Sorry, I’m not from round here.",
+   "variantes": {
+    "fr": [
+     "Désolée, je ne suis pas d’ici."
+    ],
+    "en": [
+     "Sorry, I’m not from around here."
+    ]
+   }
+  },
+  {
+   "id": "ph-transports-un-billet-pour",
+   "theme": "transports",
+   "fr": "Un aller-retour pour Oxford, s’il vous plaît.",
+   "en": "A return to Oxford, please.",
+   "situation": {
+    "fr": "« single » : aller simple ; « return » : aller-retour ; « day return » : aller-retour dans la journée.",
+    "en": "Single, return, day return."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "A return ticket to Oxford, please."
+    ]
+   }
+  },
+  {
+   "id": "ph-transports-a-quelle-heure",
+   "theme": "transports",
+   "fr": "À quelle heure est le prochain train pour Brighton ?",
+   "en": "What time is the next train to Brighton?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "When is the next train to Brighton?"
+    ]
+   }
+  },
+  {
+   "id": "ph-transports-quel-quai",
+   "theme": "transports",
+   "fr": "Il part de quel quai ?",
+   "en": "Which platform does it leave from?",
+   "variantes": {
+    "fr": [
+     "De quelle voie part-il ?"
+    ],
+    "en": [
+     "Which platform is it?"
+    ]
+   }
+  },
+  {
+   "id": "ph-transports-en-retard",
+   "theme": "transports",
+   "fr": "Le train a vingt minutes de retard.",
+   "en": "The train is delayed by twenty minutes."
+  },
+  {
+   "id": "ph-transports-annule",
+   "theme": "transports",
+   "fr": "Mon vol a été annulé.",
+   "en": "My flight has been cancelled.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "My flight’s been cancelled."
+    ]
+   }
+  },
+  {
+   "id": "ph-transports-ou-descendre",
+   "theme": "transports",
+   "fr": "Où dois-je descendre pour le musée ?",
+   "en": "Where should I get off for the museum?"
+  },
+  {
+   "id": "ph-transports-ce-bus-va",
+   "theme": "transports",
+   "fr": "Ce bus va au centre-ville ?",
+   "en": "Does this bus go to the city centre?"
+  },
+  {
+   "id": "ph-transports-carte-bancaire",
+   "theme": "transports",
+   "fr": "Je peux payer par carte dans le bus ?",
+   "en": "Can I pay by card on the bus?",
+   "situation": {
+    "fr": "À Londres, on paie le bus et le métro sans contact, avec sa carte ou son téléphone.",
+    "en": "In London you tap in with a contactless card or phone."
+   }
+  },
+  {
+   "id": "ph-transports-taxi",
+   "theme": "transports",
+   "fr": "Pourriez-vous m’appeler un taxi, s’il vous plaît ?",
+   "en": "Could you call me a taxi, please?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Can you call me a taxi?"
+    ]
+   }
+  },
+  {
+   "id": "ph-transports-a-l-aeroport",
+   "theme": "transports",
+   "fr": "À l’aéroport d’Heathrow, s’il vous plaît.",
+   "en": "To Heathrow Airport, please."
+  },
+  {
+   "id": "ph-transports-louer-voiture",
+   "theme": "transports",
+   "fr": "Je voudrais louer une voiture pour trois jours.",
+   "en": "I’d like to hire a car for three days.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "I’d like to rent a car for three days."
+    ]
+   }
+  },
+  {
+   "id": "ph-transports-a-gauche",
+   "theme": "transports",
+   "fr": "N’oublie pas, on roule à gauche !",
+   "en": "Don’t forget, they drive on the left!"
+  },
+  {
+   "id": "ph-transports-place-libre",
+   "theme": "transports",
+   "fr": "Cette place est libre ?",
+   "en": "Is this seat free?",
+   "variantes": {
+    "fr": [
+     "Il y a quelqu’un ici ?"
+    ],
+    "en": [
+     "Is anyone sitting here?"
+    ]
+   }
+  },
+  {
+   "id": "ph-hotel-reservation",
+   "theme": "hotel",
+   "fr": "J’ai réservé une chambre double pour deux nuits.",
+   "en": "I’ve booked a double room for two nights.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "I have a reservation for a double room for two nights."
+    ]
+   }
+  },
+  {
+   "id": "ph-hotel-au-nom-de",
+   "theme": "hotel",
+   "fr": "La réservation est au nom de Martin.",
+   "en": "The booking is under the name Martin.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "It’s under the name Martin."
+    ]
+   }
+  },
+  {
+   "id": "ph-hotel-chambre-libre",
+   "theme": "hotel",
+   "fr": "Vous avez une chambre pour ce soir ?",
+   "en": "Do you have a room for tonight?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Have you got any rooms available tonight?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-hotel-petit-dej-compris",
+   "theme": "hotel",
+   "fr": "Le petit-déjeuner est compris ?",
+   "en": "Is breakfast included?"
+  },
+  {
+   "id": "ph-hotel-petit-dej-heure",
+   "theme": "hotel",
+   "fr": "À quelle heure est servi le petit-déjeuner ?",
+   "en": "What time is breakfast served?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "What time is breakfast?"
+    ]
+   }
+  },
+  {
+   "id": "ph-hotel-wifi",
+   "theme": "hotel",
+   "fr": "Quel est le code du wifi ?",
+   "en": "What’s the Wi-Fi password?",
+   "variantes": {
+    "fr": [
+     "C’est quoi, le mot de passe du wifi ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-hotel-ne-marche-pas",
+   "theme": "hotel",
+   "fr": "Le chauffage de ma chambre ne marche pas.",
+   "en": "The heating in my room isn’t working.",
+   "variantes": {
+    "fr": [
+     "Le chauffage de ma chambre ne fonctionne pas."
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-hotel-serviettes",
+   "theme": "hotel",
+   "fr": "Je pourrais avoir d’autres serviettes, s’il vous plaît ?",
+   "en": "Could I have some more towels, please?"
+  },
+  {
+   "id": "ph-hotel-quitter-chambre",
+   "theme": "hotel",
+   "fr": "À quelle heure faut-il libérer la chambre ?",
+   "en": "What time do we have to check out?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "What time is checkout?"
+    ]
+   }
+  },
+  {
+   "id": "ph-hotel-bagages",
+   "theme": "hotel",
+   "fr": "Pouvons-nous laisser nos bagages ici jusqu’à cet après-midi ?",
+   "en": "Can we leave our luggage here until this afternoon?",
+   "variantes": {
+    "fr": [
+     "On peut laisser nos bagages ici jusqu’à cet après-midi ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-hotel-cle-perdue",
+   "theme": "hotel",
+   "fr": "J’ai perdu ma carte-clé.",
+   "en": "I’ve lost my key card."
+  },
+  {
+   "id": "ph-restaurant-table-pour-deux",
+   "theme": "restaurant",
+   "fr": "Une table pour deux, s’il vous plaît.",
+   "en": "A table for two, please.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Have you got a table for two?"
+    ]
+   }
+  },
+  {
+   "id": "ph-restaurant-reserve-table",
+   "theme": "restaurant",
+   "fr": "Je voudrais réserver une table pour quatre à vingt heures.",
+   "en": "I’d like to book a table for four at eight o’clock."
+  },
+  {
+   "id": "ph-restaurant-la-carte",
+   "theme": "restaurant",
+   "fr": "Nous pourrions avoir la carte, s’il vous plaît ?",
+   "en": "Could we see the menu, please?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Can we have the menu, please?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-restaurant-je-vais-prendre",
+   "theme": "restaurant",
+   "fr": "Je vais prendre le fish and chips, s’il vous plaît.",
+   "en": "I’ll have the fish and chips, please.",
+   "variantes": {
+    "fr": [
+     "Pour moi, ce sera le fish and chips."
+    ],
+    "en": [
+     "Could I have the fish and chips, please?"
+    ]
+   }
+  },
+  {
+   "id": "ph-restaurant-que-conseillez-vous",
+   "theme": "restaurant",
+   "fr": "Qu’est-ce que vous nous conseillez ?",
+   "en": "What would you recommend?",
+   "registre": "poli"
+  },
+  {
+   "id": "ph-restaurant-vegetarien",
+   "theme": "restaurant",
+   "fr": "Vous avez des plats végétariens ?",
+   "en": "Do you have any vegetarian dishes?"
+  },
+  {
+   "id": "ph-restaurant-allergie",
+   "theme": "restaurant",
+   "fr": "Je suis allergique aux fruits à coque. Il y en a dans ce plat ?",
+   "en": "I’m allergic to nuts. Is there any in this?"
+  },
+  {
+   "id": "ph-restaurant-eau-du-robinet",
+   "theme": "restaurant",
+   "fr": "Nous pourrions avoir une carafe d’eau, s’il vous plaît ?",
+   "en": "Could we have some tap water, please?",
+   "situation": {
+    "fr": "L’eau du robinet est gratuite au Royaume-Uni ; il suffit de demander « tap water ».",
+    "en": "Tap water is free in the UK."
+   }
+  },
+  {
+   "id": "ph-restaurant-une-pinte",
+   "theme": "restaurant",
+   "fr": "Une pinte de bière brune et un verre de vin blanc, s’il vous plaît.",
+   "en": "A pint of bitter and a glass of white wine, please.",
+   "situation": {
+    "fr": "Au pub, on commande et on paie au bar ; pas de service à table, et pas de pourboire obligatoire.",
+    "en": "In a pub you order and pay at the bar."
+   }
+  },
+  {
+   "id": "ph-restaurant-ma-tournee",
+   "theme": "restaurant",
+   "fr": "C’est ma tournée. Qu’est-ce que tu prends ?",
+   "en": "It’s my round. What are you having?",
+   "situation": {
+    "fr": "Au pub, chacun paie une tournée à son tour : c’est « a round ».",
+    "en": "In a pub, people take turns buying drinks."
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-restaurant-a-emporter",
+   "theme": "restaurant",
+   "fr": "Sur place ou à emporter ? — À emporter, s’il vous plaît.",
+   "en": "Is it to eat in or take away? — Take away, please.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Eat in or take away? — Take away, please."
+    ]
+   }
+  },
+  {
+   "id": "ph-restaurant-c-etait-delicieux",
+   "theme": "restaurant",
+   "fr": "C’était délicieux, merci.",
+   "en": "That was delicious, thank you.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "That was lovely, thanks."
+    ]
+   }
+  },
+  {
+   "id": "ph-restaurant-l-addition",
+   "theme": "restaurant",
+   "fr": "L’addition, s’il vous plaît.",
+   "en": "Could we have the bill, please?",
+   "variantes": {
+    "fr": [
+     "Nous pourrions avoir l’addition, s’il vous plaît ?"
+    ],
+    "en": [
+     "Can we have the bill, please?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-restaurant-service-compris",
+   "theme": "restaurant",
+   "fr": "Le service est compris ?",
+   "en": "Is service included?"
+  },
+  {
+   "id": "ph-restaurant-partager-addition",
+   "theme": "restaurant",
+   "fr": "On partage l’addition ?",
+   "en": "Shall we split the bill?"
+  },
+  {
+   "id": "ph-courses-je-regarde",
+   "theme": "courses",
+   "fr": "Je regarde, merci.",
+   "en": "I’m just looking, thanks.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Just looking, thanks."
+    ]
+   }
+  },
+  {
+   "id": "ph-courses-combien",
+   "theme": "courses",
+   "fr": "Combien ça coûte ?",
+   "en": "How much is this?",
+   "variantes": {
+    "fr": [
+     "C’est combien ?"
+    ],
+    "en": [
+     "How much does this cost?"
+    ]
+   }
+  },
+  {
+   "id": "ph-courses-essayer",
+   "theme": "courses",
+   "fr": "Je peux l’essayer ?",
+   "en": "Can I try it on?"
+  },
+  {
+   "id": "ph-courses-cabines",
+   "theme": "courses",
+   "fr": "Où sont les cabines d’essayage ?",
+   "en": "Where are the changing rooms?"
+  },
+  {
+   "id": "ph-courses-autre-taille",
+   "theme": "courses",
+   "fr": "Vous l’avez dans une taille au-dessus ?",
+   "en": "Have you got this in a bigger size?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Do you have this in a larger size?"
+    ]
+   }
+  },
+  {
+   "id": "ph-courses-je-le-prends",
+   "theme": "courses",
+   "fr": "Je le prends.",
+   "en": "I’ll take it.",
+   "variantes": {
+    "fr": [
+     "Je la prends."
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-courses-sans-contact",
+   "theme": "courses",
+   "fr": "Je peux payer sans contact ?",
+   "en": "Can I pay contactless?"
+  },
+  {
+   "id": "ph-courses-sac",
+   "theme": "courses",
+   "fr": "Il vous faut un sac ? — Non, j’en ai un, merci.",
+   "en": "Do you need a bag? — No, I’ve got one, thanks."
+  },
+  {
+   "id": "ph-courses-rembourser",
+   "theme": "courses",
+   "fr": "Je voudrais rapporter cet article. Je peux être remboursé ?",
+   "en": "I’d like to return this. Can I get a refund?"
+  },
+  {
+   "id": "ph-courses-ticket",
+   "theme": "courses",
+   "fr": "Vous avez le ticket de caisse ?",
+   "en": "Have you got the receipt?"
+  },
+  {
+   "id": "ph-courses-heures-ouverture",
+   "theme": "courses",
+   "fr": "Vous fermez à quelle heure aujourd’hui ?",
+   "en": "What time do you close today?"
+  },
+  {
+   "id": "ph-courses-pharmacie-ouverte",
+   "theme": "courses",
+   "fr": "Il y a une pharmacie ouverte près d’ici ?",
+   "en": "Is there a chemist’s open near here?"
+  },
+  {
+   "id": "ph-sante-je-me-sens-mal",
+   "theme": "sante",
+   "fr": "Je ne me sens pas bien.",
+   "en": "I don’t feel well.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "I feel unwell.",
+     "I’m not feeling well."
+    ]
+   }
+  },
+  {
+   "id": "ph-sante-j-ai-mal",
+   "theme": "sante",
+   "fr": "J’ai mal à la tête.",
+   "en": "I’ve got a headache.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "I have a headache."
+    ]
+   }
+  },
+  {
+   "id": "ph-sante-mal-au-ventre",
+   "theme": "sante",
+   "fr": "J’ai mal au ventre depuis ce matin.",
+   "en": "I’ve had stomach ache since this morning."
+  },
+  {
+   "id": "ph-sante-fievre",
+   "theme": "sante",
+   "fr": "Je crois que j’ai de la fièvre.",
+   "en": "I think I’ve got a temperature.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "I think I’ve got a fever."
+    ]
+   }
+  },
+  {
+   "id": "ph-sante-medecin",
+   "theme": "sante",
+   "fr": "J’ai besoin de voir un médecin.",
+   "en": "I need to see a doctor."
+  },
+  {
+   "id": "ph-sante-rendez-vous-medecin",
+   "theme": "sante",
+   "fr": "Je peux prendre rendez-vous chez un médecin ?",
+   "en": "Can I make an appointment with a doctor?"
+  },
+  {
+   "id": "ph-sante-ordonnance",
+   "theme": "sante",
+   "fr": "Il faut une ordonnance pour ce médicament ?",
+   "en": "Do I need a prescription for this?"
+  },
+  {
+   "id": "ph-sante-allergique",
+   "theme": "sante",
+   "fr": "Je suis allergique à la pénicilline.",
+   "en": "I’m allergic to penicillin."
+  },
+  {
+   "id": "ph-sante-au-secours",
+   "theme": "sante",
+   "fr": "Au secours ! Appelez une ambulance !",
+   "en": "Help! Call an ambulance!",
+   "situation": {
+    "fr": "Au Royaume-Uni, le numéro d’urgence est le 999 (le 112 marche aussi).",
+    "en": "The UK emergency number is 999 (112 also works)."
+   }
+  },
+  {
+   "id": "ph-sante-urgence",
+   "theme": "sante",
+   "fr": "C’est une urgence.",
+   "en": "It’s an emergency."
+  },
+  {
+   "id": "ph-sante-vole",
+   "theme": "sante",
+   "fr": "On m’a volé mon portefeuille.",
+   "en": "My wallet has been stolen.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Someone has stolen my wallet."
+    ]
+   }
+  },
+  {
+   "id": "ph-sante-commissariat",
+   "theme": "sante",
+   "fr": "Où est le commissariat le plus proche ?",
+   "en": "Where’s the nearest police station?"
+  },
+  {
+   "id": "ph-telephone-allo",
+   "theme": "telephone",
+   "fr": "Allô, c’est Paul.",
+   "en": "Hello, it’s Paul speaking.",
+   "variantes": {
+    "fr": [
+     "Allô, Paul à l’appareil."
+    ],
+    "en": [
+     "Hello, this is Paul.",
+     "Hi, it’s Paul."
+    ]
+   }
+  },
+  {
+   "id": "ph-telephone-je-voudrais-parler",
+   "theme": "telephone",
+   "fr": "Pourrais-je parler à Mme Taylor, s’il vous plaît ?",
+   "en": "Could I speak to Ms Taylor, please?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Can I speak to Ms Taylor, please?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-telephone-ne-quittez-pas",
+   "theme": "telephone",
+   "fr": "Ne quittez pas, je vous la passe.",
+   "en": "Hold on, please. I’ll put you through.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "One moment, please. I’ll put you through."
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-telephone-message",
+   "theme": "telephone",
+   "fr": "Voulez-vous laisser un message ?",
+   "en": "Can I take a message?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Would you like to leave a message?"
+    ]
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-telephone-rappeler",
+   "theme": "telephone",
+   "fr": "Je te rappelle plus tard.",
+   "en": "I’ll call you back later.",
+   "variantes": {
+    "fr": [
+     "Je vous rappelle plus tard."
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-telephone-ca-coupe",
+   "theme": "telephone",
+   "fr": "Désolé, ça coupe.",
+   "en": "Sorry, you’re breaking up.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Sorry, the line’s bad.",
+     "Sorry, I can’t hear you very well."
+    ]
+   }
+  },
+  {
+   "id": "ph-telephone-numero",
+   "theme": "telephone",
+   "fr": "Quel est ton numéro de portable ?",
+   "en": "What’s your mobile number?",
+   "variantes": {
+    "fr": [
+     "Quel est votre numéro de portable ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-telephone-texto",
+   "theme": "telephone",
+   "fr": "Envoie-moi un texto quand tu arrives.",
+   "en": "Text me when you get there.",
+   "variantes": {
+    "fr": [
+     "Envoie-moi un message quand tu es arrivé."
+    ],
+    "en": [
+     "Message me when you get there."
+    ]
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-telephone-batterie",
+   "theme": "telephone",
+   "fr": "Je n’ai presque plus de batterie.",
+   "en": "My battery’s about to die.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "My phone’s about to die."
+    ]
+   }
+  },
+  {
+   "id": "ph-telephone-chargeur",
+   "theme": "telephone",
+   "fr": "Je peux emprunter ton chargeur ?",
+   "en": "Can I borrow your charger?"
+  },
+  {
+   "id": "ph-travail-reunion",
+   "theme": "travail",
+   "fr": "On fait une petite réunion à dix heures ?",
+   "en": "Shall we have a quick meeting at ten?"
+  },
+  {
+   "id": "ph-travail-point-ordre-du-jour",
+   "theme": "travail",
+   "fr": "Qu’est-ce qui est à l’ordre du jour ?",
+   "en": "What’s on the agenda?"
+  },
+  {
+   "id": "ph-travail-je-suis-d-accord",
+   "theme": "travail",
+   "fr": "Je suis d’accord avec toi.",
+   "en": "I agree with you.",
+   "variantes": {
+    "fr": [
+     "Je suis d’accord avec vous."
+    ],
+    "en": [
+     "I agree."
+    ]
+   }
+  },
+  {
+   "id": "ph-travail-pas-d-accord",
+   "theme": "travail",
+   "fr": "Je ne suis pas sûr d’être d’accord.",
+   "en": "I’m not sure I agree.",
+   "situation": {
+    "fr": "Les Britanniques adoucissent le désaccord : « I’m not sure… », « I see your point, but… ».",
+    "en": "A polite way to disagree."
+   },
+   "registre": "poli"
+  },
+  {
+   "id": "ph-travail-pouvez-vous-m-aider",
+   "theme": "travail",
+   "fr": "Tu pourrais me donner un coup de main ?",
+   "en": "Could you give me a hand with this?",
+   "variantes": {
+    "fr": [
+     "Vous pourriez m’aider ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-travail-date-limite",
+   "theme": "travail",
+   "fr": "C’est pour quand ?",
+   "en": "When’s the deadline?",
+   "variantes": {
+    "fr": [
+     "Quelle est la date limite ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-travail-en-retard-travail",
+   "theme": "travail",
+   "fr": "Désolé pour le retard, le train a été annulé.",
+   "en": "Sorry I’m late, the train was cancelled.",
+   "variantes": {
+    "fr": [
+     "Désolée d’être en retard, le train a été annulé."
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-travail-teletravail",
+   "theme": "travail",
+   "fr": "Je télétravaille demain.",
+   "en": "I’m working from home tomorrow.",
+   "variantes": {
+    "fr": [
+     "Demain, je suis en télétravail."
+    ],
+    "en": [
+     "I’m WFH tomorrow."
+    ]
+   }
+  },
+  {
+   "id": "ph-travail-mail",
+   "theme": "travail",
+   "fr": "Je t’envoie un mail.",
+   "en": "I’ll send you an email.",
+   "variantes": {
+    "fr": [
+     "Je vous envoie un courriel."
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-travail-jour-de-conge",
+   "theme": "travail",
+   "fr": "Je pose mon vendredi.",
+   "en": "I’m taking Friday off.",
+   "variantes": {
+    "fr": [
+     "Je prends mon vendredi."
+    ],
+    "en": [
+     "I’m off on Friday."
+    ]
+   }
+  },
+  {
+   "id": "ph-travail-partage-ecran",
+   "theme": "travail",
+   "fr": "Vous voyez mon écran ?",
+   "en": "Can you see my screen?",
+   "variantes": {
+    "fr": [
+     "Tu vois mon écran ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-travail-micro",
+   "theme": "travail",
+   "fr": "Ton micro est coupé !",
+   "en": "You’re on mute!",
+   "variantes": {
+    "fr": [
+     "Vous êtes en muet !"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-sortir-on-se-voit",
+   "theme": "sortir",
+   "fr": "Tu es libre samedi ?",
+   "en": "Are you free on Saturday?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Are you around on Saturday?"
+    ]
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-sortir-ca-te-dit",
+   "theme": "sortir",
+   "fr": "Ça te dit d’aller au cinéma ?",
+   "en": "Do you fancy going to the cinema?",
+   "situation": {
+    "fr": "« Do you fancy…? » est très britannique pour proposer quelque chose.",
+    "en": "Very British way to suggest something."
+   },
+   "variantes": {
+    "fr": [],
+    "en": [
+     "Do you want to go to the cinema?"
+    ]
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-sortir-on-se-retrouve",
+   "theme": "sortir",
+   "fr": "On se retrouve devant la gare à sept heures ?",
+   "en": "Shall we meet outside the station at seven?"
+  },
+  {
+   "id": "ph-sortir-bonne-idee",
+   "theme": "sortir",
+   "fr": "Bonne idée !",
+   "en": "Sounds good!",
+   "variantes": {
+    "fr": [
+     "Ça marche !"
+    ],
+    "en": [
+     "Sounds great!",
+     "Good idea!"
+    ]
+   }
+  },
+  {
+   "id": "ph-sortir-je-ne-peux-pas",
+   "theme": "sortir",
+   "fr": "Désolé, je ne peux pas venir.",
+   "en": "I’m sorry, I can’t make it.",
+   "variantes": {
+    "fr": [
+     "Désolée, je ne vais pas pouvoir venir."
+    ],
+    "en": [
+     "Sorry, I can’t come."
+    ]
+   }
+  },
+  {
+   "id": "ph-sortir-une-autre-fois",
+   "theme": "sortir",
+   "fr": "Une autre fois, peut-être ?",
+   "en": "Maybe another time?"
+  },
+  {
+   "id": "ph-sortir-en-retard-rdv",
+   "theme": "sortir",
+   "fr": "J’ai dix minutes de retard.",
+   "en": "I’m running ten minutes late.",
+   "variantes": {
+    "fr": [
+     "Je vais avoir dix minutes de retard."
+    ],
+    "en": [
+     "I’ll be ten minutes late."
+    ]
+   }
+  },
+  {
+   "id": "ph-sortir-invitation",
+   "theme": "sortir",
+   "fr": "Tu veux venir dîner à la maison vendredi ?",
+   "en": "Would you like to come round for dinner on Friday?",
+   "variantes": {
+    "fr": [
+     "Vous voulez venir dîner vendredi ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-sortir-apporter",
+   "theme": "sortir",
+   "fr": "J’apporte quelque chose ?",
+   "en": "Shall I bring anything?"
+  },
+  {
+   "id": "ph-sortir-super-soiree",
+   "theme": "sortir",
+   "fr": "Merci pour cette super soirée !",
+   "en": "Thanks for a lovely evening!",
+   "variantes": {
+    "fr": [
+     "Merci pour cette excellente soirée !"
+    ],
+    "en": [
+     "Thanks for a great evening!"
+    ]
+   }
+  },
+  {
+   "id": "ph-sortir-bonne-soiree",
+   "theme": "sortir",
+   "fr": "Bonne soirée !",
+   "en": "Have a good evening!"
+  },
+  {
+   "id": "ph-conversation-quel-temps",
+   "theme": "conversation",
+   "fr": "Il fait beau aujourd’hui, hein ?",
+   "en": "Lovely weather today, isn’t it?",
+   "situation": {
+    "fr": "Parler du temps est le grand classique de la conversation britannique — pour engager la discussion, pas pour donner la météo.",
+    "en": "The classic British opener."
+   },
+   "variantes": {
+    "fr": [
+     "Belle journée, n’est-ce pas ?"
+    ],
+    "en": [
+     "Nice day, isn’t it?"
+    ]
+   }
+  },
+  {
+   "id": "ph-conversation-il-pleut-encore",
+   "theme": "conversation",
+   "fr": "Il pleut encore !",
+   "en": "It’s raining again!"
+  },
+  {
+   "id": "ph-conversation-ce-week-end",
+   "theme": "conversation",
+   "fr": "Tu as passé un bon week-end ?",
+   "en": "Did you have a good weekend?",
+   "variantes": {
+    "fr": [
+     "Vous avez passé un bon week-end ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-conversation-qu-as-tu-fait",
+   "theme": "conversation",
+   "fr": "Qu’est-ce que tu as fait de beau ?",
+   "en": "What did you get up to?",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "What did you do?"
+    ]
+   }
+  },
+  {
+   "id": "ph-conversation-rien-de-special",
+   "theme": "conversation",
+   "fr": "Pas grand-chose, je me suis reposé.",
+   "en": "Nothing much, I just relaxed.",
+   "variantes": {
+    "fr": [
+     "Rien de spécial, je me suis reposée."
+    ],
+    "en": [
+     "Not much, just chilled out."
+    ]
+   }
+  },
+  {
+   "id": "ph-conversation-tu-aimes",
+   "theme": "conversation",
+   "fr": "Qu’est-ce que tu aimes faire pendant ton temps libre ?",
+   "en": "What do you like doing in your free time?"
+  },
+  {
+   "id": "ph-conversation-j-adore",
+   "theme": "conversation",
+   "fr": "J’adore lire et me promener.",
+   "en": "I love reading and going for walks."
+  },
+  {
+   "id": "ph-conversation-tu-as-vu",
+   "theme": "conversation",
+   "fr": "Tu as vu la dernière série sur Netflix ?",
+   "en": "Have you seen the latest series on Netflix?"
+  },
+  {
+   "id": "ph-conversation-a-mon-avis",
+   "theme": "conversation",
+   "fr": "À mon avis, c’est un peu trop long.",
+   "en": "In my opinion, it’s a bit too long.",
+   "variantes": {
+    "fr": [
+     "Je trouve que c’est un peu long."
+    ],
+    "en": [
+     "I think it’s a bit too long."
+    ]
+   }
+  },
+  {
+   "id": "ph-conversation-vraiment",
+   "theme": "conversation",
+   "fr": "Ah bon ? Je ne savais pas.",
+   "en": "Really? I didn’t know that.",
+   "variantes": {
+    "fr": [
+     "C’est vrai ? Je ne savais pas."
+    ],
+    "en": [
+     "Really? I had no idea."
+    ]
+   }
+  },
+  {
+   "id": "ph-conversation-c-est-genial",
+   "theme": "conversation",
+   "fr": "C’est génial !",
+   "en": "That’s brilliant!",
+   "variantes": {
+    "fr": [
+     "C’est super !"
+    ],
+    "en": [
+     "That’s amazing!",
+     "That’s awesome!"
+    ]
+   },
+   "registre": "familier"
+  },
+  {
+   "id": "ph-conversation-dommage",
+   "theme": "conversation",
+   "fr": "Oh, quel dommage !",
+   "en": "Oh, what a shame!",
+   "variantes": {
+    "fr": [
+     "C’est dommage !"
+    ],
+    "en": [
+     "Oh no, that’s a pity!"
+    ]
+   }
+  },
+  {
+   "id": "ph-conversation-depuis-combien",
+   "theme": "conversation",
+   "fr": "Tu habites ici depuis combien de temps ?",
+   "en": "How long have you lived here?",
+   "situation": {
+    "fr": "« Depuis combien de temps » : present perfect en anglais, présent en français.",
+    "en": "Present perfect in English."
+   },
+   "variantes": {
+    "fr": [
+     "Depuis combien de temps habitez-vous ici ?"
+    ],
+    "en": []
+   }
+  },
+  {
+   "id": "ph-numerique-ca-ne-charge-pas",
+   "theme": "numerique",
+   "fr": "La page ne se charge pas.",
+   "en": "The page won’t load.",
+   "variantes": {
+    "fr": [],
+    "en": [
+     "The page isn’t loading."
+    ]
+   }
+  },
+  {
+   "id": "ph-numerique-mot-de-passe-oublie",
+   "theme": "numerique",
+   "fr": "J’ai oublié mon mot de passe.",
+   "en": "I’ve forgotten my password."
+  },
+  {
+   "id": "ph-numerique-redemarrer",
+   "theme": "numerique",
+   "fr": "Tu as essayé de l’éteindre et de le rallumer ?",
+   "en": "Have you tried turning it off and on again?"
+  },
+  {
+   "id": "ph-numerique-pas-de-reseau",
+   "theme": "numerique",
+   "fr": "Je n’ai pas de réseau ici.",
+   "en": "I’ve got no signal here.",
+   "variantes": {
+    "fr": [
+     "Ça ne capte pas ici."
+    ],
+    "en": [
+     "There’s no signal here."
+    ]
+   }
+  },
+  {
+   "id": "ph-numerique-mise-a-jour",
+   "theme": "numerique",
+   "fr": "Mon téléphone fait une mise à jour.",
+   "en": "My phone is updating."
+  },
+  {
+   "id": "ph-numerique-envoie-lien",
+   "theme": "numerique",
+   "fr": "Tu peux m’envoyer le lien ?",
+   "en": "Can you send me the link?"
+  },
+  {
+   "id": "ph-numerique-capture",
+   "theme": "numerique",
+   "fr": "Je t’envoie une capture d’écran.",
+   "en": "I’ll send you a screenshot."
+  },
+  {
+   "id": "ph-numerique-appli",
+   "theme": "numerique",
+   "fr": "Tu as téléchargé l’appli ?",
+   "en": "Have you downloaded the app?"
+  },
+  {
+   "id": "ph-numerique-photo-groupe",
+   "theme": "numerique",
+   "fr": "Je mets les photos dans le groupe.",
+   "en": "I’ll post the photos in the group chat."
+  }
+ ],
+ "dialogues": [
+  {
+   "id": "dg-salutations-premier-jour",
+   "theme": "salutations",
+   "registre": "poli",
+   "titre": {
+    "fr": "Le premier jour au bureau",
+    "en": "First day at the office"
+   },
+   "roles": {
+    "A": {
+     "fr": "La collègue",
+     "en": "Colleague"
+    },
+    "B": {
+     "fr": "Le nouveau",
+     "en": "New starter"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Hi, you must be the new starter. I’m Sarah.",
+     "fr": "Bonjour, vous devez être le nouveau. Moi, c’est Sarah."
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "That’s right. My name’s Tom. Nice to meet you.",
+     "fr": "C’est ça. Je m’appelle Tom. Enchanté."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Nice to meet you too. Where are you from, Tom?",
+     "fr": "Enchantée également. D’où venez-vous, Tom ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "I’m from Lyon, in France.",
+     "fr": "Je viens de Lyon, en France.",
+     "phrase": "ph-salutations-je-viens-de"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Welcome to London! Let me introduce you to the team.",
+     "fr": "Bienvenue à Londres ! Je vais vous présenter l’équipe."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Thank you, that’s very kind.",
+     "fr": "Merci, c’est très gentil."
+    }
+   ]
+  },
+  {
+   "id": "dg-salutations-retrouvailles",
+   "theme": "salutations",
+   "registre": "familier",
+   "titre": {
+    "fr": "Des retrouvailles",
+    "en": "Bumping into an old friend"
+   },
+   "roles": {
+    "A": {
+     "fr": "Jess",
+     "en": "Jess"
+    },
+    "B": {
+     "fr": "Léo",
+     "en": "Léo"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Léo? Long time no see!",
+     "fr": "Léo ? Ça fait longtemps !",
+     "phrase": "ph-salutations-longtemps"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Jess! Hi! How’s it going?",
+     "fr": "Jess ! Salut ! Ça va ?",
+     "phrase": "ph-salutations-salut"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Not bad, thanks. What are you up to these days?",
+     "fr": "Pas mal, merci. Qu’est-ce que tu deviens ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "I’ve just started a new job in Bristol.",
+     "fr": "Je viens de commencer un nouveau boulot à Bristol."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "That’s great! We should grab a coffee sometime.",
+     "fr": "Génial ! Il faudrait qu’on prenne un café un de ces jours."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Definitely. See you later!",
+     "fr": "Carrément. À plus !",
+     "phrase": "ph-salutations-a-plus"
+    }
+   ]
+  },
+  {
+   "id": "dg-politesse-bousculade",
+   "theme": "politesse",
+   "registre": "poli",
+   "titre": {
+    "fr": "Une bousculade dans le métro",
+    "en": "A bump on the Tube"
+   },
+   "roles": {
+    "A": {
+     "fr": "La voyageuse",
+     "en": "Passenger"
+    },
+    "B": {
+     "fr": "Le voyageur",
+     "en": "Traveller"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Oh, I’m so sorry! Are you all right?",
+     "fr": "Oh, je suis vraiment désolée ! Ça va ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Don’t worry about it, I’m fine.",
+     "fr": "Ce n’est pas grave, ça va.",
+     "phrase": "ph-politesse-ca-ne-fait-rien"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "It’s so crowded this morning.",
+     "fr": "Il y a tellement de monde ce matin."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Tell me about it! Excuse me, can I get past? This is my stop.",
+     "fr": "À qui le dites-vous ! Pardon, je peux passer ? C’est mon arrêt."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Of course, after you.",
+     "fr": "Bien sûr, après vous."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Thanks, have a nice day!",
+     "fr": "Merci, bonne journée !"
+    }
+   ]
+  },
+  {
+   "id": "dg-comprendre-mot-inconnu",
+   "theme": "comprendre",
+   "registre": "",
+   "titre": {
+    "fr": "Un mot inconnu",
+    "en": "A word I didn’t know"
+   },
+   "roles": {
+    "A": {
+     "fr": "Emma",
+     "en": "Emma"
+    },
+    "B": {
+     "fr": "Hugo",
+     "en": "Hugo"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "I’m absolutely knackered after that walk.",
+     "fr": "Je suis complètement crevée après cette balade."
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Sorry? What does “knackered” mean?",
+     "fr": "Pardon ? Que veut dire « knackered » ?",
+     "phrase": "ph-comprendre-que-veut-dire"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "It means very tired. It’s quite informal.",
+     "fr": "Ça veut dire très fatigué. C’est assez familier."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "I see. How do you spell that?",
+     "fr": "Je vois. Comment ça s’écrit ?",
+     "phrase": "ph-comprendre-comment-ca-s-ecrit"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "K-N-A-C-K-E-R-E-D.",
+     "fr": "K-N-A-C-K-E-R-E-D."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Thanks! I’ll write it down.",
+     "fr": "Merci ! Je le note."
+    }
+   ]
+  },
+  {
+   "id": "dg-chemin-musee",
+   "theme": "chemin",
+   "registre": "poli",
+   "titre": {
+    "fr": "Le chemin du musée",
+    "en": "The way to the museum"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le touriste",
+     "en": "Tourist"
+    },
+    "B": {
+     "fr": "La passante",
+     "en": "Passer-by"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Excuse me, how do I get to the British Museum?",
+     "fr": "Excusez-moi, comment aller au British Museum ?",
+     "phrase": "ph-chemin-comment-aller"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Go straight on, then take the second left.",
+     "fr": "Allez tout droit, puis prenez la deuxième à gauche.",
+     "phrase": "ph-chemin-tout-droit"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Is it far from here?",
+     "fr": "C’est loin d’ici ?",
+     "phrase": "ph-chemin-c-est-loin"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "No, it’s about ten minutes on foot.",
+     "fr": "Non, c’est à une dizaine de minutes à pied."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Could you show me on the map?",
+     "fr": "Vous pouvez me montrer sur la carte ?",
+     "phrase": "ph-chemin-sur-la-carte"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Sure. We’re here, and the museum is just there, opposite the park.",
+     "fr": "Bien sûr. On est ici, et le musée est juste là, en face du parc."
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "Brilliant, thank you very much!",
+     "fr": "Parfait, merci beaucoup !"
+    },
+    {
+     "id": "r8",
+     "qui": "B",
+     "en": "You’re welcome. Enjoy the museum!",
+     "fr": "Je vous en prie. Bonne visite !"
+    }
+   ]
+  },
+  {
+   "id": "dg-chemin-perdu-quartier",
+   "theme": "chemin",
+   "registre": "familier",
+   "titre": {
+    "fr": "Perdu dans le quartier",
+    "en": "Lost in the neighbourhood"
+   },
+   "roles": {
+    "A": {
+     "fr": "Nina",
+     "en": "Nina"
+    },
+    "B": {
+     "fr": "Sam",
+     "en": "Sam"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Sam, I think I’m lost. Where are you?",
+     "fr": "Sam, je crois que je suis perdue. Tu es où ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "I’m outside the café. What can you see?",
+     "fr": "Je suis devant le café. Qu’est-ce que tu vois ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "There’s a big supermarket and a bus stop.",
+     "fr": "Il y a un grand supermarché et un arrêt de bus."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "OK, turn right at the traffic lights. The café is just around the corner.",
+     "fr": "OK, tourne à droite au feu. Le café est juste au coin de la rue."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Got it. See you in two minutes!",
+     "fr": "Compris. À dans deux minutes !"
+    }
+   ]
+  },
+  {
+   "id": "dg-transports-gare",
+   "theme": "transports",
+   "registre": "poli",
+   "titre": {
+    "fr": "Au guichet de la gare",
+    "en": "At the ticket office"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le voyageur",
+     "en": "Traveller"
+    },
+    "B": {
+     "fr": "L’agente",
+     "en": "Ticket clerk"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Hello. A day return to Oxford, please.",
+     "fr": "Bonjour. Un aller-retour dans la journée pour Oxford, s’il vous plaît."
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "That’s thirty-two pounds fifty. Are you paying by card?",
+     "fr": "Ça fait trente-deux livres cinquante. Vous payez par carte ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Yes, please. What time is the next train?",
+     "fr": "Oui. À quelle heure est le prochain train ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "There’s one at 10:15.",
+     "fr": "Il y en a un à 10 h 15."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Which platform does it leave from?",
+     "fr": "Il part de quel quai ?",
+     "phrase": "ph-transports-quel-quai"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Platform four. It’s delayed by five minutes, though.",
+     "fr": "Quai quatre. Mais il a cinq minutes de retard."
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "No problem. Thanks for your help.",
+     "fr": "Pas de souci. Merci pour votre aide."
+    }
+   ]
+  },
+  {
+   "id": "dg-transports-taxi-aeroport",
+   "theme": "transports",
+   "registre": "",
+   "titre": {
+    "fr": "Un taxi pour l’aéroport",
+    "en": "A taxi to the airport"
+   },
+   "roles": {
+    "A": {
+     "fr": "La cliente",
+     "en": "Passenger"
+    },
+    "B": {
+     "fr": "Le chauffeur",
+     "en": "Driver"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "To Heathrow Airport, please. Terminal five.",
+     "fr": "À l’aéroport d’Heathrow, s’il vous plaît. Terminal cinq.",
+     "phrase": "ph-transports-a-l-aeroport"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "No problem. What time is your flight?",
+     "fr": "Pas de problème. Votre vol est à quelle heure ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Two o’clock. Will we get there in time?",
+     "fr": "À quatorze heures. On arrivera à temps ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Should be fine. The traffic’s not too bad today.",
+     "fr": "Ça devrait aller. Il n’y a pas trop de circulation aujourd’hui."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Great. Can I pay by card?",
+     "fr": "Parfait. Je peux payer par carte ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Of course.",
+     "fr": "Bien sûr."
+    }
+   ]
+  },
+  {
+   "id": "dg-hotel-arrivee-hotel",
+   "theme": "hotel",
+   "registre": "poli",
+   "titre": {
+    "fr": "L’arrivée à l’hôtel",
+    "en": "Checking in"
+   },
+   "roles": {
+    "A": {
+     "fr": "La cliente",
+     "en": "Guest"
+    },
+    "B": {
+     "fr": "Le réceptionniste",
+     "en": "Receptionist"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Good evening. I’ve booked a double room for two nights.",
+     "fr": "Bonsoir. J’ai réservé une chambre double pour deux nuits.",
+     "phrase": "ph-hotel-reservation"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Welcome. What name is it under?",
+     "fr": "Bienvenue. À quel nom, s’il vous plaît ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Martin. M-A-R-T-I-N.",
+     "fr": "Martin. M-A-R-T-I-N."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Here we are. You’re in room 214, on the second floor.",
+     "fr": "Voilà. Vous êtes à la chambre 214, au deuxième étage."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Is breakfast included?",
+     "fr": "Le petit-déjeuner est compris ?",
+     "phrase": "ph-hotel-petit-dej-compris"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Yes, it’s served from seven till ten in the dining room.",
+     "fr": "Oui, il est servi de sept à dix heures dans la salle à manger."
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "And what’s the Wi-Fi password?",
+     "fr": "Et quel est le code du wifi ?",
+     "phrase": "ph-hotel-wifi"
+    },
+    {
+     "id": "r8",
+     "qui": "B",
+     "en": "It’s on the back of your key card. Enjoy your stay!",
+     "fr": "Il est au dos de votre carte-clé. Bon séjour !"
+    }
+   ]
+  },
+  {
+   "id": "dg-hotel-probleme-chambre",
+   "theme": "hotel",
+   "registre": "poli",
+   "titre": {
+    "fr": "Un problème dans la chambre",
+    "en": "A problem with the room"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le client",
+     "en": "Guest"
+    },
+    "B": {
+     "fr": "La réceptionniste",
+     "en": "Receptionist"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Hello, I’m in room 214. The heating isn’t working.",
+     "fr": "Bonjour, je suis à la chambre 214. Le chauffage ne marche pas."
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "I’m so sorry. I’ll send someone up straight away.",
+     "fr": "Je suis vraiment désolée. J’envoie quelqu’un tout de suite."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Thank you. Could I have some more towels, too?",
+     "fr": "Merci. Je pourrais aussi avoir d’autres serviettes ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Of course. Anything else?",
+     "fr": "Bien sûr. Autre chose ?"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "No, that’s all. Thanks very much.",
+     "fr": "Non, c’est tout. Merci beaucoup."
+    }
+   ]
+  },
+  {
+   "id": "dg-restaurant-commande-restaurant",
+   "theme": "restaurant",
+   "registre": "poli",
+   "titre": {
+    "fr": "Commander au restaurant",
+    "en": "Ordering a meal"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le serveur",
+     "en": "Waiter"
+    },
+    "B": {
+     "fr": "La cliente",
+     "en": "Customer"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Good evening. Are you ready to order?",
+     "fr": "Bonsoir. Vous avez choisi ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Almost. What would you recommend?",
+     "fr": "Presque. Qu’est-ce que vous nous conseillez ?",
+     "phrase": "ph-restaurant-que-conseillez-vous"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "The fish pie is very popular.",
+     "fr": "La tourte au poisson a beaucoup de succès."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Lovely, I’ll have that. And could we have some tap water, please?",
+     "fr": "Parfait, je vais prendre ça. Et nous pourrions avoir une carafe d’eau, s’il vous plaît ?"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Of course. Any starters?",
+     "fr": "Bien sûr. Des entrées ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "No, thanks. Just the main course.",
+     "fr": "Non merci. Juste le plat."
+    }
+   ]
+  },
+  {
+   "id": "dg-restaurant-au-pub",
+   "theme": "restaurant",
+   "registre": "familier",
+   "titre": {
+    "fr": "Au pub",
+    "en": "At the pub"
+   },
+   "roles": {
+    "A": {
+     "fr": "Olivia",
+     "en": "Olivia"
+    },
+    "B": {
+     "fr": "Karim",
+     "en": "Karim"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "It’s my round. What are you having?",
+     "fr": "C’est ma tournée. Qu’est-ce que tu prends ?",
+     "phrase": "ph-restaurant-ma-tournee"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "A pint of cider, please.",
+     "fr": "Une pinte de cidre, s’il te plaît."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Crisps?",
+     "fr": "Des chips ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Go on then. Salt and vinegar.",
+     "fr": "Allez. Sel et vinaigre."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Cheers!",
+     "fr": "Santé !",
+     "phrase": "ph-politesse-sante"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Cheers! Next one’s on me.",
+     "fr": "Santé ! La prochaine est pour moi."
+    }
+   ]
+  },
+  {
+   "id": "dg-restaurant-addition",
+   "theme": "restaurant",
+   "registre": "",
+   "titre": {
+    "fr": "Payer l’addition",
+    "en": "Paying the bill"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le client",
+     "en": "Customer"
+    },
+    "B": {
+     "fr": "La serveuse",
+     "en": "Waitress"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Excuse me, could we have the bill, please?",
+     "fr": "Excusez-moi, l’addition, s’il vous plaît.",
+     "phrase": "ph-restaurant-l-addition"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Of course. Was everything all right?",
+     "fr": "Bien sûr. Tout s’est bien passé ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Yes, it was delicious, thank you.",
+     "fr": "Oui, c’était délicieux, merci."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "I’ll bring the card machine.",
+     "fr": "Je vous apporte le terminal de paiement."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Is service included?",
+     "fr": "Le service est compris ?",
+     "phrase": "ph-restaurant-service-compris"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Yes, there’s a twelve and a half per cent service charge.",
+     "fr": "Oui, il y a douze et demi pour cent de service."
+    }
+   ]
+  },
+  {
+   "id": "dg-courses-vetements",
+   "theme": "courses",
+   "registre": "poli",
+   "titre": {
+    "fr": "Dans une boutique de vêtements",
+    "en": "In a clothes shop"
+   },
+   "roles": {
+    "A": {
+     "fr": "La vendeuse",
+     "en": "Shop assistant"
+    },
+    "B": {
+     "fr": "Le client",
+     "en": "Customer"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Hello, can I help you?",
+     "fr": "Bonjour, je peux vous aider ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "I’m just looking, thanks… Actually, have you got this jumper in a bigger size?",
+     "fr": "Je regarde, merci… En fait, vous avez ce pull dans une taille au-dessus ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Let me check… Yes, here’s a large.",
+     "fr": "Je regarde… Oui, voici un L."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Can I try it on?",
+     "fr": "Je peux l’essayer ?",
+     "phrase": "ph-courses-essayer"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Of course, the changing rooms are over there.",
+     "fr": "Bien sûr, les cabines sont là-bas."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "It fits perfectly. I’ll take it. Can I pay contactless?",
+     "fr": "Il me va parfaitement. Je le prends. Je peux payer sans contact ?"
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "Yes, of course. Do you need a bag?",
+     "fr": "Oui, bien sûr. Il vous faut un sac ?"
+    },
+    {
+     "id": "r8",
+     "qui": "B",
+     "en": "No, I’ve got one, thanks.",
+     "fr": "Non, j’en ai un, merci."
+    }
+   ]
+  },
+  {
+   "id": "dg-courses-retour-article",
+   "theme": "courses",
+   "registre": "poli",
+   "titre": {
+    "fr": "Rendre un article",
+    "en": "Returning an item"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le client",
+     "en": "Customer"
+    },
+    "B": {
+     "fr": "La vendeuse",
+     "en": "Shop assistant"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Hi, I’d like to return this. It’s too small.",
+     "fr": "Bonjour, je voudrais rapporter cet article. Il est trop petit."
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "No problem. Have you got the receipt?",
+     "fr": "Pas de problème. Vous avez le ticket de caisse ?",
+     "phrase": "ph-courses-ticket"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Yes, here you are.",
+     "fr": "Oui, le voici."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Would you like a refund or an exchange?",
+     "fr": "Vous préférez un remboursement ou un échange ?"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "A refund, please.",
+     "fr": "Un remboursement, s’il vous plaît."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "That’s done. The money will be back on your card in a few days.",
+     "fr": "C’est fait. L’argent sera recrédité sur votre carte d’ici quelques jours."
+    }
+   ]
+  },
+  {
+   "id": "dg-sante-pharmacie",
+   "theme": "sante",
+   "registre": "poli",
+   "titre": {
+    "fr": "À la pharmacie",
+    "en": "At the chemist’s"
+   },
+   "roles": {
+    "A": {
+     "fr": "La cliente",
+     "en": "Customer"
+    },
+    "B": {
+     "fr": "Le pharmacien",
+     "en": "Pharmacist"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Hello. I’ve got a sore throat and a bit of a temperature.",
+     "fr": "Bonjour. J’ai mal à la gorge et un peu de fièvre."
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "How long have you had it?",
+     "fr": "Depuis combien de temps ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Since yesterday.",
+     "fr": "Depuis hier."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "These lozenges should help, and take paracetamol for the fever.",
+     "fr": "Ces pastilles devraient vous soulager, et prenez du paracétamol pour la fièvre."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Do I need a prescription?",
+     "fr": "Il faut une ordonnance ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "No, you don’t. If it’s not better in three days, see a doctor.",
+     "fr": "Non. Si ça ne va pas mieux dans trois jours, allez voir un médecin."
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "Thank you very much.",
+     "fr": "Merci beaucoup.",
+     "phrase": "ph-politesse-merci-beaucoup"
+    }
+   ]
+  },
+  {
+   "id": "dg-sante-urgences",
+   "theme": "sante",
+   "registre": "",
+   "titre": {
+    "fr": "Aux urgences",
+    "en": "In A&E"
+   },
+   "roles": {
+    "A": {
+     "fr": "L’infirmière",
+     "en": "Nurse"
+    },
+    "B": {
+     "fr": "Le patient",
+     "en": "Patient"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "What seems to be the problem?",
+     "fr": "Qu’est-ce qui vous amène ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "I fell off my bike and I think I’ve broken my wrist.",
+     "fr": "Je suis tombé de vélo et je crois que je me suis cassé le poignet."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Can you move your fingers?",
+     "fr": "Vous pouvez bouger les doigts ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Yes, but it really hurts.",
+     "fr": "Oui, mais ça fait très mal."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "We’ll do an X-ray. Are you allergic to anything?",
+     "fr": "On va faire une radio. Vous êtes allergique à quelque chose ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Yes, I’m allergic to penicillin.",
+     "fr": "Oui, je suis allergique à la pénicilline.",
+     "phrase": "ph-sante-allergique"
+    }
+   ]
+  },
+  {
+   "id": "dg-telephone-appel-bureau",
+   "theme": "telephone",
+   "registre": "poli",
+   "titre": {
+    "fr": "Un appel au bureau",
+    "en": "A work call"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le standardiste",
+     "en": "Receptionist"
+    },
+    "B": {
+     "fr": "La cliente",
+     "en": "Caller"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Good morning, Harris and Co. How can I help?",
+     "fr": "Bonjour, Harris and Co. Que puis-je pour vous ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Hello, could I speak to Ms Taylor, please?",
+     "fr": "Bonjour, pourrais-je parler à Mme Taylor, s’il vous plaît ?",
+     "phrase": "ph-telephone-je-voudrais-parler"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "I’m afraid she’s in a meeting. Can I take a message?",
+     "fr": "Je suis désolé, elle est en réunion. Voulez-vous laisser un message ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Yes, please. It’s Anne Dubois, about the invoice.",
+     "fr": "Oui. C’est Anne Dubois, au sujet de la facture."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Could you spell your surname?",
+     "fr": "Pourriez-vous épeler votre nom ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "D-U-B-O-I-S. My number is 07700 900 123.",
+     "fr": "D-U-B-O-I-S. Mon numéro est le 07700 900 123."
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "Thank you. I’ll ask her to call you back.",
+     "fr": "Merci. Je lui demande de vous rappeler."
+    }
+   ]
+  },
+  {
+   "id": "dg-travail-visio",
+   "theme": "travail",
+   "registre": "",
+   "titre": {
+    "fr": "Une réunion en visio",
+    "en": "A video call"
+   },
+   "roles": {
+    "A": {
+     "fr": "Laura",
+     "en": "Laura"
+    },
+    "B": {
+     "fr": "Mehdi",
+     "en": "Mehdi"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Morning, everyone. Can you all hear me?",
+     "fr": "Bonjour à tous. Vous m’entendez ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Yes, loud and clear.",
+     "fr": "Oui, très bien."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Great. Can you see my screen?",
+     "fr": "Parfait. Vous voyez mon écran ?",
+     "phrase": "ph-travail-partage-ecran"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Not yet… Now it’s working.",
+     "fr": "Pas encore… Maintenant, ça marche."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "So, the first thing on the agenda is the new website. Mehdi?",
+     "fr": "Bon, le premier point à l’ordre du jour, c’est le nouveau site. Mehdi ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Sorry, I was on mute. The design is almost ready.",
+     "fr": "Pardon, j’avais coupé mon micro. La maquette est presque prête."
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "When’s the deadline?",
+     "fr": "C’est pour quand ?",
+     "phrase": "ph-travail-date-limite"
+    },
+    {
+     "id": "r8",
+     "qui": "B",
+     "en": "Friday. I’ll send you an email this afternoon.",
+     "fr": "Vendredi. Je t’envoie un mail cet après-midi."
+    }
+   ]
+  },
+  {
+   "id": "dg-travail-entretien",
+   "theme": "travail",
+   "registre": "poli",
+   "titre": {
+    "fr": "Un entretien d’embauche",
+    "en": "A job interview"
+   },
+   "roles": {
+    "A": {
+     "fr": "La recruteuse",
+     "en": "Interviewer"
+    },
+    "B": {
+     "fr": "Le candidat",
+     "en": "Candidate"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Thanks for coming in. Could you tell me a bit about yourself?",
+     "fr": "Merci d’être venu. Pouvez-vous vous présenter en quelques mots ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Of course. I’m a web developer, and I’ve been working in Paris for five years.",
+     "fr": "Bien sûr. Je suis développeur web, et je travaille à Paris depuis cinq ans."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Why do you want to work for us?",
+     "fr": "Pourquoi voulez-vous travailler chez nous ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "I love your products, and I’d like to work in an international team.",
+     "fr": "J’aime beaucoup vos produits, et je voudrais travailler dans une équipe internationale."
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "What are your strengths?",
+     "fr": "Quels sont vos points forts ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "I’m organised and I learn quickly.",
+     "fr": "Je suis organisé et j’apprends vite."
+    },
+    {
+     "id": "r7",
+     "qui": "A",
+     "en": "Great. Do you have any questions for us?",
+     "fr": "Très bien. Avez-vous des questions ?"
+    },
+    {
+     "id": "r8",
+     "qui": "B",
+     "en": "Yes. Is it possible to work from home some days?",
+     "fr": "Oui. Est-il possible de télétravailler certains jours ?"
+    }
+   ]
+  },
+  {
+   "id": "dg-sortir-cinema",
+   "theme": "sortir",
+   "registre": "familier",
+   "titre": {
+    "fr": "Une sortie au cinéma",
+    "en": "A trip to the cinema"
+   },
+   "roles": {
+    "A": {
+     "fr": "Chloé",
+     "en": "Chloé"
+    },
+    "B": {
+     "fr": "Ben",
+     "en": "Ben"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Do you fancy going to the cinema on Saturday?",
+     "fr": "Ça te dit d’aller au ciné samedi ?",
+     "phrase": "ph-sortir-ca-te-dit"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Sounds good! What’s on?",
+     "fr": "Bonne idée ! Qu’est-ce qui passe ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "The new Bond film. It starts at eight.",
+     "fr": "Le nouveau James Bond. Il commence à vingt heures."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Shall we meet outside the station at seven?",
+     "fr": "On se retrouve devant la gare à sept heures ?",
+     "phrase": "ph-sortir-on-se-retrouve"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Perfect. We can get something to eat first.",
+     "fr": "Parfait. On pourra manger un bout avant."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Great. See you on Saturday!",
+     "fr": "Génial. À samedi !"
+    }
+   ]
+  },
+  {
+   "id": "dg-sortir-diner-chez-amis",
+   "theme": "sortir",
+   "registre": "",
+   "titre": {
+    "fr": "Un dîner chez des amis",
+    "en": "Dinner at a friend’s"
+   },
+   "roles": {
+    "A": {
+     "fr": "Hannah",
+     "en": "Hannah"
+    },
+    "B": {
+     "fr": "Pierre",
+     "en": "Pierre"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Would you like to come round for dinner on Friday?",
+     "fr": "Tu veux venir dîner à la maison vendredi ?",
+     "phrase": "ph-sortir-invitation"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "I’d love to, thanks. Shall I bring anything?",
+     "fr": "Avec plaisir, merci. J’apporte quelque chose ?"
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Maybe a bottle of wine?",
+     "fr": "Peut-être une bouteille de vin ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Of course. What time?",
+     "fr": "Bien sûr. À quelle heure ?"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "About half past seven.",
+     "fr": "Vers sept heures et demie."
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Brilliant. See you then!",
+     "fr": "Parfait. À vendredi !"
+    }
+   ]
+  },
+  {
+   "id": "dg-conversation-meteo-arret-bus",
+   "theme": "conversation",
+   "registre": "",
+   "titre": {
+    "fr": "À l’arrêt de bus",
+    "en": "At the bus stop"
+   },
+   "roles": {
+    "A": {
+     "fr": "La dame",
+     "en": "Lady"
+    },
+    "B": {
+     "fr": "Le jeune homme",
+     "en": "Young man"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Lovely weather today, isn’t it?",
+     "fr": "Il fait beau aujourd’hui, hein ?",
+     "phrase": "ph-conversation-quel-temps"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Yes, finally! It rained all last week.",
+     "fr": "Oui, enfin ! Il a plu toute la semaine dernière."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "They say it’s going to rain again tomorrow.",
+     "fr": "Ils annoncent de la pluie pour demain."
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Typical! Is the 38 usually on time?",
+     "fr": "Évidemment ! Le 38 est à l’heure, d’habitude ?"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Not really. Oh, here it comes!",
+     "fr": "Pas vraiment. Oh, le voilà !"
+    }
+   ]
+  },
+  {
+   "id": "dg-conversation-lundi-matin",
+   "theme": "conversation",
+   "registre": "familier",
+   "titre": {
+    "fr": "Le lundi matin",
+    "en": "Monday morning"
+   },
+   "roles": {
+    "A": {
+     "fr": "Amy",
+     "en": "Amy"
+    },
+    "B": {
+     "fr": "Lucas",
+     "en": "Lucas"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Morning! Did you have a good weekend?",
+     "fr": "Salut ! Tu as passé un bon week-end ?",
+     "phrase": "ph-conversation-ce-week-end"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Yes, thanks. I went walking in the Peak District.",
+     "fr": "Oui, merci. Je suis allé randonner dans le Peak District."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Lucky you! What was it like?",
+     "fr": "Veinard ! C’était comment ?"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Beautiful, but I’m knackered now. What did you get up to?",
+     "fr": "Magnifique, mais maintenant je suis crevé. Et toi, qu’est-ce que tu as fait de beau ?"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Nothing much, I just relaxed.",
+     "fr": "Pas grand-chose, je me suis reposée.",
+     "phrase": "ph-conversation-rien-de-special"
+    }
+   ]
+  },
+  {
+   "id": "dg-numerique-wifi-cafe",
+   "theme": "numerique",
+   "registre": "",
+   "titre": {
+    "fr": "Le wifi du café",
+    "en": "Café Wi-Fi"
+   },
+   "roles": {
+    "A": {
+     "fr": "Le client",
+     "en": "Customer"
+    },
+    "B": {
+     "fr": "La barista",
+     "en": "Barista"
+    }
+   },
+   "repliques": [
+    {
+     "id": "r1",
+     "qui": "A",
+     "en": "Hi, do you have Wi-Fi here?",
+     "fr": "Bonjour, vous avez le wifi ici ?"
+    },
+    {
+     "id": "r2",
+     "qui": "B",
+     "en": "Yes, it’s free. The password is on the receipt.",
+     "fr": "Oui, c’est gratuit. Le code est sur le ticket."
+    },
+    {
+     "id": "r3",
+     "qui": "A",
+     "en": "Thanks. Hmm, the page won’t load.",
+     "fr": "Merci. Hum, la page ne se charge pas.",
+     "phrase": "ph-numerique-ca-ne-charge-pas"
+    },
+    {
+     "id": "r4",
+     "qui": "B",
+     "en": "Have you tried turning your Wi-Fi off and on again?",
+     "fr": "Vous avez essayé de couper et de relancer le wifi ?"
+    },
+    {
+     "id": "r5",
+     "qui": "A",
+     "en": "Ah, it’s working now. Could I also charge my phone?",
+     "fr": "Ah, ça marche. Je pourrais aussi recharger mon téléphone ?"
+    },
+    {
+     "id": "r6",
+     "qui": "B",
+     "en": "Sure, there’s a socket by the window.",
+     "fr": "Bien sûr, il y a une prise près de la fenêtre."
+    }
+   ]
+  }
+ ]
+}

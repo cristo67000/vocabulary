@@ -1,0 +1,1285 @@
+# Expressions imagées anglaises, proverbes, verbes à particule, formules.
+# Rédigé pour Vocabulary. « lit-fr » : la traduction mot à mot, pour qu'on
+# voie pourquoi il ne faut pas traduire mot à mot.
+module: expressions
+langue: en
+
+# ————— Expressions anglaises —————
+
+@ spill_the_beans
+w: spill the beans
+t: idiomes-en
+tr: vendre la mèche, cracher le morceau
+nat: locution
+mq: fam
+lit-fr: renverser les haricots
+d-fr: Révéler un secret, souvent par maladresse.
+d-en: To reveal a secret, often by accident.
+x: Come on, spill the beans — who’s your new boyfriend? | Allez, crache le morceau : c’est qui ton nouveau copain ?
+v: let_the_cat_out_of_the_bag, idiomes-fr-vendre_la_meche
+
+@ let_the_cat_out_of_the_bag
+w: let the cat out of the bag
+t: idiomes-en
+tr: vendre la mèche
+nat: locution
+mq: fam
+lit-fr: laisser le chat sortir du sac
+d-fr: Révéler un secret qui devait être gardé.
+d-en: To reveal a secret that was meant to be kept.
+x: I let the cat out of the bag about the surprise party. | J’ai vendu la mèche pour la fête surprise.
+v: spill_the_beans
+
+@ break_a_leg
+w: break a leg
+t: idiomes-en
+tr: merde !, bonne chance
+nat: locution
+mq: fam
+lit-fr: casse-toi une jambe
+d-fr: Se dit à un comédien avant d’entrer en scène : on ne souhaite pas « bonne chance », ça porte malheur.
+d-en: Said to a performer before going on stage, instead of “good luck”, which is thought to bring bad luck.
+n-fr: Le français fait pareil : au théâtre, on dit « merde ! ».
+n-en: French has the same superstition: actors say « merde ! ».
+x: Break a leg tonight! | Merde pour ce soir !
+
+@ raining_cats_and_dogs
+w: it’s raining cats and dogs
+t: idiomes-en
+tr: il pleut des cordes, il tombe des trombes d’eau
+nat: locution
+lit-fr: il pleut des chats et des chiens
+d-fr: Il pleut très fort.
+d-en: It is raining very heavily.
+n-fr: Un peu daté ; au Royaume-Uni on entend plus souvent « it’s chucking it down » ou « it’s pouring ».
+n-en: A bit dated; in the UK you’ll often hear “it’s chucking it down” or “it’s pouring”.
+x: Take an umbrella, it’s raining cats and dogs. | Prends un parapluie, il pleut des cordes.
+v: idiomes-fr-il_pleut_des_cordes
+
+@ piece_of_cake
+w: a piece of cake
+t: idiomes-en
+tr: du gâteau, simple comme bonjour, fastoche
+nat: locution
+mq: fam
+lit-fr: un morceau de gâteau
+d-fr: Une chose très facile.
+d-en: Something very easy.
+x: The exam was a piece of cake. | L’examen, c’était du gâteau.
+
+@ cost_an_arm_and_a_leg
+w: cost an arm and a leg
+t: idiomes-en
+tr: coûter les yeux de la tête, coûter une fortune
+nat: locution
+mq: fam
+lit-fr: coûter un bras et une jambe
+d-fr: Coûter très cher.
+d-en: To be very expensive.
+x: Renting in London costs an arm and a leg. | Louer à Londres coûte les yeux de la tête.
+v: idiomes-fr-couter_les_yeux_de_la_tete
+
+@ once_in_a_blue_moon
+w: once in a blue moon
+t: idiomes-en
+tr: tous les trente-six du mois, très rarement
+nat: locution
+lit-fr: une fois par lune bleue
+d-fr: Très rarement.
+d-en: Very rarely.
+x: He only calls his parents once in a blue moon. | Il n’appelle ses parents que tous les trente-six du mois.
+
+@ kill_two_birds_with_one_stone
+w: kill two birds with one stone
+t: idiomes-en
+tr: faire d’une pierre deux coups
+nat: locution
+lit-fr: tuer deux oiseaux avec une pierre
+d-fr: Obtenir deux résultats par une seule action.
+d-en: To achieve two things with a single action.
+x: I’ll drop the parcel off on my way to work — kill two birds with one stone. | Je déposerai le colis en allant au travail : d’une pierre deux coups.
+
+@ hit_the_nail_on_the_head
+w: hit the nail on the head
+t: idiomes-en
+tr: mettre le doigt dessus, viser juste
+nat: locution
+lit-fr: frapper le clou sur la tête
+d-fr: Dire exactement ce qu’il fallait, trouver la cause juste.
+d-en: To say exactly the right thing, to identify the real cause.
+x: You’ve hit the nail on the head. | Tu as mis le doigt dessus.
+
+@ under_the_weather
+w: under the weather
+t: idiomes-en
+tr: patraque, pas dans son assiette
+nat: locution
+lit-fr: sous le temps
+d-fr: Légèrement malade, pas en forme.
+d-en: Slightly ill.
+x: I’m feeling a bit under the weather today. | Je suis un peu patraque aujourd’hui.
+
+@ bite_the_bullet
+w: bite the bullet
+t: idiomes-en
+tr: serrer les dents, prendre son courage à deux mains
+nat: locution
+lit-fr: mordre la balle
+d-fr: Se résoudre à faire quelque chose de désagréable mais inévitable.
+d-en: To force yourself to do something unpleasant but necessary.
+x: I finally bit the bullet and booked the dentist. | J’ai fini par prendre mon courage à deux mains et appeler le dentiste.
+
+@ call_it_a_day
+w: call it a day
+t: idiomes-en
+tr: en rester là pour aujourd’hui, s’arrêter là
+nat: locution
+lit-fr: l’appeler une journée
+d-fr: Arrêter de travailler, considérer que c’est assez pour aujourd’hui.
+d-en: To stop working for the day.
+x: It’s six o’clock — let’s call it a day. | Il est six heures, on en reste là pour aujourd’hui.
+
+@ get_cold_feet
+w: get cold feet
+t: idiomes-en
+tr: se dégonfler, avoir la trouille au dernier moment
+nat: locution
+mq: fam
+lit-fr: avoir les pieds froids
+d-fr: Hésiter ou renoncer par peur, au dernier moment.
+d-en: To become nervous and back out at the last minute.
+x: He got cold feet the day before the wedding. | Il s’est dégonflé la veille du mariage.
+
+@ pull_someones_leg
+w: pull someone’s leg
+t: idiomes-en
+tr: faire marcher quelqu’un, charrier
+nat: locution
+mq: fam
+lit-fr: tirer la jambe de quelqu’un
+d-fr: Plaisanter en faisant croire quelque chose de faux.
+d-en: To tease someone by telling them something untrue.
+x: Don’t worry, I’m just pulling your leg. | T’inquiète, je te fais marcher.
+
+@ the_last_straw
+w: the last straw
+t: idiomes-en
+tr: la goutte d’eau qui fait déborder le vase
+nat: locution
+lit-fr: la dernière paille
+d-fr: Le petit incident de trop, qui fait éclater une situation déjà tendue.
+d-en: The final problem that makes a situation unbearable.
+x: Losing my keys was the last straw. | Perdre mes clés, c’était la goutte d’eau qui fait déborder le vase.
+
+@ beat_about_the_bush
+w: beat about the bush
+t: idiomes-en
+tr: tourner autour du pot
+nat: locution
+lit-fr: battre autour du buisson
+d-fr: Éviter d’aborder franchement le sujet. (Américain : « beat around the bush ».)
+d-en: To avoid talking about the main point. (US: “beat around the bush”.)
+x: Stop beating about the bush and tell me! | Arrête de tourner autour du pot et dis-le-moi !
+al: beat around the bush
+
+@ blessing_in_disguise
+w: a blessing in disguise
+t: idiomes-en
+tr: un mal pour un bien
+nat: locution
+lit-fr: une bénédiction déguisée
+d-fr: Un ennui qui se révèle finalement bénéfique.
+d-en: Something that seems bad at first but turns out to be good.
+x: Missing that flight was a blessing in disguise. | Rater ce vol a été un mal pour un bien.
+
+@ in_the_same_boat
+w: in the same boat
+t: idiomes-en
+tr: dans la même galère, logés à la même enseigne
+nat: locution
+lit-fr: dans le même bateau
+d-fr: Dans la même situation difficile.
+d-en: In the same difficult situation.
+x: Don’t worry, we’re all in the same boat. | T’inquiète, on est tous dans la même galère.
+
+@ on_cloud_nine
+w: on cloud nine
+t: idiomes-en
+tr: aux anges, sur un petit nuage
+nat: locution
+lit-fr: sur le nuage numéro neuf
+d-fr: Extrêmement heureux.
+d-en: Extremely happy.
+x: She’s been on cloud nine since she got engaged. | Elle est sur un petit nuage depuis ses fiançailles.
+v: over_the_moon
+
+@ over_the_moon
+w: over the moon
+t: idiomes-en
+tr: aux anges, ravi
+nat: locution
+mq: gb
+lit-fr: par-dessus la lune
+d-fr: Ravi, fou de joie ; très britannique.
+d-en: Delighted; very British.
+x: We’re over the moon with the result. | Nous sommes ravis du résultat.
+v: on_cloud_nine
+
+@ frog_in_throat
+w: have a frog in one’s throat
+t: idiomes-en
+tr: avoir un chat dans la gorge
+nat: locution
+lit-fr: avoir une grenouille dans la gorge
+d-fr: Être enroué, avoir du mal à parler.
+d-en: To be hoarse.
+n-fr: Même image, autre animal : la grenouille anglaise devient un chat en français.
+n-en: Same image, different animal: the English frog becomes a French cat.
+x: Sorry, I’ve got a frog in my throat. | Pardon, j’ai un chat dans la gorge.
+v: idiomes-fr-un_chat_dans_la_gorge
+
+@ when_pigs_fly
+w: when pigs fly
+t: idiomes-en
+tr: quand les poules auront des dents
+nat: locution
+lit-fr: quand les cochons voleront
+d-fr: Jamais. (Britannique aussi : « pigs might fly ».)
+d-en: Never. (British also: “pigs might fly”.)
+x: He’ll tidy his room when pigs fly. | Il rangera sa chambre quand les poules auront des dents.
+al: pigs might fly
+v: idiomes-fr-quand_les_poules_auront_des_dents
+
+@ elephant_in_the_room
+w: the elephant in the room
+t: idiomes-en
+tr: le sujet qu’on évite, le problème que tout le monde voit
+nat: locution
+lit-fr: l’éléphant dans la pièce
+d-fr: Un problème évident dont personne n’ose parler.
+d-en: An obvious problem that nobody wants to mention.
+x: Let’s talk about the elephant in the room: the budget. | Parlons de ce que tout le monde évite : le budget.
+
+@ butterflies_in_stomach
+w: have butterflies in one’s stomach
+t: idiomes-en
+tr: avoir le trac, avoir l’estomac noué
+nat: locution
+lit-fr: avoir des papillons dans l’estomac
+d-fr: Être nerveux avant un événement.
+d-en: To feel nervous before an event.
+x: I always get butterflies before an interview. | J’ai toujours le trac avant un entretien.
+
+@ not_my_cup_of_tea
+w: not my cup of tea
+t: idiomes-en
+tr: pas mon truc, pas ma tasse de thé
+nat: locution
+lit-fr: pas ma tasse de thé
+d-fr: Pas à mon goût.
+d-en: Not something I like.
+n-fr: L’expression est passée en français (« ce n’est pas ma tasse de thé »), mais « ce n’est pas mon truc » est plus naturel.
+n-en: French has borrowed it, but « ce n’est pas mon truc » sounds more natural.
+x: Opera isn’t really my cup of tea. | L’opéra, ce n’est pas vraiment mon truc.
+
+@ break_the_ice
+w: break the ice
+t: idiomes-en
+tr: briser la glace
+nat: locution
+lit-fr: briser la glace
+d-fr: Détendre l’atmosphère au début d’une rencontre. Même image dans les deux langues.
+d-en: To make people feel relaxed at the start of a meeting. The same image in both languages.
+x: A few jokes helped break the ice. | Quelques blagues ont aidé à briser la glace.
+
+@ get_the_hang_of
+w: get the hang of something
+t: idiomes-en
+tr: prendre le coup de main, piger le truc
+nat: locution
+mq: fam
+lit-fr: saisir la manière dont ça pend
+d-fr: Comprendre comment faire, après un temps d’apprentissage.
+d-en: To learn how to do something.
+x: You’ll soon get the hang of it. | Tu vas vite prendre le coup de main.
+
+@ let_off_steam
+w: let off steam
+t: idiomes-en
+tr: décompresser, se défouler
+nat: locution
+lit-fr: laisser échapper de la vapeur
+d-fr: Évacuer son énergie ou sa tension.
+d-en: To release energy or strong feelings.
+x: I go running to let off steam. | Je cours pour me défouler.
+
+@ go_the_extra_mile
+w: go the extra mile
+t: idiomes-en
+tr: faire un effort supplémentaire, ne pas compter ses efforts
+nat: locution
+lit-fr: faire le mile de plus
+d-fr: En faire plus que ce qu’on attend de vous.
+d-en: To make more effort than expected.
+x: Our staff always go the extra mile. | Notre personnel ne compte jamais ses efforts.
+
+@ hit_the_sack
+w: hit the sack
+t: idiomes-en
+tr: aller se pieuter, aller se coucher
+nat: locution
+mq: fam
+lit-fr: frapper le sac
+d-fr: Aller se coucher. (Aussi : « hit the hay ».)
+d-en: To go to bed. (Also “hit the hay”.)
+x: I’m exhausted, I’m going to hit the sack. | Je suis épuisé, je vais me pieuter.
+al: hit the hay
+
+@ miss_the_boat
+w: miss the boat
+t: idiomes-en
+tr: rater le coche
+nat: locution
+lit-fr: rater le bateau
+d-fr: Laisser passer une occasion.
+d-en: To miss an opportunity.
+x: Tickets sold out in an hour — we missed the boat. | Les billets sont partis en une heure : on a raté le coche.
+
+@ see_eye_to_eye
+w: see eye to eye
+t: idiomes-en
+tr: être sur la même longueur d’onde, être d’accord
+nat: locution
+lit-fr: se voir œil à œil
+d-fr: Être d’accord, penser de la même façon.
+d-en: To agree.
+x: We don’t always see eye to eye. | Nous ne sommes pas toujours d’accord.
+
+@ skin_of_teeth
+w: by the skin of one’s teeth
+t: idiomes-en
+tr: de justesse, d’un cheveu
+nat: locution
+lit-fr: par la peau de ses dents
+d-fr: De très peu.
+d-en: Only just.
+x: I passed the test by the skin of my teeth. | J’ai réussi l’examen de justesse.
+
+@ best_of_both_worlds
+w: the best of both worlds
+t: idiomes-en
+tr: le beurre et l’argent du beurre, gagner sur les deux tableaux
+nat: locution
+lit-fr: le meilleur des deux mondes
+d-fr: Profiter des avantages de deux situations à la fois.
+d-en: The advantages of two different things at once.
+x: Working from home two days a week gives me the best of both worlds. | Télétravailler deux jours par semaine, c’est gagner sur les deux tableaux.
+
+@ bite_off_more
+w: bite off more than one can chew
+t: idiomes-en
+tr: avoir les yeux plus gros que le ventre, présumer de ses forces
+nat: locution
+lit-fr: mordre plus qu’on ne peut mâcher
+d-fr: S’engager dans plus qu’on ne peut faire.
+d-en: To take on more than you can manage.
+x: With three jobs, he’s bitten off more than he can chew. | Avec trois boulots, il a présumé de ses forces.
+
+@ add_insult_to_injury
+w: add insult to injury
+t: idiomes-en
+tr: remuer le couteau dans la plaie, pour couronner le tout
+nat: locution
+lit-fr: ajouter l’insulte à la blessure
+d-fr: Aggraver une situation déjà mauvaise.
+d-en: To make a bad situation worse.
+x: To add insult to injury, it started to rain. | Pour couronner le tout, il s’est mis à pleuvoir.
+
+@ jump_on_the_bandwagon
+w: jump on the bandwagon
+t: idiomes-en
+tr: prendre le train en marche, suivre le mouvement
+nat: locution
+lit-fr: sauter dans le chariot de la fanfare
+d-fr: Se rallier à quelque chose parce que c’est à la mode.
+d-en: To join something because it is popular.
+x: Every brand is jumping on the AI bandwagon. | Toutes les marques prennent le train de l’IA en marche.
+
+@ ring_a_bell
+w: ring a bell
+t: idiomes-en
+tr: dire quelque chose (ça me dit quelque chose)
+nat: locution
+lit-fr: faire sonner une cloche
+d-fr: Sembler familier.
+d-en: To sound familiar.
+x: Her name rings a bell. | Son nom me dit quelque chose.
+
+@ pinch_of_salt
+w: take something with a pinch of salt
+t: idiomes-en
+tr: prendre avec des pincettes
+nat: locution
+lit-fr: prendre avec une pincée de sel
+d-fr: Ne pas croire entièrement ce qu’on entend. (Américain : « with a grain of salt ».)
+d-en: To not completely believe something. (US: “with a grain of salt”.)
+x: Take his stories with a pinch of salt. | Prends ses histoires avec des pincettes.
+
+@ turn_a_blind_eye
+w: turn a blind eye
+t: idiomes-en
+tr: fermer les yeux (sur)
+nat: locution
+lit-fr: tourner un œil aveugle
+d-fr: Faire semblant de ne pas voir.
+d-en: To pretend not to notice.
+x: The teacher turned a blind eye to the noise. | Le professeur a fermé les yeux sur le bruit.
+
+@ couch_potato
+w: couch potato
+t: idiomes-en
+tr: pantouflard, larve devant la télé
+nat: n
+mq: fam
+lit-fr: patate de canapé
+d-fr: Personne qui passe son temps affalée devant la télévision.
+d-en: A lazy person who watches a lot of television.
+x: Don’t be such a couch potato! | Ne reste pas vautré devant la télé !
+
+@ sweet_tooth
+w: have a sweet tooth
+t: idiomes-en
+tr: aimer les sucreries, être bec sucré
+nat: locution
+lit-fr: avoir une dent sucrée
+d-fr: Aimer beaucoup les douceurs.
+d-en: To love sweet food.
+x: I’ve got a real sweet tooth. | J’adore les sucreries.
+
+@ speak_of_the_devil
+w: speak of the devil
+t: idiomes-en
+tr: quand on parle du loup
+nat: locution
+lit-fr: parle du diable
+d-fr: Se dit quand arrive la personne dont on parlait.
+d-en: Said when the person you were talking about appears.
+x: Speak of the devil — here’s Tom! | Quand on parle du loup… voilà Tom !
+v: idiomes-fr-quand_on_parle_du_loup
+
+@ put_ones_foot_in_it
+w: put one’s foot in it
+t: idiomes-en
+tr: mettre les pieds dans le plat, faire une gaffe
+nat: locution
+mq: fam
+lit-fr: mettre le pied dedans
+d-fr: Dire une maladresse, commettre une gaffe.
+d-en: To say something tactless by accident.
+x: I really put my foot in it when I asked about her ex. | J’ai vraiment mis les pieds dans le plat en parlant de son ex.
+v: idiomes-fr-mettre_les_pieds_dans_le_plat
+
+@ face_the_music
+w: face the music
+t: idiomes-en
+tr: assumer les conséquences, affronter la situation
+nat: locution
+lit-fr: faire face à la musique
+d-fr: Accepter les conséquences de ses actes.
+d-en: To accept the consequences of your actions.
+x: Sooner or later you’ll have to face the music. | Tôt ou tard, il faudra assumer.
+
+@ in_hot_water
+w: in hot water
+t: idiomes-en
+tr: dans le pétrin, dans de beaux draps
+nat: locution
+lit-fr: dans l’eau chaude
+d-fr: En difficulté, souvent pour une faute.
+d-en: In trouble.
+x: He’s in hot water with his boss. | Il est dans de beaux draps avec son patron.
+
+@ bobs_your_uncle
+w: Bob’s your uncle
+t: idiomes-en
+tr: et voilà, et le tour est joué
+nat: locution
+mq: fam, gb
+lit-fr: Bob est ton oncle
+d-fr: Pour conclure une explication simple : et voilà !
+d-en: Used to say that something is simple to do: and there you are!
+x: Add hot water, stir, and Bob’s your uncle. | Tu ajoutes de l’eau chaude, tu remues, et le tour est joué.
+
+@ wrong_side_of_bed
+w: get out of bed on the wrong side
+t: idiomes-en
+tr: se lever du pied gauche
+nat: locution
+lit-fr: sortir du lit du mauvais côté
+d-fr: Être de mauvaise humeur dès le matin.
+d-en: To be in a bad mood all day.
+x: Did you get out of bed on the wrong side this morning? | Tu t’es levé du pied gauche ce matin ?
+
+@ throw_in_the_towel
+w: throw in the towel
+t: idiomes-en
+tr: jeter l’éponge
+nat: locution
+lit-fr: jeter la serviette
+d-fr: Abandonner.
+d-en: To give up.
+x: Don’t throw in the towel now, you’re nearly there! | Ne jette pas l’éponge maintenant, tu y es presque !
+
+@ smell_a_rat
+w: smell a rat
+t: idiomes-en
+tr: flairer quelque chose de louche, sentir l’arnaque
+nat: locution
+lit-fr: sentir un rat
+d-fr: Soupçonner une tromperie.
+d-en: To suspect that something is wrong.
+x: When he offered it for free, I smelt a rat. | Quand il l’a proposé gratuitement, j’ai flairé l’arnaque.
+
+@ storm_in_a_teacup
+w: a storm in a teacup
+t: idiomes-en
+tr: une tempête dans un verre d’eau
+nat: locution
+mq: gb
+lit-fr: une tempête dans une tasse à thé
+d-fr: Beaucoup de bruit pour rien. (Américain : « a tempest in a teapot ».)
+d-en: A lot of fuss about something unimportant. (US: “a tempest in a teapot”.)
+x: The whole row was a storm in a teacup. | Toute cette dispute, c’était une tempête dans un verre d’eau.
+
+@ other_fish_to_fry
+w: have other fish to fry
+t: idiomes-en
+tr: avoir d’autres chats à fouetter
+nat: locution
+lit-fr: avoir d’autres poissons à frire
+d-fr: Avoir des choses plus importantes à faire.
+d-en: To have more important things to do.
+x: I can’t help you now, I’ve got other fish to fry. | Je ne peux pas t’aider, j’ai d’autres chats à fouetter.
+v: idiomes-fr-dautres_chats_a_fouetter
+
+@ go_bananas
+w: go bananas
+t: idiomes-en
+tr: péter les plombs, devenir dingue
+nat: locution
+mq: fam
+lit-fr: devenir bananes
+d-fr: Devenir fou, s’énerver ou s’exciter énormément.
+d-en: To become very angry or excited.
+x: The crowd went bananas when she came on stage. | Le public est devenu dingue quand elle est entrée en scène.
+
+@ make_ends_meet
+w: make ends meet
+t: idiomes-en
+tr: joindre les deux bouts
+nat: locution
+lit-fr: faire se rejoindre les bouts
+d-fr: Arriver à vivre avec l’argent qu’on a.
+d-en: To have just enough money to live on.
+x: They work two jobs to make ends meet. | Ils ont deux emplois pour joindre les deux bouts.
+
+@ feel_blue
+w: feel blue
+t: idiomes-en
+tr: avoir le cafard, avoir le blues
+nat: locution
+lit-fr: se sentir bleu
+d-fr: Être triste, déprimé.
+d-en: To feel sad.
+x: I’ve been feeling a bit blue lately. | J’ai un peu le cafard ces temps-ci.
+v: idiomes-fr-avoir_le_cafard
+
+@ head_in_the_clouds
+w: have one’s head in the clouds
+t: idiomes-en
+tr: avoir la tête dans les nuages, être dans la lune
+nat: locution
+lit-fr: avoir la tête dans les nuages
+d-fr: Être rêveur, distrait.
+d-en: To be a dreamer, not paying attention.
+x: He always has his head in the clouds. | Il est toujours dans la lune.
+v: idiomes-fr-etre_dans_la_lune
+
+# ————— Proverbes —————
+
+@ early_bird
+w: the early bird catches the worm
+t: proverbes
+tr: l’avenir appartient à ceux qui se lèvent tôt
+nat: proverb
+lit-fr: l’oiseau matinal attrape le ver
+d-fr: Ceux qui agissent tôt ont un avantage.
+d-en: People who act early get an advantage.
+x: Let’s go at seven — the early bird catches the worm. | Partons à sept heures : l’avenir appartient à ceux qui se lèvent tôt.
+
+@ when_in_rome
+w: when in Rome, do as the Romans do
+t: proverbes
+tr: à Rome, fais comme les Romains
+nat: proverb
+d-fr: Il faut s’adapter aux usages du lieu où l’on se trouve.
+d-en: Follow local customs when you are somewhere new.
+x: They eat dinner at ten here — when in Rome! | Ici, on dîne à vingt-deux heures : à Rome, fais comme les Romains !
+
+@ dont_count_chickens
+w: don’t count your chickens before they hatch
+t: proverbes
+tr: il ne faut pas vendre la peau de l’ours avant de l’avoir tué
+nat: proverb
+lit-fr: ne compte pas tes poulets avant qu’ils n’éclosent
+d-fr: Ne pas se réjouir d’un succès qui n’est pas encore acquis.
+d-en: Don’t rely on something good before it has happened.
+x: You haven’t got the job yet — don’t count your chickens. | Tu n’as pas encore le poste : ne vends pas la peau de l’ours.
+
+@ every_cloud
+w: every cloud has a silver lining
+t: proverbes
+tr: à quelque chose malheur est bon
+nat: proverb
+lit-fr: chaque nuage a une doublure d’argent
+d-fr: Toute situation difficile a un bon côté.
+d-en: Every bad situation has a positive side.
+x: I lost my job, but every cloud has a silver lining. | J’ai perdu mon travail, mais à quelque chose malheur est bon.
+
+@ actions_speak_louder
+w: actions speak louder than words
+t: proverbes
+tr: les actes valent mieux que les paroles
+nat: proverb
+d-fr: Ce qu’on fait compte plus que ce qu’on dit.
+d-en: What you do matters more than what you say.
+x: Don’t promise — actions speak louder than words. | Ne promets pas : les actes valent mieux que les paroles.
+
+@ where_theres_a_will
+w: where there’s a will, there’s a way
+t: proverbes
+tr: quand on veut, on peut
+nat: proverb
+d-fr: La volonté permet de surmonter les obstacles.
+d-en: Determination will find a way.
+x: It won’t be easy, but where there’s a will, there’s a way. | Ce ne sera pas facile, mais quand on veut, on peut.
+
+@ better_safe_than_sorry
+w: better safe than sorry
+t: proverbes
+tr: mieux vaut prévenir que guérir, deux précautions valent mieux qu’une
+nat: proverb
+d-fr: Mieux vaut être prudent que le regretter ensuite.
+d-en: It’s better to be careful than to regret it later.
+x: Take a coat — better safe than sorry. | Prends un manteau, mieux vaut prévenir que guérir.
+
+@ birds_of_a_feather
+w: birds of a feather flock together
+t: proverbes
+tr: qui se ressemble s’assemble
+nat: proverb
+lit-fr: les oiseaux d’une même plume volent ensemble
+d-fr: Les gens qui se ressemblent se fréquentent.
+d-en: People with similar interests spend time together.
+x: They both love chess — birds of a feather. | Ils adorent tous les deux les échecs : qui se ressemble s’assemble.
+
+@ eggs_in_one_basket
+w: don’t put all your eggs in one basket
+t: proverbes
+tr: il ne faut pas mettre tous ses œufs dans le même panier
+nat: proverb
+d-fr: Ne pas tout miser sur une seule chose. Même image dans les deux langues.
+d-en: Don’t risk everything on a single plan. The same image in both languages.
+x: Apply to several universities — don’t put all your eggs in one basket. | Postule dans plusieurs universités, ne mets pas tous tes œufs dans le même panier.
+
+@ no_pain_no_gain
+w: no pain, no gain
+t: proverbes
+tr: on n’a rien sans rien
+nat: proverb
+d-fr: Tout résultat demande des efforts.
+d-en: You must work hard to achieve something.
+x: Five more push-ups — no pain, no gain! | Encore cinq pompes : on n’a rien sans rien !
+
+@ rome_wasnt_built
+w: Rome wasn’t built in a day
+t: proverbes
+tr: Paris ne s’est pas fait en un jour
+nat: proverb
+d-fr: Les grandes choses demandent du temps. (Rome en anglais, Paris en français.)
+d-en: Great things take time. (French says Paris, not Rome.)
+x: Be patient with your English — Rome wasn’t built in a day. | Sois patient avec ton anglais : Paris ne s’est pas fait en un jour.
+
+@ grass_is_greener
+w: the grass is always greener on the other side
+t: proverbes
+tr: l’herbe est toujours plus verte ailleurs
+nat: proverb
+d-fr: On croit toujours que les autres sont mieux lotis.
+d-en: Other people’s situations always seem better than yours.
+x: He wants to move again — the grass is always greener. | Il veut encore déménager : l’herbe est toujours plus verte ailleurs.
+
+@ out_of_sight
+w: out of sight, out of mind
+t: proverbes
+tr: loin des yeux, loin du cœur
+nat: proverb
+d-fr: On oublie vite ce qu’on ne voit plus.
+d-en: We forget things we don’t see.
+x: Put the biscuits away — out of sight, out of mind. | Range les biscuits : loin des yeux, loin du cœur.
+
+@ spilt_milk
+w: no use crying over spilt milk
+t: proverbes
+tr: ce qui est fait est fait, inutile de se lamenter
+nat: proverb
+lit-fr: inutile de pleurer sur le lait renversé
+d-fr: Inutile de regretter ce qu’on ne peut plus changer.
+d-en: It’s pointless to worry about what can’t be changed.
+x: It’s gone — no use crying over spilt milk. | C’est perdu : ce qui est fait est fait.
+
+@ practice_makes_perfect
+w: practice makes perfect
+t: proverbes
+tr: c’est en forgeant qu’on devient forgeron
+nat: proverb
+lit-fr: la pratique rend parfait
+d-fr: On s’améliore en s’exerçant.
+d-en: Doing something regularly makes you better at it.
+x: Keep revising your vocabulary — practice makes perfect. | Continue à réviser ton vocabulaire : c’est en forgeant qu’on devient forgeron.
+
+@ too_many_cooks
+w: too many cooks spoil the broth
+t: proverbes
+tr: trop de cuisiniers gâtent la sauce
+nat: proverb
+lit-fr: trop de cuisiniers gâchent le bouillon
+d-fr: Quand trop de gens s’en mêlent, le résultat est mauvais.
+d-en: When too many people are involved, the result is poor.
+x: Let one person write the report — too many cooks spoil the broth. | Qu’une seule personne rédige le rapport : trop de cuisiniers gâtent la sauce.
+
+@ better_late_than_never
+w: better late than never
+t: proverbes
+tr: mieux vaut tard que jamais
+nat: proverb
+d-fr: Il vaut mieux faire les choses en retard que ne pas les faire.
+d-en: It’s better to do something late than not at all.
+x: You finally called! Better late than never. | Tu as enfin appelé ! Mieux vaut tard que jamais.
+
+@ curiosity_killed_the_cat
+w: curiosity killed the cat
+t: proverbes
+tr: la curiosité est un vilain défaut
+nat: proverb
+lit-fr: la curiosité a tué le chat
+d-fr: Être trop curieux peut causer des ennuis.
+d-en: Being too curious can get you into trouble.
+x: Don’t open my post — curiosity killed the cat. | N’ouvre pas mon courrier : la curiosité est un vilain défaut.
+
+# ————— Verbes à particule —————
+
+@ give_up
+w: give up
+t: particules
+tr: abandonner, renoncer, arrêter
+nat: v
+d-fr: Arrêter d’essayer ; arrêter une habitude (« give up smoking »).
+d-en: To stop trying; to stop a habit (“give up smoking”).
+x: Don’t give up, you’re nearly there. | N’abandonne pas, tu y es presque.
+x: She gave up sugar last year. | Elle a arrêté le sucre l’an dernier.
+v: give_in
+
+@ give_in
+w: give in
+t: particules
+tr: céder, capituler
+nat: v
+d-fr: Finir par accepter ce qu’on refusait ; se rendre.
+d-en: To finally agree to something you refused; to surrender.
+x: The kids begged until I gave in. | Les enfants ont supplié jusqu’à ce que je cède.
+v: give_up
+
+@ get_up
+w: get up
+t: particules
+tr: se lever
+nat: v
+d-fr: Sortir du lit ; se mettre debout.
+d-en: To get out of bed; to stand up.
+x: I get up at seven every day. | Je me lève à sept heures tous les jours.
+
+@ look_after
+w: look after
+t: particules
+tr: s’occuper de, garder, prendre soin de
+nat: v
+d-fr: S’occuper de quelqu’un ou de quelque chose.
+d-en: To take care of someone or something.
+x: Can you look after the cat this weekend? | Tu peux garder le chat ce week-end ?
+
+@ look_for
+w: look for
+t: particules
+tr: chercher
+nat: v
+d-fr: Chercher.
+d-en: To try to find.
+a-fr: « Chercher » se dit « look for », pas « search » tout court : « search » veut dire fouiller (« search the house »).
+a-en: French « chercher » is usually “look for”; “search” means to examine a place thoroughly.
+x: I’m looking for my glasses. | Je cherche mes lunettes.
+
+@ look_forward_to
+w: look forward to
+t: particules
+tr: avoir hâte de, attendre avec impatience
+nat: v
+d-fr: Se réjouir à l’avance de quelque chose.
+d-en: To feel happy about something that is going to happen.
+a-fr: Suivi d’un nom ou d’une forme en -ing : « I look forward to seeing you », jamais « to see ».
+a-en: Followed by a noun or -ing form: “look forward to seeing you”.
+x: I’m looking forward to the holidays. | J’ai hâte d’être en vacances.
+x: I look forward to hearing from you. | Dans l’attente de votre réponse.
+
+@ find_out
+w: find out
+t: particules
+tr: découvrir, apprendre, se renseigner
+nat: v
+d-fr: Apprendre une information, découvrir la vérité.
+d-en: To discover a fact or the truth.
+x: I found out the shop closes at six. | J’ai appris que la boutique ferme à six heures.
+
+@ turn_on
+w: turn on
+t: particules
+tr: allumer, mettre en marche
+nat: v
+d-fr: Allumer un appareil. Contraire : « turn off », éteindre.
+d-en: To start a device. Opposite: “turn off”.
+x: Can you turn on the light? | Tu peux allumer la lumière ?
+v: turn_off
+
+@ turn_off
+w: turn off
+t: particules
+tr: éteindre, couper
+nat: v
+d-fr: Éteindre un appareil ; familier : dégoûter, refroidir.
+d-en: To stop a device; informally, to make someone lose interest.
+x: Turn off your phone during the film. | Éteins ton téléphone pendant le film.
+v: turn_on
+
+@ put_off
+w: put off
+t: particules
+tr: remettre à plus tard, repousser, décourager
+nat: v
+d-fr: Reporter ; aussi : dissuader, dégoûter.
+d-en: To delay; also, to discourage.
+x: Stop putting off your homework! | Arrête de repousser tes devoirs !
+x: The smell put me off. | L’odeur m’a coupé l’envie.
+
+@ run_out_of
+w: run out of
+t: particules
+tr: manquer de, être à court de, ne plus avoir de
+nat: v
+d-fr: Épuiser sa réserve de quelque chose.
+d-en: To have no more of something.
+x: We’ve run out of milk. | On n’a plus de lait.
+
+@ get_on_with
+w: get on with
+t: particules
+tr: s’entendre avec ; continuer, se mettre à
+nat: v
+d-fr: S’entendre avec quelqu’un ; continuer ce qu’on faisait.
+d-en: To have a good relationship with someone; to continue doing something.
+x: I get on well with my flatmates. | Je m’entends bien avec mes colocataires.
+x: Let’s get on with the meeting. | Poursuivons la réunion.
+
+@ take_off
+w: take off
+t: particules
+tr: décoller ; enlever ; démarrer (succès)
+nat: v
+d-fr: Décoller (avion) ; retirer un vêtement ; connaître un succès soudain.
+d-en: To leave the ground (plane); to remove clothing; to become successful quickly.
+x: The plane took off on time. | L’avion a décollé à l’heure.
+x: Take off your shoes, please. | Enlève tes chaussures, s’il te plaît.
+
+@ bring_up
+w: bring up
+t: particules
+tr: élever ; aborder, soulever (un sujet)
+nat: v
+d-fr: Élever un enfant ; mentionner un sujet.
+d-en: To raise a child; to mention a subject.
+x: She was brought up in Leeds. | Elle a été élevée à Leeds.
+x: Don’t bring up politics at dinner. | N’aborde pas la politique au dîner.
+
+@ carry_on
+w: carry on
+t: particules
+tr: continuer, poursuivre
+nat: v
+d-fr: Continuer ; « carry on! » : continuez !
+d-en: To continue.
+x: Sorry to interrupt — carry on. | Désolé de vous interrompre, continuez.
+
+@ break_down
+w: break down
+t: particules
+tr: tomber en panne ; craquer, s’effondrer
+nat: v
+d-fr: Tomber en panne ; s’effondrer émotionnellement ; décomposer (un problème).
+d-en: To stop working (machine); to lose control emotionally; to divide into parts.
+x: The car broke down on the motorway. | La voiture est tombée en panne sur l’autoroute.
+
+@ set_up
+w: set up
+t: particules
+tr: installer, créer, mettre en place
+nat: v
+d-fr: Installer un appareil ; fonder une entreprise ; organiser.
+d-en: To install; to start a business; to arrange.
+x: I need to set up my new phone. | Je dois configurer mon nouveau téléphone.
+
+@ pick_up
+w: pick up
+t: particules
+tr: ramasser ; aller chercher ; apprendre sur le tas
+nat: v
+d-fr: Ramasser ; passer prendre quelqu’un ; apprendre sans effort (« pick up a language »).
+d-en: To lift; to collect someone; to learn without effort.
+x: I’ll pick you up at the station. | Je viendrai te chercher à la gare.
+x: She picked up French in six months. | Elle a appris le français en six mois, sur le tas.
+
+@ work_out
+w: work out
+t: particules
+tr: faire du sport ; trouver, comprendre ; bien se passer
+nat: v
+d-fr: S’entraîner physiquement ; résoudre, calculer ; bien tourner (« it worked out »).
+d-en: To exercise; to solve or calculate; to end well.
+x: I work out three times a week. | Je fais du sport trois fois par semaine.
+x: I can’t work out how to open this. | Je n’arrive pas à comprendre comment ouvrir ça.
+
+@ go_on
+w: go on
+t: particules
+tr: continuer ; se passer ; vas-y
+nat: v
+d-fr: Continuer ; se produire (« what’s going on? », qu’est-ce qui se passe ?) ; encourager (« go on! », vas-y !).
+d-en: To continue; to happen; used to encourage someone.
+x: What’s going on here? | Qu’est-ce qui se passe ici ?
+x: Go on, try it! | Vas-y, essaie !
+
+@ come_across
+w: come across
+t: particules
+tr: tomber sur, trouver par hasard ; donner l’impression
+nat: v
+d-fr: Trouver par hasard ; faire une certaine impression (« he comes across as shy »).
+d-en: To find by chance; to seem (“he comes across as shy”).
+x: I came across an old photo. | Je suis tombé sur une vieille photo.
+
+@ make_up
+w: make up
+t: particules
+tr: inventer ; se réconcilier ; se maquiller ; constituer
+nat: v
+d-fr: Inventer une histoire ; se réconcilier (« make up with someone ») ; constituer.
+d-en: To invent a story; to become friends again; to form.
+x: He made up an excuse. | Il a inventé une excuse.
+x: They argued, then made up. | Ils se sont disputés, puis réconciliés.
+
+@ fall_out
+w: fall out
+t: particules
+tr: se brouiller, se fâcher
+nat: v
+d-fr: Se disputer au point de ne plus se parler.
+d-en: To have an argument and stop being friends.
+x: She’s fallen out with her sister. | Elle s’est brouillée avec sa sœur.
+
+@ put_up_with
+w: put up with
+t: particules
+tr: supporter, tolérer
+nat: v
+d-fr: Accepter une chose désagréable sans se plaindre.
+d-en: To tolerate something unpleasant.
+x: I can’t put up with this noise any longer. | Je ne supporte plus ce bruit.
+
+@ turn_up
+w: turn up
+t: particules
+tr: arriver, se pointer ; monter (le son)
+nat: v
+d-fr: Arriver, souvent sans prévenir ; augmenter le volume.
+d-en: To arrive, often unexpectedly; to increase the volume.
+x: He turned up an hour late. | Il s’est pointé avec une heure de retard.
+
+@ sort_out
+w: sort out
+t: particules
+tr: régler, arranger, trier
+nat: v
+mq: fam, gb
+d-fr: Résoudre un problème ; ranger, trier.
+d-en: To deal with a problem; to organise.
+x: Don’t worry, I’ll sort it out. | T’inquiète, je vais régler ça.
+v: argot:sorted
+
+@ catch_up
+w: catch up
+t: particules
+tr: rattraper ; prendre des nouvelles
+nat: v
+d-fr: Rattraper son retard ; se retrouver pour échanger des nouvelles.
+d-en: To reach the same level; to meet and exchange news.
+x: Let’s meet for coffee and catch up. | Prenons un café pour échanger des nouvelles.
+
+@ hang_out
+w: hang out
+t: particules
+tr: traîner, passer du temps (ensemble)
+nat: v
+mq: fam
+d-fr: Passer du temps avec quelqu’un, sans but précis.
+d-en: To spend time with someone casually.
+x: We usually hang out at the park. | On traîne souvent au parc.
+
+@ show_up
+w: show up
+t: particules
+tr: se présenter, venir, arriver
+nat: v
+d-fr: Venir à un rendez-vous, arriver.
+d-en: To arrive, to appear.
+x: Only five people showed up. | Seules cinq personnes sont venues.
+
+@ figure_out
+w: figure out
+t: particules
+tr: comprendre, trouver, arriver à savoir
+nat: v
+d-fr: Trouver la solution, finir par comprendre.
+d-en: To find the answer, to understand.
+x: I can’t figure out this app. | Je n’arrive pas à comprendre cette appli.
+
+@ check_in
+w: check in
+t: particules
+tr: s’enregistrer, faire l’enregistrement
+nat: v
+d-fr: Se présenter à l’hôtel ou à l’aéroport pour son arrivée. Contraire : « check out », partir.
+d-en: To register at a hotel or airport. Opposite: “check out”.
+x: We can check in after two o’clock. | On peut s’enregistrer après quatorze heures.
+
+# ————— Formules utiles —————
+
+@ im_afraid
+w: I’m afraid…
+t: formules
+tr: malheureusement…, je crains que…, je suis désolé mais…
+nat: locution
+d-fr: Formule polie pour annoncer une mauvaise nouvelle ou un refus. Rien à voir avec la peur.
+d-en: A polite way of giving bad news or refusing.
+a-fr: « I’m afraid we’re closed » : « désolé, nous sommes fermés » — pas « j’ai peur ».
+a-en: Not about fear: it softens bad news.
+x: I’m afraid the manager isn’t available. | Je suis désolé, le responsable n’est pas disponible.
+
+@ would_you_mind
+w: would you mind…?
+t: formules
+tr: est-ce que ça vous dérangerait de… ?, pourriez-vous… ?
+nat: locution
+d-fr: Demande très polie, suivie d’une forme en -ing.
+d-en: A very polite request, followed by an -ing form.
+a-fr: Pour accepter, on répond « No, not at all » (non, pas du tout) : « yes » voudrait dire que ça dérange !
+a-en: To agree, answer “No, not at all” — “yes” would mean you do mind!
+x: Would you mind closing the window? | Ça vous dérangerait de fermer la fenêtre ?
+
+@ sorry
+w: sorry?
+t: formules
+tr: pardon ?, comment ?
+nat: interjection
+d-fr: Pour faire répéter quelque chose qu’on n’a pas compris ; plus poli que « what? ».
+d-en: Used to ask someone to repeat something; more polite than “what?”.
+n-fr: Les Britanniques disent « sorry » à tout propos : pour s’excuser, pour faire répéter, pour passer.
+n-en: British people say “sorry” constantly: to apologise, to ask for repetition, to get past.
+x: Sorry? I didn’t catch that. | Pardon ? Je n’ai pas compris.
+v: excuse_me
+
+@ excuse_me
+w: excuse me
+t: formules
+tr: excusez-moi, pardon
+nat: interjection
+d-fr: Pour attirer l’attention ou demander le passage (avant de déranger) ; « sorry » s’emploie plutôt après.
+d-en: To get attention or ask to pass (before disturbing someone); “sorry” is used after.
+x: Excuse me, is this seat taken? | Excusez-moi, cette place est prise ?
+v: sorry
+
+@ fair_enough
+w: fair enough
+t: formules
+tr: d’accord, c’est juste, ça se tient
+nat: locution
+mq: fam, gb
+d-fr: Pour accepter un argument ou une décision.
+d-en: Used to accept an argument or decision.
+x: “I’m too tired to come.” — “Fair enough.” | « Je suis trop fatigué pour venir. » — « D’accord, je comprends. »
+
+@ no_worries
+w: no worries
+t: formules
+tr: pas de souci, pas de problème, de rien
+nat: locution
+mq: fam
+d-fr: Pour rassurer ou répondre à un remerciement. D’origine australienne, très courant au Royaume-Uni.
+d-en: Used to reassure or reply to thanks. Originally Australian, very common in the UK.
+x: “Sorry I’m late!” — “No worries.” | « Désolé pour le retard ! » — « Pas de souci. »
+
+@ never_mind
+w: never mind
+t: formules
+tr: ce n’est pas grave, laisse tomber, tant pis
+nat: locution
+d-fr: Pour dire que ce n’est pas important, ou renoncer.
+d-en: Used to say it doesn’t matter.
+x: Never mind, I’ll do it myself. | Laisse tomber, je vais le faire moi-même.
+
+@ its_up_to_you
+w: it’s up to you
+t: formules
+tr: c’est toi qui vois, c’est comme tu veux
+nat: locution
+d-fr: C’est à toi de décider.
+d-en: You decide.
+x: Pizza or curry? It’s up to you. | Pizza ou curry ? C’est comme tu veux.
+
+@ hang_on
+w: hang on
+t: formules
+tr: attends, une seconde, ne quitte pas
+nat: locution
+mq: fam
+d-fr: Attendre un instant ; au téléphone : ne quittez pas.
+d-en: To wait a moment; on the phone, hold on.
+x: Hang on, I’ll get my coat. | Attends, je prends mon manteau.
+
+@ help_yourself
+w: help yourself
+t: formules
+tr: servez-vous, sers-toi
+nat: locution
+d-fr: Invitation à se servir à manger ou à boire.
+d-en: An invitation to take food or drink.
+x: There’s cake in the kitchen — help yourself. | Il y a du gâteau dans la cuisine, sers-toi.
+
+@ mind_your_head
+w: mind your head
+t: formules
+tr: attention à la tête
+nat: locution
+mq: gb
+d-fr: « Mind » : faire attention à. Panneaux britanniques : « mind the step » (attention à la marche), « mind the gap » (dans le métro londonien : attention à l’espace entre le train et le quai).
+d-en: “Mind” means be careful of. British signs: “mind the step”, “mind the gap”.
+x: Mind your head, the ceiling is low. | Attention à la tête, le plafond est bas.
+al: mind the gap, mind the step
+
+@ after_you
+w: after you
+t: formules
+tr: après vous, je vous en prie
+nat: locution
+d-fr: Pour laisser passer quelqu’un devant soi.
+d-en: Used to let someone go first.
+x: “After you.” — “Thank you!” | « Après vous. » — « Merci ! »
+
+@ bless_you
+w: bless you
+t: formules
+tr: à vos souhaits, à tes souhaits
+nat: locution
+d-fr: Se dit quand quelqu’un éternue.
+d-en: Said when someone sneezes.
+x: “Atishoo!” — “Bless you!” | « Atchoum ! » — « À tes souhaits ! »
+
+@ you_are_welcome
+w: you’re welcome
+t: formules
+tr: de rien, je vous en prie
+nat: locution
+d-fr: Réponse à un remerciement. Au Royaume-Uni, on entend aussi « no problem », « not at all » ou « don’t mention it ».
+d-en: A reply to “thank you”. In the UK you also hear “no problem”, “not at all” or “don’t mention it”.
+a-fr: « Welcome » seul veut dire « bienvenue » : « Welcome to London! ».
+a-en: “Welcome” alone means greeting someone who arrives.
+x: “Thanks for your help.” — “You’re welcome.” | « Merci pour votre aide. » — « Je vous en prie. »
+
+@ how_do_you_do
+w: how do you do?
+t: formules
+tr: enchanté, ravi de faire votre connaissance
+nat: locution
+mq: sout, gb
+d-fr: Formule très formelle de présentation ; on y répond par la même phrase. Ce n’est pas une question sur la santé.
+d-en: A very formal greeting when meeting someone; the reply is the same phrase.
+a-fr: Ne répondez pas « fine, thanks » : on répond « How do you do? ». Plus courant aujourd’hui : « Nice to meet you ».
+a-en: Not a real question; today “Nice to meet you” is more common.
+x: “How do you do?” — “How do you do?” | « Enchanté. » — « Enchanté. »
+
+@ take_care
+w: take care
+t: formules
+tr: prends soin de toi, à bientôt
+nat: locution
+d-fr: Formule chaleureuse pour prendre congé.
+d-en: A warm way of saying goodbye.
+x: Bye, take care! | Au revoir, prends soin de toi !
+
+@ well_done
+w: well done
+t: formules
+tr: bravo, bien joué
+nat: interjection
+d-fr: Pour féliciter. (Pour une viande : « bien cuite ».)
+d-en: Used to congratulate. (For meat: cooked through.)
+x: You passed? Well done! | Tu as réussi ? Bravo !
+
+@ it_depends
+w: it depends
+t: formules
+tr: ça dépend
+nat: locution
+d-fr: Ça dépend ; suivi de « on » : « it depends on the weather ».
+d-en: Followed by “on”: “it depends on the weather”.
+a-fr: « Depend on », jamais « depend of ».
+a-en: French speakers often say “depend of” — it’s “depend on”.
+x: It depends on the price. | Ça dépend du prix.
+
+@ i_couldnt_care_less
+w: I couldn’t care less
+t: formules
+tr: je m’en fiche complètement, ça m’est égal
+nat: locution
+mq: fam
+d-fr: Cela m’est totalement indifférent.
+d-en: I don’t care at all.
+x: I couldn’t care less what he thinks. | Je me fiche complètement de ce qu’il pense.
+
+@ cheers_for_that
+w: cheers for that
+t: formules
+tr: merci pour ça, merci bien
+nat: locution
+mq: fam, gb
+d-fr: Merci, familier et britannique.
+d-en: Thanks, informal and British.
+x: Cheers for that, you’re a star. | Merci bien, t’es génial.
+v: argot:cheers

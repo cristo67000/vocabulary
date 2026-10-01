@@ -1,0 +1,16 @@
+# Traductions écartées à la main.
+#
+# WikDict rattache parfois une traduction au mauvais sens, et le premier sens
+# d'un mot courant hérite alors d'un contresens — « housewife » ouvrait sur
+# « garce ». Une ligne par traduction à retirer, trois champs séparés par une
+# tabulation : langue de la vedette, vedette, traduction — et, en quatrième
+# champ facultatif, un morceau de la définition du seul sens visé. Sans lui,
+# la traduction est retirée de tous les sens de l'entrée. Les lignes vides et
+# ce qui suit un « # » sont ignorés.
+
+en	housewife	garce
+en	go	sortir avec
+en	get	être
+en	run	couler	move forward quickly
+en	run	s'écouler	move forward quickly
+en	have	être	to possess

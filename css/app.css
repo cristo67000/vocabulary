@@ -1,0 +1,1673 @@
+/*
+ * Vocabulary — feuille de style.
+ *
+ * Conçue pour un téléphone tenu d'une main : cibles larges, texte lisible sans
+ * lunettes, barre d'onglets au pouce. L'ordinateur hérite de la même mise en
+ * page, simplement centrée et élargie. Reprise de Wortschatz.
+ *
+ * Les couleurs viennent de variables : le thème sombre ne redéfinit que
+ * celles-ci. Le genre des noms français garde le code des classes (masculin
+ * bleu, féminin rouge) ; les marques d'usage ont chacune leur teinte — le cru
+ * et l'injurieux en rouge, l'argot et le familier en ambre, les régions en
+ * bleu —, pour qu'on voie le registre avant de lire le mot.
+ */
+
+:root {
+  --papier: #f7f6f2;
+  --papier-releve: #ffffff;
+  --encre: #17191f;
+  --encre-douce: #555a66;
+  --encre-tres-douce: #858a96;
+  --trait: #e2dfd6;
+  --accent: #16324f;
+  --accent-clair: #e6edf5;
+  --rouge: #b3243b;
+  --rouge-fond: #fbe9ec;
+  --ambre: #9a5b00;
+  --ambre-fond: #fdf1dc;
+  --bleu: #1c5fa8;
+  --bleu-fond: #e5eefa;
+  --vert: #1e7d54;
+  --vert-fond: #e3f4ec;
+  --violet: #6d3fc7;
+  --violet-fond: #efe9fb;
+  --der: #1c62b9;
+  --die: #c0392b;
+  --das: #1e7d54;
+  --der-fond: #e6effb;
+  --die-fond: #fdecea;
+  --das-fond: #e6f5ee;
+  --ombre: 0 1px 3px rgba(23, 25, 31, .10), 0 6px 20px rgba(23, 25, 31, .06);
+  --rayon: 12px;
+  --barre-h: 3.75rem;
+  /* Les variables des schémas (repris de Code en clair). */
+  --carte: var(--papier-releve);
+  --fond: var(--papier);
+  --trait-fort: #b9c0cc;
+  --encre-legere: var(--encre-tres-douce);
+  --ok: #12805c;
+  --ok-fond: #e1f4ec;
+  --warn: #a8500a;
+  --warn-fond: #fdf0dc;
+  --bad: #c0342b;
+  --bad-fond: #fdeceb;
+  --v: #6d3fc7;
+  --v-fond: #efe9fb;
+  --info: #0a7d8c;
+  --info-fond: #dff3f6;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --mono: ui-monospace, "Cascadia Mono", "SF Mono", "Roboto Mono", Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --papier: #14161b;
+    --papier-releve: #1d2027;
+    --encre: #ececf0;
+    --encre-douce: #a9adb9;
+    --encre-tres-douce: #777c88;
+    --trait: #2d3039;
+    --accent: #9cc0ea;
+    --accent-clair: #22303f;
+    --rouge: #f28b9b;
+    --rouge-fond: #3a1f25;
+    --ambre: #f0b45a;
+    --ambre-fond: #33281a;
+    --bleu: #8fb7ee;
+    --bleu-fond: #1c2838;
+    --vert: #74cca5;
+    --vert-fond: #172a23;
+    --violet: #b79cf0;
+    --violet-fond: #2a2240;
+    --der: #7fb0f0;
+    --die: #f0968c;
+    --das: #74cca5;
+    --der-fond: #1b2635;
+    --die-fond: #33211f;
+    --das-fond: #172a23;
+    --ombre: 0 1px 3px rgba(0, 0, 0, .5), 0 6px 20px rgba(0, 0, 0, .35);
+    --trait-fort: #4a5160;
+    --ok: #4fc493;
+    --ok-fond: #15291f;
+    --warn: #f0a44b;
+    --warn-fond: #33261a;
+    --bad: #f28a80;
+    --bad-fond: #3a1f1d;
+    --v: #b79cf0;
+    --v-fond: #2a2240;
+    --info: #5cc7d6;
+    --info-fond: #13292d;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--papier);
+  color: var(--encre);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  padding-bottom: calc(var(--barre-h) + env(safe-area-inset-bottom));
+  overscroll-behavior-y: none;
+}
+
+h1, h2, h3 { line-height: 1.25; }
+
+a { color: var(--accent); }
+
+button { font: inherit; color: inherit; }
+
+/* ————— Écran d'ouverture ————— */
+
+#demarrage {
+  position: fixed;
+  inset: 0;
+  z-index: 40;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: .75rem;
+  background: var(--papier);
+  color: var(--encre-douce);
+  transition: opacity .25s ease;
+}
+#demarrage.parti { opacity: 0; pointer-events: none; }
+#demarrage .marque { font-size: 1.6rem; font-weight: 650; color: var(--accent); letter-spacing: .01em; }
+
+/* ————— En-tête ————— */
+
+#barre {
+  padding: calc(env(safe-area-inset-top) + .7rem) 1rem .5rem;
+  display: flex;
+  align-items: baseline;
+  gap: .6rem;
+  flex-wrap: wrap;
+}
+#barre h1 { margin: 0; font-size: 1.25rem; }
+.marque-petite { color: var(--accent); font-weight: 650; }
+#barre .sous-titre { margin: 0; color: var(--encre-tres-douce); font-size: .85rem; }
+
+#scene { max-width: 44rem; margin: 0 auto; padding: 0 1rem 2rem; }
+
+.vue[hidden] { display: none; }
+
+/* ————— Recherche ————— */
+
+#bloc-recherche, .conv-recherche { position: relative; margin-bottom: 1rem; }
+
+#q, #conv-q {
+  width: 100%;
+  padding: .85rem 2.6rem .85rem 1rem;
+  font-size: 1.05rem;
+  color: inherit;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  -webkit-appearance: none;
+  appearance: none;
+}
+#q:focus, #conv-q:focus { outline: 2px solid var(--accent); outline-offset: 1px; border-color: transparent; }
+#q::-webkit-search-cancel-button, #conv-q::-webkit-search-cancel-button { display: none; }
+
+#q-vider, #conv-q-vider {
+  position: absolute;
+  right: .35rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 2.1rem;
+  height: 2.1rem;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: var(--encre-tres-douce);
+  cursor: pointer;
+}
+#q-vider:hover, #conv-q-vider:hover { background: var(--accent-clair); }
+#q-vider[hidden], #conv-q-vider[hidden] { display: none; }
+
+/* ————— Accueil ————— */
+
+#accueil h2 { margin: 1.5rem 0 .4rem; font-size: 1.05rem; }
+#accueil p { margin: 0 0 .6rem; color: var(--encre-douce); }
+.essayez { font-size: .95rem; }
+#suggestions button {
+  border: 1px solid var(--trait);
+  background: var(--papier-releve);
+  border-radius: 999px;
+  padding: .3rem .7rem;
+  margin: .15rem .2rem 0 0;
+  cursor: pointer;
+}
+#suggestions button:hover { border-color: var(--accent); color: var(--accent); }
+
+#recents { margin-top: 1.5rem; }
+#recents h3 { margin: 0 0 .4rem; font-size: .82rem; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--encre-tres-douce); font-weight: 600; }
+
+/* ————— Résultats ————— */
+
+#resultats { list-style: none; margin: 0; padding: 0; }
+#resultats[hidden] { display: none; }
+
+.resultat {
+  display: flex;
+  align-items: baseline;
+  gap: .6rem;
+  width: 100%;
+  text-align: left;
+  padding: .7rem .85rem;
+  border: 0;
+  border-bottom: 1px solid var(--trait);
+  background: transparent;
+  cursor: pointer;
+}
+.resultat:hover, .resultat:focus-visible { background: var(--accent-clair); }
+.resultat .mot { font-weight: 600; }
+.resultat .traduction { color: var(--encre-douce); font-size: .92rem;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.resultat .via { color: var(--encre-tres-douce); font-size: .8rem; font-style: italic; }
+
+.pastille {
+  flex: none;
+  font-size: .66rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  padding: .12rem .38rem;
+  border-radius: 4px;
+  background: var(--accent-clair);
+  color: var(--accent);
+}
+
+#rien { padding: 1.5rem .5rem; text-align: center; }
+#rien[hidden] { display: none; }
+.discret { color: var(--encre-tres-douce); font-size: .9rem; }
+
+/* ————— Fiche ————— */
+
+#fiche {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  background: var(--papier);
+  overflow-y: auto;
+  padding: 0 1rem calc(2rem + env(safe-area-inset-bottom));
+  -webkit-overflow-scrolling: touch;
+}
+#fiche[hidden] { display: none; }
+#fiche-contenu { max-width: 44rem; margin: 0 auto; }
+
+.fiche-tete {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  display: flex;
+  justify-content: flex-end;
+  padding: calc(env(safe-area-inset-top) + .5rem) 0 .25rem;
+  background: linear-gradient(var(--papier) 86%, transparent);
+}
+.fiche-fermer {
+  border: 1px solid var(--trait);
+  background: var(--papier-releve);
+  border-radius: 999px;
+  padding: .45rem 1rem;
+  cursor: pointer;
+}
+
+.vedette { display: flex; align-items: baseline; flex-wrap: wrap; gap: .5rem; margin: .25rem 0 .3rem; }
+.vedette .mot { font-size: 2rem; font-weight: 650; line-height: 1.15; }
+
+.article { font-size: 1.1rem; font-weight: 700; padding: .16rem .5rem; border-radius: 6px; }
+.article.masc { color: var(--der); background: var(--der-fond); }
+.article.fem  { color: var(--die); background: var(--die-fond); }
+.article.neut { color: var(--das); background: var(--das-fond); }
+
+.ligne-son { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap;
+  margin: 0 0 1rem; color: var(--encre-douce); }
+.api { font-family: "Segoe UI", system-ui, sans-serif; }
+.ecouter {
+  border: 1px solid var(--trait);
+  background: var(--papier-releve);
+  border-radius: 999px;
+  padding: .3rem .75rem;
+  cursor: pointer;
+}
+.ecouter:hover { border-color: var(--accent); color: var(--accent); }
+.ecouter[disabled] { opacity: .45; cursor: default; }
+
+.apprendre {
+  display: block;
+  width: 100%;
+  margin: 0 0 1.5rem;
+  padding: .8rem 1rem;
+  border: 1px solid var(--accent);
+  border-radius: 10px;
+  background: var(--accent);
+  color: var(--papier-releve);
+  font-weight: 600;
+  cursor: pointer;
+}
+@media (prefers-color-scheme: dark) { .apprendre { color: #16171a; } }
+.apprendre.suivi { background: transparent; color: var(--accent); }
+.apprendre.suivi::before { content: "✓ "; }
+.apprendre[disabled] { opacity: .6; }
+
+.lecture { margin: 0 0 1.5rem; padding: 0 0 1.25rem; border-bottom: 1px solid var(--trait); }
+.lecture:last-child { border-bottom: 0; }
+.etiquettes { display: flex; flex-wrap: wrap; gap: .35rem; margin: 0 0 .6rem; }
+.etiquette {
+  font-size: .78rem;
+  padding: .15rem .5rem;
+  border-radius: 999px;
+  border: 1px solid var(--trait);
+  color: var(--encre-douce);
+}
+.etiquette.article { font-weight: 700; }
+.etiquette.bande-0 { border-color: var(--das); color: var(--das); }
+.etiquette.bande-1 { border-color: var(--accent); color: var(--accent); }
+
+.formes { margin: 0 0 .8rem; color: var(--encre-douce); font-size: .95rem; }
+.formes b { color: var(--encre); font-weight: 600; }
+
+.sens { margin: 0 0 1rem; }
+.sens .traductions { font-size: 1.08rem; }
+.sens .traductions span + span::before { content: " · "; color: var(--encre-tres-douce); }
+/* Le numéro de sens est un span comme les autres : sans cette exception,
+   la première traduction héritait d'un point médian orphelin. */
+.sens .traductions .numero-sens + span::before { content: none; }
+.sens .definition { margin: .2rem 0 0; color: var(--encre-douce); font-size: .92rem; }
+.numero-sens { color: var(--encre-tres-douce); font-weight: 600; margin-right: .3rem; }
+.sens .sans-traduction { color: var(--encre-tres-douce); font-style: italic; font-size: .9rem; }
+
+/* Un sens de la version 2 porte ses propres exemples : un filet à gauche les
+   rattache visuellement à la signification qu'ils illustrent, et non au mot. */
+.sens { border-left: 2px solid transparent; padding-left: 0; }
+.sens:has(.citation, .exemples-du-sens) {
+  border-left-color: var(--trait);
+  padding-left: .7rem;
+}
+
+/* ————— Citations du Wiktionnaire ————— */
+
+.citation { margin: .45rem 0 0; }
+.citation-texte { margin: 0; font-size: .97rem; }
+.citation-texte .cible { color: var(--accent); font-weight: 700; }
+.citation-source {
+  margin: .1rem 0 0;
+  font-size: .78rem;
+  color: var(--encre-tres-douce);
+}
+.exemples-du-sens { margin-top: .5rem; }
+.exemples-du-sens .exemple:last-child { margin-bottom: 0; }
+
+/* ————— Le mot cliquable ————— */
+
+/* Discret : un soulignement pointillé, pas un lien bleu. Une définition dont
+   chaque mot serait peint en couleur d'accent ne se lirait plus — et ici
+   presque chaque mot mène quelque part. */
+.mot-vif {
+  cursor: pointer;
+  border-bottom: 1px dotted var(--encre-tres-douce);
+  -webkit-tap-highlight-color: transparent;
+}
+.mot-vif:hover, .mot-vif:focus-visible {
+  background: var(--accent-clair);
+  border-bottom-color: var(--accent);
+  border-radius: 3px;
+  outline: none;
+}
+.mot-vif.cible { border-bottom-style: solid; }
+
+.cartouche {
+  position: fixed;
+  z-index: 60;
+  max-width: min(21rem, calc(100vw - 1.5rem));
+  padding: .7rem .85rem;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+}
+.cartouche-tete { display: flex; align-items: baseline; gap: .35rem; flex-wrap: wrap; }
+.cartouche-mot { font-size: 1.15rem; }
+.cartouche-forme, .cartouche-sens { margin: .3rem 0 0; font-size: .9rem; }
+.cartouche-forme { color: var(--encre-tres-douce); font-style: italic; }
+.cartouche-sens { color: var(--encre-douce); }
+.cartouche-attente { margin: 0; color: var(--encre-tres-douce); }
+.cartouche-boutons { display: flex; gap: .4rem; margin-top: .6rem; align-items: stretch; }
+.cartouche-apprendre {
+  flex: 1;
+  padding: .45rem .6rem;
+  font: inherit;
+  font-size: .9rem;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  background: var(--accent);
+  color: var(--papier-releve);
+  cursor: pointer;
+}
+.cartouche-apprendre.suivi { background: transparent; color: var(--accent); }
+.cartouche-fiche, .cartouche-ecouter {
+  padding: .45rem .6rem;
+  font: inherit;
+  font-size: .9rem;
+  border: 1px solid var(--trait);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--encre-douce);
+  cursor: pointer;
+}
+.cartouche-fermer {
+  position: absolute;
+  top: .25rem;
+  right: .3rem;
+  border: 0;
+  background: transparent;
+  color: var(--encre-tres-douce);
+  cursor: pointer;
+  font-size: .9rem;
+  padding: .2rem .3rem;
+}
+
+/* ————— Tableau des formes ————— */
+
+.flexion { margin: .6rem 0 0; font-size: .92rem; }
+.flexion summary {
+  cursor: pointer;
+  color: var(--encre-douce);
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  font-weight: 600;
+}
+.flexion-groupe {
+  margin: .7rem 0 .2rem;
+  font-size: .8rem;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.flexion-table {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: .1rem .8rem;
+  margin: .4rem 0 0;
+}
+.flexion-table dt { color: var(--encre-tres-douce); font-size: .85rem; }
+.flexion-table dd { margin: 0; }
+
+.synonymes { margin: .5rem 0 0; color: var(--encre-douce); font-size: .95rem; }
+.synonymes b { color: var(--encre); font-weight: 600; }
+
+/* ————— Phrases d'exemple ————— */
+
+.exemples { margin: 0 0 1.5rem; }
+.exemples h3 {
+  margin: 1.5rem 0 .7rem;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.exemple {
+  margin: 0 0 .9rem;
+  padding: .65rem .8rem;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: 10px;
+}
+.exemple p { margin: 0; }
+.exemple-source { font-size: 1.02rem; }
+.exemple-source .cible { color: var(--accent); font-weight: 700; }
+.exemple-cible { color: var(--encre-douce); font-size: .93rem; margin-top: .15rem !important; }
+.ecouter-phrase {
+  margin-left: .35rem;
+  white-space: nowrap;
+  border: 0;
+  background: transparent;
+  color: var(--encre-tres-douce);
+  cursor: pointer;
+  padding: 0 .35rem;
+  font-size: .9rem;
+}
+.ecouter-phrase:hover { color: var(--accent); }
+
+/* ————— Autour de ce mot ————— */
+
+.voisinage { margin: 0 0 1.5rem; }
+.voisinage h3 {
+  margin: 1.5rem 0 .6rem;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.voisins { display: flex; flex-wrap: wrap; gap: .35rem; margin-bottom: .5rem; }
+.voisin {
+  border: 1px solid var(--trait);
+  background: var(--papier-releve);
+  border-radius: 999px;
+  padding: .35rem .8rem;
+  cursor: pointer;
+  font-size: .95rem;
+}
+.voisin:hover { border-color: var(--accent); color: var(--accent); }
+
+/* ————— Réglages ————— */
+
+.bloc { margin: 0 0 1.75rem; padding: 1rem; background: var(--papier-releve);
+  border: 1px solid var(--trait); border-radius: var(--rayon); }
+.bloc h3 { margin: 0 0 .6rem; font-size: .95rem; }
+.bloc p { margin: .35rem 0; }
+
+.segments { display: flex; gap: .4rem; }
+.segments button {
+  flex: 1;
+  padding: .55rem .5rem;
+  border: 1px solid var(--trait);
+  background: transparent;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.segments button[aria-pressed="true"] {
+  background: var(--accent); border-color: var(--accent); color: var(--papier-releve); font-weight: 600;
+}
+@media (prefers-color-scheme: dark) {
+  .segments button[aria-pressed="true"] { color: #16171a; }
+}
+
+/* ————— Installer et partager ————— */
+
+.marche-a-suivre { margin: .5rem 0 0; padding-left: 1.3rem; color: var(--encre-douce); }
+.marche-a-suivre li { margin: .35rem 0; }
+.adresse-partage {
+  margin: .6rem 0 0;
+  font-size: .82rem;
+  color: var(--encre-tres-douce);
+  word-break: break-all;
+}
+.retour-partage { margin: .4rem 0 0; color: var(--das); }
+.retour-partage[hidden] { display: none; }
+
+.champ-nombre { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
+.champ-nombre input {
+  width: 5rem;
+  padding: .45rem .6rem;
+  font: inherit;
+  color: inherit;
+  background: var(--papier);
+  border: 1px solid var(--trait);
+  border-radius: 8px;
+  text-align: center;
+}
+
+.bascule { display: flex; align-items: center; gap: .6rem; cursor: pointer; }
+.bascule input { width: 1.15rem; height: 1.15rem; accent-color: var(--accent); }
+
+/* Prononciation : une voix par langue, à choisir et à essayer. */
+#zone-voix { margin-top: .9rem; }
+.reglage-voix-langue { margin: 0 0 .9rem; }
+.reglage-voix-langue .discret { margin: .3rem 0 0; font-size: .82rem; }
+/* Une voix canadienne lit le français malgré tout : l'avis, et le remède. */
+.avis-voix { margin: .6rem 0 0; padding: .6rem .75rem; border-radius: 8px;
+  background: var(--accent-clair); border-left: 3px solid var(--accent); }
+.avis-voix p { margin: 0 0 .35rem; font-size: .9rem; }
+.avis-voix .bouton-discret { margin-top: .2rem; }
+.reglage-voix-ligne { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem .7rem; }
+.reglage-voix-titre { font-weight: 600; font-size: .92rem; flex: 0 0 100%; }
+.reglage-voix-menu {
+  flex: 1 1 10rem;
+  min-width: 0;
+  max-width: 100%;
+  padding: .45rem .6rem;
+  font: inherit;
+  color: var(--encre);
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: 8px;
+}
+.reglage-voix-menu:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.reglage-voix-ligne .bouton-discret { flex: 0 0 auto; }
+.reglage-voix-ligne .bouton-discret[disabled] { opacity: .45; cursor: default; }
+#zone-voix > .discret { margin: .6rem 0 0; font-size: .82rem; }
+.reglage-voix-details { margin: .8rem 0 0; font-size: .82rem; }
+.reglage-voix-details > summary { cursor: pointer; color: var(--encre-douce); }
+.reglage-voix-details .discret { margin: .4rem 0; font-size: .82rem; }
+.reglage-voix-liste { margin: .3rem 0 0; padding-left: 1.1rem; color: var(--encre-douce); }
+.reglage-voix-liste li { margin: .15rem 0; overflow-wrap: anywhere; }
+.reglage-voix-detail { color: var(--encre-tres-douce); }
+
+.bouton-principal {
+  display: block;
+  width: 100%;
+  padding: .8rem 1rem;
+  border: 0;
+  border-radius: 10px;
+  background: var(--accent);
+  color: var(--papier-releve);
+  font-weight: 600;
+  cursor: pointer;
+}
+@media (prefers-color-scheme: dark) { .bouton-principal { color: #16171a; } }
+.bouton-principal[disabled] { opacity: .5; cursor: default; }
+
+.bouton-discret {
+  border: 1px solid var(--trait);
+  background: transparent;
+  border-radius: 8px;
+  padding: .5rem .9rem;
+  cursor: pointer;
+}
+
+.jauge { height: .5rem; background: var(--trait); border-radius: 999px; overflow: hidden; margin: .7rem 0 .3rem; }
+.jauge > div { height: 100%; background: var(--accent); width: 0; transition: width .2s ease; }
+
+.chantier { padding: 3rem 1rem; text-align: center; }
+
+/* ————— Révision ————— */
+
+.compteurs { display: flex; gap: .6rem; margin: 1.2rem 0 1.5rem; }
+.compteur {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .1rem;
+  padding: .8rem .4rem;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+}
+.compteur .chiffre { font-size: 1.6rem; font-weight: 650; line-height: 1; }
+.compteur .etiquette-compteur { font-size: .74rem; color: var(--encre-tres-douce); text-align: center; }
+.compteur.bien .chiffre { color: var(--das); }
+.compteur.moyen .chiffre { color: #b8860b; }
+.compteur.mal .chiffre { color: var(--die); }
+
+#revision-vide, #revision-avance { margin-top: 1.2rem; }
+#revision-vide p { color: var(--encre-douce); }
+
+.seance-tete { display: flex; align-items: center; gap: .8rem; margin: .5rem 0 1.5rem; }
+.seance-tete .jauge { flex: 1; margin: 0; }
+.lien-discret {
+  border: 0;
+  background: transparent;
+  color: var(--encre-tres-douce);
+  cursor: pointer;
+  font-size: .85rem;
+  text-decoration: underline;
+  padding: .2rem;
+}
+.lien-discret:hover { color: var(--accent); }
+
+.consigne { margin: 0 0 .8rem; color: var(--encre-tres-douce); font-size: .88rem;
+  text-transform: uppercase; letter-spacing: .05em; font-weight: 600; }
+
+#seance-enonce { margin: 0 0 1.5rem; }
+.enonce-mot { margin: 0; font-size: 1.9rem; font-weight: 650; line-height: 1.2; }
+.enonce-phrase { margin: 0; font-size: 1.25rem; line-height: 1.45; }
+.enonce-indice { margin: .5rem 0 0; color: var(--encre-tres-douce); font-size: .95rem; font-style: italic; }
+
+.bouton-ecoute {
+  width: 4.5rem; height: 4.5rem;
+  border-radius: 50%;
+  border: 1px solid var(--trait);
+  background: var(--papier-releve);
+  color: var(--accent);
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+
+#seance-zone { display: flex; flex-direction: column; gap: .5rem; }
+
+.choix {
+  width: 100%;
+  text-align: left;
+  padding: .85rem 1rem;
+  border: 1px solid var(--trait);
+  border-radius: 10px;
+  background: var(--papier-releve);
+  cursor: pointer;
+  font-size: 1.02rem;
+}
+.choix:hover { border-color: var(--accent); background: var(--accent-clair); }
+
+.choix-genre {
+  flex: 1;
+  padding: 1.1rem .5rem;
+  border: 2px solid currentColor;
+  border-radius: 12px;
+  font-size: 1.35rem;
+  cursor: pointer;
+}
+#seance-zone:has(.choix-genre) { flex-direction: row; }
+
+.saisie {
+  width: 100%;
+  padding: .85rem 1rem;
+  font-size: 1.15rem;
+  color: inherit;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: 10px;
+}
+.saisie:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+.touches { display: flex; flex-wrap: wrap; gap: .3rem; }
+.touche {
+  min-width: 2.4rem;
+  padding: .4rem .5rem;
+  border: 1px solid var(--trait);
+  border-radius: 8px;
+  background: var(--papier-releve);
+  cursor: pointer;
+  font-size: 1.05rem;
+}
+.touche:hover { border-color: var(--accent); color: var(--accent); }
+
+.ligne-boutons { display: flex; gap: .5rem; align-items: center; }
+.ligne-boutons .bouton-principal { flex: 1; }
+
+.verdict { margin-top: 1.2rem; padding: 1rem; border-radius: var(--rayon);
+  border: 1px solid var(--trait); background: var(--papier-releve); }
+.verdict.juste { border-color: var(--das); }
+.verdict.presque { border-color: #b8860b; }
+.verdict.faux { border-color: var(--die); }
+#verdict-texte { margin: 0 0 .3rem; font-size: 1.25rem; font-weight: 600; }
+.verdict.juste #verdict-texte { color: var(--das); }
+.verdict.presque #verdict-texte { color: #b8860b; }
+.verdict.faux #verdict-texte { color: var(--die); }
+#verdict-remarque { margin: 0 0 .5rem; }
+#verdict-fiche { margin: .7rem 0; padding-top: .7rem; border-top: 1px solid var(--trait); }
+.rappel-mot { margin: 0 0 .2rem; font-size: 1.1rem; }
+.rappel-sens { margin: 0 0 .4rem; color: var(--encre-douce); }
+#verdict-boutons { display: flex; gap: .5rem; align-items: center; margin-top: .8rem; }
+#verdict-boutons .bouton-principal { flex: 1; }
+
+#seance-bilan { text-align: center; }
+#seance-bilan .compteurs { text-align: center; }
+#seance-bilan .bouton-principal { margin: 1rem 0 .5rem; }
+
+/* ————— Progrès ————— */
+
+.progres-bloc { margin: 0 0 1.5rem; padding: 1rem; background: var(--papier-releve);
+  border: 1px solid var(--trait); border-radius: var(--rayon); }
+.progres-bloc h3 { margin: 0 0 .6rem; font-size: .82rem; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--encre-tres-douce); }
+.barres { display: flex; align-items: flex-end; gap: .35rem; height: 5rem; margin: .5rem 0 .3rem; }
+.barre { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; height: 100%; }
+.barre > div { background: var(--accent); border-radius: 3px 3px 0 0; min-height: 2px; }
+.barre > span { font-size: .68rem; color: var(--encre-tres-douce); text-align: center; margin-top: .2rem; }
+.liste-mots { list-style: none; margin: 0; padding: 0; }
+.liste-mots li { display: flex; justify-content: space-between; gap: 1rem;
+  padding: .4rem 0; border-bottom: 1px solid var(--trait); }
+.liste-mots li:last-child { border-bottom: 0; }
+.liste-mots .compte { color: var(--encre-tres-douce); font-size: .85rem; }
+
+/* ————— Mots suivis ————— */
+
+#mots-suivis { margin-top: 2.2rem; }
+#mots-suivis[hidden] { display: none; }
+#mots-suivis h3,
+#vue-mesmots .bloc h3 { display: flex; align-items: baseline; gap: .5rem; margin: 0 0 .7rem; }
+#mots-suivis h3 .compte,
+#vue-mesmots .bloc h3 .compte { color: var(--encre-tres-douce); font-size: .85rem; font-weight: 400; }
+
+#suivis-filtre,
+#perso-filtre {
+  width: 100%;
+  padding: .55rem .8rem;
+  margin-bottom: .3rem;
+  border: 1px solid var(--trait);
+  border-radius: 10px;
+  background: var(--papier-releve);
+  color: inherit;
+  font: inherit;
+}
+#suivis-filtre[hidden],
+#perso-filtre[hidden] { display: none; }
+
+#suivis-liste,
+#perso-liste,
+#conv-perso-liste { list-style: none; margin: 0; padding: 0; }
+#suivis-liste li,
+#perso-liste li,
+#conv-perso-liste li {
+  display: flex;
+  align-items: center;
+  gap: .4rem;
+  border-bottom: 1px solid var(--trait);
+}
+#suivis-liste li:last-child,
+#perso-liste li:last-child,
+#conv-perso-liste li:last-child { border-bottom: 0; }
+
+/* Le mot occupe toute la place restante ; `min-width: 0` autorise la
+   traduction à se laisser couper plutôt qu'à pousser la croix hors de l'écran. */
+.suivi-mot {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: baseline;
+  gap: .5rem;
+  padding: .55rem .4rem;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+}
+button.suivi-mot { cursor: pointer; }
+button.suivi-mot:hover, button.suivi-mot:focus-visible { background: var(--accent-clair); }
+.suivi-mot .mot { font-weight: 600; }
+.suivi-mot .traduction {
+  color: var(--encre-douce);
+  font-size: .9rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.suivi-quand { flex: none; color: var(--encre-tres-douce); font-size: .78rem; }
+.suivi-quand.du { color: var(--accent); font-weight: 600; }
+
+.retirer {
+  flex: none;
+  width: 2.25rem;
+  height: 2.25rem;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--encre-tres-douce);
+  font-size: .95rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.retirer:hover, .retirer:focus-visible { background: var(--die-fond); color: var(--die); }
+/* Au doigt, une croix de 36 px se rate ; on la porte au minimum tactile. */
+@media (pointer: coarse) { .retirer { width: 2.75rem; height: 2.75rem; } }
+
+.suivi-retrait { gap: .6rem; padding: .55rem .4rem; }
+.suivi-retire { flex: 1; color: var(--encre-tres-douce); font-size: .9rem; }
+
+/* ————— Bandeau de mise à jour ————— */
+
+/* Au-dessus de la barre d'onglets, jamais par-dessus : une version prête n'est
+   pas une urgence, et masquer la navigation pour l'annoncer serait la traiter
+   comme telle. */
+#mise-a-jour,
+.bandeau-fixe {
+  position: fixed;
+  z-index: 25;
+  left: .75rem;
+  right: .75rem;
+  bottom: calc(var(--barre-h) + env(safe-area-inset-bottom) + .75rem);
+  max-width: 42.5rem;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .5rem .9rem;
+  padding: .8rem 1rem;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  opacity: 0;
+  transform: translateY(.5rem);
+  transition: opacity .2s ease, transform .2s ease;
+}
+/* `display: flex` porté par un identifiant l'emporterait sur l'attribut
+   `hidden` du navigateur : le bandeau resterait visible, vide. */
+#mise-a-jour[hidden], .bandeau-fixe[hidden] { display: none; }
+#mise-a-jour.visible, .bandeau-fixe.visible { opacity: 1; transform: none; }
+#mise-a-jour p, .bandeau-fixe p { margin: 0; flex: 1 1 11rem; }
+
+.maj-boutons { display: flex; align-items: center; gap: .3rem; margin-left: auto; }
+.maj-boutons .bouton-principal { width: auto; padding: .55rem 1.1rem; }
+
+.ligne-maj { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; margin: .7rem 0 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  #mise-a-jour { transition: none; }
+}
+
+/* ————— Onglets ————— */
+
+#onglets {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 20;
+  display: flex;
+  background: var(--papier-releve);
+  border-top: 1px solid var(--trait);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+#onglets button {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: .1rem;
+  padding: .5rem .25rem .45rem;
+  border: 0;
+  background: transparent;
+  color: var(--encre-tres-douce);
+  font-size: .72rem;
+  cursor: pointer;
+}
+#onglets button[aria-current="true"] { color: var(--accent); font-weight: 600; }
+#onglets .pictogramme { font-size: 1.25rem; line-height: 1; }
+
+@media (min-width: 48rem) {
+  #fiche { left: auto; width: min(30rem, 50vw); border-left: 1px solid var(--trait); box-shadow: var(--ombre); }
+}
+
+/* ————— Ateliers ————— */
+
+/* Une grille de vignettes plutôt qu'une liste : douze exercices en liste font
+   défiler, en grille ils se voient d'un coup d'œil — et l'intérêt d'un atelier
+   est justement de choisir vite. */
+#bloc-ateliers { margin: 2rem 0 1.5rem; }
+#bloc-ateliers h3 {
+  margin: 0 0 .3rem;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.atelier-choix { display: flex; align-items: center; gap: .6rem; margin: .6rem 0; flex-wrap: wrap; }
+.atelier-choix-titre {
+  font-size: .8rem;
+  color: var(--encre-tres-douce);
+  min-width: 4.5rem;
+}
+.ateliers {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+  gap: .5rem;
+  margin-top: .9rem;
+}
+.atelier {
+  display: flex;
+  flex-direction: column;
+  gap: .15rem;
+  padding: .6rem .7rem;
+  text-align: left;
+  font: inherit;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: 10px;
+  color: var(--encre);
+  cursor: pointer;
+}
+.atelier:hover { border-color: var(--accent); }
+.atelier-nom { font-weight: 600; font-size: .98rem; }
+.atelier-detail { font-size: .8rem; color: var(--encre-tres-douce); }
+/* L'atelier impossible reste là, grisé, et dit pourquoi. Le faire disparaître
+   laisserait croire à un bogue ; l'expliquer enseigne la règle. */
+.atelier.impossible { opacity: .5; cursor: not-allowed; }
+.atelier.impossible:hover { border-color: var(--trait); }
+
+.bandeau-libre {
+  margin: 0 0 .6rem;
+  padding: .35rem .6rem;
+  font-size: .82rem;
+  color: var(--encre-douce);
+  background: var(--accent-clair);
+  border-radius: 8px;
+}
+
+
+/* ————— Mes notes ————— */
+
+/* Une note se lit telle qu'elle a été tapée : `pre-wrap` rend les sauts de
+   ligne sans qu'on ait à fabriquer du balisage à partir du texte de
+   l'utilisateur. C'est la seule façon d'afficher des retours à la ligne sans
+   jamais interpréter ce qui est écrit. */
+.mes-notes {
+  margin: 1.75rem 0 1rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--trait);
+}
+.mes-notes h3 {
+  margin: 0 0 .5rem;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.note-texte {
+  margin: 0 0 .6rem;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  padding: .7rem .85rem;
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  line-height: 1.5;
+}
+.note-saisie {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: .5rem;
+  padding: .7rem .85rem;
+  font: inherit;
+  line-height: 1.5;
+  color: var(--encre);
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  resize: vertical;
+  min-height: 5rem;
+}
+.note-saisie:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+.note-etat { display: inline-block; margin-top: .35rem; font-size: .8rem; }
+.note-retrait { margin: 0 0 .5rem; display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
+
+/* Le rappel d'une note pendant une révision : après la réponse, jamais avant. */
+.rappel-note {
+  margin-top: .8rem;
+  padding-top: .7rem;
+  border-top: 1px dashed var(--trait);
+  text-align: left;
+}
+.rappel-note-titre {
+  display: block;
+  font-size: .75rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  margin-bottom: .3rem;
+}
+.rappel-note .note-texte { margin: 0; font-size: .92rem; }
+
+/* ————— Mes mots ————— */
+
+/* « Personnel » se lit à côté de « DE » et « FR » : même forme de pastille,
+   couleur d'accent, pour qu'on sache d'un coup d'œil qu'on lit sa propre
+   entrée et non le dictionnaire. */
+.pastille.perso {
+  background: var(--accent-clair);
+  color: var(--accent);
+  border-color: transparent;
+}
+
+/* `display: block` sur une classe l'emporte sur la règle `[hidden]` du
+   navigateur, qui n'a aucune spécificité : sans la ligne qui suit, le bouton
+   reste affiché alors que le JavaScript le croit caché. C'est la même
+   précaution que `#fiche[hidden]` plus haut. */
+.ajouter-mot { display: block; margin: 1rem auto 0; }
+.ajouter-mot[hidden] { display: none; }
+#rien .bouton-principal { margin-top: 1rem; }
+
+#panneau-perso {
+  position: fixed;
+  inset: 0;
+  z-index: 32;
+  background: var(--papier);
+  overflow-y: auto;
+  padding: 0 1rem calc(2rem + env(safe-area-inset-bottom));
+  -webkit-overflow-scrolling: touch;
+}
+#panneau-perso[hidden] { display: none; }
+#formulaire-perso { max-width: 44rem; margin: 0 auto; }
+
+.formulaire-perso { display: flex; flex-direction: column; gap: 1.1rem; }
+.champ-perso { display: flex; flex-direction: column; gap: .35rem; }
+/* Le bloc du genre se cache quand la nature n'est pas « nom » : sans cette
+   ligne, `display: flex` l'emporterait sur l'attribut `hidden`. */
+.champ-perso[hidden] { display: none; }
+.champ-perso > span:first-child { font-weight: 600; font-size: .92rem; }
+.champ-perso .discret { font-size: .8rem; }
+.saisie-perso {
+  width: 100%;
+  box-sizing: border-box;
+  padding: .65rem .8rem;
+  font: inherit;
+  color: var(--encre);
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+}
+.saisie-perso:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+textarea.saisie-perso { resize: vertical; line-height: 1.5; }
+
+/* Onze natures grammaticales ne tiennent pas sur une ligne de téléphone : ce
+   groupe-là passe à la ligne, contrairement aux segments à deux ou trois choix
+   du reste de l'application. */
+.segments-souples { flex-wrap: wrap; }
+.segments-souples button { flex: 0 1 auto; }
+
+.perso-details { margin: 0; }
+.perso-details > summary {
+  cursor: pointer;
+  padding: .5rem 0;
+  font-weight: 600;
+  font-size: .92rem;
+  color: var(--accent);
+}
+.perso-details[open] > summary { margin-bottom: .8rem; }
+.perso-details > *:not(summary) { margin-bottom: 1rem; }
+
+.perso-avis {
+  margin: 0;
+  padding: .6rem .8rem;
+  background: var(--accent-clair);
+  border-radius: var(--rayon);
+  color: var(--encre-douce);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .5rem;
+}
+.perso-avis[hidden] { display: none; }
+.perso-actions { margin-top: 1.5rem; justify-content: flex-start; }
+
+#perso-liste { margin-top: .6rem; }
+
+/* Sur un téléphone, la traduction d'un mot personnel passe à la ligne plutôt
+   que de se laisser rogner jusqu'à une lettre. C'est elle qu'on vient lire —
+   « Baustellenlärm b… » ne dit rien, et une ligne de plus ne coûte rien. */
+@media (max-width: 30rem) {
+  #perso-liste .suivi-mot,
+  #conv-perso-liste .suivi-mot { flex-wrap: wrap; }
+  #perso-liste .suivi-mot .traduction,
+  #conv-perso-liste .suivi-mot .traduction { flex-basis: 100%; white-space: normal; }
+}
+
+/* ————— Expressions usuelles ————— */
+
+/* Le groupe sous les résultats, et la section en fin de fiche, partagent la
+   mise en page des listes de mots : même pastille, même mot, même traduction
+   qui se laisse couper. Une expression est un mot plus long, pas autre chose. */
+#resultats-expressions, #resultats-conversation { margin-top: 1.1rem; }
+#resultats-expressions h3,
+#resultats-conversation h3,
+.expressions-usuelles h3 {
+  margin: 0 0 .4rem;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+#resultats-expressions[hidden], #resultats-conversation[hidden] { display: none; }
+/* La suite des mots, sous les expressions : même liste que #resultats. */
+#resultats-suite { list-style: none; margin: .4rem 0 0; padding: 0; }
+#resultats-suite[hidden] { display: none; }
+#resultats-suite .titre-suite { padding: .8rem 0 .2rem; }
+#resultats-suite .titre-suite h3 {
+  margin: 0;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.resultats-expressions,
+.expressions-usuelles ul { list-style: none; margin: 0; padding: 0; }
+.resultats-expressions li,
+.expressions-usuelles li { border-bottom: 1px solid var(--trait); }
+.resultats-expressions li:last-child,
+.expressions-usuelles li:last-child { border-bottom: 0; }
+.expressions-usuelles {
+  margin: 1.75rem 0 1rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--trait);
+}
+.expression-ligne {
+  display: flex;
+  align-items: baseline;
+  gap: .5rem;
+  width: 100%;
+  min-width: 0;
+  padding: .55rem .4rem;
+  border: 0;
+  background: transparent;
+  color: var(--encre);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  border-radius: 8px;
+}
+.expression-ligne:hover, .expression-ligne:focus-visible { background: var(--accent-clair); }
+.expression-ligne .mot { font-weight: 600; }
+.expression-ligne .traduction {
+  color: var(--encre-douce);
+  font-size: .9rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+/* Sur un téléphone, une expression et sa traduction ne tiennent pas sur une
+   ligne : la traduction passe dessous, comme pour les mots personnels — dans
+   la liste des résultats comme au bas d'une fiche. Le mot, lui, ne se coupe
+   pas : « prendre / feu » sur deux lignes ne se lit plus comme une expression. */
+.expression-ligne .mot,
+#resultats-expressions .resultat .mot { flex: none; max-width: 100%; }
+@media (max-width: 30rem) {
+  .expression-ligne,
+  #resultats-expressions .resultat { flex-wrap: wrap; }
+  .expression-ligne .traduction,
+  #resultats-expressions .resultat .traduction { flex-basis: 100%; white-space: normal; }
+}
+.etiquette.expression { background: var(--accent-clair); color: var(--accent); }
+.provenance { margin: -.2rem 0 1rem; }
+.provenance .explication { margin: 0 0 .3rem; }
+.provenance .discret { margin: 0; font-size: .8rem; }
+.sans-equivalent { margin: .3rem 0 1rem; }
+
+/* ————— Sauvegarde ————— */
+
+.sauvegarde-avis { margin-top: .8rem; }
+.sauvegarde-avis p { margin: .4rem 0; }
+.sauvegarde-bilan {
+  margin: .4rem 0 .8rem;
+  padding-left: 1.1rem;
+  font-size: .9rem;
+  color: var(--encre-douce);
+}
+.sauvegarde-bilan li { margin: .15rem 0; }
+.sauvegarde-echec { color: var(--die); }
+
+.dictionnaire-detail { margin: .2rem 0 .8rem; }
+.etat-installe { color: var(--das); font-weight: 600; }
+
+/* Une expression sans équivalent se lit, mais ne s'apprend pas : sa ligne
+   pâlit, et la mention prend la place de la traduction absente. */
+.resultat.sans-equivalent .mot,
+.expression-ligne.sans-equivalent .mot { opacity: .7; font-weight: 500; }
+.resultat.sans-equivalent .traduction,
+.expression-ligne.sans-equivalent .traduction { font-style: italic; }
+
+/* Le dictionnaire complet d'une mouture antérieure : l'avis, dans les réglages. */
+.avis-donnees {
+  margin: .5rem 0 .75rem;
+  padding: .6rem .8rem;
+  border-left: 3px solid var(--accent, #1f3a5f);
+  background: var(--papier-releve);
+  border-radius: 0 var(--rayon) var(--rayon) 0;
+}
+
+/* ————— Phrases et dialogues ————— */
+
+/* Six onglets au lieu de cinq : sur un téléphone étroit, les libellés les
+   plus longs (« Réglages », « Settings ») ne tiennent plus à la taille d'avant. */
+@media (max-width: 26rem) {
+  #onglets button { font-size: .64rem; padding-left: .1rem; padding-right: .1rem; letter-spacing: -.01em; }
+}
+
+/* Le lien de l'accueil vers le module : une ligne cliquable, pas un bouton
+   principal — c'est une porte, pas une action. */
+.vers-conversation {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+  width: 100%;
+  margin: 1rem 0 0;
+  padding: .7rem .85rem;
+  text-align: left;
+  font: inherit;
+  color: var(--encre);
+  background: var(--papier-releve);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  cursor: pointer;
+}
+.vers-conversation:hover { border-color: var(--accent); color: var(--accent); }
+.vers-conversation .pictogramme { font-size: 1.2rem; line-height: 1; }
+
+/* Dans la recherche générale : une phrase entière ne se rogne pas, elle
+   passe à la ligne, et sa traduction dessous. */
+.resultat-conversation { flex-wrap: wrap; align-items: center; }
+.resultat-conversation .mot { flex: 1 1 auto; min-width: 0; white-space: normal; }
+.resultat-conversation .traduction { flex-basis: 100%; white-space: normal; }
+
+/* L'écran du module. */
+#vue-conversation h2 { margin: 1.2rem 0 .3rem; font-size: 1.25rem; }
+#vue-conversation > .discret { margin: 0 0 1rem; }
+#conv-outils { display: flex; flex-direction: column; gap: .6rem; margin: 0 0 1rem; }
+.conv-outil { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
+.conv-outil .segments { flex: 1 1 14rem; }
+.conv-outil-titre { font-size: .8rem; color: var(--encre-tres-douce); min-width: 6rem; }
+.conv-outil-langue .segments { flex: 0 1 14rem; }
+.conv-bascule { font-size: .9rem; color: var(--encre-douce); }
+.conv-themes { display: flex; flex-wrap: wrap; gap: .35rem; }
+.conv-theme {
+  border: 1px solid var(--trait);
+  background: var(--papier-releve);
+  border-radius: 999px;
+  padding: .3rem .75rem;
+  cursor: pointer;
+  font-size: .88rem;
+}
+.conv-theme:hover { border-color: var(--accent); color: var(--accent); }
+.conv-theme[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--papier-releve); font-weight: 600; }
+@media (prefers-color-scheme: dark) { .conv-theme[aria-pressed="true"] { color: #16171a; } }
+
+.conv-theme-bloc { margin: 0 0 1.4rem; }
+.conv-theme-bloc h3 {
+  margin: 0 0 .3rem;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.conv-liste { list-style: none; margin: 0; padding: 0; }
+.conv-liste li { display: flex; align-items: center; gap: .2rem; border-bottom: 1px solid var(--trait); }
+.conv-liste li:last-child { border-bottom: 0; }
+.conv-ligne {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: .1rem;
+  padding: .6rem .5rem;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--encre);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+.conv-ligne:hover, .conv-ligne:focus-visible { background: var(--accent-clair); }
+.conv-ligne-tete { display: flex; align-items: baseline; flex-wrap: wrap; gap: .3rem .5rem; }
+.conv-principal { font-weight: 600; font-size: 1.02rem; }
+.conv-secondaire { color: var(--encre-douce); font-size: .92rem; }
+.conv-ecoute-ligne { flex: none; }
+.conv-registre {
+  font-size: .72rem;
+  padding: .1rem .45rem;
+  border-radius: 999px;
+  border: 1px solid var(--trait);
+  color: var(--encre-tres-douce);
+  white-space: nowrap;
+}
+.conv-registre.familier { border-color: var(--das); color: var(--das); }
+.conv-registre.poli { border-color: var(--der); color: var(--der); }
+#conv-rien, #conv-indisponible { padding: .5rem 0 1rem; }
+#conv-rien[hidden], #conv-indisponible[hidden] { display: none; }
+
+.conv-perso { margin-top: 1.5rem; }
+.conv-perso-boutons { flex-wrap: wrap; margin: .6rem 0; }
+#conv-perso-liste { margin-top: .4rem; }
+#conv-perso-vide[hidden] { display: none; }
+
+/* La fiche d'une phrase : les deux langues, l'une en grand. */
+.conv-fiche-texte { display: flex; align-items: baseline; flex-wrap: wrap; gap: .5rem; margin: .4rem 0; }
+.conv-fiche-texte p { margin: 0; flex: 1 1 12rem; }
+.conv-fiche-texte.principal p { font-size: 1.55rem; font-weight: 650; line-height: 1.25; }
+.conv-fiche-texte.secondaire p { font-size: 1.1rem; color: var(--encre-douce); }
+.conv-fiche-texte + .apprendre { margin-top: .9rem; }
+.conv-section { margin: 0 0 1.25rem; }
+.conv-section h3 {
+  margin: 1.25rem 0 .4rem;
+  font-size: .82rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--encre-tres-douce);
+  font-weight: 600;
+}
+.conv-section p { margin: 0 0 .4rem; }
+.conv-variantes { list-style: none; margin: 0 0 .5rem; padding: 0; }
+.conv-variantes li { display: flex; align-items: baseline; gap: .5rem; padding: .3rem 0; border-bottom: 1px solid var(--trait); }
+.conv-variantes li:last-child { border-bottom: 0; }
+.conv-variantes li > span:nth-child(2) { flex: 1; }
+.conv-provenance { margin: 1rem 0 .5rem; font-size: .8rem; }
+.rappel-variantes { margin: 0 0 .4rem; font-size: .88rem; }
+
+/* Le dialogue. Deux voix : A à gauche, B décalée, comme des bulles — sans en
+   dessiner : la couleur du filet suffit. */
+.conv-dialogue-titre { margin: .3rem 0 .1rem; font-size: 1.35rem; }
+.conv-dialogue-sous-titre { margin: 0 0 .8rem; }
+.conv-dialogue-sous-titre[hidden] { display: none; }
+.conv-commandes { display: flex; flex-direction: column; gap: .5rem; margin: 0 0 1rem; padding: .7rem .8rem;
+  background: var(--papier-releve); border: 1px solid var(--trait); border-radius: var(--rayon); }
+.conv-commandes .conv-outil { gap: .5rem; }
+.conv-ecouter-dialogue { font-weight: 600; }
+.conv-ecouter-dialogue.en-cours { border-color: var(--die); color: var(--die); }
+.conv-ecouter-dialogue[disabled] { opacity: .5; cursor: default; }
+.conv-etat-voix, .conv-note-role { margin: 0; font-size: .82rem; }
+.conv-etat-voix[hidden], .conv-note-role[hidden] { display: none; }
+.conv-commandes .lien-discret { align-self: flex-start; }
+.conv-commandes .lien-discret[hidden] { display: none; }
+
+.conv-repliques { display: flex; flex-direction: column; gap: .55rem; margin: 0 0 1rem; }
+.replique {
+  position: relative;
+  padding: .55rem .75rem .5rem;
+  border: 1px solid var(--trait);
+  border-left: 3px solid var(--der);
+  border-radius: 10px;
+  background: var(--papier-releve);
+  max-width: 92%;
+}
+.replique.B { border-left-color: var(--das); align-self: flex-end; }
+.replique.moi { border-style: dashed; border-left-style: solid; }
+.replique.en-cours { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-clair); }
+.replique-qui { display: block; font-size: .72rem; text-transform: uppercase; letter-spacing: .05em;
+  color: var(--encre-tres-douce); font-weight: 600; margin-bottom: .15rem; }
+.replique.B .replique-qui { text-align: right; }
+.replique-texte { margin: 0; font-size: 1.05rem; line-height: 1.45; }
+.replique-traduction { margin: .15rem 0 0; color: var(--encre-douce); font-size: .92rem; }
+.replique-reveler {
+  display: block;
+  width: 100%;
+  padding: .5rem .8rem;
+  font: inherit;
+  color: var(--accent);
+  background: var(--accent-clair);
+  border: 1px dashed var(--accent);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.replique-actions { display: flex; align-items: center; gap: .3rem; margin-top: .3rem; }
+.replique-actions .ecouter-phrase { margin: 0; }
+.conv-apprendre-court {
+  margin-left: auto;
+  padding: .25rem .6rem;
+  font: inherit;
+  font-size: .82rem;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--accent);
+  cursor: pointer;
+}
+.conv-apprendre-court.suivi { background: var(--accent); color: var(--papier-releve); }
+@media (prefers-color-scheme: dark) { .conv-apprendre-court.suivi { color: #16171a; } }
+.conv-apprendre-court[disabled] { opacity: .6; }
+
+/* Les formulaires, dans leur propre volet — même mise en page que « Mes
+   mots ». */
+#panneau-conversation {
+  position: fixed;
+  inset: 0;
+  z-index: 32;
+  background: var(--papier);
+  overflow-y: auto;
+  padding: 0 1rem calc(2rem + env(safe-area-inset-bottom));
+  -webkit-overflow-scrolling: touch;
+}
+#panneau-conversation[hidden] { display: none; }
+#formulaire-conversation { max-width: 44rem; margin: 0 auto; }
+.conv-form-roles { display: flex; gap: .5rem; }
+.conv-form-roles input { flex: 1; min-width: 0; }
+.conv-form-repliques { display: flex; flex-direction: column; gap: .6rem; margin-bottom: .6rem; }
+.conv-form-replique { display: flex; flex-direction: column; gap: .4rem; padding: .6rem .7rem;
+  border: 1px solid var(--trait); border-radius: 10px; background: var(--papier-releve); }
+.conv-form-replique-tete { display: flex; align-items: center; justify-content: space-between; gap: .5rem; }
+.conv-form-qui { flex: 0 0 auto; }
+.conv-form-qui button { flex: none; min-width: 2.6rem; padding: .3rem .6rem; }
+
+
+/* ════════════════════════════════════════════════════════════════════════
+ * Vocabulary : les ajouts
+ * ════════════════════════════════════════════════════════════════════════ */
+
+/* ————— Marques d'usage ————— */
+
+.marques { display: inline-flex; flex-wrap: wrap; gap: .25rem; margin-right: .35rem; vertical-align: middle; }
+.marque {
+  display: inline-block;
+  font-size: .72rem;
+  font-weight: 600;
+  line-height: 1.2;
+  padding: .12rem .42rem;
+  border-radius: 999px;
+  background: var(--accent-clair);
+  color: var(--accent);
+  white-space: nowrap;
+}
+.marque-vulg, .marque-inj { background: var(--rouge-fond); color: var(--rouge); }
+.marque-pej { background: var(--rouge-fond); color: var(--rouge); opacity: .85; }
+.marque-arg, .marque-fam, .marque-tfam, .marque-web { background: var(--ambre-fond); color: var(--ambre); }
+.marque-abr, .marque-neo, .marque-angl { background: var(--violet-fond); color: var(--violet); }
+.marque-gb, .marque-us, .marque-ie, .marque-sc, .marque-au, .marque-nz, .marque-ca,
+.marque-za, .marque-in, .marque-qc, .marque-be, .marque-ch, .marque-af { background: var(--bleu-fond); color: var(--bleu); }
+.marque-vieilli, .marque-vx, .marque-rare, .marque-dial { background: var(--papier); color: var(--encre-tres-douce); border: 1px solid var(--trait); }
+.marque-sout, .marque-fig, .marque-hum, .marque-iron, .marque-euph, .marque-enf { background: var(--vert-fond); color: var(--vert); }
+
+.variante-us { margin: -.2rem 0 .4rem; color: var(--encre-douce); font-size: .95rem; }
+.etiquette.irregulier { background: var(--rouge-fond); color: var(--rouge); }
+.sens-tus { font-style: italic; }
+.traductions .traduction + .traduction::before { content: ''; }
+
+.pastille.module { background: var(--violet-fond); color: var(--violet); }
+
+/* ————— Accueil ————— */
+
+.etat-hors-ligne {
+  margin: .2rem 0 .8rem;
+  padding: .5rem .75rem;
+  border-radius: var(--rayon);
+  background: var(--accent-clair);
+  color: var(--accent);
+  font-size: .9rem;
+}
+.tuiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: .7rem; margin: .8rem 0 1.2rem; }
+.tuiles-accueil { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.tuile {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: .25rem;
+  text-align: left;
+  padding: .85rem .9rem;
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  background: var(--papier-releve);
+  box-shadow: var(--ombre);
+  cursor: pointer;
+  min-height: 44px;
+}
+.tuile:hover, .tuile:focus-visible { border-color: var(--accent); }
+.tuile-icone { font-size: 1.35rem; line-height: 1; }
+.tuile-titre { font-weight: 700; color: var(--accent); }
+.tuile-accroche { font-size: .88rem; color: var(--encre-douce); }
+.tuile-compte { font-size: .8rem; color: var(--encre-tres-douce); }
+.tuile-petite { flex-direction: row; align-items: center; padding: .65rem .75rem; }
+.tuile-petite .tuile-titre { font-size: .95rem; }
+
+.bloc-accueil h3 { margin: .4rem 0 .5rem; font-size: 1rem; color: var(--encre-douce); }
+.decouvrir { display: flex; flex-wrap: wrap; gap: .45rem; margin-bottom: 1rem; }
+.decouverte {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: .45rem .7rem;
+  border: 1px solid var(--trait);
+  border-radius: 10px;
+  background: var(--papier-releve);
+  cursor: pointer;
+  max-width: 100%;
+}
+.decouverte-mot { font-weight: 700; }
+.decouverte-sens { font-size: .82rem; color: var(--encre-douce); }
+.liste-simple { list-style: none; padding: 0; margin: 0; }
+
+/* ————— Modules ————— */
+
+.module-tete { display: flex; flex-direction: column; gap: .2rem; margin-bottom: .4rem; }
+.module-tete h2 { margin: .2rem 0; }
+.module-retour { align-self: flex-start; padding: .3rem 0; }
+.module-crus { font-style: italic; }
+.puces { display: flex; gap: .4rem; overflow-x: auto; padding: .2rem 0 .6rem; scrollbar-width: thin; }
+.puce {
+  flex: 0 0 auto;
+  padding: .35rem .75rem;
+  border: 1px solid var(--trait);
+  border-radius: 999px;
+  background: var(--papier-releve);
+  font-size: .88rem;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.puce[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--papier-releve); }
+.module-actions { margin: .2rem 0 .8rem; }
+.liste-module { list-style: none; padding: 0; margin: 0; }
+.liste-module .resultat .marques { margin-left: .2rem; }
+
+.module-bloc {
+  margin: .9rem 0 1.1rem;
+  padding: .85rem .95rem;
+  border-radius: var(--rayon);
+  border: 1px solid var(--trait);
+  border-left: 4px solid var(--violet);
+  background: var(--papier-releve);
+}
+.module-argot { border-left-color: var(--ambre); }
+.module-tech { border-left-color: var(--info); }
+.module-actuel { border-left-color: var(--vert); }
+.module-expressions { border-left-color: var(--bleu); }
+.module-bloc-tete { display: flex; flex-wrap: wrap; align-items: center; gap: .4rem; margin-bottom: .4rem; }
+.module-badge {
+  border: 0;
+  border-radius: 999px;
+  padding: .2rem .6rem;
+  background: var(--violet-fond);
+  color: var(--violet);
+  font-weight: 700;
+  font-size: .82rem;
+  cursor: pointer;
+}
+.module-theme { font-size: .85rem; color: var(--encre-douce); }
+.module-equivalents { font-size: 1.05rem; }
+.module-equivalents .traduction { font-weight: 600; }
+.module-equivalents .traduction + .traduction::before { content: " · "; color: var(--encre-tres-douce); font-weight: 400; }
+.module-dev { font-size: .85rem; color: var(--encre-tres-douce); font-style: italic; margin-left: .3rem; }
+.module-sens + .module-sens { border-top: 1px dashed var(--trait); margin-top: .6rem; padding-top: .6rem; }
+.module-sens-titre { font-weight: 700; margin: .2rem 0; }
+.module-definitions { display: flex; flex-direction: column; gap: .3rem; }
+.module-definition { margin: .15rem 0; }
+.module-litteral { font-style: italic; color: var(--encre-douce); margin: .35rem 0; }
+.module-note { margin: .35rem 0; color: var(--encre-douce); }
+.module-attention {
+  margin: .45rem 0;
+  padding: .45rem .6rem;
+  border-radius: 8px;
+  background: var(--warn-fond);
+  color: var(--encre);
+}
+.module-exemples { margin-top: .4rem; }
+.module-code pre {
+  margin: .5rem 0 .2rem;
+  padding: .6rem .7rem;
+  border-radius: 8px;
+  background: #121a2c;
+  color: #dde5f5;
+  overflow-x: auto;
+  font: .85rem/1.45 var(--mono);
+}
+.module-voir { margin-top: .6rem; display: flex; flex-wrap: wrap; align-items: center; gap: .35rem; }
+.module-source { margin: .6rem 0 0; font-size: .8rem; }
+
+figure.schema { margin: .7rem 0 .3rem; }
+figure.schema figcaption { font-size: .85rem; color: var(--encre-douce); margin-top: .3rem; }
+
+.galerie-schemas { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: .8rem; }
+.carte-schema {
+  display: flex;
+  flex-direction: column;
+  gap: .4rem;
+  text-align: left;
+  padding: .7rem;
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon);
+  background: var(--papier-releve);
+  cursor: pointer;
+}
+.carte-schema-titre { font-weight: 700; color: var(--accent); }
+.carte-schema figure.schema { margin: 0; }
+
+.table-irreguliers { width: 100%; border-collapse: collapse; margin-top: .8rem; font-size: .95rem; }
+.table-irreguliers th, .table-irreguliers td { text-align: left; padding: .4rem .35rem; border-bottom: 1px solid var(--trait); vertical-align: top; }
+.table-irreguliers th { color: var(--encre-douce); font-weight: 600; font-size: .85rem; }
+.table-irreguliers td:nth-child(2), .table-irreguliers td:nth-child(3) { font-weight: 600; }
+
+/* ————— Famille, exemples personnels ————— */
+
+.voisin { display: inline-flex; flex-direction: column; align-items: flex-start; }
+.voisin-mot { font-weight: 600; }
+.voisin-sens { font-size: .78rem; color: var(--encre-douce); }
+.mes-exemples { margin-top: .9rem; }
+.mes-exemples h4 { margin: .2rem 0 .4rem; font-size: .95rem; }
+.mes-exemples-form { display: flex; flex-direction: column; gap: .4rem; margin-top: .5rem; }
+.exemple-perso .lien-discret { font-size: .82rem; }
+
+@media (max-width: 420px) {
+  .tuiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .galerie-schemas { grid-template-columns: 1fr; }
+}

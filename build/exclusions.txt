@@ -1,0 +1,9 @@
+# Rapprochements écartés à la main.
+#
+# Une paire de mots par ligne, séparés par une tabulation. Le lien est
+# supprimé dans les deux sens. Les lignes vides et ce qui suit un « # » sont
+# ignorés.
+#
+# À remplir en relisant la section « Familles à relire » de build/rapport.txt :
+# le procédé est automatique, il se trompe, et c'est ici qu'on le corrige une
+# fois pour toutes.

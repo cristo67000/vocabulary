@@ -1,0 +1,1289 @@
+# Argot et anglais familier — vedettes anglaises.
+# Rédigé pour Vocabulary ; registre et région indiqués par les marques.
+module: argot
+langue: en
+
+# ————— L'anglais familier du Royaume-Uni —————
+
+@ knackered
+t: uk
+tr: crevé, naze, lessivé
+mq: fam, gb
+nat: adj
+d-fr: Épuisé, à bout de forces. Se dit aussi d’un objet usé ou hors d’usage.
+d-en: Extremely tired. Also said of a thing that is worn out or broken.
+n-fr: Très courant au Royaume-Uni. Familier : on le dit à un ami, pas à un recruteur.
+x: I’m absolutely knackered after that run. | Je suis complètement crevé après ce footing.
+x: The washing machine’s knackered again. | La machine à laver est encore naze.
+v: shattered
+
+@ shattered
+t: uk
+tr: crevé, vidé, anéanti
+mq: fam, gb
+nat: adj
+d-fr: Complètement épuisé ; aussi : bouleversé, anéanti par une nouvelle.
+d-en: Completely exhausted; also, devastated by news.
+x: I’ve been on my feet all day — I’m shattered. | Je suis resté debout toute la journée, je suis vidé.
+v: knackered, gutted
+
+@ gutted
+t: uk
+tr: dégoûté, effondré, très déçu
+mq: fam, gb
+nat: adj
+d-fr: Terriblement déçu ou attristé par quelque chose.
+d-en: Bitterly disappointed or upset.
+x: She was gutted when they lost the final. | Elle était dégoûtée qu’ils perdent la finale.
+v: chuffed
+
+@ chuffed
+t: uk
+tr: ravi, aux anges, tout content
+mq: fam, gb
+nat: adj
+d-fr: Très content, fier de soi. « Chuffed to bits » renforce encore.
+d-en: Very pleased. “Chuffed to bits” is even stronger.
+x: I’m chuffed to bits with my new flat. | Je suis ravi de mon nouvel appart.
+v: gutted
+
+@ skint
+t: uk
+tr: fauché, à sec, sans un rond
+mq: fam, gb
+nat: adj
+d-fr: Qui n’a plus d’argent, provisoirement.
+d-en: Having no money, usually for the time being.
+x: I can’t come out tonight, I’m skint. | Je ne peux pas sortir ce soir, je suis fauché.
+v: quid, dosh
+
+@ quid
+t: uk
+tr: livre, balle
+mq: fam, gb
+nat: n
+d-fr: Une livre sterling, dans la langue de tous les jours.
+d-en: A pound sterling, in everyday speech.
+a-fr: Invariable : « twenty quid », jamais « twenty quids ».
+a-en: It never takes an s: “twenty quid”, not “twenty quids”.
+x: It cost me twenty quid. | Ça m’a coûté vingt livres.
+v: fiver, tenner, skint
+
+@ fiver
+t: uk
+tr: billet de cinq livres, cinq livres
+mq: fam, gb
+nat: n
+d-fr: Un billet de cinq livres, ou la somme de cinq livres.
+d-en: A five-pound note, or the sum of five pounds.
+x: Can you lend me a fiver till Friday? | Tu peux me prêter cinq livres jusqu’à vendredi ?
+v: tenner, quid
+
+@ tenner
+t: uk
+tr: billet de dix livres, dix livres
+mq: fam, gb
+nat: n
+d-fr: Un billet de dix livres, ou la somme de dix livres.
+d-en: A ten-pound note, or the sum of ten pounds.
+x: The taxi was only a tenner. | Le taxi ne coûtait que dix livres.
+v: fiver, quid
+
+@ bloke
+t: uk
+tr: mec, type, gars
+mq: fam, gb
+nat: n
+d-fr: Un homme, sans nuance particulière ; « a nice bloke », un chic type.
+d-en: A man, with no particular nuance; “a nice bloke” is a decent guy.
+x: He’s a really nice bloke. | C’est un type vraiment sympa.
+v: mate
+
+@ mate
+t: uk
+tr: pote, copain, mon vieux
+mq: fam, gb
+nat: n
+d-fr: Un ami ; s’emploie aussi pour interpeller quelqu’un avec sympathie, même un inconnu.
+d-en: A friend; also a friendly way of addressing someone, even a stranger.
+n-fr: « Cheers, mate » au comptoir d’un pub, au chauffeur de bus : c’est le ton britannique, amical sans être intime.
+x: I’m meeting a few mates at the pub. | Je retrouve quelques potes au pub.
+x: Cheers, mate! | Merci, mon vieux !
+v: bloke, cheers
+
+@ cheers
+t: uk
+tr: merci, santé, salut
+mq: fam, gb
+nat: interjection
+d-fr: Trois emplois : « merci » (très fréquent), « santé ! » pour trinquer, et « salut » pour prendre congé.
+d-en: Three uses: thanks (very common), a toast, and a way of saying goodbye.
+x: “Here’s your change.” — “Cheers!” | « Voilà votre monnaie. » — « Merci ! »
+x: Cheers, everyone — happy birthday, Sam! | Santé, tout le monde — joyeux anniversaire, Sam !
+v: ta, cheerio
+
+@ ta
+t: uk
+tr: merci
+mq: fam, gb
+nat: interjection
+d-fr: Merci, très familier et bref.
+d-en: Thanks, very informal and short.
+x: Ta, love. | Merci, ma belle.
+v: cheers
+
+@ cheerio
+t: uk
+tr: salut, à plus, au revoir
+mq: fam, gb, vieilli
+nat: interjection
+d-fr: Au revoir, sur un ton léger ; un peu vieillot aujourd’hui.
+d-en: Goodbye, in a light-hearted way; a bit old-fashioned now.
+x: Cheerio, see you next week! | Salut, à la semaine prochaine !
+
+@ innit
+t: uk
+tr: hein, pas vrai, non
+mq: arg, gb
+nat: particle
+d-fr: Contraction de « isn’t it », devenue une particule qu’on ajoute à n’importe quelle phrase pour demander l’accord.
+d-en: From “isn’t it”, now a tag added to almost any sentence to ask for agreement.
+n-fr: Très oral, typique de Londres et des jeunes ; à ne pas écrire.
+x: It’s cold today, innit? | Il fait froid aujourd’hui, hein ?
+x: We’re going later, innit. | On y va plus tard, non ?
+
+@ bloody
+t: uk
+tr: sacrément, vachement, foutu
+mq: fam, gb
+nat: adv
+d-fr: Intensif familier : renforce l’adjectif ou le nom qui suit. « Bloody hell ! » : bon sang !
+d-en: A mild intensifier. “Bloody hell!” expresses surprise or annoyance.
+n-fr: Gros mot léger au Royaume-Uni : courant entre amis, déplacé dans un cadre officiel.
+x: It’s bloody freezing out there. | Il fait vachement froid dehors.
+x: Bloody hell, look at the time! | Bon sang, t’as vu l’heure ?
+
+@ rubbish
+t: uk
+tr: nul, n’importe quoi, ordures
+mq: fam, gb
+nat: adj
+d-fr: Au sens propre, les ordures (britannique). Familier : nul, sans valeur ; « talk rubbish », dire n’importe quoi.
+d-en: Literally household waste (British). Informally: worthless, bad; “talk rubbish” means to talk nonsense.
+x: That film was absolute rubbish. | Ce film était complètement nul.
+x: Don’t talk rubbish! | Dis pas n’importe quoi !
+
+@ cheeky
+t: uk
+tr: culotté, effronté, petit… en douce
+mq: fam, gb
+nat: adj
+d-fr: Effronté, mais souvent avec humour. « A cheeky pint » : une petite bière qu’on s’accorde sans l’avoir prévu.
+d-en: Rude or bold, often in an amusing way. “A cheeky pint” is an unplanned drink you treat yourself to.
+x: Don’t be cheeky! | Ne sois pas insolent !
+x: Fancy a cheeky pint after work? | Une petite bière après le boulot, ça te dit ?
+
+@ fancy
+t: uk
+tr: avoir envie de, craquer pour
+mq: fam, gb
+nat: v
+d-fr: Avoir envie de quelque chose ; être attiré par quelqu’un.
+d-en: To want something; to be attracted to someone.
+x: Do you fancy a cup of tea? | Tu veux une tasse de thé ?
+x: I think he fancies you. | Je crois qu’il craque pour toi.
+
+@ loo
+t: uk
+tr: toilettes, WC
+mq: fam, gb
+nat: n
+d-fr: Les toilettes, familier mais poli : c’est le mot qu’on emploie chez des amis.
+d-en: The toilet, informal but polite.
+x: Where’s the loo, please? | Où sont les toilettes, s’il te plaît ?
+
+@ telly
+t: uk
+tr: télé
+mq: fam, gb
+nat: n
+d-fr: La télévision.
+d-en: Television.
+x: There’s nothing on the telly tonight. | Il n’y a rien à la télé ce soir.
+
+@ brolly
+t: uk
+tr: pépin, parapluie
+mq: fam, gb
+nat: n
+d-fr: Un parapluie.
+d-en: An umbrella.
+x: Take a brolly, it’s going to rain. | Prends un parapluie, il va pleuvoir.
+
+@ cuppa
+t: uk
+tr: tasse de thé, petit thé
+mq: fam, gb
+nat: n
+d-fr: Une tasse de thé (parfois de café) ; le rituel britannique par excellence.
+d-en: A cup of tea (sometimes coffee).
+x: Let’s have a cuppa before we start. | On prend un petit thé avant de commencer.
+
+@ gobsmacked
+t: uk
+tr: sidéré, bouche bée, estomaqué
+mq: fam, gb
+nat: adj
+d-fr: Stupéfait au point de ne plus rien dire.
+d-en: So astonished that you can’t speak.
+x: I was gobsmacked when she told me. | J’en suis resté bouche bée quand elle me l’a dit.
+
+@ peckish
+t: uk
+tr: un petit creux
+mq: fam, gb
+nat: adj
+d-fr: Légèrement affamé.
+d-en: Slightly hungry.
+x: I’m feeling a bit peckish — any biscuits? | J’ai un petit creux, il reste des biscuits ?
+
+@ naff
+t: uk
+tr: ringard, nul, kitsch
+mq: fam, gb
+nat: adj
+d-fr: De mauvais goût, démodé, sans intérêt.
+d-en: Unfashionable, in poor taste, or worthless.
+x: The decorations were a bit naff. | La déco était un peu ringarde.
+
+@ dodgy
+t: uk
+tr: louche, douteux, pas fiable
+mq: fam, gb
+nat: adj
+d-fr: Suspect, peu honnête ; ou en mauvais état, peu sûr.
+d-en: Dishonest or suspicious; or unreliable, not working properly.
+x: That’s a dodgy-looking bloke. | Ce type a l’air louche.
+x: I’ve got a dodgy knee. | J’ai un genou qui fait des siennes.
+
+@ posh
+t: uk
+tr: chic, huppé, bourge
+mq: fam, gb
+nat: adj
+d-fr: Élégant et coûteux ; en parlant d’une personne, des classes aisées (souvent moqueur).
+d-en: Elegant and expensive; of a person, upper-class (often mocking).
+x: We had dinner at a posh restaurant. | On a dîné dans un restaurant chic.
+x: He’s got a really posh accent. | Il a un accent vraiment bourge.
+
+@ mug
+t: uk
+tr: pigeon, poire, grande tasse
+mq: fam, gb
+nat: n
+d-fr: Une grande tasse ; familier : une personne crédule, facile à duper.
+d-en: A large cup; informally, a gullible person.
+x: I’m not paying that — I’m not a mug! | Je ne vais pas payer ça, je ne suis pas un pigeon !
+
+@ faff
+t: uk
+tr: tergiverser, traînasser, prise de tête
+mq: fam, gb
+nat: v
+d-fr: « Faff about / around » : perdre son temps en petites choses inutiles. Nom : une corvée compliquée.
+d-en: “Faff about/around”: to waste time on unimportant things. As a noun: a tiresome fuss.
+x: Stop faffing about and get ready! | Arrête de traînasser et prépare-toi !
+x: Renewing a passport is such a faff. | Renouveler un passeport, quelle prise de tête.
+
+@ sorted
+t: uk
+tr: réglé, c’est bon, arrangé
+mq: fam, gb
+nat: adj
+d-fr: Arrangé, résolu ; « sorted! » : c’est réglé, parfait.
+d-en: Arranged or dealt with; “sorted!” means it’s all fine.
+x: Don’t worry about the tickets, it’s sorted. | T’inquiète pas pour les billets, c’est réglé.
+
+@ blimey
+t: uk
+tr: mince alors, la vache, ça alors
+mq: fam, gb
+nat: interjection
+d-fr: Exclamation de surprise, sans grossièreté.
+d-en: An exclamation of surprise, not rude.
+x: Blimey, that was quick! | Ça alors, c’était rapide !
+
+@ wind_up
+w: wind up
+t: uk
+tr: faire marcher, taquiner, énerver
+mq: fam, gb
+nat: v
+d-fr: « Wind someone up » : taquiner quelqu’un, le faire marcher, ou l’agacer exprès. « Are you winding me up? » : tu te fiches de moi ?
+d-en: “Wind someone up”: to tease them, to make them believe something untrue, or to annoy them on purpose.
+x: Are you winding me up? | Tu me fais marcher ?
+v: banter
+
+@ banter
+t: uk
+tr: vannes, chambrage, blagues
+mq: fam, gb
+nat: n
+d-fr: Échange de plaisanteries et de piques amicales ; une institution britannique.
+d-en: Friendly teasing and joking; a British institution.
+x: It’s just a bit of banter. | C’est juste pour chambrer.
+v: wind_up
+
+@ pull
+t: uk
+tr: draguer, emballer
+mq: fam, gb
+nat: v
+d-fr: Séduire quelqu’un, réussir sa drague.
+d-en: To succeed in attracting someone romantically.
+x: Did you pull last night? | T’as emballé hier soir ?
+v: snog, fit
+
+@ snog
+t: uk
+tr: rouler une pelle, s’embrasser
+mq: fam, gb
+nat: v
+d-fr: S’embrasser longuement, sur la bouche.
+d-en: To kiss passionately.
+x: They were snogging at the bus stop. | Ils se roulaient des pelles à l’arrêt de bus.
+
+@ fit
+t: uk
+tr: canon, bien foutu, beau
+mq: fam, gb
+nat: adj
+d-fr: En argot britannique : physiquement attirant. Au sens courant : en forme.
+d-en: In British slang: physically attractive. In standard use: healthy and strong.
+a-fr: « He’s fit » peut vouloir dire « il est canon » ou « il est en forme » : le contexte tranche.
+a-en: “He’s fit” can mean attractive or in good shape: context decides.
+x: Her brother is well fit. | Son frère est vraiment canon.
+
+@ well
+t: uk
+tr: vachement, super, trop
+mq: fam, gb
+nat: adv
+d-fr: Intensif familier devant un adjectif : « well good », vachement bien.
+d-en: An informal intensifier before an adjective: “well good”.
+x: That party was well good. | Cette soirée était trop bien.
+
+@ proper
+t: uk
+tr: vraiment, carrément, un vrai
+mq: fam, gb
+nat: adv
+d-fr: Familier : vraiment, complètement ; adjectif : un vrai, un authentique (« a proper breakfast »).
+d-en: Informally: really, completely; as an adjective: real, genuine (“a proper breakfast”).
+x: I was proper scared. | J’avais carrément peur.
+x: Let’s have a proper cup of tea. | Buvons un vrai thé.
+
+@ grotty
+t: uk
+tr: miteux, crade, minable
+mq: fam, gb
+nat: adj
+d-fr: Sale, délabré, désagréable.
+d-en: Dirty, shabby, unpleasant.
+x: We stayed in a grotty little hotel. | On a dormi dans un petit hôtel miteux.
+
+@ minging
+t: uk
+tr: dégueu, crade, immonde
+mq: arg, gb
+nat: adj
+d-fr: Très sale, dégoûtant ; aussi : très laid.
+d-en: Disgusting, very dirty; also, very ugly.
+x: The kitchen was minging. | La cuisine était dégueu.
+
+@ kip
+t: uk
+tr: roupillon, pioncer, piquer un somme
+mq: fam, gb
+nat: n
+d-fr: Un somme ; verbe : dormir.
+d-en: A sleep or nap; as a verb, to sleep.
+x: I’m going to have a quick kip. | Je vais piquer un petit somme.
+
+@ nick
+t: uk
+tr: piquer, faucher, taule
+mq: fam, gb
+nat: v
+d-fr: Voler (« someone nicked my bike ») ; arrêter (police). Nom : « the nick », la prison ou le commissariat ; « in good nick », en bon état.
+d-en: To steal; to arrest. “The nick” is prison or a police station; “in good nick” means in good condition.
+x: Someone’s nicked my bike! | Quelqu’un m’a piqué mon vélo !
+x: The car’s in good nick for its age. | La voiture est en bon état pour son âge.
+
+@ grass
+t: uk
+tr: balancer, balance, mouchard
+mq: arg, gb
+nat: v
+d-fr: « Grass on someone » : dénoncer quelqu’un. Nom : un mouchard.
+d-en: “Grass on someone”: to inform on them. As a noun: an informer.
+x: Who grassed on us? | Qui nous a balancés ?
+
+@ gaff
+t: uk
+tr: baraque, piaule, chez moi
+mq: arg, gb
+nat: n
+d-fr: La maison, le logement de quelqu’un.
+d-en: Someone’s house or flat.
+x: Party at my gaff on Saturday. | Soirée chez moi samedi.
+
+@ dosh
+t: uk
+tr: fric, thune, blé
+mq: fam, gb
+nat: n
+d-fr: L’argent.
+d-en: Money.
+x: He’s got loads of dosh. | Il a plein de fric.
+v: skint, quid
+
+@ wonky
+t: uk
+tr: de travers, bancal, branlant
+mq: fam, gb
+nat: adj
+d-fr: Pas droit, instable, qui marche mal.
+d-en: Crooked, unsteady, not working properly.
+x: The picture’s a bit wonky. | Le tableau est un peu de travers.
+
+@ chock-a-block
+t: uk
+tr: plein à craquer, bondé
+mq: fam, gb
+nat: adj
+d-fr: Complètement plein, bondé.
+d-en: Completely full, crammed.
+x: The tube was chock-a-block this morning. | Le métro était bondé ce matin.
+
+@ brekkie
+t: uk
+tr: petit-déj
+mq: fam, gb
+nat: n
+d-fr: Le petit-déjeuner.
+d-en: Breakfast.
+x: What’s for brekkie? | Qu’est-ce qu’il y a pour le petit-déj ?
+
+@ sarnie
+t: uk
+tr: sandwich, casse-croûte
+mq: fam, gb
+nat: n
+d-fr: Un sandwich.
+d-en: A sandwich.
+x: I’ll grab a sarnie for lunch. | Je prendrai un sandwich pour le déjeuner.
+
+@ footie
+t: uk
+tr: foot
+mq: fam, gb
+nat: n
+d-fr: Le football.
+d-en: Football.
+x: Are you watching the footie tonight? | Tu regardes le foot ce soir ?
+
+@ uni
+t: uk
+tr: fac, université
+mq: fam, gb
+nat: n
+d-fr: L’université.
+d-en: University.
+x: She’s in her second year at uni. | Elle est en deuxième année de fac.
+
+@ copper
+t: uk
+tr: flic
+mq: fam, gb
+nat: n
+d-fr: Un policier.
+d-en: A police officer.
+x: A copper asked for my ID. | Un flic m’a demandé mes papiers.
+v: flic
+
+@ loaded
+t: uk
+tr: plein aux as, bourré de fric
+mq: fam
+nat: adj
+d-fr: Très riche. (Aux États-Unis, peut aussi vouloir dire ivre.)
+d-en: Very rich. (In the US it can also mean drunk.)
+x: Her parents are loaded. | Ses parents sont pleins aux as.
+
+@ bloody_hell
+w: bloody hell
+t: uk
+tr: bon sang, nom d’un chien, putain
+mq: fam, gb
+nat: interjection
+d-fr: Exclamation de surprise ou d’agacement, familière sans être très grossière.
+d-en: An exclamation of surprise or annoyance, informal but not very rude.
+x: Bloody hell, that’s expensive! | Bon sang, c’est cher !
+v: bloody
+
+# ————— Le parler des jeunes (et d'internet) —————
+
+@ lit
+t: jeunes
+tr: génial, de ouf, trop bien
+mq: arg
+nat: adj
+d-fr: Excellent, plein d’ambiance.
+d-en: Exciting, excellent, full of energy.
+x: The party last night was lit. | La soirée d’hier était de ouf.
+
+@ sus
+t: jeunes
+tr: louche, chelou, suspect
+mq: arg
+nat: adj
+d-fr: Abréviation de « suspicious » : suspect, pas net. Popularisé par les jeux vidéo.
+d-en: Short for “suspicious”; popularised by video games.
+x: That’s a bit sus, isn’t it? | C’est un peu louche, non ?
+v: dodgy
+
+@ salty
+t: jeunes
+tr: vexé, aigri, vénère
+mq: arg
+nat: adj
+d-fr: Amer, contrarié, facilement vexé.
+d-en: Bitter or annoyed, easily upset.
+x: He’s still salty about losing. | Il a toujours le seum d’avoir perdu.
+
+@ cringe
+t: jeunes
+tr: gênant, malaisant, la honte
+mq: arg
+nat: adj
+d-fr: Qui provoque une gêne pour les autres ; « to cringe », avoir honte à leur place.
+d-en: Causing secondhand embarrassment; “to cringe” is to feel it.
+x: His dance moves were so cringe. | Sa façon de danser était trop gênante.
+
+@ slay
+t: jeunes
+tr: assurer, tout déchirer
+mq: arg
+nat: v
+d-fr: Réussir brillamment, avoir beaucoup d’allure.
+d-en: To do something brilliantly, to look amazing.
+x: You slayed that presentation! | Tu as tout déchiré à cette présentation !
+
+@ no_cap
+w: no cap
+t: jeunes
+tr: sans mentir, vrai de vrai, je te jure
+mq: arg, us
+nat: locution
+d-fr: « Sans mentir » ; « cap », c’est un mensonge.
+d-en: “No lie”; “cap” means a lie.
+x: That’s the best burger I’ve ever had, no cap. | C’est le meilleur burger de ma vie, sans mentir.
+
+@ rizz
+t: jeunes
+tr: charme, talent pour draguer
+mq: arg, neo
+nat: n
+d-fr: Le charme, l’aisance à séduire ; mot de l’année du dictionnaire d’Oxford en 2023.
+d-en: Charm, the ability to attract someone; Oxford’s Word of the Year 2023.
+x: He’s got serious rizz. | Il a un sacré charme.
+
+@ vibe
+t: jeunes
+tr: ambiance, feeling, énergie
+mq: fam
+nat: n
+d-fr: L’atmosphère d’un lieu, l’impression que dégage quelqu’un. « Good vibes » : bonnes ondes.
+d-en: The atmosphere of a place, the feeling someone gives off.
+x: I love the vibe in this café. | J’adore l’ambiance de ce café.
+
+@ lowkey
+t: jeunes
+tr: un peu, en vrai, discrètement
+mq: arg
+nat: adv
+d-fr: Un peu, en secret, sans le crier sur les toits ; « highkey » : ouvertement.
+d-en: Slightly or secretly; “highkey” means openly.
+x: I’m lowkey tired of this song. | En vrai, j’en ai un peu marre de cette chanson.
+
+@ GOAT
+t: jeunes
+tr: le meilleur de tous les temps, la légende
+mq: arg, abr
+nat: n
+d-fr: « Greatest Of All Time » : le plus grand de tous les temps.
+d-en: Greatest Of All Time.
+x: Messi is the GOAT. | Messi est le meilleur de tous les temps.
+
+@ flex
+t: jeunes
+tr: frimer, se la péter
+mq: arg
+nat: v
+d-fr: Exhiber ce qu’on a ou ce qu’on réussit. Nom : « a flex », une frime.
+d-en: To show off. As a noun, a show-off move.
+x: He’s always flexing his new trainers. | Il frime tout le temps avec ses nouvelles baskets.
+
+@ ghost
+t: jeunes
+tr: ghoster, disparaître sans prévenir
+mq: fam
+nat: v
+d-fr: Couper tout contact avec quelqu’un du jour au lendemain, sans explication.
+d-en: To suddenly stop all contact with someone without explanation.
+x: We went on three dates and then he ghosted me. | On est sortis trois fois, puis il m’a ghostée.
+
+@ stan
+t: jeunes
+tr: être fan à fond de, fan
+mq: arg
+nat: v
+d-fr: Admirer passionnément un artiste ; nom : un fan inconditionnel. D’après une chanson d’Eminem.
+d-en: To be an obsessive fan of someone; from an Eminem song.
+x: I stan this band so much. | Je suis archi-fan de ce groupe.
+
+@ ick
+t: jeunes
+tr: tue-l’amour, rédhibitoire
+mq: fam, neo
+nat: n
+d-fr: « The ick » : le détail qui fait qu’on n’est soudain plus attiré par quelqu’un.
+d-en: “The ick”: a sudden feeling of disgust that kills attraction.
+x: The way he chews gave me the ick. | Sa façon de mâcher, ça m’a refroidie.
+
+@ situationship
+t: jeunes
+tr: relation floue, pas vraiment en couple
+mq: neo
+nat: n
+d-fr: Une relation amoureuse qui n’est pas clairement définie.
+d-en: A romantic relationship that isn’t clearly defined.
+x: We’re not dating, it’s more of a situationship. | On n’est pas ensemble, c’est plutôt une relation floue.
+
+@ delulu
+t: jeunes
+tr: dans le délire, à côté de la plaque
+mq: arg, neo
+nat: adj
+d-fr: De « delusional » : qui se fait des illusions, souvent avec autodérision.
+d-en: From “delusional”: unrealistically hopeful, often said jokingly.
+x: I’m delulu enough to think I’ll pass without revising. | Je suis assez dans le délire pour croire que je vais réussir sans réviser.
+
+@ mid
+t: jeunes
+tr: moyen, bof, pas terrible
+mq: arg
+nat: adj
+d-fr: Médiocre, ni bon ni mauvais — plutôt décevant.
+d-en: Mediocre, average — rather disappointing.
+x: The film was mid, honestly. | Franchement, le film était bof.
+
+@ extra
+t: jeunes
+tr: too much, en faire des caisses
+mq: arg
+nat: adj
+d-fr: Excessif, qui en fait trop.
+d-en: Over the top, excessive.
+x: She’s so extra with her birthday plans. | Elle en fait des caisses pour son anniversaire.
+
+@ basic
+t: jeunes
+tr: banal, sans originalité, beauf
+mq: arg, pej
+nat: adj
+d-fr: Qui suit la mode sans personnalité (moqueur).
+d-en: Unoriginal, following trends without personality (mocking).
+x: Pumpkin spice latte? That’s so basic. | Un latte à la citrouille ? C’est tellement banal.
+
+@ bae
+t: jeunes
+tr: chéri, chérie, mon cœur
+mq: arg
+nat: n
+d-fr: Terme affectueux pour son ou sa partenaire.
+d-en: A term of endearment for one’s partner.
+x: Dinner with bae tonight. | Dîner avec mon chéri ce soir.
+
+@ FOMO
+t: jeunes
+tr: peur de rater quelque chose
+mq: abr, web
+nat: n
+d-fr: « Fear Of Missing Out » : l’angoisse de manquer un événement, une occasion.
+d-en: Fear Of Missing Out.
+x: I only went because of FOMO. | J’y suis allé uniquement par peur de rater quelque chose.
+
+@ savage
+t: jeunes
+tr: sans pitié, cash, trop fort
+mq: arg
+nat: adj
+d-fr: D’une franchise brutale, impitoyable — souvent admiratif.
+d-en: Brutally honest or ruthless — often admiring.
+x: Her reply was savage. | Sa réponse était sans pitié.
+
+@ spill_the_tea
+w: spill the tea
+t: jeunes
+tr: balancer les potins, raconter les ragots
+mq: arg
+nat: locution
+d-fr: Raconter les dernières nouvelles, les potins ; « tea » : les ragots.
+d-en: To share gossip; “tea” means gossip.
+x: Come on, spill the tea! | Allez, balance les potins !
+v: expressions:spill_the_beans
+
+@ slaps
+t: jeunes
+tr: c’est une tuerie, ça déchire
+mq: arg
+nat: v
+d-fr: « This song slaps » : cette chanson est excellente.
+d-en: “This song slaps”: it’s really good.
+x: This track slaps. | Ce morceau est une tuerie.
+
+@ bet
+t: jeunes
+tr: ça marche, ok, carrément
+mq: arg, us
+nat: interjection
+d-fr: Pour dire oui, d’accord, avec assurance.
+d-en: Used to say yes, sure.
+x: “See you at eight?” — “Bet.” | « À huit heures ? » — « Ça marche. »
+
+@ peak
+t: jeunes
+tr: la loose, la galère, chaud
+mq: arg, gb
+nat: adj
+d-fr: Argot de Londres : malchanceux, pénible. « That’s peak » : c’est la galère.
+d-en: London slang: unfortunate, bad. “That’s peak”: that’s rough.
+x: I missed the last bus — that’s peak. | J’ai raté le dernier bus, c’est la loose.
+
+@ bare
+t: jeunes
+tr: plein de, trop de, vachement
+mq: arg, gb
+nat: adv
+d-fr: Argot de Londres : beaucoup (de), très.
+d-en: London slang: lots of, very.
+x: There were bare people at the party. | Il y avait trop de monde à la soirée.
+
+@ long
+t: jeunes
+tr: relou, chiant, pénible
+mq: arg, gb
+nat: adj
+d-fr: Argot britannique : ennuyeux, fastidieux, qui demande trop d’efforts.
+d-en: British slang: tedious, too much effort.
+x: Walking all the way there is long. | Aller à pied jusque-là, c’est relou.
+
+@ peng
+t: jeunes
+tr: canon, trop bon
+mq: arg, gb
+nat: adj
+d-fr: Argot de Londres : très beau ou très bon (nourriture).
+d-en: London slang: attractive, or delicious.
+x: This chicken is peng. | Ce poulet est trop bon.
+
+@ bruv
+t: jeunes
+tr: frère, frérot, mec
+mq: arg, gb
+nat: n
+d-fr: De « brother » : pour interpeller un ami.
+d-en: From “brother”: a way of addressing a friend.
+x: Calm down, bruv. | Calme-toi, frérot.
+
+@ mandem
+t: jeunes
+tr: la bande, les potes, les gars
+mq: arg, gb
+nat: n
+d-fr: Argot de Londres : le groupe d’amis (garçons).
+d-en: London slang: a group of (male) friends.
+x: I’m out with the mandem tonight. | Je sors avec les potes ce soir.
+
+@ wagwan
+t: jeunes
+tr: wesh, quoi de neuf, ça dit quoi
+mq: arg, gb
+nat: interjection
+d-fr: Salutation d’origine jamaïcaine : « what’s going on ».
+d-en: A greeting from Jamaican patois: “what’s going on”.
+x: Wagwan, bro? | Wesh, frère, ça dit quoi ?
+
+@ gassed
+t: jeunes
+tr: tout excité, trop content
+mq: arg, gb
+nat: adj
+d-fr: Argot britannique : ravi, surexcité.
+d-en: British slang: excited, delighted.
+x: I’m gassed for the holidays. | Je suis trop content pour les vacances.
+
+@ sick
+t: jeunes
+tr: génial, trop bien, de ouf
+mq: arg
+nat: adj
+d-fr: En argot : excellent. Au sens courant : malade.
+d-en: In slang: excellent. In standard use: ill.
+x: That skateboard trick was sick! | Ce tour de skate était de ouf !
+
+@ based
+t: jeunes
+tr: assumé, qui ne se laisse pas influencer
+mq: arg, web
+nat: adj
+d-fr: Qui affirme ses opinions sans se soucier de l’avis des autres (approbateur).
+d-en: Confidently holding your own opinion regardless of others (approving).
+x: Honestly, that take is based. | Franchement, cet avis est assumé.
+
+@ touch_grass
+w: touch grass
+t: jeunes
+tr: va prendre l’air, décroche des écrans
+mq: web
+nat: locution
+d-fr: Conseil moqueur à qui passe trop de temps en ligne.
+d-en: A mocking suggestion to someone who spends too much time online.
+x: You’ve been gaming for ten hours — go touch grass. | Ça fait dix heures que tu joues, va prendre l’air.
+
+# ————— Abréviations des messages —————
+
+@ LOL
+t: sms
+tr: mdr, lol
+mq: abr, web
+nat: interjection
+d-fr: « Laughing Out Loud » : je ris. S’emploie aussi pour adoucir un message.
+d-en: Laughing Out Loud; also used to soften a message.
+x: That’s hilarious lol | C’est trop drôle mdr
+al: lol
+v: fr-mdr
+
+@ LMAO
+t: sms
+tr: ptdr, mort de rire
+mq: abr, web, fam
+nat: interjection
+d-fr: « Laughing My Ass Off » : plus fort que LOL, légèrement vulgaire.
+d-en: Laughing My Ass Off: stronger than LOL, slightly rude.
+x: LMAO I can’t breathe | Ptdr j’en peux plus
+al: lmao
+
+@ BRB
+t: sms
+tr: je reviens, jreviens
+mq: abr, web
+nat: locution
+d-fr: « Be Right Back » : je reviens tout de suite.
+d-en: Be Right Back.
+x: BRB, someone’s at the door. | Je reviens, on sonne à la porte.
+al: brb
+
+@ BTW
+t: sms
+tr: au fait, d’ailleurs
+mq: abr, web
+nat: adv
+d-fr: « By The Way » : au fait.
+d-en: By The Way.
+x: BTW, the meeting’s moved to 3. | Au fait, la réunion est décalée à 15 h.
+al: btw
+
+@ IDK
+t: sms
+tr: jsp, je sais pas
+mq: abr, web
+nat: locution
+d-fr: « I Don’t Know » : je ne sais pas.
+d-en: I Don’t Know.
+x: IDK what to wear tonight. | Jsp quoi mettre ce soir.
+al: idk
+v: fr-jsp
+
+@ IMO
+t: sms
+tr: à mon avis, amha
+mq: abr, web
+nat: adv
+d-fr: « In My Opinion » ; « IMHO » : « in my humble opinion », à mon humble avis.
+d-en: In My Opinion; IMHO: In My Humble Opinion.
+x: IMO the first one is better. | À mon avis, le premier est mieux.
+al: imo, IMHO, imho
+
+@ TBH
+t: sms
+tr: franchement, pour être honnête
+mq: abr, web
+nat: adv
+d-fr: « To Be Honest » : pour être franc.
+d-en: To Be Honest.
+x: TBH I didn’t like it. | Franchement, j’ai pas aimé.
+al: tbh
+
+@ OMG
+t: sms
+tr: oh mon Dieu, oh là là, c’est dingue
+mq: abr, web
+nat: interjection
+d-fr: « Oh My God » : exprime la surprise, l’émotion.
+d-en: Oh My God.
+x: OMG, you got the job?! | Oh là là, t’as eu le poste ?!
+al: omg
+
+@ ASAP
+t: sms
+tr: dès que possible, au plus vite
+mq: abr
+nat: adv
+d-fr: « As Soon As Possible » ; très courant aussi au travail, et en français (« asap »).
+d-en: As Soon As Possible; common at work too.
+x: Please send me the file ASAP. | Envoyez-moi le fichier dès que possible.
+al: asap
+
+@ FYI
+t: sms
+tr: pour info, pour ton information
+mq: abr
+nat: locution
+d-fr: « For Your Information » : pour information.
+d-en: For Your Information.
+x: FYI, the office is closed on Monday. | Pour info, le bureau est fermé lundi.
+al: fyi
+
+@ ETA
+t: sms
+tr: heure d’arrivée prévue
+mq: abr
+nat: n
+d-fr: « Estimated Time of Arrival » : à quelle heure arrives-tu ?
+d-en: Estimated Time of Arrival.
+x: What’s your ETA? | Tu arrives vers quelle heure ?
+al: eta
+
+@ DM
+t: sms
+tr: message privé, MP
+mq: abr, web
+nat: n
+d-fr: « Direct Message » : message privé sur un réseau social ; verbe : écrire en privé.
+d-en: Direct Message; as a verb, to message privately.
+x: DM me the details. | Envoie-moi les détails en MP.
+al: dm
+
+@ NGL
+t: sms
+tr: sans mentir, faut avouer
+mq: abr, web
+nat: locution
+d-fr: « Not Gonna Lie » : pour être honnête.
+d-en: Not Gonna Lie.
+x: NGL, that was impressive. | Faut avouer, c’était impressionnant.
+al: ngl
+
+@ TLDR
+w: TL;DR
+t: sms
+tr: trop long, pas lu, en résumé
+mq: abr, web
+nat: locution
+d-fr: « Too Long; Didn’t Read » : pour signaler un résumé en tête d’un long texte.
+d-en: Too Long; Didn’t Read — also introduces a summary.
+x: TL;DR: the party’s cancelled. | En résumé : la soirée est annulée.
+al: tldr, tl;dr
+
+@ IRL
+t: sms
+tr: dans la vraie vie, IRL
+mq: abr, web
+nat: adv
+d-fr: « In Real Life » : en vrai, hors d’internet.
+d-en: In Real Life.
+x: We finally met IRL. | On s’est enfin vus en vrai.
+al: irl
+
+@ JK
+t: sms
+tr: je rigole, je plaisante
+mq: abr, web
+nat: locution
+d-fr: « Just Kidding » : je plaisante.
+d-en: Just Kidding.
+x: I’m moving to Mars, jk. | Je déménage sur Mars, je rigole.
+al: jk
+
+@ NVM
+t: sms
+tr: laisse tomber, oublie
+mq: abr, web
+nat: locution
+d-fr: « Never Mind » : ce n’est pas grave, laisse tomber.
+d-en: Never Mind.
+x: NVM, I found it. | Laisse tomber, je l’ai trouvé.
+al: nvm
+
+@ NP
+t: sms
+tr: de rien, pas de souci
+mq: abr, web
+nat: locution
+d-fr: « No Problem » : de rien, pas de problème.
+d-en: No Problem.
+x: “Thanks!” — “NP.” | « Merci ! » — « De rien. »
+al: np
+
+@ ILY
+t: sms
+tr: je t’aime, jtm
+mq: abr, web
+nat: locution
+d-fr: « I Love You » : je t’aime.
+d-en: I Love You.
+x: Night, ILY. | Bonne nuit, jtm.
+al: ily
+v: fr-jtm
+
+@ XOXO
+t: sms
+tr: bisous, grosses bises
+mq: abr, web
+nat: interjection
+d-fr: Des baisers (X) et des câlins (O), en fin de message.
+d-en: Kisses (X) and hugs (O), at the end of a message.
+x: See you soon, xoxo | À bientôt, bisous
+al: xoxo, xx
+v: fr-bisous
+
+@ WYD
+t: sms
+tr: tu fais quoi ?
+mq: abr, web
+nat: locution
+d-fr: « What (are) You Doing? » : qu’est-ce que tu fais ?
+d-en: What (are) You Doing?
+x: Hey, wyd? | Salut, tu fais quoi ?
+al: wyd
+
+@ HBU
+t: sms
+tr: et toi ?
+mq: abr, web
+nat: locution
+d-fr: « How About You? » : et toi ?
+d-en: How About You?
+x: I’m good, hbu? | Ça va, et toi ?
+al: hbu
+
+@ RN
+t: sms
+tr: là, maintenant, tout de suite
+mq: abr, web
+nat: adv
+d-fr: « Right Now » : en ce moment même.
+d-en: Right Now.
+x: I’m on the train rn. | Je suis dans le train là.
+al: rn
+
+@ SMH
+t: sms
+tr: je suis consterné, j’hallucine
+mq: abr, web
+nat: locution
+d-fr: « Shaking My Head » : exprime la consternation.
+d-en: Shaking My Head: expresses disbelief or disapproval.
+x: He forgot her birthday again, smh. | Il a encore oublié son anniversaire, j’hallucine.
+al: smh
+
+@ ICYMI
+t: sms
+tr: au cas où tu l’aurais raté
+mq: abr, web
+nat: locution
+d-fr: « In Case You Missed It » : pour rappeler une information.
+d-en: In Case You Missed It.
+x: ICYMI, tickets go on sale today. | Au cas où tu l’aurais raté, les billets sont en vente aujourd’hui.
+al: icymi
+
+@ IYKYK
+t: sms
+tr: les connaisseurs comprendront
+mq: abr, web
+nat: locution
+d-fr: « If You Know You Know » : clin d’œil que seuls les initiés comprennent.
+d-en: If You Know You Know.
+x: That café, iykyk. | Ce café, les connaisseurs comprendront.
+al: iykyk
+
+@ GG
+t: sms
+tr: bien joué, GG
+mq: abr, web
+nat: interjection
+d-fr: « Good Game » : venu des jeux vidéo, pour féliciter.
+d-en: Good Game: from gaming, to congratulate.
+x: GG, you won fair and square. | Bien joué, t’as gagné à la loyale.
+al: gg
+
+@ POV
+t: sms
+tr: point de vue
+mq: abr, web
+nat: n
+d-fr: « Point Of View » ; sur les réseaux, annonce une scène vue par celui qui la vit (« POV : tu rates ton train »).
+d-en: Point Of View; on social media, introduces a scene from someone’s perspective.
+x: POV: you’re late for your own party. | Quand tu es en retard à ta propre soirée.
+al: pov
+
+@ TIL
+t: sms
+tr: j’ai appris aujourd’hui
+mq: abr, web
+nat: locution
+d-fr: « Today I Learned » : pour partager une découverte.
+d-en: Today I Learned.
+x: TIL octopuses have three hearts. | J’ai appris aujourd’hui que les pieuvres ont trois cœurs.
+al: til
+
+@ AFAIK
+t: sms
+tr: autant que je sache
+mq: abr, web
+nat: locution
+d-fr: « As Far As I Know » : autant que je sache.
+d-en: As Far As I Know.
+x: AFAIK the shop opens at nine. | Autant que je sache, la boutique ouvre à neuf heures.
+al: afaik
+
+@ TBC
+t: sms
+tr: à confirmer
+mq: abr
+nat: locution
+d-fr: « To Be Confirmed » : pas encore certain.
+d-en: To Be Confirmed.
+x: Venue TBC. | Lieu à confirmer.
+al: tbc
+
+# ————— Jurons et gros mots (masqués d'office) —————
+
+@ fuck
+t: jurons
+tr: putain, merde, bordel
+mq: vulg
+nat: interjection
+cru: 1
+d-fr: Le juron anglais le plus fort d’usage courant : colère, surprise, douleur. Très grossier.
+d-en: The strongest common English swear word: anger, surprise, pain. Very rude.
+a-fr: À comprendre dans les films, à éviter en public : il choque bien plus que « putain » en français.
+a-en: Much stronger than most French swear words; avoid in public.
+x: Oh fuck, I’ve lost my keys! | Oh putain, j’ai perdu mes clés !
+
+@ shit
+t: jurons
+tr: merde
+mq: vulg
+nat: interjection
+cru: 1
+d-fr: Merde : juron fréquent, grossier.
+d-en: A common, rude swear word.
+x: Shit, we’ve missed the train. | Merde, on a raté le train.
+
+@ bollocks
+t: jurons
+tr: conneries, n’importe quoi, couilles
+mq: vulg, gb
+nat: n
+cru: 1
+d-fr: Britannique : « des conneries » ; aussi « les couilles ». « Bollocks! » : merde !
+d-en: British: nonsense; also testicles. “Bollocks!” expresses annoyance.
+x: That’s complete bollocks. | C’est n’importe quoi.
+
+@ crap
+t: jurons
+tr: merde, nul, de la merde
+mq: vulg, fam
+nat: adj
+cru: 1
+d-fr: Nul, de mauvaise qualité ; juron modéré (« crap! »).
+d-en: Bad, worthless; a mild swear word.
+x: The food was crap. | La bouffe était nulle.
+
+@ piss_off
+w: piss off
+t: jurons
+tr: casse-toi, dégage
+mq: vulg
+nat: v
+cru: 1
+d-fr: « Dégage ! » ; « pissed off » : énervé, en rogne.
+d-en: “Go away!”; “pissed off” means annoyed.
+x: I’m really pissed off with him. | Je suis vraiment en rogne contre lui.
+
+@ pissed
+t: jurons
+tr: bourré, énervé
+mq: vulg
+nat: adj
+cru: 1
+d-fr: Au Royaume-Uni : ivre. Aux États-Unis : énervé. Un faux ami entre les deux anglais.
+d-en: In the UK: drunk. In the US: angry.
+a-fr: « I’m pissed » à Londres veut dire « je suis bourré », pas « je suis énervé ».
+a-en: British and American English disagree here.
+x: He was completely pissed by midnight. | À minuit, il était complètement bourré.
+
+@ taking_the_piss
+w: take the piss
+t: jurons
+tr: se foutre de quelqu’un, se moquer
+mq: vulg, gb
+nat: locution
+cru: 1
+d-fr: Se moquer de quelqu’un, abuser. « Are you taking the piss? » : tu te fous de moi ?
+d-en: To mock someone or take advantage.
+x: Twelve pounds for a pint? They’re taking the piss. | Douze livres la pinte ? Ils se foutent de nous.
+
+@ wanker
+t: jurons
+tr: connard, branleur
+mq: inj, gb
+nat: n
+cru: 1
+d-fr: Insulte britannique très courante.
+d-en: A common British insult.
+x: Some wanker scratched my car. | Un connard a rayé ma voiture.
+
+@ bugger_off
+w: bugger off
+t: jurons
+tr: fous le camp, dégage
+mq: vulg, gb
+nat: v
+cru: 1
+d-fr: Britannique : « fiche le camp ! », grossier.
+d-en: British: go away (rude).
+x: Just bugger off and leave me alone. | Fous le camp et laisse-moi tranquille.
+
+@ damn
+t: jurons
+tr: zut, mince, bon sang
+mq: fam
+nat: interjection
+d-fr: Juron léger : agacement, déception.
+d-en: A mild swear word: annoyance, disappointment.
+x: Damn, it’s raining again. | Zut, il pleut encore.

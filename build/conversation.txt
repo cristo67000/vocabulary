@@ -1,0 +1,1147 @@
+# Phrases et dialogues de Vocabulary — source de data/conversation.json
+# (build/conversation.py). Anglais britannique, français de France.
+# Rédigé pour Vocabulary ; non relu par une personne de langue maternelle.
+#
+#   == id | nom français | nom anglais            un thème
+#   * slug [poli|familier]                        une phrase (id ph-<thème>-<slug>)
+#   en: … / fr: …                                 les deux textes
+#   en+: a | b / fr+: a | b                       variantes admises
+#   situation: français | anglais                 quand la dire
+#   > slug [registre] titre français | titre anglais     un dialogue (dg-<thème>-<slug>)
+#   roles: A français | A anglais ; B français | B anglais
+#   A: anglais | français   (=> slug : la phrase du même thème qu'elle reprend)
+
+== salutations | Saluer et se présenter | Greetings & introductions
+
+* bonjour [poli]
+en: Good morning! How are you?
+fr: Bonjour ! Comment allez-vous ?
+en+: Morning! How are you? | Good morning, how are you?
+situation: Le matin, avec quelqu’un qu’on vouvoie. « Good afternoon » l’après-midi, « Good evening » le soir. | In the morning, politely.
+
+* salut [familier]
+en: Hi! How’s it going?
+fr: Salut ! Ça va ?
+en+: Hiya! How’s it going? | Hi, how are you doing?
+fr+: Salut, ça va ?
+
+* ca-va-bien
+en: I’m fine, thanks. And you?
+fr: Ça va bien, merci. Et toi ?
+en+: Fine, thanks. And you? | I’m good, thanks. You?
+fr+: Très bien, merci. Et vous ?
+situation: « How are you? » n’appelle pas le récit de sa journée : on répond court et on renvoie la question. | Keep it short and ask back.
+
+* pas-mal [familier]
+en: Not bad, thanks.
+fr: Pas mal, merci.
+en+: Not too bad, thanks.
+
+* je-m-appelle
+en: My name’s Claire.
+fr: Je m’appelle Claire.
+en+: I’m Claire. | My name is Claire.
+fr+: Moi, c’est Claire.
+
+* enchante [poli]
+en: Nice to meet you.
+fr: Enchanté.
+en+: Pleased to meet you. | Lovely to meet you.
+fr+: Enchantée. | Ravi de vous rencontrer.
+situation: À la première rencontre ; la réponse : « Nice to meet you too. » | When meeting someone for the first time.
+
+* d-ou-venez-vous [poli]
+en: Where are you from?
+fr: D’où venez-vous ?
+fr+: Tu viens d’où ?
+
+* je-viens-de
+en: I’m from Lyon, in France.
+fr: Je viens de Lyon, en France.
+en+: I come from Lyon, in France.
+
+* qu-est-ce-que-vous-faites [poli]
+en: What do you do?
+fr: Qu’est-ce que vous faites dans la vie ?
+en+: What do you do for a living?
+fr+: Vous faites quoi dans la vie ?
+situation: La question pour demander le métier de quelqu’un — et non ce qu’il fait en ce moment. | Asking about someone’s job.
+
+* je-travaille-comme
+en: I work as a nurse.
+fr: Je suis infirmier.
+en+: I’m a nurse.
+fr+: Je suis infirmière. | Je travaille comme infirmier.
+situation: En anglais, l’article est obligatoire devant le métier : « I’m a nurse ». | English needs “a” before a job.
+
+* je-vous-presente [poli]
+en: Let me introduce you to my colleague, James.
+fr: Je vous présente mon collègue, James.
+en+: This is my colleague, James.
+
+* longtemps [familier]
+en: Long time no see!
+fr: Ça fait longtemps !
+fr+: Ça fait un bail !
+
+* au-revoir
+en: Goodbye! See you soon.
+fr: Au revoir ! À bientôt.
+en+: Bye! See you soon. | See you later!
+
+* bonne-journee
+en: Have a nice day!
+fr: Bonne journée !
+en+: Have a good day!
+
+* a-plus [familier]
+en: See you later!
+fr: À plus !
+en+: See ya! | Laters! | Catch you later!
+fr+: À plus tard ! | À tout à l’heure !
+
+* bonne-nuit
+en: Good night, sleep well.
+fr: Bonne nuit, dors bien.
+situation: « Good night » se dit en partant le soir ou avant d’aller dormir, jamais pour saluer en arrivant. | Only when leaving or going to bed.
+
+> premier-jour [poli] Le premier jour au bureau | First day at the office
+roles: La collègue | Colleague ; Le nouveau | New starter
+A: Hi, you must be the new starter. I’m Sarah. | Bonjour, vous devez être le nouveau. Moi, c’est Sarah.
+B: That’s right. My name’s Tom. Nice to meet you. | C’est ça. Je m’appelle Tom. Enchanté.
+A: Nice to meet you too. Where are you from, Tom? | Enchantée également. D’où venez-vous, Tom ?
+B: I’m from Lyon, in France. | Je viens de Lyon, en France. => je-viens-de
+A: Welcome to London! Let me introduce you to the team. | Bienvenue à Londres ! Je vais vous présenter l’équipe.
+B: Thank you, that’s very kind. | Merci, c’est très gentil.
+
+> retrouvailles [familier] Des retrouvailles | Bumping into an old friend
+roles: Jess | Jess ; Léo | Léo
+A: Léo? Long time no see! | Léo ? Ça fait longtemps ! => longtemps
+B: Jess! Hi! How’s it going? | Jess ! Salut ! Ça va ? => salut
+A: Not bad, thanks. What are you up to these days? | Pas mal, merci. Qu’est-ce que tu deviens ?
+B: I’ve just started a new job in Bristol. | Je viens de commencer un nouveau boulot à Bristol.
+A: That’s great! We should grab a coffee sometime. | Génial ! Il faudrait qu’on prenne un café un de ces jours.
+B: Definitely. See you later! | Carrément. À plus ! => a-plus
+
+== politesse | Politesse et petits mots | Being polite
+
+* s-il-vous-plait [poli]
+en: Could I have a glass of water, please?
+fr: Je pourrais avoir un verre d’eau, s’il vous plaît ?
+en+: Can I have a glass of water, please?
+situation: En anglais, « please » est presque obligatoire, et une question (« Could I… ? ») est plus polie qu’un ordre. | “Please” is almost compulsory.
+
+* merci-beaucoup
+en: Thank you very much.
+fr: Merci beaucoup.
+en+: Thanks a lot. | Thank you so much. | Cheers!
+fr+: Merci bien.
+
+* de-rien
+en: You’re welcome.
+fr: De rien.
+en+: No problem. | Not at all. | No worries.
+fr+: Je vous en prie. | Avec plaisir.
+
+* pardon-passer [poli]
+en: Excuse me, can I get past?
+fr: Pardon, je peux passer ?
+en+: Excuse me, could I get past?
+situation: « Excuse me » pour attirer l’attention ou déranger ; « Sorry » pour s’excuser d’une gêne déjà causée. | Excuse me before, sorry after.
+
+* desole
+en: I’m sorry, I didn’t mean to.
+fr: Je suis désolé, je ne l’ai pas fait exprès.
+fr+: Désolée, je ne l’ai pas fait exprès.
+
+* pardon-repeter [poli]
+en: Sorry? Could you say that again?
+fr: Pardon ? Vous pouvez répéter ?
+en+: Pardon? Could you repeat that?
+situation: « Sorry? » avec une intonation montante : la façon la plus courante de faire répéter. | The most natural way to ask someone to repeat.
+
+* ca-ne-fait-rien
+en: Don’t worry about it.
+fr: Ce n’est pas grave.
+en+: It doesn’t matter. | Never mind. | No worries.
+fr+: Ça ne fait rien.
+
+* apres-vous [poli]
+en: After you.
+fr: Après vous.
+
+* bon-appetit
+en: Enjoy your meal!
+fr: Bon appétit !
+situation: Il n’y a pas de vraie formule anglaise ; au restaurant, le serveur dit « Enjoy your meal ». | There’s no real English equivalent.
+
+* sante
+en: Cheers!
+fr: Santé !
+fr+: À la vôtre ! | À la tienne !
+
+* avec-plaisir
+en: I’d love to, thanks.
+fr: Avec plaisir, merci.
+en+: I’d love to.
+
+* non-merci [poli]
+en: No, thank you. I’m fine.
+fr: Non merci, ça ira.
+en+: No thanks, I’m fine.
+
+* felicitations
+en: Congratulations!
+fr: Félicitations !
+en+: Well done!
+fr+: Bravo !
+
+* bon-courage
+en: Good luck!
+fr: Bon courage !
+en+: Best of luck!
+situation: « Bon courage » n’a pas d’équivalent exact : « Good luck! » avant une épreuve, « Hang in there! » dans une période difficile. | No exact equivalent.
+
+* bon-anniversaire
+en: Happy birthday!
+fr: Joyeux anniversaire !
+fr+: Bon anniversaire !
+
+> bousculade [poli] Une bousculade dans le métro | A bump on the Tube
+roles: La voyageuse | Passenger ; Le voyageur | Traveller
+A: Oh, I’m so sorry! Are you all right? | Oh, je suis vraiment désolée ! Ça va ?
+B: Don’t worry about it, I’m fine. | Ce n’est pas grave, ça va. => ca-ne-fait-rien
+A: It’s so crowded this morning. | Il y a tellement de monde ce matin.
+B: Tell me about it! Excuse me, can I get past? This is my stop. | À qui le dites-vous ! Pardon, je peux passer ? C’est mon arrêt.
+A: Of course, after you. | Bien sûr, après vous.
+B: Thanks, have a nice day! | Merci, bonne journée !
+
+== comprendre | Se faire comprendre | Making yourself understood
+
+* parlez-vous-francais [poli]
+en: Do you speak French?
+fr: Vous parlez français ?
+fr+: Parlez-vous français ?
+
+* un-peu-anglais
+en: I only speak a little English.
+fr: Je ne parle qu’un peu anglais.
+en+: I speak a little English.
+fr+: Je parle un peu anglais.
+
+* plus-lentement [poli]
+en: Could you speak more slowly, please?
+fr: Pourriez-vous parler plus lentement, s’il vous plaît ?
+en+: Can you speak more slowly, please?
+fr+: Vous pouvez parler plus lentement, s’il vous plaît ?
+
+* je-ne-comprends-pas
+en: I’m sorry, I don’t understand.
+fr: Désolé, je ne comprends pas.
+en+: Sorry, I don’t understand.
+fr+: Désolée, je ne comprends pas.
+
+* que-veut-dire
+en: What does “knackered” mean?
+fr: Que veut dire « knackered » ?
+en+: What does knackered mean?
+fr+: Ça veut dire quoi, « knackered » ?
+
+* comment-dit-on
+en: How do you say “bouchon” in English?
+fr: Comment dit-on « bouchon » en anglais ?
+fr+: Comment on dit « bouchon » en anglais ?
+
+* comment-ca-s-ecrit
+en: How do you spell that?
+fr: Comment ça s’écrit ?
+en+: Could you spell that, please?
+fr+: Vous pouvez l’épeler ?
+
+* ecrire [poli]
+en: Could you write it down, please?
+fr: Pourriez-vous me l’écrire, s’il vous plaît ?
+en+: Can you write it down for me?
+
+* comment-ca-se-prononce
+en: How do you pronounce this word?
+fr: Comment se prononce ce mot ?
+fr+: Comment on prononce ce mot ?
+
+* est-ce-correct
+en: Is that right?
+fr: C’est correct ?
+en+: Did I say that right?
+fr+: C’est juste ? | J’ai bien dit ?
+
+* je-cherche-le-mot
+en: I can’t think of the word.
+fr: Le mot ne me revient pas.
+en+: What’s the word…?
+fr+: Comment dit-on déjà… ?
+
+* vous-voulez-dire [poli]
+en: Do you mean the station or the bus stop?
+fr: Vous voulez dire la gare ou l’arrêt de bus ?
+
+* j-apprends
+en: I’m learning English.
+fr: J’apprends l’anglais.
+
+> mot-inconnu [] Un mot inconnu | A word I didn’t know
+roles: Emma | Emma ; Hugo | Hugo
+A: I’m absolutely knackered after that walk. | Je suis complètement crevée après cette balade.
+B: Sorry? What does “knackered” mean? | Pardon ? Que veut dire « knackered » ? => que-veut-dire
+A: It means very tired. It’s quite informal. | Ça veut dire très fatigué. C’est assez familier.
+B: I see. How do you spell that? | Je vois. Comment ça s’écrit ? => comment-ca-s-ecrit
+A: K-N-A-C-K-E-R-E-D. | K-N-A-C-K-E-R-E-D.
+B: Thanks! I’ll write it down. | Merci ! Je le note.
+
+== chemin | Demander son chemin | Asking the way
+
+* ou-est [poli]
+en: Excuse me, where’s the nearest Tube station?
+fr: Excusez-moi, où est la station de métro la plus proche ?
+en+: Excuse me, where is the nearest Tube station?
+fr+: Pardon, où est la station de métro la plus proche ?
+
+* c-est-loin
+en: Is it far from here?
+fr: C’est loin d’ici ?
+en+: Is it far?
+
+* comment-aller [poli]
+en: How do I get to the British Museum?
+fr: Comment aller au British Museum ?
+en+: Could you tell me how to get to the British Museum?
+fr+: Pour aller au British Museum, s’il vous plaît ?
+
+* a-pied
+en: Can I walk there?
+fr: On peut y aller à pied ?
+en+: Is it within walking distance?
+
+* tout-droit
+en: Go straight on, then take the second left.
+fr: Allez tout droit, puis prenez la deuxième à gauche.
+en+: Go straight ahead, then take the second left.
+
+* au-feu
+en: Turn right at the traffic lights.
+fr: Tournez à droite au feu.
+
+* en-face
+en: It’s opposite the bank.
+fr: C’est en face de la banque.
+
+* a-cote
+en: It’s just around the corner.
+fr: C’est juste au coin de la rue.
+en+: It’s round the corner.
+situation: « Just around the corner » veut aussi dire « tout près ». | Also means “very close”.
+
+* perdu
+en: I think I’m lost.
+fr: Je crois que je suis perdu.
+fr+: Je crois que je suis perdue.
+
+* sur-la-carte [poli]
+en: Could you show me on the map?
+fr: Vous pouvez me montrer sur la carte ?
+
+* combien-de-temps
+en: How long does it take on foot?
+fr: Combien de temps faut-il à pied ?
+fr+: Ça prend combien de temps à pied ?
+
+* pas-d-ici
+en: Sorry, I’m not from round here.
+fr: Désolé, je ne suis pas d’ici.
+en+: Sorry, I’m not from around here.
+fr+: Désolée, je ne suis pas d’ici.
+
+> musee [poli] Le chemin du musée | The way to the museum
+roles: Le touriste | Tourist ; La passante | Passer-by
+A: Excuse me, how do I get to the British Museum? | Excusez-moi, comment aller au British Museum ? => comment-aller
+B: Go straight on, then take the second left. | Allez tout droit, puis prenez la deuxième à gauche. => tout-droit
+A: Is it far from here? | C’est loin d’ici ? => c-est-loin
+B: No, it’s about ten minutes on foot. | Non, c’est à une dizaine de minutes à pied.
+A: Could you show me on the map? | Vous pouvez me montrer sur la carte ? => sur-la-carte
+B: Sure. We’re here, and the museum is just there, opposite the park. | Bien sûr. On est ici, et le musée est juste là, en face du parc.
+A: Brilliant, thank you very much! | Parfait, merci beaucoup !
+B: You’re welcome. Enjoy the museum! | Je vous en prie. Bonne visite !
+
+> perdu-quartier [familier] Perdu dans le quartier | Lost in the neighbourhood
+roles: Nina | Nina ; Sam | Sam
+A: Sam, I think I’m lost. Where are you? | Sam, je crois que je suis perdue. Tu es où ?
+B: I’m outside the café. What can you see? | Je suis devant le café. Qu’est-ce que tu vois ?
+A: There’s a big supermarket and a bus stop. | Il y a un grand supermarché et un arrêt de bus.
+B: OK, turn right at the traffic lights. The café is just around the corner. | OK, tourne à droite au feu. Le café est juste au coin de la rue.
+A: Got it. See you in two minutes! | Compris. À dans deux minutes !
+
+== transports | Se déplacer | Getting around
+
+* un-billet-pour
+en: A return to Oxford, please.
+fr: Un aller-retour pour Oxford, s’il vous plaît.
+en+: A return ticket to Oxford, please.
+situation: « single » : aller simple ; « return » : aller-retour ; « day return » : aller-retour dans la journée. | Single, return, day return.
+
+* a-quelle-heure
+en: What time is the next train to Brighton?
+fr: À quelle heure est le prochain train pour Brighton ?
+en+: When is the next train to Brighton?
+
+* quel-quai
+en: Which platform does it leave from?
+fr: Il part de quel quai ?
+en+: Which platform is it?
+fr+: De quelle voie part-il ?
+
+* en-retard
+en: The train is delayed by twenty minutes.
+fr: Le train a vingt minutes de retard.
+
+* annule
+en: My flight has been cancelled.
+fr: Mon vol a été annulé.
+en+: My flight’s been cancelled.
+
+* ou-descendre
+en: Where should I get off for the museum?
+fr: Où dois-je descendre pour le musée ?
+
+* ce-bus-va
+en: Does this bus go to the city centre?
+fr: Ce bus va au centre-ville ?
+
+* carte-bancaire
+en: Can I pay by card on the bus?
+fr: Je peux payer par carte dans le bus ?
+situation: À Londres, on paie le bus et le métro sans contact, avec sa carte ou son téléphone. | In London you tap in with a contactless card or phone.
+
+* taxi
+en: Could you call me a taxi, please?
+fr: Pourriez-vous m’appeler un taxi, s’il vous plaît ?
+en+: Can you call me a taxi?
+
+* a-l-aeroport
+en: To Heathrow Airport, please.
+fr: À l’aéroport d’Heathrow, s’il vous plaît.
+
+* louer-voiture
+en: I’d like to hire a car for three days.
+fr: Je voudrais louer une voiture pour trois jours.
+en+: I’d like to rent a car for three days.
+
+* a-gauche
+en: Don’t forget, they drive on the left!
+fr: N’oublie pas, on roule à gauche !
+
+* place-libre
+en: Is this seat free?
+fr: Cette place est libre ?
+en+: Is anyone sitting here?
+fr+: Il y a quelqu’un ici ?
+
+> gare [poli] Au guichet de la gare | At the ticket office
+roles: Le voyageur | Traveller ; L’agente | Ticket clerk
+A: Hello. A day return to Oxford, please. | Bonjour. Un aller-retour dans la journée pour Oxford, s’il vous plaît.
+B: That’s thirty-two pounds fifty. Are you paying by card? | Ça fait trente-deux livres cinquante. Vous payez par carte ?
+A: Yes, please. What time is the next train? | Oui. À quelle heure est le prochain train ?
+B: There’s one at 10:15. | Il y en a un à 10 h 15.
+A: Which platform does it leave from? | Il part de quel quai ? => quel-quai
+B: Platform four. It’s delayed by five minutes, though. | Quai quatre. Mais il a cinq minutes de retard.
+A: No problem. Thanks for your help. | Pas de souci. Merci pour votre aide.
+
+> taxi-aeroport [] Un taxi pour l’aéroport | A taxi to the airport
+roles: La cliente | Passenger ; Le chauffeur | Driver
+A: To Heathrow Airport, please. Terminal five. | À l’aéroport d’Heathrow, s’il vous plaît. Terminal cinq. => a-l-aeroport
+B: No problem. What time is your flight? | Pas de problème. Votre vol est à quelle heure ?
+A: Two o’clock. Will we get there in time? | À quatorze heures. On arrivera à temps ?
+B: Should be fine. The traffic’s not too bad today. | Ça devrait aller. Il n’y a pas trop de circulation aujourd’hui.
+A: Great. Can I pay by card? | Parfait. Je peux payer par carte ?
+B: Of course. | Bien sûr.
+
+== hotel | À l’hôtel | At the hotel
+
+* reservation
+en: I’ve booked a double room for two nights.
+fr: J’ai réservé une chambre double pour deux nuits.
+en+: I have a reservation for a double room for two nights.
+
+* au-nom-de
+en: The booking is under the name Martin.
+fr: La réservation est au nom de Martin.
+en+: It’s under the name Martin.
+
+* chambre-libre [poli]
+en: Do you have a room for tonight?
+fr: Vous avez une chambre pour ce soir ?
+en+: Have you got any rooms available tonight?
+
+* petit-dej-compris
+en: Is breakfast included?
+fr: Le petit-déjeuner est compris ?
+
+* petit-dej-heure
+en: What time is breakfast served?
+fr: À quelle heure est servi le petit-déjeuner ?
+en+: What time is breakfast?
+
+* wifi
+en: What’s the Wi-Fi password?
+fr: Quel est le code du wifi ?
+fr+: C’est quoi, le mot de passe du wifi ?
+
+* ne-marche-pas
+en: The heating in my room isn’t working.
+fr: Le chauffage de ma chambre ne marche pas.
+fr+: Le chauffage de ma chambre ne fonctionne pas.
+
+* serviettes
+en: Could I have some more towels, please?
+fr: Je pourrais avoir d’autres serviettes, s’il vous plaît ?
+
+* quitter-chambre
+en: What time do we have to check out?
+fr: À quelle heure faut-il libérer la chambre ?
+en+: What time is checkout?
+
+* bagages
+en: Can we leave our luggage here until this afternoon?
+fr: Pouvons-nous laisser nos bagages ici jusqu’à cet après-midi ?
+fr+: On peut laisser nos bagages ici jusqu’à cet après-midi ?
+
+* cle-perdue
+en: I’ve lost my key card.
+fr: J’ai perdu ma carte-clé.
+
+> arrivee-hotel [poli] L’arrivée à l’hôtel | Checking in
+roles: La cliente | Guest ; Le réceptionniste | Receptionist
+A: Good evening. I’ve booked a double room for two nights. | Bonsoir. J’ai réservé une chambre double pour deux nuits. => reservation
+B: Welcome. What name is it under? | Bienvenue. À quel nom, s’il vous plaît ?
+A: Martin. M-A-R-T-I-N. | Martin. M-A-R-T-I-N.
+B: Here we are. You’re in room 214, on the second floor. | Voilà. Vous êtes à la chambre 214, au deuxième étage.
+A: Is breakfast included? | Le petit-déjeuner est compris ? => petit-dej-compris
+B: Yes, it’s served from seven till ten in the dining room. | Oui, il est servi de sept à dix heures dans la salle à manger.
+A: And what’s the Wi-Fi password? | Et quel est le code du wifi ? => wifi
+B: It’s on the back of your key card. Enjoy your stay! | Il est au dos de votre carte-clé. Bon séjour !
+
+> probleme-chambre [poli] Un problème dans la chambre | A problem with the room
+roles: Le client | Guest ; La réceptionniste | Receptionist
+A: Hello, I’m in room 214. The heating isn’t working. | Bonjour, je suis à la chambre 214. Le chauffage ne marche pas.
+B: I’m so sorry. I’ll send someone up straight away. | Je suis vraiment désolée. J’envoie quelqu’un tout de suite.
+A: Thank you. Could I have some more towels, too? | Merci. Je pourrais aussi avoir d’autres serviettes ?
+B: Of course. Anything else? | Bien sûr. Autre chose ?
+A: No, that’s all. Thanks very much. | Non, c’est tout. Merci beaucoup.
+
+== restaurant | Au café, au restaurant, au pub | Cafés, restaurants & pubs
+
+* table-pour-deux
+en: A table for two, please.
+fr: Une table pour deux, s’il vous plaît.
+en+: Have you got a table for two?
+
+* reserve-table
+en: I’d like to book a table for four at eight o’clock.
+fr: Je voudrais réserver une table pour quatre à vingt heures.
+
+* la-carte [poli]
+en: Could we see the menu, please?
+fr: Nous pourrions avoir la carte, s’il vous plaît ?
+en+: Can we have the menu, please?
+
+* je-vais-prendre
+en: I’ll have the fish and chips, please.
+fr: Je vais prendre le fish and chips, s’il vous plaît.
+en+: Could I have the fish and chips, please?
+fr+: Pour moi, ce sera le fish and chips.
+
+* que-conseillez-vous [poli]
+en: What would you recommend?
+fr: Qu’est-ce que vous nous conseillez ?
+
+* vegetarien
+en: Do you have any vegetarian dishes?
+fr: Vous avez des plats végétariens ?
+
+* allergie
+en: I’m allergic to nuts. Is there any in this?
+fr: Je suis allergique aux fruits à coque. Il y en a dans ce plat ?
+
+* eau-du-robinet
+en: Could we have some tap water, please?
+fr: Nous pourrions avoir une carafe d’eau, s’il vous plaît ?
+situation: L’eau du robinet est gratuite au Royaume-Uni ; il suffit de demander « tap water ». | Tap water is free in the UK.
+
+* une-pinte
+en: A pint of bitter and a glass of white wine, please.
+fr: Une pinte de bière brune et un verre de vin blanc, s’il vous plaît.
+situation: Au pub, on commande et on paie au bar ; pas de service à table, et pas de pourboire obligatoire. | In a pub you order and pay at the bar.
+
+* ma-tournee [familier]
+en: It’s my round. What are you having?
+fr: C’est ma tournée. Qu’est-ce que tu prends ?
+situation: Au pub, chacun paie une tournée à son tour : c’est « a round ». | In a pub, people take turns buying drinks.
+
+* a-emporter
+en: Is it to eat in or take away? — Take away, please.
+fr: Sur place ou à emporter ? — À emporter, s’il vous plaît.
+en+: Eat in or take away? — Take away, please.
+
+* c-etait-delicieux
+en: That was delicious, thank you.
+fr: C’était délicieux, merci.
+en+: That was lovely, thanks.
+
+* l-addition [poli]
+en: Could we have the bill, please?
+fr: L’addition, s’il vous plaît.
+en+: Can we have the bill, please?
+fr+: Nous pourrions avoir l’addition, s’il vous plaît ?
+
+* service-compris
+en: Is service included?
+fr: Le service est compris ?
+
+* partager-addition
+en: Shall we split the bill?
+fr: On partage l’addition ?
+
+> commande-restaurant [poli] Commander au restaurant | Ordering a meal
+roles: Le serveur | Waiter ; La cliente | Customer
+A: Good evening. Are you ready to order? | Bonsoir. Vous avez choisi ?
+B: Almost. What would you recommend? | Presque. Qu’est-ce que vous nous conseillez ? => que-conseillez-vous
+A: The fish pie is very popular. | La tourte au poisson a beaucoup de succès.
+B: Lovely, I’ll have that. And could we have some tap water, please? | Parfait, je vais prendre ça. Et nous pourrions avoir une carafe d’eau, s’il vous plaît ?
+A: Of course. Any starters? | Bien sûr. Des entrées ?
+B: No, thanks. Just the main course. | Non merci. Juste le plat.
+
+> au-pub [familier] Au pub | At the pub
+roles: Olivia | Olivia ; Karim | Karim
+A: It’s my round. What are you having? | C’est ma tournée. Qu’est-ce que tu prends ? => ma-tournee
+B: A pint of cider, please. | Une pinte de cidre, s’il te plaît.
+A: Crisps? | Des chips ?
+B: Go on then. Salt and vinegar. | Allez. Sel et vinaigre.
+A: Cheers! | Santé ! => politesse:sante
+B: Cheers! Next one’s on me. | Santé ! La prochaine est pour moi.
+
+> addition [] Payer l’addition | Paying the bill
+roles: Le client | Customer ; La serveuse | Waitress
+A: Excuse me, could we have the bill, please? | Excusez-moi, l’addition, s’il vous plaît. => l-addition
+B: Of course. Was everything all right? | Bien sûr. Tout s’est bien passé ?
+A: Yes, it was delicious, thank you. | Oui, c’était délicieux, merci.
+B: I’ll bring the card machine. | Je vous apporte le terminal de paiement.
+A: Is service included? | Le service est compris ? => service-compris
+B: Yes, there’s a twelve and a half per cent service charge. | Oui, il y a douze et demi pour cent de service.
+
+== courses | Magasins et achats | Shopping
+
+* je-regarde
+en: I’m just looking, thanks.
+fr: Je regarde, merci.
+en+: Just looking, thanks.
+
+* combien
+en: How much is this?
+fr: Combien ça coûte ?
+en+: How much does this cost?
+fr+: C’est combien ?
+
+* essayer
+en: Can I try it on?
+fr: Je peux l’essayer ?
+
+* cabines
+en: Where are the changing rooms?
+fr: Où sont les cabines d’essayage ?
+
+* autre-taille
+en: Have you got this in a bigger size?
+fr: Vous l’avez dans une taille au-dessus ?
+en+: Do you have this in a larger size?
+
+* je-le-prends
+en: I’ll take it.
+fr: Je le prends.
+fr+: Je la prends.
+
+* sans-contact
+en: Can I pay contactless?
+fr: Je peux payer sans contact ?
+
+* sac
+en: Do you need a bag? — No, I’ve got one, thanks.
+fr: Il vous faut un sac ? — Non, j’en ai un, merci.
+
+* rembourser
+en: I’d like to return this. Can I get a refund?
+fr: Je voudrais rapporter cet article. Je peux être remboursé ?
+
+* ticket
+en: Have you got the receipt?
+fr: Vous avez le ticket de caisse ?
+
+* heures-ouverture
+en: What time do you close today?
+fr: Vous fermez à quelle heure aujourd’hui ?
+
+* pharmacie-ouverte
+en: Is there a chemist’s open near here?
+fr: Il y a une pharmacie ouverte près d’ici ?
+
+> vetements [poli] Dans une boutique de vêtements | In a clothes shop
+roles: La vendeuse | Shop assistant ; Le client | Customer
+A: Hello, can I help you? | Bonjour, je peux vous aider ?
+B: I’m just looking, thanks… Actually, have you got this jumper in a bigger size? | Je regarde, merci… En fait, vous avez ce pull dans une taille au-dessus ?
+A: Let me check… Yes, here’s a large. | Je regarde… Oui, voici un L.
+B: Can I try it on? | Je peux l’essayer ? => essayer
+A: Of course, the changing rooms are over there. | Bien sûr, les cabines sont là-bas.
+B: It fits perfectly. I’ll take it. Can I pay contactless? | Il me va parfaitement. Je le prends. Je peux payer sans contact ?
+A: Yes, of course. Do you need a bag? | Oui, bien sûr. Il vous faut un sac ?
+B: No, I’ve got one, thanks. | Non, j’en ai un, merci.
+
+> retour-article [poli] Rendre un article | Returning an item
+roles: Le client | Customer ; La vendeuse | Shop assistant
+A: Hi, I’d like to return this. It’s too small. | Bonjour, je voudrais rapporter cet article. Il est trop petit.
+B: No problem. Have you got the receipt? | Pas de problème. Vous avez le ticket de caisse ? => ticket
+A: Yes, here you are. | Oui, le voici.
+B: Would you like a refund or an exchange? | Vous préférez un remboursement ou un échange ?
+A: A refund, please. | Un remboursement, s’il vous plaît.
+B: That’s done. The money will be back on your card in a few days. | C’est fait. L’argent sera recrédité sur votre carte d’ici quelques jours.
+
+== sante | Santé et urgences | Health & emergencies
+
+* je-me-sens-mal
+en: I don’t feel well.
+fr: Je ne me sens pas bien.
+en+: I feel unwell. | I’m not feeling well.
+
+* j-ai-mal
+en: I’ve got a headache.
+fr: J’ai mal à la tête.
+en+: I have a headache.
+
+* mal-au-ventre
+en: I’ve had stomach ache since this morning.
+fr: J’ai mal au ventre depuis ce matin.
+
+* fievre
+en: I think I’ve got a temperature.
+fr: Je crois que j’ai de la fièvre.
+en+: I think I’ve got a fever.
+
+* medecin
+en: I need to see a doctor.
+fr: J’ai besoin de voir un médecin.
+
+* rendez-vous-medecin
+en: Can I make an appointment with a doctor?
+fr: Je peux prendre rendez-vous chez un médecin ?
+
+* ordonnance
+en: Do I need a prescription for this?
+fr: Il faut une ordonnance pour ce médicament ?
+
+* allergique
+en: I’m allergic to penicillin.
+fr: Je suis allergique à la pénicilline.
+
+* au-secours
+en: Help! Call an ambulance!
+fr: Au secours ! Appelez une ambulance !
+situation: Au Royaume-Uni, le numéro d’urgence est le 999 (le 112 marche aussi). | The UK emergency number is 999 (112 also works).
+
+* urgence
+en: It’s an emergency.
+fr: C’est une urgence.
+
+* vole
+en: My wallet has been stolen.
+fr: On m’a volé mon portefeuille.
+en+: Someone has stolen my wallet.
+
+* commissariat
+en: Where’s the nearest police station?
+fr: Où est le commissariat le plus proche ?
+
+> pharmacie [poli] À la pharmacie | At the chemist’s
+roles: La cliente | Customer ; Le pharmacien | Pharmacist
+A: Hello. I’ve got a sore throat and a bit of a temperature. | Bonjour. J’ai mal à la gorge et un peu de fièvre.
+B: How long have you had it? | Depuis combien de temps ?
+A: Since yesterday. | Depuis hier.
+B: These lozenges should help, and take paracetamol for the fever. | Ces pastilles devraient vous soulager, et prenez du paracétamol pour la fièvre.
+A: Do I need a prescription? | Il faut une ordonnance ?
+B: No, you don’t. If it’s not better in three days, see a doctor. | Non. Si ça ne va pas mieux dans trois jours, allez voir un médecin.
+A: Thank you very much. | Merci beaucoup. => politesse:merci-beaucoup
+
+> urgences [] Aux urgences | In A&E
+roles: L’infirmière | Nurse ; Le patient | Patient
+A: What seems to be the problem? | Qu’est-ce qui vous amène ?
+B: I fell off my bike and I think I’ve broken my wrist. | Je suis tombé de vélo et je crois que je me suis cassé le poignet.
+A: Can you move your fingers? | Vous pouvez bouger les doigts ?
+B: Yes, but it really hurts. | Oui, mais ça fait très mal.
+A: We’ll do an X-ray. Are you allergic to anything? | On va faire une radio. Vous êtes allergique à quelque chose ?
+B: Yes, I’m allergic to penicillin. | Oui, je suis allergique à la pénicilline. => allergique
+
+== telephone | Au téléphone | On the phone
+
+* allo
+en: Hello, it’s Paul speaking.
+fr: Allô, c’est Paul.
+en+: Hello, this is Paul. | Hi, it’s Paul.
+fr+: Allô, Paul à l’appareil.
+
+* je-voudrais-parler [poli]
+en: Could I speak to Ms Taylor, please?
+fr: Pourrais-je parler à Mme Taylor, s’il vous plaît ?
+en+: Can I speak to Ms Taylor, please?
+
+* ne-quittez-pas [poli]
+en: Hold on, please. I’ll put you through.
+fr: Ne quittez pas, je vous la passe.
+en+: One moment, please. I’ll put you through.
+
+* message [poli]
+en: Can I take a message?
+fr: Voulez-vous laisser un message ?
+en+: Would you like to leave a message?
+
+* rappeler
+en: I’ll call you back later.
+fr: Je te rappelle plus tard.
+fr+: Je vous rappelle plus tard.
+
+* ca-coupe
+en: Sorry, you’re breaking up.
+fr: Désolé, ça coupe.
+en+: Sorry, the line’s bad. | Sorry, I can’t hear you very well.
+
+* numero
+en: What’s your mobile number?
+fr: Quel est ton numéro de portable ?
+fr+: Quel est votre numéro de portable ?
+
+* texto [familier]
+en: Text me when you get there.
+fr: Envoie-moi un texto quand tu arrives.
+en+: Message me when you get there.
+fr+: Envoie-moi un message quand tu es arrivé.
+
+* batterie
+en: My battery’s about to die.
+fr: Je n’ai presque plus de batterie.
+en+: My phone’s about to die.
+
+* chargeur
+en: Can I borrow your charger?
+fr: Je peux emprunter ton chargeur ?
+
+> appel-bureau [poli] Un appel au bureau | A work call
+roles: Le standardiste | Receptionist ; La cliente | Caller
+A: Good morning, Harris and Co. How can I help? | Bonjour, Harris and Co. Que puis-je pour vous ?
+B: Hello, could I speak to Ms Taylor, please? | Bonjour, pourrais-je parler à Mme Taylor, s’il vous plaît ? => je-voudrais-parler
+A: I’m afraid she’s in a meeting. Can I take a message? | Je suis désolé, elle est en réunion. Voulez-vous laisser un message ?
+B: Yes, please. It’s Anne Dubois, about the invoice. | Oui. C’est Anne Dubois, au sujet de la facture.
+A: Could you spell your surname? | Pourriez-vous épeler votre nom ?
+B: D-U-B-O-I-S. My number is 07700 900 123. | D-U-B-O-I-S. Mon numéro est le 07700 900 123.
+A: Thank you. I’ll ask her to call you back. | Merci. Je lui demande de vous rappeler.
+
+== travail | Au travail | At work
+
+* reunion
+en: Shall we have a quick meeting at ten?
+fr: On fait une petite réunion à dix heures ?
+
+* point-ordre-du-jour
+en: What’s on the agenda?
+fr: Qu’est-ce qui est à l’ordre du jour ?
+
+* je-suis-d-accord
+en: I agree with you.
+fr: Je suis d’accord avec toi.
+en+: I agree.
+fr+: Je suis d’accord avec vous.
+
+* pas-d-accord [poli]
+en: I’m not sure I agree.
+fr: Je ne suis pas sûr d’être d’accord.
+situation: Les Britanniques adoucissent le désaccord : « I’m not sure… », « I see your point, but… ». | A polite way to disagree.
+
+* pouvez-vous-m-aider
+en: Could you give me a hand with this?
+fr: Tu pourrais me donner un coup de main ?
+fr+: Vous pourriez m’aider ?
+
+* date-limite
+en: When’s the deadline?
+fr: C’est pour quand ?
+fr+: Quelle est la date limite ?
+
+* en-retard-travail
+en: Sorry I’m late, the train was cancelled.
+fr: Désolé pour le retard, le train a été annulé.
+fr+: Désolée d’être en retard, le train a été annulé.
+
+* teletravail
+en: I’m working from home tomorrow.
+fr: Je télétravaille demain.
+en+: I’m WFH tomorrow.
+fr+: Demain, je suis en télétravail.
+
+* mail
+en: I’ll send you an email.
+fr: Je t’envoie un mail.
+fr+: Je vous envoie un courriel.
+
+* jour-de-conge
+en: I’m taking Friday off.
+fr: Je pose mon vendredi.
+en+: I’m off on Friday.
+fr+: Je prends mon vendredi.
+
+* partage-ecran
+en: Can you see my screen?
+fr: Vous voyez mon écran ?
+fr+: Tu vois mon écran ?
+
+* micro
+en: You’re on mute!
+fr: Ton micro est coupé !
+fr+: Vous êtes en muet !
+
+> visio [] Une réunion en visio | A video call
+roles: Laura | Laura ; Mehdi | Mehdi
+A: Morning, everyone. Can you all hear me? | Bonjour à tous. Vous m’entendez ?
+B: Yes, loud and clear. | Oui, très bien.
+A: Great. Can you see my screen? | Parfait. Vous voyez mon écran ? => partage-ecran
+B: Not yet… Now it’s working. | Pas encore… Maintenant, ça marche.
+A: So, the first thing on the agenda is the new website. Mehdi? | Bon, le premier point à l’ordre du jour, c’est le nouveau site. Mehdi ?
+B: Sorry, I was on mute. The design is almost ready. | Pardon, j’avais coupé mon micro. La maquette est presque prête.
+A: When’s the deadline? | C’est pour quand ? => date-limite
+B: Friday. I’ll send you an email this afternoon. | Vendredi. Je t’envoie un mail cet après-midi.
+
+> entretien [poli] Un entretien d’embauche | A job interview
+roles: La recruteuse | Interviewer ; Le candidat | Candidate
+A: Thanks for coming in. Could you tell me a bit about yourself? | Merci d’être venu. Pouvez-vous vous présenter en quelques mots ?
+B: Of course. I’m a web developer, and I’ve been working in Paris for five years. | Bien sûr. Je suis développeur web, et je travaille à Paris depuis cinq ans.
+A: Why do you want to work for us? | Pourquoi voulez-vous travailler chez nous ?
+B: I love your products, and I’d like to work in an international team. | J’aime beaucoup vos produits, et je voudrais travailler dans une équipe internationale.
+A: What are your strengths? | Quels sont vos points forts ?
+B: I’m organised and I learn quickly. | Je suis organisé et j’apprends vite.
+A: Great. Do you have any questions for us? | Très bien. Avez-vous des questions ?
+B: Yes. Is it possible to work from home some days? | Oui. Est-il possible de télétravailler certains jours ?
+
+== sortir | Sortir, se voir | Going out
+
+* on-se-voit [familier]
+en: Are you free on Saturday?
+fr: Tu es libre samedi ?
+en+: Are you around on Saturday?
+
+* ca-te-dit [familier]
+en: Do you fancy going to the cinema?
+fr: Ça te dit d’aller au cinéma ?
+en+: Do you want to go to the cinema?
+situation: « Do you fancy…? » est très britannique pour proposer quelque chose. | Very British way to suggest something.
+
+* on-se-retrouve
+en: Shall we meet outside the station at seven?
+fr: On se retrouve devant la gare à sept heures ?
+
+* bonne-idee
+en: Sounds good!
+fr: Bonne idée !
+en+: Sounds great! | Good idea!
+fr+: Ça marche !
+
+* je-ne-peux-pas
+en: I’m sorry, I can’t make it.
+fr: Désolé, je ne peux pas venir.
+en+: Sorry, I can’t come.
+fr+: Désolée, je ne vais pas pouvoir venir.
+
+* une-autre-fois
+en: Maybe another time?
+fr: Une autre fois, peut-être ?
+
+* en-retard-rdv
+en: I’m running ten minutes late.
+fr: J’ai dix minutes de retard.
+en+: I’ll be ten minutes late.
+fr+: Je vais avoir dix minutes de retard.
+
+* invitation
+en: Would you like to come round for dinner on Friday?
+fr: Tu veux venir dîner à la maison vendredi ?
+fr+: Vous voulez venir dîner vendredi ?
+
+* apporter
+en: Shall I bring anything?
+fr: J’apporte quelque chose ?
+
+* super-soiree
+en: Thanks for a lovely evening!
+fr: Merci pour cette super soirée !
+en+: Thanks for a great evening!
+fr+: Merci pour cette excellente soirée !
+
+* bonne-soiree
+en: Have a good evening!
+fr: Bonne soirée !
+
+> cinema [familier] Une sortie au cinéma | A trip to the cinema
+roles: Chloé | Chloé ; Ben | Ben
+A: Do you fancy going to the cinema on Saturday? | Ça te dit d’aller au ciné samedi ? => ca-te-dit
+B: Sounds good! What’s on? | Bonne idée ! Qu’est-ce qui passe ?
+A: The new Bond film. It starts at eight. | Le nouveau James Bond. Il commence à vingt heures.
+B: Shall we meet outside the station at seven? | On se retrouve devant la gare à sept heures ? => on-se-retrouve
+A: Perfect. We can get something to eat first. | Parfait. On pourra manger un bout avant.
+B: Great. See you on Saturday! | Génial. À samedi !
+
+> diner-chez-amis [] Un dîner chez des amis | Dinner at a friend’s
+roles: Hannah | Hannah ; Pierre | Pierre
+A: Would you like to come round for dinner on Friday? | Tu veux venir dîner à la maison vendredi ? => invitation
+B: I’d love to, thanks. Shall I bring anything? | Avec plaisir, merci. J’apporte quelque chose ?
+A: Maybe a bottle of wine? | Peut-être une bouteille de vin ?
+B: Of course. What time? | Bien sûr. À quelle heure ?
+A: About half past seven. | Vers sept heures et demie.
+B: Brilliant. See you then! | Parfait. À vendredi !
+
+== conversation | Faire la conversation | Small talk
+
+* quel-temps
+en: Lovely weather today, isn’t it?
+fr: Il fait beau aujourd’hui, hein ?
+en+: Nice day, isn’t it?
+fr+: Belle journée, n’est-ce pas ?
+situation: Parler du temps est le grand classique de la conversation britannique — pour engager la discussion, pas pour donner la météo. | The classic British opener.
+
+* il-pleut-encore
+en: It’s raining again!
+fr: Il pleut encore !
+
+* ce-week-end
+en: Did you have a good weekend?
+fr: Tu as passé un bon week-end ?
+fr+: Vous avez passé un bon week-end ?
+
+* qu-as-tu-fait
+en: What did you get up to?
+fr: Qu’est-ce que tu as fait de beau ?
+en+: What did you do?
+
+* rien-de-special
+en: Nothing much, I just relaxed.
+fr: Pas grand-chose, je me suis reposé.
+en+: Not much, just chilled out.
+fr+: Rien de spécial, je me suis reposée.
+
+* tu-aimes
+en: What do you like doing in your free time?
+fr: Qu’est-ce que tu aimes faire pendant ton temps libre ?
+
+* j-adore
+en: I love reading and going for walks.
+fr: J’adore lire et me promener.
+
+* tu-as-vu
+en: Have you seen the latest series on Netflix?
+fr: Tu as vu la dernière série sur Netflix ?
+
+* a-mon-avis
+en: In my opinion, it’s a bit too long.
+fr: À mon avis, c’est un peu trop long.
+en+: I think it’s a bit too long.
+fr+: Je trouve que c’est un peu long.
+
+* vraiment
+en: Really? I didn’t know that.
+fr: Ah bon ? Je ne savais pas.
+en+: Really? I had no idea.
+fr+: C’est vrai ? Je ne savais pas.
+
+* c-est-genial [familier]
+en: That’s brilliant!
+fr: C’est génial !
+en+: That’s amazing! | That’s awesome!
+fr+: C’est super !
+
+* dommage
+en: Oh, what a shame!
+fr: Oh, quel dommage !
+en+: Oh no, that’s a pity!
+fr+: C’est dommage !
+
+* depuis-combien
+en: How long have you lived here?
+fr: Tu habites ici depuis combien de temps ?
+fr+: Depuis combien de temps habitez-vous ici ?
+situation: « Depuis combien de temps » : present perfect en anglais, présent en français. | Present perfect in English.
+
+> meteo-arret-bus [] À l’arrêt de bus | At the bus stop
+roles: La dame | Lady ; Le jeune homme | Young man
+A: Lovely weather today, isn’t it? | Il fait beau aujourd’hui, hein ? => quel-temps
+B: Yes, finally! It rained all last week. | Oui, enfin ! Il a plu toute la semaine dernière.
+A: They say it’s going to rain again tomorrow. | Ils annoncent de la pluie pour demain.
+B: Typical! Is the 38 usually on time? | Évidemment ! Le 38 est à l’heure, d’habitude ?
+A: Not really. Oh, here it comes! | Pas vraiment. Oh, le voilà !
+
+> lundi-matin [familier] Le lundi matin | Monday morning
+roles: Amy | Amy ; Lucas | Lucas
+A: Morning! Did you have a good weekend? | Salut ! Tu as passé un bon week-end ? => ce-week-end
+B: Yes, thanks. I went walking in the Peak District. | Oui, merci. Je suis allé randonner dans le Peak District.
+A: Lucky you! What was it like? | Veinard ! C’était comment ?
+B: Beautiful, but I’m knackered now. What did you get up to? | Magnifique, mais maintenant je suis crevé. Et toi, qu’est-ce que tu as fait de beau ?
+A: Nothing much, I just relaxed. | Pas grand-chose, je me suis reposée. => rien-de-special
+
+== numerique | Numérique au quotidien | Tech help
+
+* ca-ne-charge-pas
+en: The page won’t load.
+fr: La page ne se charge pas.
+en+: The page isn’t loading.
+
+* mot-de-passe-oublie
+en: I’ve forgotten my password.
+fr: J’ai oublié mon mot de passe.
+
+* redemarrer
+en: Have you tried turning it off and on again?
+fr: Tu as essayé de l’éteindre et de le rallumer ?
+
+* pas-de-reseau
+en: I’ve got no signal here.
+fr: Je n’ai pas de réseau ici.
+en+: There’s no signal here.
+fr+: Ça ne capte pas ici.
+
+* mise-a-jour
+en: My phone is updating.
+fr: Mon téléphone fait une mise à jour.
+
+* envoie-lien
+en: Can you send me the link?
+fr: Tu peux m’envoyer le lien ?
+
+* capture
+en: I’ll send you a screenshot.
+fr: Je t’envoie une capture d’écran.
+
+* appli
+en: Have you downloaded the app?
+fr: Tu as téléchargé l’appli ?
+
+* photo-groupe
+en: I’ll post the photos in the group chat.
+fr: Je mets les photos dans le groupe.
+
+> wifi-cafe [] Le wifi du café | Café Wi-Fi
+roles: Le client | Customer ; La barista | Barista
+A: Hi, do you have Wi-Fi here? | Bonjour, vous avez le wifi ici ?
+B: Yes, it’s free. The password is on the receipt. | Oui, c’est gratuit. Le code est sur le ticket.
+A: Thanks. Hmm, the page won’t load. | Merci. Hum, la page ne se charge pas. => ca-ne-charge-pas
+B: Have you tried turning your Wi-Fi off and on again? | Vous avez essayé de couper et de relancer le wifi ?
+A: Ah, it’s working now. Could I also charge my phone? | Ah, ça marche. Je pourrais aussi recharger mon téléphone ?
+B: Sure, there’s a socket by the window. | Bien sûr, il y a une prise près de la fenêtre.

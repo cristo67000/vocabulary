@@ -1,0 +1,39 @@
+{
+  "id": "./",
+  "name": "Vocabulary — anglais ⇄ français",
+  "short_name": "Vocabulary",
+  "description": "Dictionnaire anglais ⇄ français hors ligne : mots courants et actuels, argot et abréviations, termes de l’IA et du code, expressions et phrases usuelles, exercices de mémorisation. Voix britannique et voix de France. Tout reste sur l’appareil, sans compte ni réseau.",
+  "lang": "fr",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f6f2",
+  "theme_color": "#16324f",
+  "categories": [
+    "education",
+    "books",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

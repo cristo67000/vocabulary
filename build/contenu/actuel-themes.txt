@@ -1,0 +1,2252 @@
+# Le vocabulaire du quotidien, par thèmes. Vedettes anglaises (orthographe
+# britannique), équivalents français avec leur article : « un », « une »
+# disent le genre, même devant une voyelle (« un évier »).
+# Rédigé pour Vocabulary.
+module: actuel
+
+# ————— À la maison —————
+
+@ house
+t: maison
+tr: une maison
+sc: app-maison
+x: They live in a big house by the sea. | Ils habitent une grande maison au bord de la mer.
+
+@ home
+t: maison
+tr: le foyer, chez soi, la maison
+n-fr: « at home » : à la maison, chez soi ; « to go home » : rentrer (sans « to »).
+n-en: « chez moi » = at my place, at home.
+x: I’m going home. | Je rentre à la maison.
+
+@ room
+t: maison
+tr: une pièce, une salle, une chambre
+n-fr: « room » est la pièce en général ; la chambre à coucher se dit « bedroom ». Indénombrable, il veut dire « la place » : « there’s no room ».
+n-en: « une chambre » is a bedroom; « de la place » is room (space).
+x: How many rooms are there in your flat? | Combien de pièces y a-t-il dans ton appartement ?
+
+@ kitchen
+t: maison
+tr: une cuisine
+sc: app-maison
+x: We usually eat in the kitchen. | On mange d’habitude dans la cuisine.
+
+@ living_room
+t: maison
+tr: un salon, une salle de séjour
+al: sitting room, lounge
+n-fr: Britannique aussi : « lounge », « sitting room ».
+n-en: British also “lounge”, “sitting room”.
+sc: app-maison
+x: The kids are watching TV in the living room. | Les enfants regardent la télé dans le salon.
+
+@ dining_room
+t: maison
+tr: une salle à manger
+x: The dining room seats eight. | La salle à manger peut accueillir huit personnes.
+
+@ bedroom
+t: maison
+tr: une chambre
+sc: app-maison
+x: It’s a two-bedroom flat. | C’est un appartement avec deux chambres.
+
+@ bathroom
+t: maison
+tr: une salle de bains
+n-fr: En américain, « bathroom » désigne aussi les toilettes.
+n-en: In American English, “bathroom” is also a polite word for the toilet.
+sc: app-maison
+x: The bathroom is upstairs. | La salle de bains est à l’étage.
+
+@ toilet
+t: maison
+tr: les toilettes, les WC
+al: loo
+n-fr: Britannique familier : « the loo ». Au restaurant : « Where are the toilets? »
+n-en: « les toilettes » is always plural in French.
+x: Where’s the toilet, please? | Où sont les toilettes, s’il vous plaît ?
+
+@ hall
+t: maison
+tr: une entrée, un couloir
+al: hallway
+x: Leave your shoes in the hall. | Laisse tes chaussures dans l’entrée.
+
+@ stairs
+t: maison
+tr: un escalier
+sc: app-maison
+x: Be careful on the stairs. | Fais attention dans l’escalier.
+
+@ upstairs
+t: maison
+tr: en haut, à l’étage
+x: My room is upstairs. | Ma chambre est à l’étage.
+v: downstairs
+
+@ downstairs
+t: maison
+tr: en bas, au rez-de-chaussée
+x: Breakfast is served downstairs. | Le petit-déjeuner est servi en bas.
+v: upstairs
+
+@ landing
+t: maison
+tr: un palier
+x: The bathroom is on the landing. | La salle de bains donne sur le palier.
+
+@ loft
+t: maison
+tr: un grenier, des combles
+al: attic
+n-fr: « loft » et « attic » : le grenier ; « a loft conversion », des combles aménagés.
+n-en: « un loft » in French is a converted industrial space.
+sc: app-maison
+x: The old toys are in the loft. | Les vieux jouets sont au grenier.
+
+@ cellar
+t: maison
+tr: une cave
+x: He keeps his wine in the cellar. | Il garde son vin à la cave.
+
+@ garden
+t: maison
+tr: un jardin
+n-fr: Britannique ; en américain, le jardin derrière la maison est « the yard » (« backyard »).
+n-en: British; American English says “yard”.
+sc: app-maison
+x: We had lunch in the garden. | Nous avons déjeuné dans le jardin.
+
+@ roof
+t: maison
+tr: un toit
+sc: app-maison
+x: There’s a leak in the roof. | Il y a une fuite dans le toit.
+
+@ wall
+t: maison
+tr: un mur
+x: She hung the picture on the wall. | Elle a accroché le tableau au mur.
+
+@ floor
+t: maison
+tr: le sol, un plancher, un étage
+n-fr: « on the floor » : par terre ; « on the second floor » : au deuxième étage.
+n-en: « un étage » is a floor or storey; « le sol » is the floor you walk on.
+x: Don’t leave your bag on the floor. | Ne laisse pas ton sac par terre.
+
+@ ceiling
+t: maison
+tr: un plafond
+x: The ceilings are very high. | Les plafonds sont très hauts.
+
+@ window
+t: maison
+tr: une fenêtre
+x: Can you open the window? | Tu peux ouvrir la fenêtre ?
+
+@ door
+t: maison
+tr: une porte
+x: Someone’s at the door. | Il y a quelqu’un à la porte.
+
+@ key
+t: maison
+tr: une clé
+x: I can’t find my keys. | Je ne trouve pas mes clés.
+
+@ furniture
+t: maison
+tr: des meubles, le mobilier
+a-fr: Indénombrable : « furniture » ne prend pas de « s » ; un meuble = « a piece of furniture ».
+a-en: « un meuble » = a piece of furniture.
+x: We need some new furniture. | Il nous faut de nouveaux meubles.
+
+@ sofa
+t: maison
+tr: un canapé
+al: settee, couch
+x: The cat is asleep on the sofa. | Le chat dort sur le canapé.
+
+@ armchair
+t: maison
+tr: un fauteuil
+x: Grandad has fallen asleep in his armchair. | Papi s’est endormi dans son fauteuil.
+
+@ wardrobe
+t: maison
+tr: une armoire, une penderie
+n-fr: Américain : « closet ».
+n-en: American English: “closet”.
+x: Hang your coat in the wardrobe. | Suspends ton manteau dans l’armoire.
+
+@ chest_of_drawers
+t: maison
+tr: une commode
+nat: n
+x: The socks are in the chest of drawers. | Les chaussettes sont dans la commode.
+
+@ shelf
+t: maison
+tr: une étagère
+n-fr: Pluriel : « shelves ».
+n-en: Plural: shelves.
+x: Put the books back on the shelf. | Remets les livres sur l’étagère.
+
+@ curtains
+t: maison
+tr: des rideaux
+x: Could you close the curtains? | Tu pourrais fermer les rideaux ?
+
+@ washing_machine
+t: maison
+tr: un lave-linge, une machine à laver
+nat: n
+x: The washing machine has broken down. | Le lave-linge est en panne.
+
+@ dishwasher
+t: maison
+tr: un lave-vaisselle
+x: Can you empty the dishwasher? | Tu peux vider le lave-vaisselle ?
+
+@ fridge
+t: maison
+tr: un frigo, un réfrigérateur
+x: There’s some milk in the fridge. | Il y a du lait dans le frigo.
+
+@ freezer
+t: maison
+tr: un congélateur
+x: Put the ice cream back in the freezer. | Remets la glace au congélateur.
+
+@ oven
+t: maison
+tr: un four
+x: Bake it in the oven for twenty minutes. | Fais cuire au four pendant vingt minutes.
+
+@ sink
+t: maison
+tr: un évier, un lavabo
+n-fr: L’évier de la cuisine ou le lavabo de la salle de bains (« washbasin »).
+n-en: « l’évier » in the kitchen, « le lavabo » in the bathroom.
+x: The sink is full of dirty dishes. | L’évier est plein de vaisselle sale.
+
+@ shower
+t: maison
+tr: une douche
+x: I’ll have a quick shower. | Je vais prendre une douche rapide.
+
+@ bath
+t: maison
+tr: une baignoire, un bain
+n-fr: « to have a bath » (britannique) : prendre un bain.
+n-en: British “have a bath”, American “take a bath”.
+x: The children have a bath every evening. | Les enfants prennent un bain tous les soirs.
+
+@ mirror
+t: maison
+tr: un miroir, une glace
+x: She looked at herself in the mirror. | Elle s’est regardée dans la glace.
+
+@ heating
+t: maison
+tr: le chauffage
+x: Can you turn the heating down? | Tu peux baisser le chauffage ?
+
+@ socket
+t: maison
+tr: une prise (de courant)
+n-fr: « plug » : la fiche (la prise mâle) ; « socket » : la prise murale.
+n-en: « une prise » is both the socket and, loosely, the plug.
+x: Is there a socket near the bed? | Il y a une prise près du lit ?
+
+@ housework
+t: maison
+tr: le ménage, les tâches ménagères
+x: We share the housework. | Nous partageons les tâches ménagères.
+
+@ hoover
+t: maison
+tr: passer l’aspirateur ; un aspirateur
+mq: gb
+n-fr: Britannique, du nom d’une marque ; ailleurs : « to vacuum », « a vacuum cleaner ».
+n-en: British, from the brand name; elsewhere “vacuum”.
+x: I hoovered the living room this morning. | J’ai passé l’aspirateur dans le salon ce matin.
+
+@ rent
+t: maison
+tr: un loyer ; louer
+x: The rent is due on the first of the month. | Le loyer est à payer le premier du mois.
+
+@ landlord
+t: maison
+tr: un propriétaire (bailleur)
+n-fr: Le propriétaire qui loue ; au féminin « landlady ». Aussi : le patron d’un pub.
+n-en: « le propriétaire » is both the owner and the landlord.
+x: I need to call the landlord about the boiler. | Je dois appeler le propriétaire pour la chaudière.
+
+@ neighbour
+t: maison
+tr: un voisin, une voisine
+al: neighbor
+n-fr: Américain : « neighbor ».
+n-en: US spelling: neighbor.
+x: Our neighbours are very friendly. | Nos voisins sont très sympathiques.
+
+@ to_move
+w: move
+t: maison
+tr: déménager ; bouger
+n-fr: « to move house » (britannique) : déménager ; « to move in » : emménager.
+n-en: « déménager » = to move (house); « emménager » = to move in.
+x: We’re moving next month. | Nous déménageons le mois prochain.
+
+# ————— Cuisine et repas —————
+
+@ breakfast
+t: cuisine
+tr: le petit-déjeuner
+x: What did you have for breakfast? | Qu’est-ce que tu as pris au petit-déjeuner ?
+
+@ lunch
+t: cuisine
+tr: le déjeuner
+x: Let’s have lunch together on Friday. | Déjeunons ensemble vendredi.
+
+@ dinner
+t: cuisine
+tr: le dîner
+n-fr: Dans le nord de l’Angleterre, « dinner » peut désigner le repas de midi et « tea » celui du soir.
+n-en: In parts of Britain, “dinner” is the midday meal and “tea” the evening one.
+x: Dinner’s ready! | À table !
+v: tea
+
+@ tea
+t: cuisine
+tr: du thé ; le dîner (britannique)
+n-fr: Au Royaume-Uni, « tea » est aussi le repas du soir, surtout celui des enfants.
+n-en: « le thé » is the drink only.
+x: Would you like a cup of tea? | Voulez-vous une tasse de thé ?
+v: dinner
+
+@ snack
+t: cuisine
+tr: un en-cas, un casse-croûte
+x: I’ll grab a snack on the way. | Je prendrai un en-cas en route.
+
+@ meal
+t: cuisine
+tr: un repas
+x: Enjoy your meal! | Bon appétit !
+
+@ bread
+t: cuisine
+tr: du pain
+x: A loaf of bread, please. | Un pain, s’il vous plaît.
+
+@ butter
+t: cuisine
+tr: du beurre
+x: Could you pass the butter? | Tu peux me passer le beurre ?
+
+@ cheese
+t: cuisine
+tr: du fromage
+x: This cheese is too strong for me. | Ce fromage est trop fort pour moi.
+
+@ egg
+t: cuisine
+tr: un œuf
+x: How do you like your eggs? | Comment voulez-vous vos œufs ?
+
+@ milk
+t: cuisine
+tr: du lait
+x: Do you take milk in your coffee? | Tu prends du lait dans ton café ?
+
+@ meat
+t: cuisine
+tr: de la viande
+x: I don’t eat much meat. | Je ne mange pas beaucoup de viande.
+
+@ chicken
+t: cuisine
+tr: du poulet, une poule
+x: Roast chicken with vegetables. | Du poulet rôti avec des légumes.
+
+@ fish
+t: cuisine
+tr: du poisson
+n-fr: « fish and chips » : poisson pané et frites, plat britannique par excellence.
+n-en: « poisson » is also the fish in the sea (pl. fish).
+x: We had fish and chips by the sea. | On a mangé du fish and chips au bord de la mer.
+
+@ vegetables
+t: cuisine
+tr: des légumes
+al: veg, veggies
+n-fr: Familier : « veg » (britannique), « veggies ».
+n-en: British informal “veg”.
+x: Eat your vegetables! | Mange tes légumes !
+
+@ fruit
+t: cuisine
+tr: des fruits
+a-fr: Souvent indénombrable : « some fruit », « a piece of fruit » (un fruit).
+a-en: « des fruits » is plural in French.
+x: Would you like some fruit? | Tu veux des fruits ?
+
+@ potato
+t: cuisine
+tr: une pomme de terre
+x: Mashed potatoes. | De la purée de pommes de terre.
+
+@ onion
+t: cuisine
+tr: un oignon
+x: Chop the onions finely. | Émincez finement les oignons.
+
+@ garlic
+t: cuisine
+tr: de l’ail
+x: A clove of garlic. | Une gousse d’ail.
+
+@ mushroom
+t: cuisine
+tr: un champignon
+x: A mushroom omelette, please. | Une omelette aux champignons, s’il vous plaît.
+
+@ rice
+t: cuisine
+tr: du riz
+x: Chicken curry with rice. | Du poulet au curry avec du riz.
+
+@ pasta
+t: cuisine
+tr: des pâtes
+a-fr: Indénombrable en anglais : « pasta is », jamais « pastas ».
+a-en: « les pâtes » is plural in French.
+x: The pasta is ready. | Les pâtes sont prêtes.
+
+@ flour
+t: cuisine
+tr: de la farine
+x: You need 200 grams of flour. | Il faut 200 grammes de farine.
+
+@ sugar
+t: cuisine
+tr: du sucre
+x: No sugar for me, thanks. | Pas de sucre pour moi, merci.
+
+@ salt
+t: cuisine
+tr: du sel
+x: Add a pinch of salt. | Ajoutez une pincée de sel.
+
+@ pepper
+t: cuisine
+tr: du poivre ; un poivron
+n-fr: « pepper » : le poivre, et aussi le poivron (« a red pepper »).
+n-en: « le poivre » (spice), « le poivron » (vegetable).
+x: Salt and pepper. | Du sel et du poivre.
+
+@ oil
+t: cuisine
+tr: de l’huile (féminin)
+x: Fry the onions in a little oil. | Faites revenir les oignons dans un peu d’huile.
+
+@ cake
+t: cuisine
+tr: un gâteau
+x: She baked a birthday cake. | Elle a fait un gâteau d’anniversaire.
+
+@ pudding
+t: cuisine
+tr: un dessert ; un pudding
+mq: gb
+n-fr: Au Royaume-Uni, « pudding » (familier « pud ») désigne souvent le dessert en général.
+n-en: In Britain, “pudding” often means dessert in general.
+x: What’s for pudding? | Qu’est-ce qu’il y a comme dessert ?
+
+@ starter
+t: cuisine
+tr: une entrée
+n-fr: Américain : « appetizer ». Attention : en américain, « entrée » désigne le plat principal !
+n-en: In French, « l’entrée » is the starter, not the main course.
+x: I’ll have the soup as a starter. | Je prendrai la soupe en entrée.
+v: main_course
+
+@ main_course
+t: cuisine
+tr: un plat principal, le plat
+x: For the main course, I’ll have the fish. | En plat, je prendrai le poisson.
+v: starter
+
+@ recipe
+t: cuisine
+tr: une recette
+a-fr: « recette » au sens d’argent encaissé se dit « takings » ou « revenue ».
+x: Can you give me the recipe? | Tu peux me donner la recette ?
+
+@ cook
+t: cuisine
+tr: cuisiner, faire la cuisine ; un cuisinier, une cuisinière
+a-fr: Le nom « cook » est le cuisinier ; l’appareil de cuisson est « cooker ».
+a-en: « une cuisinière » is both a female cook and a cooker.
+x: Who’s cooking tonight? | Qui fait la cuisine ce soir ?
+
+@ bake
+t: cuisine
+tr: faire cuire au four ; faire de la pâtisserie
+x: I love baking bread. | J’adore faire du pain.
+
+@ boil
+t: cuisine
+tr: faire bouillir, bouillir
+x: Boil the water first. | Faites d’abord bouillir l’eau.
+
+@ fry
+t: cuisine
+tr: faire frire, faire revenir
+x: Fry the bacon until crispy. | Faites frire le bacon jusqu’à ce qu’il soit croustillant.
+
+@ saucepan
+t: cuisine
+tr: une casserole
+x: Heat the milk in a saucepan. | Faites chauffer le lait dans une casserole.
+
+@ frying_pan
+t: cuisine
+tr: une poêle
+nat: n
+x: Heat the oil in a frying pan. | Faites chauffer l’huile dans une poêle.
+
+@ plate
+t: cuisine
+tr: une assiette
+x: Clear your plate! | Finis ton assiette !
+
+@ bowl
+t: cuisine
+tr: un bol, un saladier
+x: A bowl of soup. | Un bol de soupe.
+
+@ knife
+t: cuisine
+tr: un couteau
+n-fr: Pluriel : « knives ». « Knife and fork » : le couteau et la fourchette.
+n-en: Plural: knives.
+x: I need a sharper knife. | Il me faut un couteau plus aiguisé.
+
+@ fork
+t: cuisine
+tr: une fourchette
+x: Could I have another fork? | Je pourrais avoir une autre fourchette ?
+
+@ spoon
+t: cuisine
+tr: une cuillère
+x: A spoon of sugar. | Une cuillerée de sucre.
+
+@ glass
+t: cuisine
+tr: un verre
+x: A glass of water, please. | Un verre d’eau, s’il vous plaît.
+
+@ cup
+t: cuisine
+tr: une tasse
+n-fr: « It’s not my cup of tea » : ce n’est pas mon truc.
+x: A cup of coffee? | Une tasse de café ?
+
+@ tip
+t: cuisine
+tr: un pourboire ; un conseil, une astuce
+n-fr: Au Royaume-Uni, on laisse souvent 10 à 12,5 % au restaurant, parfois déjà compris (« service charge »).
+n-en: « un pourboire » (money), « une astuce » (advice).
+x: Is the tip included? | Le pourboire est compris ?
+
+@ still_water
+t: cuisine
+tr: de l’eau plate
+nat: n
+n-fr: « sparkling water » : de l’eau gazeuse ; « tap water » : de l’eau du robinet (carafe d’eau).
+n-en: « eau gazeuse » = sparkling water; « une carafe d’eau » = tap water.
+x: Still or sparkling? | Plate ou gazeuse ?
+
+@ hungry
+t: cuisine
+tr: avoir faim
+nat: adj
+a-fr: « I’m hungry » : j’ai faim — l’anglais dit « être », le français « avoir ».
+a-en: French uses « avoir »: « j’ai faim ».
+x: I’m starving — I’m so hungry! | Je meurs de faim !
+v: thirsty
+
+@ thirsty
+t: cuisine
+tr: avoir soif
+nat: adj
+a-fr: « I’m thirsty » : j’ai soif.
+a-en: French uses « avoir »: « j’ai soif ».
+x: Are you thirsty? | Tu as soif ?
+v: hungry
+
+@ delicious
+t: cuisine
+tr: délicieux, délicieuse
+n-fr: Plus familier : « lovely », « tasty », « yummy » (enfants).
+x: That was delicious, thank you! | C’était délicieux, merci !
+
+# ————— Vêtements —————
+
+@ clothes
+t: vetements
+tr: des vêtements, des habits
+a-fr: Toujours pluriel : pas de « a clothe » ; un vêtement = « an item of clothing ».
+a-en: « un vêtement » = an item of clothing.
+x: I need to buy some new clothes. | Il faut que j’achète de nouveaux vêtements.
+v: expressions:fr-habit
+
+@ shirt
+t: vetements
+tr: une chemise
+x: He was wearing a white shirt. | Il portait une chemise blanche.
+
+@ t-shirt
+w: T-shirt
+t: vetements
+tr: un tee-shirt, un T-shirt
+al: tee shirt, tshirt
+x: A black T-shirt. | Un tee-shirt noir.
+
+@ jeans
+t: vetements
+tr: un jean
+a-fr: Pluriel en anglais : « my jeans are », « a pair of jeans ».
+a-en: Singular in French: « un jean ».
+x: These jeans are too tight. | Ce jean est trop serré.
+
+@ skirt
+t: vetements
+tr: une jupe
+x: A long skirt. | Une jupe longue.
+
+@ dress
+t: vetements
+tr: une robe ; s’habiller
+x: What a beautiful dress! | Quelle belle robe !
+
+@ suit
+t: vetements
+tr: un costume, un tailleur
+n-fr: Le verbe « to suit » : aller bien (« it suits you » : ça te va bien).
+x: He wore a suit to the interview. | Il a mis un costume pour l’entretien.
+
+@ jacket
+t: vetements
+tr: une veste, un blouson
+x: Take a jacket, it’s cold. | Prends une veste, il fait froid.
+
+@ coat
+t: vetements
+tr: un manteau
+x: Can I take your coat? | Je peux prendre votre manteau ?
+
+@ hoodie
+t: vetements
+tr: un sweat à capuche
+x: She lives in her hoodie. | Elle ne quitte pas son sweat à capuche.
+
+@ shoes
+t: vetements
+tr: des chaussures
+x: Take your shoes off, please. | Enlève tes chaussures, s’il te plaît.
+
+@ boots
+t: vetements
+tr: des bottes, des bottines
+x: Wear your boots, it’s muddy. | Mets tes bottes, c’est boueux.
+
+@ socks
+t: vetements
+tr: des chaussettes
+x: Odd socks. | Des chaussettes dépareillées.
+
+@ underwear
+t: vetements
+tr: des sous-vêtements
+x: Pack enough underwear for a week. | Emporte assez de sous-vêtements pour une semaine.
+v: pants
+
+@ scarf
+t: vetements
+tr: une écharpe, un foulard
+x: A woolly scarf. | Une écharpe en laine.
+
+@ hat
+t: vetements
+tr: un chapeau, un bonnet
+n-fr: Un bonnet d’hiver se dit aussi « beanie » ou « woolly hat ».
+x: Don’t forget your hat. | N’oublie pas ton bonnet.
+
+@ cap
+t: vetements
+tr: une casquette
+x: A baseball cap. | Une casquette de baseball.
+
+@ gloves
+t: vetements
+tr: des gants
+x: A pair of gloves. | Une paire de gants.
+
+@ belt
+t: vetements
+tr: une ceinture
+x: A leather belt. | Une ceinture en cuir.
+
+@ pocket
+t: vetements
+tr: une poche
+x: My phone is in my pocket. | Mon téléphone est dans ma poche.
+
+@ size
+t: vetements
+tr: une taille, une pointure
+n-fr: « What size are you? » : quelle taille faites-vous ? Pour les chaussures : la pointure (« shoe size »).
+n-en: « la taille » (clothes), « la pointure » (shoes).
+x: Do you have this in a smaller size? | Vous l’avez dans une taille plus petite ?
+
+@ try_on
+w: try on
+t: vetements
+tr: essayer (un vêtement)
+nat: v
+x: Can I try this on? | Je peux l’essayer ?
+
+@ wear
+t: vetements
+tr: porter (un vêtement)
+x: What are you wearing tonight? | Qu’est-ce que tu portes ce soir ?
+
+@ get_dressed
+w: get dressed
+t: vetements
+tr: s’habiller
+nat: v
+x: Hurry up and get dressed! | Dépêche-toi de t’habiller !
+
+@ fit
+t: vetements
+tr: aller (bien), être à la bonne taille
+a-fr: « to fit » : être à la bonne taille ; « to suit » : aller bien (couleur, style).
+a-en: « ça me va » = it fits (size) or it suits me (style).
+x: These shoes don’t fit me. | Ces chaussures ne me vont pas.
+
+@ pyjamas
+t: vetements
+tr: un pyjama
+al: pajamas
+n-fr: Américain : « pajamas ». Toujours pluriel en anglais.
+n-en: US spelling: pajamas. Singular in French: « un pyjama ».
+x: The kids are already in their pyjamas. | Les enfants sont déjà en pyjama.
+
+@ swimming_costume
+t: vetements
+tr: un maillot de bain
+al: swimsuit, swimming trunks
+nat: n
+n-fr: Pour un homme : « swimming trunks ». Plus général : « swimsuit ».
+x: Don’t forget your swimming costume. | N’oublie pas ton maillot de bain.
+
+@ tracksuit
+t: vetements
+tr: un survêtement, un jogging
+x: He always wears a tracksuit on Sundays. | Il porte toujours un jogging le dimanche.
+
+@ tie
+t: vetements
+tr: une cravate
+x: Do I need to wear a tie? | Est-ce que je dois porter une cravate ?
+
+@ handbag
+t: vetements
+tr: un sac à main
+n-fr: Américain : « purse » (qui veut dire « porte-monnaie » en britannique).
+n-en: American “purse” = British handbag.
+x: She left her handbag on the bus. | Elle a oublié son sac à main dans le bus.
+
+@ glasses
+t: vetements
+tr: des lunettes
+n-fr: « sunglasses » : des lunettes de soleil.
+x: I can’t read without my glasses. | Je ne peux pas lire sans mes lunettes.
+
+@ umbrella
+t: vetements
+tr: un parapluie
+x: Take an umbrella, it’s going to rain. | Prends un parapluie, il va pleuvoir.
+
+# ————— Le corps —————
+
+@ body
+t: corps
+tr: le corps
+sc: app-corps
+x: The human body. | Le corps humain.
+
+@ head
+t: corps
+tr: la tête
+sc: app-corps
+x: I hit my head. | Je me suis cogné la tête.
+
+@ hair
+t: corps
+tr: les cheveux, un poil
+a-fr: Indénombrable : « her hair is long » (ses cheveux sont longs). « A hair » : un cheveu, un poil.
+a-en: Plural in French: « les cheveux sont… ».
+x: She has short hair. | Elle a les cheveux courts.
+
+@ face
+t: corps
+tr: le visage, la figure
+x: Wash your face. | Lave-toi le visage.
+
+@ eye
+t: corps
+tr: un œil (pluriel : des yeux)
+x: She has blue eyes. | Elle a les yeux bleus.
+
+@ ear
+t: corps
+tr: une oreille
+x: I’ve got an ear infection. | J’ai une otite.
+
+@ nose
+t: corps
+tr: un nez
+x: My nose is running. | J’ai le nez qui coule.
+
+@ mouth
+t: corps
+tr: une bouche
+x: Don’t talk with your mouth full. | Ne parle pas la bouche pleine.
+
+@ tooth
+t: corps
+tr: une dent
+n-fr: Pluriel irrégulier : « teeth ».
+n-en: Plural: teeth.
+x: Brush your teeth! | Brosse-toi les dents !
+
+@ neck
+t: corps
+tr: le cou
+x: I’ve got a stiff neck. | J’ai un torticolis.
+
+@ throat
+t: corps
+tr: la gorge
+x: I’ve got a sore throat. | J’ai mal à la gorge.
+
+@ shoulder
+t: corps
+tr: une épaule
+sc: app-corps
+x: He put his hand on my shoulder. | Il a posé la main sur mon épaule.
+
+@ arm
+t: corps
+tr: un bras
+sc: app-corps
+x: She broke her arm skiing. | Elle s’est cassé le bras au ski.
+
+@ elbow
+t: corps
+tr: un coude
+sc: app-corps
+x: Elbows off the table! | Pas de coudes sur la table !
+
+@ hand
+t: corps
+tr: une main
+sc: app-corps
+x: Can you give me a hand? | Tu peux me donner un coup de main ?
+
+@ finger
+t: corps
+tr: un doigt
+n-fr: Le pouce : « thumb » ; les doigts de pied : « toes ».
+x: Keep your fingers crossed! | Croise les doigts !
+
+@ back
+t: corps
+tr: le dos
+x: My back hurts. | J’ai mal au dos.
+
+@ chest
+t: corps
+tr: la poitrine, le torse
+x: A pain in the chest. | Une douleur dans la poitrine.
+
+@ stomach
+t: corps
+tr: le ventre, l’estomac
+al: tummy, belly
+n-fr: Familier : « tummy » (surtout avec les enfants), « belly ».
+x: I’ve got a stomach ache. | J’ai mal au ventre.
+
+@ leg
+t: corps
+tr: une jambe
+sc: app-corps
+x: My legs are tired. | J’ai mal aux jambes.
+
+@ knee
+t: corps
+tr: un genou
+sc: app-corps
+x: He hurt his knee playing football. | Il s’est fait mal au genou au foot.
+
+@ ankle
+t: corps
+tr: une cheville
+x: I’ve sprained my ankle. | Je me suis foulé la cheville.
+
+@ foot
+t: corps
+tr: un pied
+n-fr: Pluriel irrégulier : « feet ». « On foot » : à pied.
+n-en: Plural: feet.
+sc: app-corps
+x: I went on foot. | J’y suis allé à pied.
+
+@ toe
+t: corps
+tr: un orteil, un doigt de pied
+x: I stubbed my toe. | Je me suis cogné l’orteil.
+
+@ skin
+t: corps
+tr: la peau
+x: Sensitive skin. | Une peau sensible.
+
+@ heart
+t: corps
+tr: le cœur
+x: Learn it by heart. | Apprends-le par cœur.
+
+@ brain
+t: corps
+tr: le cerveau
+x: Use your brain! | Réfléchis un peu !
+
+@ hurt
+t: corps
+tr: faire mal ; blesser
+a-fr: « My head hurts » : j’ai mal à la tête — en anglais, c’est la partie du corps qui « fait mal ».
+a-en: French says « j’ai mal à… »: « j’ai mal au dos » = my back hurts.
+x: Where does it hurt? | Où est-ce que vous avez mal ?
+
+@ headache
+t: corps
+tr: un mal de tête
+n-fr: De même : « stomach ache » (mal au ventre), « toothache » (mal aux dents), « backache » (mal au dos).
+x: I’ve got a headache. | J’ai mal à la tête.
+
+# ————— Famille et relations —————
+
+@ family
+t: famille
+tr: une famille
+sc: app-famille
+x: I come from a big family. | Je viens d’une famille nombreuse.
+
+@ parents
+t: famille
+tr: les parents (père et mère)
+a-fr: « parents » ne désigne que le père et la mère ; le reste de la famille se dit « relatives » ou « relations ».
+a-en: French « parents » can also mean relatives.
+sc: app-famille
+x: My parents live in Leeds. | Mes parents habitent à Leeds.
+v: relatives
+
+@ relatives
+t: famille
+tr: la famille, des proches, des parents
+x: We’re visiting relatives at Christmas. | Nous rendons visite à de la famille à Noël.
+v: parents
+
+@ mum
+t: famille
+tr: maman, une mère
+al: mother, mom, mummy
+n-fr: Britannique ; américain : « mom ». Formel : « mother ».
+n-en: British; American “mom”.
+sc: app-famille
+x: I’ll ask my mum. | Je vais demander à ma mère.
+
+@ dad
+t: famille
+tr: papa, un père
+al: father, daddy
+sc: app-famille
+x: My dad is a teacher. | Mon père est prof.
+
+@ brother
+t: famille
+tr: un frère
+sc: app-famille
+x: Have you got any brothers or sisters? | Tu as des frères et sœurs ?
+
+@ sister
+t: famille
+tr: une sœur
+sc: app-famille
+x: My little sister is six. | Ma petite sœur a six ans.
+
+@ son
+t: famille
+tr: un fils
+x: Their son is at university. | Leur fils est à l’université.
+
+@ daughter
+t: famille
+tr: une fille
+a-fr: « daughter » : la fille (enfant de) ; « girl » : la fille (jeune personne).
+a-en: « une fille » = a daughter or a girl.
+x: They have two daughters. | Ils ont deux filles.
+
+@ grandmother
+t: famille
+tr: une grand-mère, mamie
+al: grandma, gran, granny, nan
+n-fr: Familier : « gran », « granny », « grandma », « nan » (britannique).
+sc: app-famille
+x: My grandmother is ninety. | Ma grand-mère a quatre-vingt-dix ans.
+
+@ grandfather
+t: famille
+tr: un grand-père, papi
+al: grandad, grandpa
+sc: app-famille
+x: My grandfather taught me to fish. | Mon grand-père m’a appris à pêcher.
+
+@ grandchildren
+t: famille
+tr: des petits-enfants
+x: They have five grandchildren. | Ils ont cinq petits-enfants.
+
+@ aunt
+t: famille
+tr: une tante
+al: auntie
+sc: app-famille
+x: My aunt lives in Scotland. | Ma tante habite en Écosse.
+
+@ uncle
+t: famille
+tr: un oncle
+sc: app-famille
+x: My uncle is a chef. | Mon oncle est cuisinier.
+
+@ cousin
+t: famille
+tr: un cousin, une cousine
+sc: app-famille
+x: My cousins are coming for the weekend. | Mes cousins viennent pour le week-end.
+
+@ niece
+t: famille
+tr: une nièce
+x: My niece has just started school. | Ma nièce vient d’entrer à l’école.
+
+@ nephew
+t: famille
+tr: un neveu
+x: My nephew is a big football fan. | Mon neveu est un grand fan de foot.
+
+@ husband
+t: famille
+tr: un mari
+x: This is my husband, Tom. | Je vous présente mon mari, Tom.
+
+@ wife
+t: famille
+tr: une femme, une épouse
+x: His wife is a doctor. | Sa femme est médecin.
+
+@ partner
+t: famille
+tr: un compagnon, une compagne, un ou une partenaire
+n-fr: Mot neutre pour la personne avec qui l’on vit, mariés ou non ; aussi : un associé.
+n-en: French often says « mon conjoint », « ma conjointe ».
+x: My partner and I live in Bristol. | Mon compagnon et moi habitons à Bristol.
+
+@ boyfriend
+t: famille
+tr: un copain, un petit ami
+x: Is he your boyfriend? | C’est ton copain ?
+
+@ girlfriend
+t: famille
+tr: une copine, une petite amie
+n-fr: Une amie (sans relation amoureuse), pour une femme, peut aussi se dire « girlfriend » en américain.
+x: He met his girlfriend at university. | Il a rencontré sa copine à la fac.
+
+@ in-laws
+t: famille
+tr: la belle-famille, les beaux-parents
+n-fr: « mother-in-law » : belle-mère (mère du conjoint) ; « brother-in-law » : beau-frère.
+n-en: French « belle-mère » is both mother-in-law and stepmother.
+x: We’re having lunch with the in-laws. | On déjeune chez les beaux-parents.
+v: stepmother
+
+@ stepmother
+t: famille
+tr: une belle-mère
+a-fr: « stepmother » : la femme du père ; la mère du conjoint est « mother-in-law ».
+a-en: « belle-mère » = stepmother or mother-in-law.
+x: I get on well with my stepmother. | Je m’entends bien avec ma belle-mère.
+v: in-laws
+
+@ twins
+t: famille
+tr: des jumeaux, des jumelles
+x: They’re identical twins. | Ce sont de vrais jumeaux.
+
+@ only_child
+t: famille
+tr: un enfant unique
+nat: n
+x: I’m an only child. | Je suis fille unique.
+
+@ baby
+t: famille
+tr: un bébé
+x: They’ve just had a baby. | Ils viennent d’avoir un bébé.
+
+@ teenager
+t: famille
+tr: un ou une adolescente, un ou une ado
+al: teen
+x: Teenagers need a lot of sleep. | Les ados ont besoin de beaucoup de sommeil.
+
+@ friend
+t: famille
+tr: un ami, une amie, un copain, une copine
+n-fr: Familier britannique : « mate » ; « a friend of mine » : un de mes amis.
+x: She’s my best friend. | C’est ma meilleure amie.
+
+@ get_married
+w: get married
+t: famille
+tr: se marier
+nat: v
+a-fr: « se marier avec quelqu’un » : « to marry someone » (sans « with »).
+a-en: « épouser quelqu’un » = to marry someone.
+x: They got married last summer. | Ils se sont mariés l’été dernier.
+v: wedding
+
+@ wedding
+t: famille
+tr: un mariage (la cérémonie), des noces
+a-fr: « wedding » : la cérémonie ; « marriage » : l’union, la vie de couple.
+a-en: « le mariage » = wedding or marriage.
+x: We’re going to a wedding on Saturday. | On va à un mariage samedi.
+
+@ single
+t: famille
+tr: célibataire
+n-fr: Aussi : « a single » : un aller simple (train), une chambre simple.
+x: Are you single? | Tu es célibataire ?
+
+@ get_on
+w: get on
+t: famille
+tr: s’entendre (avec)
+nat: v
+x: I get on really well with my sister. | Je m’entends très bien avec ma sœur.
+
+@ break_up
+w: break up
+t: famille
+tr: rompre, se séparer
+nat: v
+x: They broke up after five years. | Ils se sont séparés au bout de cinq ans.
+
+@ pregnant
+t: famille
+tr: enceinte
+x: She’s six months pregnant. | Elle est enceinte de six mois.
+
+# ————— Le temps qui passe —————
+
+@ today
+t: temps
+tr: aujourd’hui
+x: What’s the date today? | On est le combien aujourd’hui ?
+
+@ tomorrow
+t: temps
+tr: demain
+x: See you tomorrow! | À demain !
+
+@ yesterday
+t: temps
+tr: hier
+x: I saw her yesterday. | Je l’ai vue hier.
+
+@ day_after_tomorrow
+w: the day after tomorrow
+t: temps
+tr: après-demain
+nat: adv
+x: We leave the day after tomorrow. | Nous partons après-demain.
+
+@ day_before_yesterday
+w: the day before yesterday
+t: temps
+tr: avant-hier
+nat: adv
+x: It happened the day before yesterday. | C’est arrivé avant-hier.
+
+@ week
+t: temps
+tr: une semaine
+x: Once a week. | Une fois par semaine.
+
+@ fortnight
+t: temps
+tr: quinze jours, deux semaines
+mq: gb
+n-fr: Très britannique ; les Américains disent « two weeks ».
+n-en: « quinze jours » = two weeks.
+x: We’re going away for a fortnight. | On part quinze jours.
+
+@ month
+t: temps
+tr: un mois
+x: Next month. | Le mois prochain.
+
+@ year
+t: temps
+tr: un an, une année
+x: Happy New Year! | Bonne année !
+
+@ weekend
+t: temps
+tr: le week-end
+n-fr: Britannique : « at the weekend » ; américain : « on the weekend ».
+x: What are you doing at the weekend? | Qu’est-ce que tu fais ce week-end ?
+
+@ monday
+w: Monday
+t: temps
+tr: lundi
+a-fr: Les jours et les mois prennent une majuscule en anglais, pas en français.
+a-en: No capital letters for days and months in French: « lundi », « janvier ».
+x: See you on Monday. | À lundi.
+
+@ tuesday
+w: Tuesday
+t: temps
+tr: mardi
+x: The shop is closed on Tuesdays. | Le magasin est fermé le mardi.
+
+@ wednesday
+w: Wednesday
+t: temps
+tr: mercredi
+x: I’ve got a meeting on Wednesday. | J’ai une réunion mercredi.
+
+@ thursday
+w: Thursday
+t: temps
+tr: jeudi
+x: The market is on Thursday. | Le marché, c’est le jeudi.
+
+@ friday
+w: Friday
+t: temps
+tr: vendredi
+x: Thank God it’s Friday! | Enfin vendredi !
+
+@ saturday
+w: Saturday
+t: temps
+tr: samedi
+x: We play football on Saturdays. | On joue au foot le samedi.
+
+@ sunday
+w: Sunday
+t: temps
+tr: dimanche
+x: Sunday lunch is a British tradition. | Le déjeuner du dimanche est une tradition britannique.
+
+@ january
+w: January
+t: temps
+tr: janvier
+x: My birthday is in January. | Mon anniversaire est en janvier.
+
+@ february
+w: February
+t: temps
+tr: février
+x: February is the shortest month. | Février est le mois le plus court.
+
+@ march
+w: March
+t: temps
+tr: mars
+x: In March. | En mars.
+
+@ april
+w: April
+t: temps
+tr: avril
+x: April Fool! | Poisson d’avril !
+
+@ may
+w: May
+t: temps
+tr: mai
+x: The first of May. | Le premier mai.
+
+@ june
+w: June
+t: temps
+tr: juin
+x: The exams are in June. | Les examens ont lieu en juin.
+
+@ july
+w: July
+t: temps
+tr: juillet
+x: The fourteenth of July. | Le 14 Juillet.
+
+@ august
+w: August
+t: temps
+tr: août
+x: Paris is empty in August. | Paris est vide en août.
+
+@ september
+w: September
+t: temps
+tr: septembre
+x: School starts in September. | L’école reprend en septembre.
+
+@ october
+w: October
+t: temps
+tr: octobre
+x: Half term is at the end of October. | Les vacances de la Toussaint sont fin octobre.
+
+@ november
+w: November
+t: temps
+tr: novembre
+x: Bonfire Night is on the fifth of November. | La Bonfire Night a lieu le 5 novembre.
+
+@ december
+w: December
+t: temps
+tr: décembre
+x: Christmas Day is the twenty-fifth of December. | Noël, c’est le 25 décembre.
+
+@ spring
+t: temps
+tr: le printemps
+x: In spring. | Au printemps.
+
+@ summer
+t: temps
+tr: l’été (masculin)
+x: In summer. | En été.
+
+@ winter
+t: temps
+tr: l’hiver (masculin)
+x: In winter. | En hiver.
+
+@ morning
+t: temps
+tr: le matin, la matinée
+x: Good morning! | Bonjour !
+
+@ afternoon
+t: temps
+tr: l’après-midi
+x: See you this afternoon. | À cet après-midi.
+
+@ evening
+t: temps
+tr: le soir, la soirée
+a-fr: « Good evening » : bonsoir (en arrivant) ; « Good night » : bonne nuit (en partant, en allant se coucher).
+x: Good evening, ladies and gentlemen. | Bonsoir, mesdames et messieurs.
+
+@ night
+t: temps
+tr: la nuit, le soir
+x: Last night. | Hier soir.
+
+@ o-clock
+w: o'clock
+t: temps
+tr: heure(s) (pile)
+nat: adv
+al: o’clock
+d-fr: S’emploie seulement pour l’heure pile : « five o’clock » (cinq heures).
+d-en: Used only for the exact hour: « cinq heures » = five o’clock.
+sc: app-heure
+x: It’s six o’clock. | Il est six heures.
+v: half_past, quarter_past, quarter_to
+
+@ quarter_past
+w: quarter past
+t: temps
+tr: et quart
+nat: adv
+sc: app-heure
+x: It’s quarter past two. | Il est deux heures et quart.
+v: o-clock, half_past, quarter_to
+
+@ half_past
+w: half past
+t: temps
+tr: et demie
+nat: adv
+a-fr: Familier britannique : « half six » = six heures et demie.
+a-en: « six heures et demie » = half past six, half six (UK).
+sc: app-heure
+x: The film starts at half past eight. | Le film commence à huit heures et demie.
+v: o-clock, quarter_past, quarter_to
+
+@ quarter_to
+w: quarter to
+t: temps
+tr: moins le quart
+nat: adv
+sc: app-heure
+x: It’s quarter to nine. | Il est neuf heures moins le quart.
+v: o-clock, quarter_past, half_past
+
+@ early
+t: temps
+tr: tôt, en avance
+a-fr: « early » : tôt, en avance ; « late » : tard, en retard ; « on time » : à l’heure.
+x: I got up early. | Je me suis levé tôt.
+v: late
+
+@ late
+t: temps
+tr: tard, en retard
+x: Sorry I’m late! | Désolé, je suis en retard !
+v: early
+
+@ soon
+t: temps
+tr: bientôt
+x: See you soon! | À bientôt !
+
+@ already
+t: temps
+tr: déjà
+x: I’ve already eaten. | J’ai déjà mangé.
+v: yet
+
+@ yet
+t: temps
+tr: encore, déjà (questions et négations)
+a-fr: « not yet » : pas encore ; « Have you finished yet? » : tu as déjà fini ?
+a-en: « pas encore » = not yet.
+x: I haven’t finished yet. | Je n’ai pas encore fini.
+v: already, still
+
+@ still
+t: temps
+tr: toujours, encore
+a-fr: « still » : toujours (continuité) ; « always » : toujours (chaque fois).
+a-en: « toujours » = always (every time) or still (continuing).
+x: Are you still here? | Tu es encore là ?
+v: yet
+
+@ until
+t: temps
+tr: jusqu’à
+al: till
+x: The shop is open until eight. | Le magasin est ouvert jusqu’à vingt heures.
+
+@ during
+t: temps
+tr: pendant, durant
+a-fr: « during » + un événement (« during the film ») ; « for » + une durée (« for two hours »).
+a-en: « pendant » = during (an event) or for (a length of time).
+x: No talking during the exam. | On ne parle pas pendant l’examen.
+v: actuel:for-duree
+
+@ nowadays
+t: temps
+tr: de nos jours, aujourd’hui
+x: Nowadays everyone has a smartphone. | De nos jours, tout le monde a un smartphone.
+
+@ appointment
+t: temps
+tr: un rendez-vous
+a-fr: Rendez-vous professionnel ou médical ; un rendez-vous amoureux est « a date ».
+a-en: « un rendez-vous » can be an appointment, a meeting or a date.
+x: I’ve got a dentist’s appointment. | J’ai rendez-vous chez le dentiste.
+v: date
+
+@ date
+t: temps
+tr: une date ; un rendez-vous (amoureux)
+n-fr: Les dates s’écrivent et se disent différemment : voir le dessin.
+n-en: Dates are written and said differently: see the drawing.
+sc: app-dates
+x: What’s the date today? | Quelle est la date d’aujourd’hui ?
+v: appointment
+
+@ bank_holiday
+t: temps
+tr: un jour férié
+mq: gb
+nat: n
+n-fr: Au Royaume-Uni, les lundis fériés de mai et d’août s’appellent « bank holidays ».
+x: The shops are closed on bank holiday Monday. | Les magasins sont fermés le lundi férié.
+
+# ————— Météo et nature —————
+
+@ weather
+t: meteo
+tr: le temps (qu’il fait), la météo
+a-fr: « weather » : le temps qu’il fait ; « time » : le temps qui passe.
+a-en: « le temps » = weather or time.
+sc: app-meteo
+x: What’s the weather like? | Quel temps fait-il ?
+
+@ forecast
+t: meteo
+tr: les prévisions (météo)
+x: The forecast says rain. | La météo annonce de la pluie.
+
+@ sunny
+t: meteo
+tr: ensoleillé ; il fait (du) soleil
+sc: app-meteo
+x: It’s sunny today. | Il fait beau aujourd’hui.
+
+@ cloudy
+t: meteo
+tr: nuageux, couvert
+sc: app-meteo
+x: It’s cloudy but dry. | C’est couvert mais il ne pleut pas.
+
+@ rain
+t: meteo
+tr: la pluie ; pleuvoir
+sc: app-meteo
+x: It’s raining. | Il pleut.
+
+@ shower-rain
+w: shower
+t: meteo
+tr: une averse
+x: Sunshine and showers. | Des éclaircies et des averses.
+
+@ drizzle
+t: meteo
+tr: la bruine, le crachin
+x: It’s only drizzle. | C’est juste du crachin.
+
+@ snow
+t: meteo
+tr: la neige ; neiger
+sc: app-meteo
+x: It snowed all night. | Il a neigé toute la nuit.
+
+@ windy
+t: meteo
+tr: venteux ; il y a du vent
+sc: app-meteo
+x: It’s very windy on the beach. | Il y a beaucoup de vent sur la plage.
+
+@ fog
+t: meteo
+tr: le brouillard
+al: foggy
+sc: app-meteo
+x: There’s thick fog this morning. | Il y a un épais brouillard ce matin.
+
+@ storm
+t: meteo
+tr: une tempête, un orage
+n-fr: « thunderstorm » : un orage.
+sc: app-meteo
+x: The storm knocked down several trees. | La tempête a abattu plusieurs arbres.
+
+@ thunder
+t: meteo
+tr: le tonnerre
+n-fr: L’éclair : « lightning » (sans « e »).
+x: Thunder and lightning. | Le tonnerre et les éclairs.
+
+@ heatwave
+t: meteo
+tr: une canicule, une vague de chaleur
+x: We’re in the middle of a heatwave. | Nous sommes en pleine canicule.
+
+@ hot
+t: meteo
+tr: chaud ; il fait chaud
+a-fr: « I’m hot » : j’ai chaud (et non « je suis chaud »).
+a-en: « j’ai chaud » = I’m hot; « il fait chaud » = it’s hot.
+x: It’s too hot to work. | Il fait trop chaud pour travailler.
+v: cold
+
+@ warm
+t: meteo
+tr: chaud, doux
+n-fr: « warm » : agréablement chaud ; « hot » : très chaud.
+x: It’s warm for October. | Il fait doux pour un mois d’octobre.
+
+@ cold
+t: meteo
+tr: froid ; il fait froid ; un rhume
+a-fr: « I’m cold » : j’ai froid. « A cold » : un rhume.
+a-en: « j’ai froid » = I’m cold.
+x: It’s freezing cold! | Il fait un froid glacial !
+v: hot
+
+@ rainbow
+t: meteo
+tr: un arc-en-ciel
+x: Look, a rainbow! | Regarde, un arc-en-ciel !
+
+@ flood
+t: meteo
+tr: une inondation
+x: The floods have closed the road. | Les inondations ont coupé la route.
+
+@ drought
+t: meteo
+tr: une sécheresse
+x: The drought has damaged the crops. | La sécheresse a abîmé les récoltes.
+
+@ sky
+t: meteo
+tr: le ciel
+x: A clear blue sky. | Un ciel bleu dégagé.
+
+@ sea
+t: meteo
+tr: la mer
+x: We swam in the sea. | Nous nous sommes baignés dans la mer.
+
+@ beach
+t: meteo
+tr: une plage
+x: Let’s go to the beach. | Allons à la plage.
+
+@ countryside
+t: meteo
+tr: la campagne
+x: We live in the countryside. | Nous habitons à la campagne.
+
+@ mountain
+t: meteo
+tr: une montagne
+x: They went walking in the mountains. | Ils sont partis randonner en montagne.
+
+@ river
+t: meteo
+tr: une rivière, un fleuve
+x: A walk along the river. | Une promenade le long de la rivière.
+
+@ wood
+t: meteo
+tr: un bois ; du bois
+al: woods
+x: We went for a walk in the woods. | Nous nous sommes promenés dans les bois.
+
+@ tree
+t: meteo
+tr: un arbre
+x: An old oak tree. | Un vieux chêne.
+
+@ flower
+t: meteo
+tr: une fleur
+x: A bunch of flowers. | Un bouquet de fleurs.
+
+# ————— Transports et ville —————
+
+@ town
+t: mobilite
+tr: une ville
+n-fr: « town » : une ville ; « city » : une grande ville (au Royaume-Uni, une ville qui a ce titre, souvent avec une cathédrale).
+x: I’m going into town. | Je vais en ville.
+
+@ city_centre
+t: mobilite
+tr: le centre-ville
+al: town centre, city center, downtown
+nat: n
+n-fr: Américain : « downtown ».
+n-en: American English: downtown.
+x: The hotel is in the city centre. | L’hôtel est dans le centre-ville.
+
+@ street
+t: mobilite
+tr: une rue
+x: I live on this street. | J’habite dans cette rue.
+
+@ road
+t: mobilite
+tr: une route, une rue
+x: Look both ways before crossing the road. | Regarde des deux côtés avant de traverser.
+
+@ roundabout
+t: mobilite
+tr: un rond-point
+sc: app-directions
+x: Take the second exit at the roundabout. | Au rond-point, prenez la deuxième sortie.
+
+@ traffic_lights
+t: mobilite
+tr: des feux (de circulation), un feu rouge
+nat: n
+sc: app-directions
+x: Turn right at the traffic lights. | Tournez à droite au feu.
+
+@ crossroads
+t: mobilite
+tr: un carrefour
+x: Go straight on at the crossroads. | Au carrefour, continuez tout droit.
+
+@ pedestrian_crossing
+t: mobilite
+tr: un passage piéton
+al: zebra crossing, crosswalk
+nat: n
+n-fr: « zebra crossing » (britannique), « crosswalk » (américain).
+x: Cross at the pedestrian crossing. | Traverse au passage piéton.
+
+@ turn_left
+w: turn left
+t: mobilite
+tr: tourner à gauche
+nat: v
+sc: app-directions
+x: Turn left after the bridge. | Tournez à gauche après le pont.
+v: turn_right, straight_on
+
+@ turn_right
+w: turn right
+t: mobilite
+tr: tourner à droite
+nat: v
+sc: app-directions
+x: Turn right into Church Street. | Tournez à droite dans Church Street.
+v: turn_left, straight_on
+
+@ straight_on
+w: straight on
+t: mobilite
+tr: tout droit
+nat: adv
+al: straight ahead
+n-fr: Britannique ; américain : « straight ahead ».
+sc: app-directions
+x: Go straight on for about 200 metres. | Continuez tout droit sur environ 200 mètres.
+v: turn_left, turn_right
+
+@ corner
+t: mobilite
+tr: un coin, un angle
+x: The bank is on the corner. | La banque est au coin de la rue.
+v: expressions:fr-coin
+
+@ directions
+t: mobilite
+tr: le chemin, les indications
+n-fr: « Could you give me directions to the station? » : pourriez-vous m’indiquer le chemin de la gare ?
+x: Can you give me directions? | Pouvez-vous m’indiquer le chemin ?
+
+@ map
+t: mobilite
+tr: une carte, un plan
+x: Can you show me on the map? | Vous pouvez me montrer sur la carte ?
+
+@ bus
+t: mobilite
+tr: un bus, un autobus
+n-fr: Le car (entre deux villes) se dit « coach ».
+x: I take the bus to work. | Je prends le bus pour aller au travail.
+v: expressions:fr-car
+
+@ train
+t: mobilite
+tr: un train
+x: The train to Brighton leaves from platform four. | Le train pour Brighton part du quai quatre.
+
+@ station
+t: mobilite
+tr: une gare, une station
+x: How far is the station? | La gare est à quelle distance ?
+
+@ platform
+t: mobilite
+tr: un quai, une voie
+x: The train is arriving at platform two. | Le train arrive voie deux.
+
+@ ticket
+t: mobilite
+tr: un billet, un ticket
+x: A ticket to Oxford, please. | Un billet pour Oxford, s’il vous plaît.
+v: single_ticket
+
+@ delayed
+t: mobilite
+tr: retardé, en retard
+x: Our flight is delayed. | Notre vol est retardé.
+
+@ miss
+t: mobilite
+tr: rater, manquer ; regretter l’absence de
+a-fr: « I miss you » : tu me manques — l’ordre des personnes s’inverse !
+a-en: « tu me manques » = I miss you.
+x: I missed the last train. | J’ai raté le dernier train.
+
+@ catch
+t: mobilite
+tr: prendre, attraper
+x: I need to catch the 8:15. | Je dois prendre celui de 8 h 15.
+
+@ traffic_jam
+t: mobilite
+tr: un embouteillage, un bouchon
+nat: n
+x: We were stuck in a traffic jam. | Nous étions coincés dans un bouchon.
+
+@ rush_hour
+t: mobilite
+tr: l’heure de pointe
+nat: n
+x: Avoid the Tube at rush hour. | Évitez le métro à l’heure de pointe.
+
+@ bike
+t: mobilite
+tr: un vélo
+al: bicycle
+x: I cycle to work. | Je vais au travail à vélo.
+
+@ e-scooter
+t: mobilite
+tr: une trottinette électrique
+al: electric scooter
+x: E-scooters are banned on the pavement. | Les trottinettes électriques sont interdites sur le trottoir.
+
+@ park
+t: mobilite
+tr: se garer ; un parc
+x: Where can I park? | Où est-ce que je peux me garer ?
+v: car_park
+
+@ driving_licence
+t: mobilite
+tr: un permis de conduire
+al: driver's license
+nat: n
+n-fr: Américain : « driver’s license ».
+x: Can I see your driving licence? | Je peux voir votre permis de conduire ?
+
+@ airport
+t: mobilite
+tr: un aéroport
+x: How do I get to the airport? | Comment aller à l’aéroport ?
+
+@ flight
+t: mobilite
+tr: un vol
+x: The flight takes two hours. | Le vol dure deux heures.
+
+@ boarding_pass
+t: mobilite
+tr: une carte d’embarquement
+nat: n
+x: Have your boarding pass ready. | Préparez votre carte d’embarquement.
+
+@ luggage
+t: mobilite
+tr: des bagages
+al: baggage
+a-fr: Indénombrable : « my luggage is heavy » ; un bagage = « a piece of luggage », « a bag ».
+a-en: Plural in French: « mes bagages sont lourds ».
+x: How much luggage can I take? | Combien de bagages puis-je emporter ?
+
+@ passport
+t: mobilite
+tr: un passeport
+x: My passport has expired. | Mon passeport a expiré.
+
+# ————— Loisirs et sport —————
+
+@ hobby
+t: loisirs
+tr: un passe-temps, un loisir
+x: What are your hobbies? | Quels sont tes loisirs ?
+
+@ free_time
+t: loisirs
+tr: le temps libre
+al: spare time
+nat: n
+x: What do you do in your free time? | Que fais-tu pendant ton temps libre ?
+
+@ go_out
+w: go out
+t: loisirs
+tr: sortir
+nat: v
+x: Shall we go out tonight? | On sort ce soir ?
+
+@ series
+t: loisirs
+tr: une série
+n-fr: Même forme au singulier et au pluriel : « a series », « two series » ; britannique : « a series » est aussi une saison.
+x: I’m watching a great series. | Je regarde une super série.
+
+@ watch
+t: loisirs
+tr: regarder ; une montre
+x: Let’s watch a film. | Regardons un film.
+
+@ novel
+t: loisirs
+tr: un roman
+a-fr: ≠ « nouvelle », qui se dit « short story ».
+a-en: « une nouvelle » is a short story (or a piece of news).
+x: She’s writing her first novel. | Elle écrit son premier roman.
+
+@ song
+t: loisirs
+tr: une chanson
+x: I love this song! | J’adore cette chanson !
+
+@ band
+t: loisirs
+tr: un groupe (de musique)
+x: He plays guitar in a band. | Il joue de la guitare dans un groupe.
+
+@ gig
+t: loisirs
+tr: un concert
+mq: fam
+x: We’re going to a gig on Friday. | On va à un concert vendredi.
+
+@ board_game
+t: loisirs
+tr: un jeu de société
+nat: n
+x: Let’s play a board game. | Jouons à un jeu de société.
+
+@ video_game
+t: loisirs
+tr: un jeu vidéo
+nat: n
+x: He spends hours playing video games. | Il passe des heures à jouer aux jeux vidéo.
+
+@ match
+t: loisirs
+tr: un match
+x: Did you watch the match? | Tu as regardé le match ?
+
+@ team
+t: loisirs
+tr: une équipe
+x: Which team do you support? | Tu es supporter de quelle équipe ?
+
+@ win
+t: loisirs
+tr: gagner
+a-fr: On « gagne » un match (« win ») mais on « gagne » de l’argent en travaillant (« earn »).
+a-en: « gagner » = to win (a game) or to earn (money).
+x: We won three–nil. | On a gagné trois à zéro.
+v: lose
+
+@ lose
+t: loisirs
+tr: perdre
+a-fr: Ne pas confondre « lose » (perdre) et « loose » (ample, desserré).
+x: We lost on penalties. | On a perdu aux tirs au but.
+v: win
+
+@ draw
+t: loisirs
+tr: un match nul ; faire match nul ; dessiner
+x: It was a draw. | Ils ont fait match nul.
+
+@ gym
+t: loisirs
+tr: une salle de sport ; la gym
+x: I go to the gym twice a week. | Je vais à la salle deux fois par semaine.
+
+@ running
+t: loisirs
+tr: la course à pied
+al: jogging
+x: I go running every morning. | Je vais courir tous les matins.
+
+@ swimming_pool
+t: loisirs
+tr: une piscine
+nat: n
+x: Is there a swimming pool at the hotel? | Il y a une piscine à l’hôtel ?
+
+@ walking
+t: loisirs
+tr: la randonnée, la marche
+al: hiking
+n-fr: « to go walking » (britannique) ou « hiking » : faire de la randonnée.
+x: We went walking in the Lake District. | Nous avons fait de la randonnée dans le Lake District.
+
+@ trip
+t: loisirs
+tr: un voyage, une excursion, un séjour
+n-fr: « a day trip » : une excursion d’une journée ; « a business trip » : un voyage d’affaires.
+x: Have a good trip! | Bon voyage !
+
+@ museum
+t: loisirs
+tr: un musée
+x: The British Museum is free. | Le British Museum est gratuit.
+
+@ exhibition
+t: loisirs
+tr: une exposition
+x: Have you seen the exhibition? | Tu as vu l’exposition ?
+
+@ theatre
+t: loisirs
+tr: un théâtre
+al: theater
+n-fr: Américain : « theater ».
+x: We’re going to the theatre tonight. | Nous allons au théâtre ce soir.
+
+@ party
+t: loisirs
+tr: une fête, une soirée ; un parti
+x: Are you coming to my party? | Tu viens à ma fête ?
+
+@ have_fun
+w: have fun
+t: loisirs
+tr: s’amuser
+nat: v
+x: Have fun! | Amusez-vous bien !
+
+@ diy
+w: DIY
+t: loisirs
+tr: le bricolage
+al: do-it-yourself
+mq: abr
+x: He’s very good at DIY. | Il est très bricoleur.
+
+@ gardening
+t: loisirs
+tr: le jardinage
+x: My mum loves gardening. | Ma mère adore jardiner.
+
+# ————— Émotions et caractère —————
+
+@ happy
+t: emotions
+tr: heureux, heureuse, content
+x: I’m so happy for you! | Je suis tellement content pour toi !
+
+@ sad
+t: emotions
+tr: triste
+x: Don’t be sad. | Ne sois pas triste.
+
+@ angry
+t: emotions
+tr: en colère, fâché
+x: Why are you angry with me? | Pourquoi tu es fâché contre moi ?
+
+@ upset
+t: emotions
+tr: contrarié, bouleversé, vexé
+x: She was really upset about it. | Ça l’a vraiment contrariée.
+
+@ worried
+t: emotions
+tr: inquiet, inquiète
+x: I’m worried about the exam. | Je suis inquiet pour l’examen.
+
+@ scared
+t: emotions
+tr: avoir peur, effrayé
+al: afraid, frightened
+a-fr: « I’m scared » : j’ai peur ; « to be afraid of » : avoir peur de.
+a-en: French uses « avoir »: « j’ai peur ».
+x: I’m scared of spiders. | J’ai peur des araignées.
+
+@ stressed
+t: emotions
+tr: stressé
+x: I’m really stressed at the moment. | Je suis très stressé en ce moment.
+
+@ tired
+t: emotions
+tr: fatigué
+x: I’m too tired to go out. | Je suis trop fatigué pour sortir.
+v: argot:knackered
+
+@ bored
+t: emotions
+tr: s’ennuyer ; qui s’ennuie
+a-fr: « I’m bored » : je m’ennuie ; « it’s boring » : c’est ennuyeux. Dire « I’m boring » voudrait dire « je suis ennuyeux » !
+a-en: « je m’ennuie » = I’m bored.
+x: I’m bored — let’s go out. | Je m’ennuie, sortons.
+
+@ excited
+t: emotions
+tr: impatient, enthousiaste, avoir hâte
+a-fr: « I’m so excited! » : j’ai trop hâte ! Éviter « je suis excité », qui peut avoir un sens sexuel.
+a-en: « j’ai hâte » is the safest translation.
+x: I’m really excited about the trip. | J’ai vraiment hâte de faire ce voyage.
+
+@ proud
+t: emotions
+tr: fier, fière
+x: I’m proud of you. | Je suis fier de toi.
+
+@ ashamed
+t: emotions
+tr: avoir honte
+x: You should be ashamed of yourself! | Tu devrais avoir honte !
+
+@ embarrassed
+t: emotions
+tr: gêné, embarrassé
+x: I was so embarrassed! | J’avais trop honte !
+
+@ jealous
+t: emotions
+tr: jaloux, jalouse
+x: He’s jealous of his brother. | Il est jaloux de son frère.
+
+@ lonely
+t: emotions
+tr: seul, qui se sent seul
+a-fr: « alone » : seul (sans personne) ; « lonely » : qui souffre de la solitude.
+a-en: « seul » = alone, or lonely (feeling).
+x: She feels lonely since she moved. | Elle se sent seule depuis son déménagement.
+
+@ disappointed
+t: emotions
+tr: déçu
+x: I’m disappointed with the result. | Je suis déçu du résultat.
+v: expressions:fr-deception
+
+@ surprised
+t: emotions
+tr: surpris
+x: I was surprised to see him there. | J’ai été surpris de le voir là.
+
+@ relieved
+t: emotions
+tr: soulagé
+x: I’m so relieved! | Quel soulagement !
+
+@ grateful
+t: emotions
+tr: reconnaissant
+x: I’m very grateful for your help. | Je vous suis très reconnaissant de votre aide.
+
+@ confident
+t: emotions
+tr: sûr de soi, confiant
+x: She’s a very confident speaker. | Elle parle en public avec beaucoup d’assurance.
+
+@ shy
+t: emotions
+tr: timide
+x: Don’t be shy! | Ne sois pas timide !
+
+@ kind
+t: emotions
+tr: gentil, aimable
+x: That’s very kind of you. | C’est très gentil de votre part.
+v: expressions:fr-gentil
+
+@ nice
+t: emotions
+tr: sympa, gentil, agréable
+x: Have a nice day! | Bonne journée !
+
+@ mean
+t: emotions
+tr: méchant ; radin
+n-fr: Britannique : aussi « radin » ; américain : surtout « méchant ». Le verbe « to mean » : vouloir dire.
+x: Don’t be mean to your sister. | Ne sois pas méchant avec ta sœur.
+
+@ funny
+t: emotions
+tr: drôle, marrant ; bizarre
+x: He’s really funny. | Il est vraiment drôle.
+
+@ clever
+t: emotions
+tr: intelligent, malin, doué
+x: What a clever idea! | Quelle idée astucieuse !
+
+@ lazy
+t: emotions
+tr: paresseux, flemmard
+x: Don’t be so lazy! | Ne sois pas si flemmard !
+
+@ hard-working
+t: emotions
+tr: travailleur, travailleuse
+x: She’s very hard-working. | Elle est très travailleuse.
+
+@ polite
+t: emotions
+tr: poli
+x: It’s polite to say thank you. | C’est poli de dire merci.
+v: rude
+
+@ rude
+t: emotions
+tr: impoli, grossier
+x: Don’t be rude! | Ne sois pas impoli !
+v: expressions:fr-rude, polite
+
+@ easy-going
+t: emotions
+tr: facile à vivre, décontracté
+x: My boss is very easy-going. | Mon patron est très facile à vivre.
+
+@ fall_in_love
+w: fall in love
+t: emotions
+tr: tomber amoureux
+nat: v
+x: They fell in love in Paris. | Ils sont tombés amoureux à Paris.
+
+@ feel_like
+w: feel like
+t: emotions
+tr: avoir envie de
+nat: v
+a-fr: Suivi d’un nom ou d’un verbe en -ing : « I feel like a coffee », « I feel like going out ».
+x: I don’t feel like cooking tonight. | Je n’ai pas envie de cuisiner ce soir.

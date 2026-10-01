@@ -1,0 +1,606 @@
+# Expressions imagées françaises. « lit-en » : la traduction mot à mot.
+# Rédigé pour Vocabulary.
+module: expressions
+langue: fr
+
+@ idiomes-fr-avoir_le_cafard
+w: avoir le cafard
+t: idiomes-fr
+tr: to feel blue, to be down in the dumps
+nat: locution
+mq: fam
+lit-en: to have the cockroach
+d-fr: Être triste, déprimé.
+d-en: To feel sad or low.
+x: I always feel blue on Sunday evenings. | J’ai toujours le cafard le dimanche soir.
+v: feel_blue
+
+@ idiomes-fr-poser_un_lapin
+w: poser un lapin
+t: idiomes-fr
+tr: to stand someone up
+nat: locution
+mq: fam
+lit-en: to put down a rabbit
+d-fr: Ne pas venir à un rendez-vous sans prévenir.
+d-en: To fail to turn up to a date or meeting without warning.
+x: She stood me up last night. | Elle m’a posé un lapin hier soir.
+
+@ idiomes-fr-couter_les_yeux_de_la_tete
+w: coûter les yeux de la tête
+t: idiomes-fr
+tr: to cost an arm and a leg, to cost a fortune
+nat: locution
+mq: fam
+lit-en: to cost the eyes of the head
+d-fr: Coûter très cher.
+d-en: To be very expensive.
+x: That bag cost an arm and a leg. | Ce sac a coûté les yeux de la tête.
+v: cost_an_arm_and_a_leg
+
+@ idiomes-fr-dautres_chats_a_fouetter
+w: avoir d’autres chats à fouetter
+t: idiomes-fr
+tr: to have other fish to fry, to have better things to do
+nat: locution
+lit-en: to have other cats to whip
+d-fr: Avoir des occupations plus importantes.
+d-en: To have more important things to do.
+x: I’ve got other fish to fry. | J’ai d’autres chats à fouetter.
+v: other_fish_to_fry
+
+@ idiomes-fr-tomber_dans_les_pommes
+w: tomber dans les pommes
+t: idiomes-fr
+tr: to faint, to pass out
+nat: locution
+mq: fam
+lit-en: to fall into the apples
+d-fr: S’évanouir.
+d-en: To faint.
+x: It was so hot that he passed out. | Il faisait si chaud qu’il est tombé dans les pommes.
+
+@ idiomes-fr-appeler_un_chat_un_chat
+w: appeler un chat un chat
+t: idiomes-fr
+tr: to call a spade a spade
+nat: locution
+lit-en: to call a cat a cat
+d-fr: Dire les choses franchement, sans détour.
+d-en: To speak plainly.
+x: Let’s call a spade a spade: it’s a failure. | Appelons un chat un chat : c’est un échec.
+
+@ idiomes-fr-avoir_la_peche
+w: avoir la pêche
+t: idiomes-fr
+tr: to be full of beans, to feel great
+nat: locution
+mq: fam
+lit-en: to have the peach
+d-fr: Être plein d’énergie, en pleine forme.
+d-en: To be full of energy.
+x: I’m full of beans this morning! | J’ai la pêche ce matin !
+
+@ idiomes-fr-un_poil_dans_la_main
+w: avoir un poil dans la main
+t: idiomes-fr
+tr: to be bone idle, to be work-shy
+nat: locution
+mq: fam
+lit-en: to have a hair in one’s hand
+d-fr: Être très paresseux.
+d-en: To be very lazy.
+x: He’s bone idle. | Il a un poil dans la main.
+
+@ idiomes-fr-donner_sa_langue_au_chat
+w: donner sa langue au chat
+t: idiomes-fr
+tr: to give up (guessing), I give up
+nat: locution
+lit-en: to give one’s tongue to the cat
+d-fr: Renoncer à deviner une réponse.
+d-en: To give up trying to guess.
+x: I give up — what’s the answer? | Je donne ma langue au chat : c’est quoi la réponse ?
+
+@ idiomes-fr-etre_dans_la_lune
+w: être dans la lune
+t: idiomes-fr
+tr: to have one’s head in the clouds, to be miles away
+nat: locution
+lit-en: to be in the moon
+d-fr: Être distrait, rêveur.
+d-en: To be distracted, daydreaming.
+x: Sorry, I was miles away. | Pardon, j’étais dans la lune.
+v: head_in_the_clouds
+
+@ idiomes-fr-faire_la_grasse_matinee
+w: faire la grasse matinée
+t: idiomes-fr
+tr: to have a lie-in, to sleep in
+nat: locution
+lit-en: to do the fat morning
+d-fr: Rester tard au lit le matin.
+d-en: To stay in bed late in the morning.
+n-en: “A lie-in” is British; Americans say “sleep in”.
+x: On Sundays I have a lie-in. | Le dimanche, je fais la grasse matinée.
+
+@ idiomes-fr-mettre_les_pieds_dans_le_plat
+w: mettre les pieds dans le plat
+t: idiomes-fr
+tr: to put one’s foot in it, to blurt it out
+nat: locution
+lit-en: to put one’s feet in the dish
+d-fr: Aborder maladroitement un sujet délicat.
+d-en: To bring up a delicate subject tactlessly.
+x: He really put his foot in it. | Il a vraiment mis les pieds dans le plat.
+v: put_ones_foot_in_it
+
+@ idiomes-fr-raconter_des_salades
+w: raconter des salades
+t: idiomes-fr
+tr: to tell fibs, to tell porkies
+nat: locution
+mq: fam
+lit-en: to tell salads
+d-fr: Mentir, raconter des histoires.
+d-en: To tell lies.
+n-en: “Porkies” comes from Cockney rhyming slang: “pork pies” = lies.
+x: Stop telling porkies! | Arrête de raconter des salades !
+
+@ idiomes-fr-se_prendre_un_rateau
+w: se prendre un râteau
+t: idiomes-fr
+tr: to be turned down, to get knocked back
+nat: locution
+mq: fam
+lit-en: to take a rake
+d-fr: Être éconduit par la personne qu’on draguait.
+d-en: To be rejected by someone you were flirting with.
+x: He asked her out and got knocked back. | Il l’a invitée à sortir et s’est pris un râteau.
+
+@ idiomes-fr-coup_de_foudre
+w: avoir le coup de foudre
+t: idiomes-fr
+tr: to fall in love at first sight
+nat: locution
+lit-en: to have the lightning strike
+d-fr: Tomber amoureux au premier regard.
+d-en: To fall in love instantly.
+x: It was love at first sight. | Ça a été le coup de foudre.
+
+@ idiomes-fr-casser_les_pieds
+w: casser les pieds
+t: idiomes-fr
+tr: to get on someone’s nerves, to bore someone stiff
+nat: locution
+mq: fam
+lit-en: to break someone’s feet
+d-fr: Ennuyer, importuner quelqu’un.
+d-en: To annoy or bore someone.
+x: He’s getting on my nerves with his questions. | Il me casse les pieds avec ses questions.
+
+@ idiomes-fr-ras_le_bol
+w: en avoir ras le bol
+t: idiomes-fr
+tr: to be fed up, to be sick of it
+nat: locution
+mq: fam
+lit-en: to have it up to the brim of the bowl
+d-fr: En avoir assez.
+d-en: To have had enough.
+x: I’m fed up with this rain. | J’en ai ras le bol de cette pluie.
+
+@ idiomes-fr-il_pleut_des_cordes
+w: il pleut des cordes
+t: idiomes-fr
+tr: it’s pouring, it’s raining cats and dogs, it’s chucking it down
+nat: locution
+lit-en: it’s raining ropes
+d-fr: Il pleut très fort.
+d-en: It’s raining very hard.
+x: It’s chucking it down outside. | Il pleut des cordes dehors.
+v: raining_cats_and_dogs
+
+@ idiomes-fr-les_carottes_sont_cuites
+w: les carottes sont cuites
+t: idiomes-fr
+tr: the game’s up, it’s all over
+nat: locution
+mq: fam
+lit-en: the carrots are cooked
+d-fr: Il n’y a plus rien à faire, c’est fichu.
+d-en: There’s nothing more to be done.
+x: We’re three goals down — the game’s up. | On a trois buts de retard, les carottes sont cuites.
+
+@ idiomes-fr-pas_la_mer_a_boire
+w: ce n’est pas la mer à boire
+t: idiomes-fr
+tr: it’s no big deal, it’s not that hard
+nat: locution
+lit-en: it’s not the sea to drink
+d-fr: Ce n’est pas si difficile.
+d-en: It’s not that difficult.
+x: Come on, it’s not that hard! | Allez, ce n’est pas la mer à boire !
+
+@ idiomes-fr-du_pain_sur_la_planche
+w: avoir du pain sur la planche
+t: idiomes-fr
+tr: to have a lot on one’s plate, to have one’s work cut out
+nat: locution
+lit-en: to have bread on the board
+d-fr: Avoir beaucoup de travail devant soi.
+d-en: To have a lot of work to do.
+x: We’ve got a lot on our plate this week. | On a du pain sur la planche cette semaine.
+
+@ idiomes-fr-rouler_dans_la_farine
+w: se faire rouler dans la farine
+t: idiomes-fr
+tr: to be taken for a ride, to be conned
+nat: locution
+mq: fam
+lit-en: to be rolled in flour
+d-fr: Se faire tromper.
+d-en: To be deceived.
+x: I was taken for a ride by that salesman. | Je me suis fait rouler dans la farine par ce vendeur.
+
+@ idiomes-fr-mettre_la_main_a_la_pate
+w: mettre la main à la pâte
+t: idiomes-fr
+tr: to muck in, to pitch in, to lend a hand
+nat: locution
+lit-en: to put one’s hand in the dough
+d-fr: Participer au travail.
+d-en: To help with the work.
+x: Everyone mucked in to get it done. | Tout le monde a mis la main à la pâte.
+
+@ idiomes-fr-vendre_la_meche
+w: vendre la mèche
+t: idiomes-fr
+tr: to spill the beans, to let the cat out of the bag, to give the game away
+nat: locution
+lit-en: to sell the fuse
+d-fr: Révéler un secret.
+d-en: To reveal a secret.
+x: Who gave the game away? | Qui a vendu la mèche ?
+v: spill_the_beans
+
+@ idiomes-fr-dune_pierre_deux_coups
+w: faire d’une pierre deux coups
+t: idiomes-fr
+tr: to kill two birds with one stone
+nat: locution
+lit-en: to make two strikes with one stone
+d-fr: Obtenir deux résultats en une seule action.
+d-en: To achieve two things at once.
+x: I’ll kill two birds with one stone. | Je ferai d’une pierre deux coups.
+v: kill_two_birds_with_one_stone
+
+@ idiomes-fr-la_tete_dans_le_guidon
+w: avoir la tête dans le guidon
+t: idiomes-fr
+tr: to be too busy to see the big picture, to have one’s nose to the grindstone
+nat: locution
+mq: fam
+lit-en: to have one’s head on the handlebars
+d-fr: Être si absorbé par son travail qu’on ne prend plus de recul.
+d-en: To be so absorbed in work that you lose perspective.
+x: I’ve been too busy to see the big picture lately. | J’ai eu la tête dans le guidon ces derniers temps.
+
+@ idiomes-fr-chercher_la_petite_bete
+w: chercher la petite bête
+t: idiomes-fr
+tr: to nitpick, to split hairs
+nat: locution
+mq: fam
+lit-en: to look for the little creature
+d-fr: Chercher le moindre défaut.
+d-en: To look for tiny faults.
+x: Stop nitpicking! | Arrête de chercher la petite bête !
+
+@ idiomes-fr-haut_comme_trois_pommes
+w: haut comme trois pommes
+t: idiomes-fr
+tr: knee-high to a grasshopper
+nat: locution
+lit-en: as tall as three apples
+d-fr: Très petit (d’un enfant).
+d-en: Very small (of a child).
+x: I’ve known him since he was knee-high to a grasshopper. | Je le connais depuis qu’il est haut comme trois pommes.
+
+@ idiomes-fr-prendre_la_mouche
+w: prendre la mouche
+t: idiomes-fr
+tr: to take offence, to fly off the handle
+nat: locution
+lit-en: to take the fly
+d-fr: Se vexer pour peu de chose.
+d-en: To get offended easily.
+x: He takes offence at the slightest joke. | Il prend la mouche à la moindre blague.
+
+@ idiomes-fr-du_coq_a_lane
+w: passer du coq à l’âne
+t: idiomes-fr
+tr: to jump from one subject to another
+nat: locution
+lit-en: to go from the rooster to the donkey
+d-fr: Changer de sujet sans transition.
+d-en: To change the subject abruptly.
+x: She keeps jumping from one subject to another. | Elle passe sans arrêt du coq à l’âne.
+
+@ idiomes-fr-anguille_sous_roche
+w: il y a anguille sous roche
+t: idiomes-fr
+tr: there’s something fishy going on
+nat: locution
+lit-en: there’s an eel under the rock
+d-fr: Quelque chose de suspect se cache.
+d-en: Something suspicious is going on.
+x: There’s something fishy going on here. | Il y a anguille sous roche.
+
+@ idiomes-fr-sorti_de_lauberge
+w: ne pas être sorti de l’auberge
+t: idiomes-fr
+tr: to not be out of the woods yet
+nat: locution
+mq: fam
+lit-en: to not be out of the inn
+d-fr: Être encore loin d’en avoir fini avec les difficultés.
+d-en: To still have difficulties ahead.
+x: We’re not out of the woods yet. | On n’est pas sortis de l’auberge.
+
+@ idiomes-fr-tourner_autour_du_pot
+w: tourner autour du pot
+t: idiomes-fr
+tr: to beat about the bush
+nat: locution
+lit-en: to turn around the pot
+d-fr: Ne pas aborder franchement le sujet.
+d-en: To avoid the main subject.
+x: Stop beating about the bush. | Arrête de tourner autour du pot.
+v: beat_about_the_bush
+
+@ idiomes-fr-de_leau_dans_son_vin
+w: mettre de l’eau dans son vin
+t: idiomes-fr
+tr: to tone it down, to water down one’s demands
+nat: locution
+lit-en: to put water in one’s wine
+d-fr: Modérer ses exigences, faire des concessions.
+d-en: To moderate one’s demands.
+x: Both sides will have to tone it down. | Les deux camps devront mettre de l’eau dans leur vin.
+
+@ idiomes-fr-une_dent_contre
+w: avoir une dent contre quelqu’un
+t: idiomes-fr
+tr: to have a grudge against someone, to have it in for someone
+nat: locution
+lit-en: to have a tooth against someone
+d-fr: Garder de la rancune envers quelqu’un.
+d-en: To bear a grudge.
+x: He’s had it in for me since the meeting. | Il a une dent contre moi depuis la réunion.
+
+@ idiomes-fr-ca_ne_mange_pas_de_pain
+w: ça ne mange pas de pain
+t: idiomes-fr
+tr: there’s no harm in trying, it doesn’t cost anything
+nat: locution
+mq: fam
+lit-en: it doesn’t eat bread
+d-fr: Ça ne coûte rien d’essayer.
+d-en: It costs nothing to try.
+x: Ask him — there’s no harm in trying. | Demande-lui, ça ne mange pas de pain.
+
+@ idiomes-fr-faire_la_tete
+w: faire la tête
+t: idiomes-fr
+tr: to sulk, to be in a huff
+nat: locution
+mq: fam
+lit-en: to do the head
+d-fr: Bouder.
+d-en: To sulk.
+x: Why are you sulking? | Pourquoi tu fais la tête ?
+
+@ idiomes-fr-a_cote_de_la_plaque
+w: être à côté de la plaque
+t: idiomes-fr
+tr: to be way off the mark, to miss the point
+nat: locution
+mq: fam
+lit-en: to be beside the plate
+d-fr: Se tromper complètement.
+d-en: To be completely wrong.
+x: His answer was way off the mark. | Sa réponse était complètement à côté de la plaque.
+
+@ idiomes-fr-la_puce_a_loreille
+w: mettre la puce à l’oreille
+t: idiomes-fr
+tr: to set alarm bells ringing, to make someone suspicious
+nat: locution
+lit-en: to put the flea in the ear
+d-fr: Éveiller les soupçons.
+d-en: To arouse suspicion.
+x: His nervous smile set alarm bells ringing. | Son sourire nerveux m’a mis la puce à l’oreille.
+
+@ idiomes-fr-le_doigt_dans_loeil
+w: se mettre le doigt dans l’œil
+t: idiomes-fr
+tr: to be kidding oneself, to be completely wrong
+nat: locution
+mq: fam
+lit-en: to put one’s finger in one’s eye
+d-fr: Se tromper lourdement.
+d-en: To be very wrong.
+x: If you think it’ll be easy, you’re kidding yourself. | Si tu crois que ce sera facile, tu te mets le doigt dans l’œil.
+
+@ idiomes-fr-revenons_a_nos_moutons
+w: revenons à nos moutons
+t: idiomes-fr
+tr: let’s get back to the point
+nat: locution
+lit-en: let’s get back to our sheep
+d-fr: Revenons au sujet principal.
+d-en: Let’s return to the main subject.
+x: Anyway, let’s get back to the point. | Bref, revenons à nos moutons.
+
+@ idiomes-fr-la_fin_des_haricots
+w: c’est la fin des haricots
+t: idiomes-fr
+tr: that’s the end, that’s the last straw
+nat: locution
+mq: fam
+lit-en: it’s the end of the beans
+d-fr: C’est la catastrophe, il n’y a plus d’espoir.
+d-en: It’s a disaster; all hope is gone.
+x: If the printer breaks too, that’s the end! | Si l’imprimante lâche aussi, c’est la fin des haricots !
+
+@ idiomes-fr-pousser_meme_dans_les_orties
+w: il ne faut pas pousser mémé dans les orties
+t: idiomes-fr
+tr: don’t push it, that’s going too far
+nat: locution
+mq: fam, hum
+lit-en: you mustn’t push granny into the nettles
+d-fr: Il ne faut pas exagérer.
+d-en: Don’t go too far.
+x: A day off, fine — but a week? Don’t push it! | Un jour de congé, d’accord, mais une semaine ? Faut pas pousser mémé dans les orties !
+
+@ idiomes-fr-un_chat_dans_la_gorge
+w: avoir un chat dans la gorge
+t: idiomes-fr
+tr: to have a frog in one’s throat
+nat: locution
+lit-en: to have a cat in one’s throat
+d-fr: Être enroué.
+d-en: To be hoarse.
+x: Sorry, I’ve got a frog in my throat. | Pardon, j’ai un chat dans la gorge.
+v: frog_in_throat
+
+@ idiomes-fr-quand_les_poules_auront_des_dents
+w: quand les poules auront des dents
+t: idiomes-fr
+tr: when pigs fly, pigs might fly
+nat: locution
+lit-en: when hens have teeth
+d-fr: Jamais.
+d-en: Never.
+x: He’ll pay you back when pigs fly. | Il te remboursera quand les poules auront des dents.
+v: when_pigs_fly
+
+@ idiomes-fr-quand_on_parle_du_loup
+w: quand on parle du loup
+t: idiomes-fr
+tr: speak of the devil
+nat: locution
+lit-en: when you speak of the wolf
+d-fr: Se dit quand arrive la personne dont on parlait ; la suite, « on en voit la queue », est souvent sous-entendue.
+d-en: Said when the person being discussed appears.
+x: Speak of the devil! | Quand on parle du loup !
+v: speak_of_the_devil
+
+@ idiomes-fr-un_cordon_bleu
+w: être un cordon-bleu
+t: idiomes-fr
+tr: to be a great cook
+nat: locution
+lit-en: to be a blue ribbon
+d-fr: Cuisiner très bien.
+d-en: To be an excellent cook.
+x: Her dad’s a great cook. | Son père est un vrai cordon-bleu.
+
+@ idiomes-fr-boire_comme_un_trou
+w: boire comme un trou
+t: idiomes-fr
+tr: to drink like a fish
+nat: locution
+mq: fam
+lit-en: to drink like a hole
+d-fr: Boire énormément d’alcool.
+d-en: To drink a lot of alcohol.
+x: He drinks like a fish. | Il boit comme un trou.
+
+@ idiomes-fr-dormir_comme_un_loir
+w: dormir comme un loir
+t: idiomes-fr
+tr: to sleep like a log
+nat: locution
+lit-en: to sleep like a dormouse
+d-fr: Dormir profondément.
+d-en: To sleep very deeply.
+x: I slept like a log. | J’ai dormi comme un loir.
+
+@ idiomes-fr-yeux_plus_gros_que_le_ventre
+w: avoir les yeux plus gros que le ventre
+t: idiomes-fr
+tr: one’s eyes are bigger than one’s stomach, to bite off more than one can chew
+nat: locution
+lit-en: to have eyes bigger than one’s belly
+d-fr: Se servir ou entreprendre plus qu’on ne peut.
+d-en: To take more than you can manage.
+x: Your eyes were bigger than your stomach! | Tu as eu les yeux plus gros que le ventre !
+v: bite_off_more
+
+@ idiomes-fr-il_ny_a_pas_le_feu
+w: il n’y a pas le feu
+t: idiomes-fr
+tr: there’s no rush, what’s the hurry
+nat: locution
+mq: fam
+lit-en: there’s no fire
+d-fr: Rien ne presse.
+d-en: There’s no hurry.
+x: Slow down, there’s no rush! | Doucement, il n’y a pas le feu !
+
+@ idiomes-fr-cest_du_gateau
+w: c’est du gâteau
+t: idiomes-fr
+tr: it’s a piece of cake, it’s a doddle
+nat: locution
+mq: fam
+lit-en: it’s cake
+d-fr: C’est très facile.
+d-en: It’s very easy.
+n-en: “A doddle” is British.
+x: Don’t worry, it’s a doddle. | T’inquiète, c’est du gâteau.
+v: piece_of_cake
+
+@ idiomes-fr-la_monnaie_de_sa_piece
+w: rendre la monnaie de sa pièce
+t: idiomes-fr
+tr: to give someone a taste of their own medicine, to pay someone back
+nat: locution
+lit-en: to give someone the change for their coin
+d-fr: Rendre la pareille à quelqu’un.
+d-en: To treat someone the way they treated you.
+x: I gave him a taste of his own medicine. | Je lui ai rendu la monnaie de sa pièce.
+
+@ idiomes-fr-coup_de_main
+w: donner un coup de main
+t: idiomes-fr
+tr: to give someone a hand, to help out
+nat: locution
+lit-en: to give a blow of the hand
+d-fr: Aider.
+d-en: To help.
+x: Can you give me a hand with the boxes? | Tu peux me donner un coup de main avec les cartons ?
+
+@ idiomes-fr-coup_de_barre
+w: avoir un coup de barre
+t: idiomes-fr
+tr: to suddenly feel exhausted, to hit a wall
+nat: locution
+mq: fam
+lit-en: to get a blow of the bar
+d-fr: Ressentir une fatigue soudaine.
+d-en: To feel suddenly very tired.
+x: I always hit a wall around three. | J’ai toujours un coup de barre vers quinze heures.
+
+@ idiomes-fr-sur_les_nerfs
+w: être sur les nerfs
+t: idiomes-fr
+tr: to be on edge, to be stressed out
+nat: locution
+lit-en: to be on the nerves
+d-fr: Être tendu, nerveux.
+d-en: To be tense and nervous.
+x: Everyone’s on edge before the exam. | Tout le monde est sur les nerfs avant l’examen.

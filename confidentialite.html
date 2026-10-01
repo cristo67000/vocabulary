@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'none'; style-src 'self'; img-src 'self' data:; connect-src 'none'; base-uri 'self'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <title>Vocabulary — confidentialité et sources</title>
+  <link rel="stylesheet" href="css/page.css">
+  <link rel="icon" href="icons/favicon-48.png" type="image/png">
+</head>
+<body>
+
+<p class="retour"><a href="./">← Vocabulary</a> · <a href="#english">English version</a></p>
+
+<h1>Confidentialité et sources</h1>
+
+<h2>Ce que l’application envoie : rien</h2>
+
+<p>Vocabulary n’a pas de serveur, pas de compte, pas de mesure d’audience et pas
+de publicité. Elle ne communique avec aucun service : sa politique de sécurité
+(<code>connect-src 'self'</code>) lui interdit techniquement de contacter un autre
+hôte que celui d’où elle a été installée. Une fois le dictionnaire téléchargé,
+elle fonctionne entièrement sans réseau — vous pouvez couper la connexion et
+vérifier.</p>
+
+<h2>Ce qui reste sur votre appareil</h2>
+
+<ul>
+  <li>le <strong>dictionnaire</strong>, dans le cache du navigateur ;</li>
+  <li>vos <strong>révisions</strong> : les mots, phrases et fiches que vous
+      apprenez, leur échéance, l’historique de vos réponses ;</li>
+  <li>vos <strong>notes personnelles</strong> et vos <strong>exemples</strong>,
+      ceux que vous écrivez sur les fiches ;</li>
+  <li>vos <strong>mots à vous</strong> et vos <strong>phrases et dialogues à
+      vous</strong> : ce que vous ajoutez vous-même, avec vos traductions ;</li>
+  <li>vos <strong>réglages</strong> et les derniers mots consultés.</li>
+</ul>
+
+<p>Tout cela vit dans le stockage local du navigateur, sur cet appareil, et nulle
+part ailleurs. Vos notes et vos mots ne sont jamais envoyés nulle part, et ne
+sont jamais relus comme du code : ce que vous écrivez est affiché comme du
+texte, quoi que vous y mettiez.</p>
+
+<p>Effacer les données du site depuis les réglages de votre navigateur — ou
+désinstaller l’application — les supprime définitivement. C’est pourquoi les
+Réglages proposent d’<strong>exporter un fichier</strong> : vos mots, vos notes,
+vos cartes de révision et vos réglages, en JSON. Ce fichier est écrit sur votre
+appareil et n’est envoyé à personne ; c’est vous qui décidez où le ranger. Rien
+ne se sauvegarde à votre place.</p>
+
+<h2>La prononciation</h2>
+
+<p>Le bouton « écouter » utilise la synthèse vocale de votre système
+d’exploitation, celle qui est installée sur l’appareil. L’application ne
+télécharge aucun son et n’envoie aucun texte à un service de synthèse. Elle
+choisit d’abord une voix <strong>britannique</strong> pour l’anglais et une voix
+<strong>de France</strong> pour le français ; une voix américaine ou canadienne
+ne sert que faute de mieux, et l’application le signale. Un texte anglais n’est
+jamais lu par une voix française, ni l’inverse : si la voix d’une langue manque,
+ses textes ne sont pas lus, et l’application dit comment en installer une.
+Certaines voix proposées par le navigateur fonctionnent en ligne : c’est alors le
+navigateur, et non l’application, qui transmet le texte à son éditeur ; les
+Réglages indiquent quelles voix sont locales.</p>
+
+<h2>Les mots crus</h2>
+
+<p>Le dictionnaire et le module d’argot contiennent des jurons, des insultes et du
+vocabulaire sexuel, parce qu’il faut pouvoir les comprendre. Ils sont
+<strong>masqués d’office</strong> : ils n’apparaissent ni dans les recherches, ni
+dans les listes, ni dans les suggestions, ni dans les exercices tant que le réglage
+« Afficher les mots crus » n’est pas activé.</p>
+
+<h2>Origine des données</h2>
+
+<p>Vocabulary met en forme, pour un usage hors ligne, des ressources libres, et y
+ajoute des contenus rédigés pour elle.</p>
+
+<h3>WikDict — l’ossature du dictionnaire</h3>
+
+<p>Dictionnaires bilingues anglais ⇄ français <a href="https://www.wikdict.com/">WikDict</a>
+de Karl Bartel : nature grammaticale, genre, formes fléchies, définitions et
+traductions. Ils sont dérivés du <a href="https://www.wiktionary.org/">Wiktionnaire</a>
+par l’intermédiaire de <a href="http://kaiko.getalp.org/about-dbnary/">DBnary</a>, sous
+licence <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">Creative
+Commons Attribution — Partage dans les mêmes conditions 3.0</a>.</p>
+
+<h3>Le Wiktionary et le Wiktionnaire — définitions, exemples, prononciation</h3>
+
+<p>Définitions, phrases d’exemple, marques d’usage (familier, argot, britannique…),
+prononciation britannique, formes, synonymes et dérivés viennent de l’édition
+anglaise du <a href="https://en.wiktionary.org/">Wiktionary</a> et de l’édition française
+du <a href="https://fr.wiktionary.org/">Wiktionnaire</a>, extraites par
+<a href="https://kaikki.org/">wiktextract</a> (Tatu Ylonen), sous les licences du
+Wiktionnaire : <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">CC
+BY-SA</a> et GFDL. Le dictionnaire complet compte plus de 80 000 entrées anglaises et
+115 000 entrées françaises.</p>
+
+<h3>Tatoeba — les phrases d’exemple traduites</h3>
+
+<p>Phrases anglaises et françaises alignées du projet
+<a href="https://tatoeba.org/">Tatoeba</a>, sous licence
+<a href="https://creativecommons.org/licenses/by/2.0/fr/">Creative Commons
+Attribution 2.0 France</a>, quelques-unes sous CC0 1.0.</p>
+
+<h3>La fréquence des mots</h3>
+
+<p>Les niveaux affichés (« premiers pas », « courant », « étendu », « rare ») sont
+des rangs de fréquence mesurés avec <a href="https://github.com/rspeer/wordfreq">wordfreq</a>
+de Robyn Speer (sous-titres, presse, réseaux sociaux, Wikipédia ; données sous licence
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>), complétés par
+la fréquence des mots dans les phrases de Tatoeba. Ce ne sont <strong>pas</strong> les niveaux A1, A2
+ou B1 du Cadre européen : les listes officielles des certifications sont protégées
+par le droit d’auteur.</p>
+
+<h3>FranceTerme — les équivalents officiels</h3>
+
+<p>Les termes recommandés au <em>Journal officiel</em> par la Commission
+d’enrichissement de la langue française (« infox », « hypertrucage »,
+« mot-dièse »…), publiés sur <a href="https://www.culture.fr/franceterme">FranceTerme</a>
+et réutilisés sous la <a href="https://www.etalab.gouv.fr/licence-ouverte-open-licence/">Licence
+Ouverte</a> d’Etalab.</p>
+
+<h3>Code en clair — le glossaire du codage</h3>
+
+<p>Les 399 termes de programmation du module « Tech » et leurs schémas viennent de
+<em>Code en clair</em>, glossaire du même auteur.</p>
+
+<h3>Les contenus rédigés pour l’application</h3>
+
+<p>Les fiches des modules — mots courants et actuels, argot et abréviations, IA,
+expressions, faux amis, dessins d’apprentissage — et les phrases et dialogues
+(174 phrases et 25 dialogues, rangés par situation) sont un contenu
+<strong>original</strong>, sous licence
+<a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a>. Ils ont
+été écrits par un assistant d’écriture (Claude, d’Anthropic), puis soumis à des
+contrôles automatiques : structure, renvois, parité des deux langues. Ils
+<strong>n’ont pas encore été relus par un locuteur natif</strong> ; chaque fiche le
+dit.</p>
+
+<h3>Des dictionnaires que nous ne pouvons pas utiliser</h3>
+
+<p>Les dictionnaires d’éditeurs — Oxford, Cambridge, Collins, Larousse, Robert —
+sont des ressources commerciales, dont les conditions interdisent l’extraction et
+la redistribution. Aucun n’est présent ici, et ce n’est pas un oubli : le
+Wiktionnaire rend un service comparable et se laisse redistribuer.</p>
+
+<h2>Ce que ces données ne sont pas</h2>
+
+<p>Le dictionnaire est <strong>dérivé automatiquement</strong> du Wiktionnaire. Il
+est vaste et globalement fiable, mais il n’a pas été relu mot à mot : quelques
+traductions sont approximatives, quelques définitions techniques ou tronquées.
+Pour un mot dont beaucoup dépend, un dictionnaire d’éditeur reste préférable.</p>
+
+<p>Les familles de mots (« autour de ce mot ») sont calculées par un procédé
+automatique de dérivation. Ce sont des <strong>voisinages utiles</strong>, pas des
+filiations étymologiques établies.</p>
+
+<p>Les phrases et dialogues sont du <strong>texte rédigé par une IA</strong>,
+contrôlé par programme et non relu par un natif : une tournure peut y être moins
+naturelle qu’il n’y paraît. Une phrase dont beaucoup dépend — un rendez-vous
+médical, une démarche administrative — mérite d’être vérifiée auprès d’un locuteur
+natif ou d’un manuel.</p>
+
+<h2>Contact</h2>
+
+<p>Une erreur, une suggestion : <a href="mailto:cristo67apps@gmail.com">cristo67apps@gmail.com</a>.</p>
+
+<hr>
+
+<h1 id="english">Privacy and sources</h1>
+
+<h2>What the app sends: nothing</h2>
+
+<p>Vocabulary has no server, no account, no analytics and no advertising. It talks
+to no service: its security policy (<code>connect-src 'self'</code>) technically
+prevents it from contacting any host other than the one it was installed from.
+Once the dictionary is downloaded, it works entirely offline.</p>
+
+<h2>What stays on your device</h2>
+
+<p>The dictionary (in the browser cache), your reviews and learning history, your
+notes and examples, the words, phrases and dialogues you add, your settings and
+recently viewed words. All of it lives in the browser’s local storage on this
+device, and nowhere else. Clearing the site’s data or uninstalling the app deletes
+it permanently, which is why Settings let you <strong>export a file</strong> (JSON)
+that is saved on your device and sent to no one.</p>
+
+<h2>Pronunciation</h2>
+
+<p>The “listen” button uses your operating system’s speech synthesis. The app
+downloads no audio and sends no text anywhere. It picks a <strong>British</strong>
+voice for English and a voice <strong>from France</strong> for French first; an
+American or Canadian voice is only used as a fallback, and the app says so. English
+text is never read by a French voice, nor the reverse. Some voices offered by the
+browser work online: in that case the browser, not the app, sends the text to its
+provider; Settings show which voices are local.</p>
+
+<h2>Crude words</h2>
+
+<p>The dictionary and the slang module include swear words, insults and sexual
+vocabulary, because you need to understand them. They are <strong>hidden by
+default</strong> — in searches, lists, suggestions and exercises — until you turn
+on “Show crude words”.</p>
+
+<h2>Where the data comes from</h2>
+
+<p>WikDict (Karl Bartel, via DBnary, CC BY-SA 3.0); the English Wiktionary and the
+French Wiktionnaire via wiktextract (CC BY-SA, GFDL); Tatoeba sentence pairs (CC BY
+2.0 FR, some CC0); wordfreq (Robyn Speer, CC BY-SA 4.0) and Tatoeba for word
+frequency; FranceTerme (Licence Ouverte); the Code en clair coding
+glossary (same author). The module entries and the phrases and dialogues are
+original content under CC BY-SA 4.0, written by a writing assistant (Claude, by
+Anthropic), checked automatically but <strong>not yet reviewed by a native
+speaker</strong>.</p>
+
+<h2>Contact</h2>
+
+<p>A mistake, a suggestion: <a href="mailto:cristo67apps@gmail.com">cristo67apps@gmail.com</a>.</p>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+# Les modules de Vocabulary, et leurs thèmes, dans l'ordre d'affichage.
+# Un thème : « theme: identifiant | nom français | nom anglais ».
+
+[module actuel]
+icone: ✦
+nom-fr: Mots courants et actuels
+nom-en: Everyday & current words
+court-fr: Courant
+court-en: Everyday
+accroche-fr: Le vocabulaire du quotidien par thèmes, et les mots d’aujourd’hui : télétravail, streaming, écoanxiété…
+accroche-en: Everyday vocabulary by topic, and today’s words: remote working, streaming, eco-anxiety…
+intro-fr: Les mots du quotidien rangés par thèmes, et ceux que l’actualité a fait entrer dans la langue. Chaque fiche ouvre aussi l’entrée du dictionnaire : définitions, exemples, famille.
+intro-en: Everyday words sorted by topic, and those that current events have brought into the language. Each entry also opens the dictionary: definitions, examples, word family.
+theme: dessins | L’essentiel en dessins | The basics in pictures
+theme: numerique | Numérique et réseaux | Digital & social media
+theme: travail | Travail et études | Work & study
+theme: ecologie | Écologie et énergie | Environment & energy
+theme: societe | Société | Society
+theme: sante | Santé et bien-être | Health & wellbeing
+theme: argent | Argent et consommation | Money & shopping
+theme: mobilite | Transports et ville | Transport & the city
+theme: maison | À la maison | At home
+theme: cuisine | Cuisine et repas | Food & meals
+theme: vetements | Vêtements | Clothes
+theme: corps | Le corps | The body
+theme: famille | Famille et relations | Family & relationships
+theme: temps | Le temps qui passe | Time & dates
+theme: meteo | Météo et nature | Weather & nature
+theme: loisirs | Loisirs et sport | Leisure & sport
+theme: emotions | Émotions et caractère | Feelings & character
+theme: gb-us | Britannique ou américain ? | British or American?
+theme: officiel | Anglicismes : les équivalents officiels | Anglicisms: the official French terms
+
+[module argot]
+icone: ✺
+nom-fr: Argot et abréviations
+nom-en: Slang & abbreviations
+court-fr: Argot
+court-en: Slang
+accroche-fr: Ce qu’on entend à Londres et à Paris, et ce qu’on écrit en message : knackered, relou, lol, jsp…
+accroche-en: What you hear in London and Paris, and what people text: knackered, relou, lol, jsp…
+intro-fr: L’anglais familier (britannique d’abord) et l’argot français d’aujourd’hui, avec leur registre — et les abréviations des messages. Chaque mot porte son niveau de langue : à comprendre partout, à employer entre proches.
+intro-en: Informal English (British first) and today’s French slang, with their register — plus texting abbreviations. Each word shows its level of language: understand it everywhere, use it with friends.
+theme: uk | L’anglais familier du Royaume-Uni | British informal English
+theme: jeunes | Le parler des jeunes | Youth slang
+theme: sms | Abréviations des messages | Texting abbreviations
+theme: fr-argot | Argot français | French slang
+theme: verlan | Verlan | Verlan
+theme: fr-sms | Abréviations françaises | French texting
+theme: jurons | Jurons et gros mots | Swear words
+
+[module tech]
+icone: ⌘
+nom-fr: Tech : IA, programmation, codage
+nom-en: Tech: AI, programming, coding
+court-fr: Tech
+court-en: Tech
+accroche-fr: LLM, prompt, commit, API… les termes du numérique définis en deux langues, avec leurs schémas.
+accroche-en: LLM, prompt, commit, API… digital terms defined in two languages, with diagrams.
+intro-fr: Les termes de l’intelligence artificielle, de la programmation et du web : définition dans les deux langues, exemple, piège, schéma. S’y ajoutent les équivalents français officiels recommandés au Journal officiel.
+intro-en: The terms of artificial intelligence, programming and the web: definition in both languages, example, pitfall, diagram. Plus the official French equivalents recommended in the Journal officiel.
+theme: ia | IA et assistants de code | AI & coding assistants
+theme: ia-plus | IA : les mots de l’actualité | AI in the news
+theme: ft-ia | IA : termes officiels français | AI: official French terms
+theme: ft-info | Numérique : termes officiels français | Computing: official French terms
+theme: ft-telecom | Télécoms : termes officiels français | Telecoms: official French terms
+
+[module expressions]
+icone: ❝
+nom-fr: Expressions et phrases
+nom-en: Phrases & idioms
+court-fr: Expressions
+court-en: Idioms
+accroche-fr: Expressions imagées, faux amis, verbes à particule — et les phrases toutes faites des situations courantes.
+accroche-en: Idioms, false friends, phrasal verbs — and ready-made phrases for everyday situations.
+intro-fr: Ce qui ne se traduit pas mot à mot : l’expression imagée et son vrai équivalent, le faux ami et son piège, le verbe à particule et ses sens. Pour les phrases de la vie courante, voir « Phrases et dialogues ».
+intro-en: What doesn’t translate word for word: the idiom and its real equivalent, the false friend and its trap, the phrasal verb and its meanings. For everyday phrases, see “Phrases and dialogues”.
+theme: idiomes-en | Expressions anglaises | English idioms
+theme: idiomes-fr | Expressions françaises | French idioms
+theme: proverbes | Proverbes | Proverbs
+theme: faux-amis | Faux amis | False friends
+theme: particules | Verbes à particule | Phrasal verbs
+theme: formules | Formules utiles | Useful phrases

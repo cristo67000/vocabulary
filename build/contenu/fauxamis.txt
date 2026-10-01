@@ -1,0 +1,693 @@
+# Faux amis anglais / français. « a-fr » / « a-en » : le piège.
+# Rédigé pour Vocabulary.
+module: expressions
+
+# ————— Vedettes anglaises —————
+
+@ actually
+langue: en
+t: faux-amis
+tr: en fait, en réalité, vraiment
+nat: adv
+d-fr: En fait, en réalité ; pour corriger ou préciser.
+d-en: In fact, really.
+a-fr: ≠ actuellement, qui se dit « currently », « at the moment ».
+a-en: French « actuellement » means “currently”.
+x: Actually, I’ve changed my mind. | En fait, j’ai changé d’avis.
+v: currently, fr-actuellement
+
+@ currently
+langue: en
+t: faux-amis
+tr: actuellement, en ce moment
+nat: adv
+d-fr: En ce moment, à l’heure actuelle.
+d-en: At the present time.
+x: She’s currently living in Manchester. | Elle vit actuellement à Manchester.
+v: actually
+
+@ eventually
+langue: en
+t: faux-amis
+tr: finalement, à la longue, un jour ou l’autre
+nat: adv
+d-fr: Au bout du compte, après un certain temps.
+d-en: In the end, after some time.
+a-fr: ≠ éventuellement, qui se dit « possibly », « if need be ».
+a-en: French « éventuellement » means “possibly”.
+x: Eventually, we found the hotel. | Nous avons fini par trouver l’hôtel.
+v: fr-eventuellement
+
+@ library
+langue: en
+t: faux-amis
+tr: bibliothèque
+nat: n
+d-fr: Une bibliothèque (lieu où l’on emprunte des livres).
+d-en: A place where you borrow books.
+a-fr: ≠ librairie, qui se dit « bookshop » (britannique) ou « bookstore » (américain).
+a-en: French « librairie » means “bookshop”.
+x: I borrowed this book from the library. | J’ai emprunté ce livre à la bibliothèque.
+v: fr-librairie
+
+@ sensible
+langue: en
+t: faux-amis
+tr: raisonnable, sensé, pratique
+nat: adj
+d-fr: Raisonnable, plein de bon sens ; « sensible shoes », des chaussures pratiques.
+d-en: Reasonable, practical.
+a-fr: ≠ sensible, qui se dit « sensitive ».
+a-en: French « sensible » means “sensitive”.
+x: That’s a sensible decision. | C’est une décision raisonnable.
+v: fr-sensible
+
+@ deception
+langue: en
+t: faux-amis
+tr: tromperie, supercherie
+nat: n
+d-fr: Le fait de tromper quelqu’un.
+d-en: The act of deceiving someone.
+a-fr: ≠ déception, qui se dit « disappointment ».
+a-en: French « déception » means “disappointment”.
+x: He won by deception. | Il a gagné par tromperie.
+v: fr-deception
+
+@ attend
+langue: en
+t: faux-amis
+tr: assister à, suivre (un cours), aller à
+nat: v
+d-fr: Être présent à un événement, suivre un cours.
+d-en: To be present at an event.
+a-fr: ≠ attendre, qui se dit « to wait (for) ».
+a-en: French « attendre » means “to wait”.
+x: Over two hundred people attended the meeting. | Plus de deux cents personnes ont assisté à la réunion.
+v: assist
+
+@ assist
+langue: en
+t: faux-amis
+tr: aider, assister (quelqu’un)
+nat: v
+d-fr: Aider quelqu’un.
+d-en: To help.
+a-fr: ≠ assister à (un événement), qui se dit « to attend ».
+a-en: French « assister à » means “to attend”.
+x: Can I assist you with your luggage? | Puis-je vous aider avec vos bagages ?
+v: attend
+
+@ college
+langue: en
+t: faux-amis
+tr: établissement d’enseignement supérieur, université, lycée professionnel
+nat: n
+d-fr: Au Royaume-Uni, un établissement d’études après 16 ans, ou un collège d’université ; aux États-Unis, l’université.
+d-en: In the UK, a place of further education or part of a university; in the US, university.
+a-fr: ≠ collège (de la 6e à la 3e), qui se dit « secondary school ».
+a-en: French « collège » is a secondary school for ages 11 to 15.
+x: She’s studying at college. | Elle fait des études supérieures.
+
+@ pretend
+langue: en
+t: faux-amis
+tr: faire semblant
+nat: v
+d-fr: Faire comme si.
+d-en: To act as if something is true.
+a-fr: ≠ prétendre, qui se dit « to claim ».
+a-en: French « prétendre » means “to claim”.
+x: He pretended to be asleep. | Il a fait semblant de dormir.
+
+@ realise
+langue: en
+t: faux-amis
+tr: se rendre compte, prendre conscience
+nat: v
+d-fr: Se rendre compte de quelque chose. (Américain : « realize ».)
+d-en: To become aware of something. (US: “realize”.)
+a-fr: ≠ réaliser (un projet), qui se dit « to carry out », « to achieve ».
+a-en: French « réaliser » usually means “to carry out” or “to achieve”.
+x: I didn’t realise it was so late. | Je ne me suis pas rendu compte qu’il était si tard.
+al: realize
+
+@ journey
+langue: en
+t: faux-amis
+tr: voyage, trajet
+nat: n
+d-fr: Un trajet, un voyage.
+d-en: The act of travelling from one place to another.
+a-fr: ≠ journée, qui se dit « day ».
+a-en: French « journée » means “day”.
+x: How was your journey? | Tu as fait bon voyage ?
+
+@ lecture
+langue: en
+t: faux-amis
+tr: conférence, cours magistral ; sermon
+nat: n
+d-fr: Un exposé devant un public, un cours à l’université ; aussi un sermon, une leçon de morale.
+d-en: A talk to an audience; also a telling-off.
+a-fr: ≠ lecture, qui se dit « reading ».
+a-en: French « lecture » means “reading”.
+x: The lecture starts at nine. | Le cours magistral commence à neuf heures.
+v: fr-lecture
+
+@ location
+langue: en
+t: faux-amis
+tr: emplacement, lieu, endroit
+nat: n
+d-fr: Un lieu, une position ; « on location » : en tournage extérieur.
+d-en: A place or position.
+a-fr: ≠ location, qui se dit « rental » ou « hire ».
+a-en: French « location » means “rental”.
+x: The hotel is in a great location. | L’hôtel est très bien situé.
+v: fr-location
+
+@ rest
+langue: en
+t: faux-amis
+tr: se reposer ; repos ; le reste
+nat: v
+d-fr: Se reposer ; nom : le repos, ou le reste.
+d-en: To relax; as a noun, a break, or what remains.
+a-fr: ≠ rester, qui se dit « to stay ».
+a-en: French « rester » means “to stay”.
+x: You should rest this afternoon. | Tu devrais te reposer cet après-midi.
+v: fr-rester
+
+@ sympathetic
+langue: en
+t: faux-amis
+tr: compatissant, compréhensif, bienveillant
+nat: adj
+d-fr: Qui comprend la peine des autres.
+d-en: Showing understanding of other people’s problems.
+a-fr: ≠ sympathique, qui se dit « nice », « friendly ».
+a-en: French « sympathique » means “nice, friendly”.
+x: My boss was very sympathetic. | Mon patron a été très compréhensif.
+v: fr-sympathique
+
+@ comprehensive
+langue: en
+t: faux-amis
+tr: complet, exhaustif, détaillé
+nat: adj
+d-fr: Qui couvre tout ; « comprehensive school », collège-lycée public au Royaume-Uni.
+d-en: Including everything.
+a-fr: ≠ compréhensif, qui se dit « understanding ».
+a-en: French « compréhensif » means “understanding”.
+x: We need a comprehensive list. | Il nous faut une liste complète.
+
+@ coin
+langue: en
+t: faux-amis
+tr: pièce (de monnaie)
+nat: n
+d-fr: Une pièce de monnaie.
+d-en: A small metal piece of money.
+a-fr: ≠ coin, qui se dit « corner ».
+a-en: French « coin » means “corner”.
+x: I need some coins for the car park. | Il me faut des pièces pour le parking.
+v: fr-coin
+
+@ demand
+langue: en
+t: faux-amis
+tr: exiger, réclamer
+nat: v
+d-fr: Exiger fermement.
+d-en: To ask for something forcefully.
+a-fr: ≠ demander, qui se dit « to ask ».
+a-en: French « demander » simply means “to ask”.
+x: They demanded a refund. | Ils ont exigé un remboursement.
+
+@ achievement
+langue: en
+t: faux-amis
+tr: réussite, exploit, accomplissement
+nat: n
+d-fr: Une réussite, un succès obtenu par l’effort.
+d-en: Something done successfully with effort.
+a-fr: ≠ achèvement, qui se dit « completion ».
+a-en: French « achèvement » means “completion”.
+x: Finishing the marathon was a real achievement. | Finir le marathon, c’était un vrai exploit.
+
+@ agenda
+langue: en
+t: faux-amis
+tr: ordre du jour ; programme
+nat: n
+d-fr: La liste des points d’une réunion ; aussi : des intentions cachées (« a hidden agenda »).
+d-en: A list of things to discuss at a meeting.
+a-fr: ≠ agenda (carnet), qui se dit « diary » (britannique) ou « planner ».
+a-en: French « agenda » is a “diary” or “planner”.
+x: What’s on the agenda today? | Qu’est-ce qui est à l’ordre du jour ?
+
+@ prejudice
+langue: en
+t: faux-amis
+tr: préjugé
+nat: n
+d-fr: Une opinion défavorable sans fondement.
+d-en: An unfair opinion formed without knowledge.
+a-fr: ≠ préjudice, qui se dit « harm », « damage ».
+a-en: French « préjudice » means “harm”.
+x: We must fight prejudice. | Nous devons combattre les préjugés.
+
+@ candid
+langue: en
+t: faux-amis
+tr: franc, sincère
+nat: adj
+d-fr: Franc, qui dit ce qu’il pense.
+d-en: Honest and direct.
+a-fr: ≠ candide, qui se dit « naive ».
+a-en: French « candide » means “naive”.
+x: Thank you for your candid answer. | Merci pour votre réponse sincère.
+
+@ preservative
+langue: en
+t: faux-amis
+tr: conservateur (alimentaire)
+nat: n
+d-fr: Une substance qui conserve les aliments.
+d-en: A substance that stops food going bad.
+a-fr: ≠ préservatif, qui se dit « condom » — un faux ami à connaître au restaurant !
+a-en: French « préservatif » means “condom”.
+x: No artificial preservatives. | Sans conservateurs artificiels.
+v: fr-preservatif
+
+@ resume
+langue: en
+t: faux-amis
+tr: reprendre, recommencer
+nat: v
+d-fr: Reprendre après une interruption. (Nom américain « résumé » : un CV.)
+d-en: To start again after a pause. (US noun “résumé”: a CV.)
+a-fr: ≠ résumer, qui se dit « to summarise ».
+a-en: French « résumer » means “to summarise”.
+x: The meeting will resume after lunch. | La réunion reprendra après le déjeuner.
+
+@ stage
+langue: en
+t: faux-amis
+tr: scène ; étape
+nat: n
+d-fr: La scène d’un théâtre ; une étape.
+d-en: A raised platform in a theatre; a phase.
+a-fr: ≠ stage (en entreprise), qui se dit « internship » ou « work placement ».
+a-en: A French « stage » is an “internship” or “work placement”.
+x: At this stage, nothing is decided. | À ce stade, rien n’est décidé.
+v: fr-stage
+
+@ chance
+langue: en
+t: faux-amis
+tr: possibilité, occasion, hasard
+nat: n
+d-fr: Une possibilité, une occasion ; « by chance » : par hasard.
+d-en: A possibility or opportunity.
+a-fr: « Chance » au sens de « bonne fortune » se dit « luck » : « bonne chance ! » = « good luck! ».
+a-en: French « chance » (good fortune) is “luck”.
+x: There’s a chance of rain. | Il risque de pleuvoir.
+
+@ crayon
+langue: en
+t: faux-amis
+tr: crayon de couleur, crayon de cire
+nat: n
+d-fr: Un crayon de couleur (souvent en cire).
+d-en: A coloured stick of wax for drawing.
+a-fr: ≠ crayon (à papier), qui se dit « pencil ».
+a-en: A French « crayon » is a “pencil”.
+x: The kids are drawing with crayons. | Les enfants dessinent aux crayons de couleur.
+
+@ affair
+langue: en
+t: faux-amis
+tr: liaison ; affaire (publique)
+nat: n
+d-fr: Une liaison amoureuse ; une affaire, un scandale.
+d-en: A romantic relationship outside marriage; an event or scandal.
+a-fr: « Les affaires » (commerce) se disent « business » : « un voyage d’affaires » = « a business trip ».
+a-en: French « affaires » (commerce) is “business”.
+x: He had an affair with a colleague. | Il a eu une liaison avec une collègue.
+
+# ————— Vedettes françaises —————
+
+@ fr-actuellement
+w: actuellement
+langue: fr
+t: faux-amis
+tr: currently, at the moment, at present
+nat: adv
+d-fr: En ce moment.
+d-en: At the present time.
+a-fr: ≠ « actually », qui veut dire « en fait ».
+a-en: ≠ “actually”, which means « en fait ».
+x: She’s currently working in Lyon. | Elle travaille actuellement à Lyon.
+v: actually
+
+@ fr-eventuellement
+w: éventuellement
+langue: fr
+t: faux-amis
+tr: possibly, if need be, perhaps
+nat: adv
+d-fr: Peut-être, si nécessaire.
+d-en: Possibly, if necessary.
+a-fr: ≠ « eventually », qui veut dire « finalement ».
+a-en: ≠ “eventually”, which means « finalement ».
+x: We could possibly leave earlier. | On pourrait éventuellement partir plus tôt.
+v: eventually
+
+@ fr-librairie
+w: librairie
+langue: fr
+t: faux-amis
+tr: bookshop, bookstore
+nat: n
+g: fem
+d-fr: Un magasin où l’on vend des livres.
+d-en: A shop that sells books.
+a-en: ≠ “library”, which is « bibliothèque ».
+x: There’s a lovely bookshop near the station. | Il y a une très jolie librairie près de la gare.
+v: library
+
+@ fr-sensible
+w: sensible
+langue: fr
+t: faux-amis
+tr: sensitive
+nat: adj
+d-fr: Qui ressent vivement les choses ; délicat.
+d-en: Easily affected; delicate.
+a-en: ≠ “sensible”, which means « raisonnable ».
+x: She’s very sensitive. | Elle est très sensible.
+v: sensible
+
+@ fr-deception
+w: déception
+langue: fr
+t: faux-amis
+tr: disappointment
+nat: n
+g: fem
+d-fr: Le fait d’être déçu.
+d-en: The feeling of being disappointed.
+a-en: ≠ “deception”, which means « tromperie ».
+x: The film was a big disappointment. | Le film a été une grosse déception.
+v: deception
+
+@ fr-lecture
+w: lecture
+langue: fr
+t: faux-amis
+tr: reading
+nat: n
+g: fem
+d-fr: Le fait de lire ; un texte lu.
+d-en: The act of reading.
+a-en: ≠ “lecture”, which is « conférence » or « cours magistral ».
+x: I love reading. | J’adore la lecture.
+v: lecture
+
+@ fr-location
+w: location
+langue: fr
+t: faux-amis
+tr: rental, hire, renting
+nat: n
+g: fem
+d-fr: Le fait de louer ; un logement loué.
+d-en: The act of renting; a rented home.
+a-en: ≠ “location”, which is « emplacement ».
+x: Car hire is expensive here. | La location de voitures coûte cher ici.
+v: location
+
+@ fr-rester
+w: rester
+langue: fr
+t: faux-amis
+tr: to stay, to remain
+nat: v
+d-fr: Demeurer quelque part ; continuer d’être.
+d-en: To remain in a place or state.
+a-en: ≠ “to rest”, which means « se reposer ».
+x: I’m staying at home tonight. | Je reste à la maison ce soir.
+v: rest
+
+@ fr-sympathique
+w: sympathique
+langue: fr
+t: faux-amis
+tr: nice, friendly, pleasant
+nat: adj
+d-fr: Agréable, aimable ; très souvent abrégé en « sympa ».
+d-en: Nice, friendly; often shortened to « sympa ».
+a-en: ≠ “sympathetic”, which means « compatissant ».
+x: Your friends are really nice. | Tes amis sont vraiment sympathiques.
+al: sympa
+v: sympathetic
+
+@ fr-coin
+w: coin
+langue: fr
+t: faux-amis
+tr: corner
+nat: n
+g: masc
+d-fr: L’angle de deux rues, de deux murs ; « le coin » : les environs.
+d-en: Where two streets or walls meet; also, the area nearby.
+a-en: ≠ “coin”, which is « pièce de monnaie ».
+x: Is there a bakery around the corner? | Il y a une boulangerie dans le coin ?
+v: coin
+
+@ fr-preservatif
+w: préservatif
+langue: fr
+t: faux-amis
+tr: condom
+nat: n
+g: masc
+d-fr: Un préservatif (contraception).
+d-en: A condom.
+a-en: ≠ “preservative”, which is « conservateur (alimentaire) ».
+x: Condoms are available at the chemist’s. | On trouve des préservatifs à la pharmacie.
+v: preservative
+
+@ fr-stage
+w: stage
+langue: fr
+t: faux-amis
+tr: internship, work placement, course
+nat: n
+g: masc
+d-fr: Une période de formation en entreprise ; aussi une formation courte.
+d-en: A period of work experience; also a short training course.
+a-en: ≠ “stage”, which is « scène » or « étape ».
+x: I’m doing a six-month internship in London. | Je fais un stage de six mois à Londres.
+v: stage
+
+@ fr-monnaie
+w: monnaie
+langue: fr
+t: faux-amis
+tr: change, currency, coins
+nat: n
+g: fem
+d-fr: Les pièces ; l’argent rendu après un paiement ; la devise d’un pays.
+d-en: Coins; the money given back after paying; a country’s currency.
+a-en: ≠ “money”, which is « argent ».
+x: Keep the change. | Gardez la monnaie.
+
+@ fr-blesser
+w: blesser
+langue: fr
+t: faux-amis
+tr: to injure, to hurt, to wound
+nat: v
+d-fr: Faire une blessure ; peiner quelqu’un.
+d-en: To cause an injury; to hurt someone’s feelings.
+a-en: ≠ “to bless”, which is « bénir ».
+x: He was injured in the accident. | Il a été blessé dans l’accident.
+
+@ fr-raisin
+w: raisin
+langue: fr
+t: faux-amis
+tr: grape
+nat: n
+g: masc
+d-fr: Le fruit de la vigne.
+d-en: The fruit of the vine.
+a-en: ≠ “raisin”, which is « raisin sec ».
+x: A bunch of grapes, please. | Une grappe de raisin, s’il vous plaît.
+
+@ fr-gentil
+w: gentil
+langue: fr
+t: faux-amis
+tr: kind, nice
+nat: adj
+d-fr: Aimable, attentionné.
+d-en: Kind, thoughtful.
+a-en: ≠ “gentle”, which is « doux ».
+x: That’s very kind of you. | C’est très gentil de ta part.
+
+@ fr-large
+w: large
+langue: fr
+t: faux-amis
+tr: wide, broad
+nat: adj
+d-fr: Étendu dans le sens de la largeur.
+d-en: Measuring a lot from side to side.
+a-en: ≠ “large”, which is « grand ».
+x: The road is very wide here. | La route est très large ici.
+
+@ fr-occasion
+w: occasion
+langue: fr
+t: faux-amis
+tr: opportunity, chance; bargain; second-hand
+nat: n
+g: fem
+d-fr: Une opportunité ; une bonne affaire ; « d’occasion » : qui a déjà servi.
+d-en: An opportunity; a bargain; « d’occasion » means second-hand.
+a-en: “Occasion” in English is « événement », « circonstance ».
+x: I bought a second-hand car. | J’ai acheté une voiture d’occasion.
+
+@ fr-phrase
+w: phrase
+langue: fr
+t: faux-amis
+tr: sentence
+nat: n
+g: fem
+d-fr: Un ensemble de mots formant un sens complet.
+d-en: A group of words forming a complete statement.
+a-en: ≠ “phrase”, which is « expression » or « locution ».
+x: Write a sentence with this word. | Écris une phrase avec ce mot.
+
+@ fr-sale
+w: sale
+langue: fr
+t: faux-amis
+tr: dirty
+nat: adj
+d-fr: Malpropre ; avant le nom, désagréable (« un sale temps »).
+d-en: Not clean; before a noun, nasty (« un sale temps » = foul weather).
+a-en: ≠ “sale”, which is « soldes » or « vente ».
+x: My shoes are dirty. | Mes chaussures sont sales.
+
+@ fr-baskets
+w: baskets
+langue: fr
+t: faux-amis
+tr: trainers, sneakers
+nat: n
+g: fem
+d-fr: Des chaussures de sport.
+d-en: Sports shoes.
+a-en: “Trainers” is British, “sneakers” American; a “basket” is a « panier ».
+x: I need new trainers. | Il me faut de nouvelles baskets.
+
+@ fr-car
+w: car
+langue: fr
+t: faux-amis
+tr: coach, bus
+nat: n
+g: masc
+d-fr: Un autocar.
+d-en: A long-distance bus.
+a-en: ≠ “car”, which is « voiture ». A British “coach” goes between towns; a “bus”, within a town.
+x: We took the coach to Oxford. | On a pris le car pour Oxford.
+
+@ fr-rude
+w: rude
+langue: fr
+t: faux-amis
+tr: harsh, hard, tough
+nat: adj
+d-fr: Pénible, sévère (« un hiver rude »).
+d-en: Harsh, severe.
+a-en: ≠ “rude”, which is « impoli ».
+x: It was a harsh winter. | L’hiver a été rude.
+
+@ fr-habit
+w: habit
+langue: fr
+t: faux-amis
+tr: outfit, clothes
+nat: n
+g: masc
+d-fr: Un vêtement ; « les habits » : les vêtements.
+d-en: A garment; « les habits »: clothes.
+a-en: ≠ “habit”, which is « habitude ».
+x: He put on his best clothes. | Il a mis ses plus beaux habits.
+
+@ fr-hasard
+w: hasard
+langue: fr
+t: faux-amis
+tr: chance, luck
+nat: n
+g: masc
+d-fr: Ce qui arrive sans cause apparente ; « par hasard » : by chance.
+d-en: Chance; « par hasard » = by chance.
+a-en: ≠ “hazard”, which is « danger », « risque ».
+x: We met by chance. | On s’est rencontrés par hasard.
+
+@ fr-prune
+w: prune
+langue: fr
+t: faux-amis
+tr: plum
+nat: n
+g: fem
+d-fr: Un fruit à noyau, frais.
+d-en: A fresh stone fruit.
+a-en: ≠ “prune”, which is « pruneau ».
+x: A plum tart. | Une tarte aux prunes.
+
+@ fr-prejudice
+w: préjudice
+langue: fr
+t: faux-amis
+tr: harm, damage, detriment
+nat: n
+g: masc
+d-fr: Un tort, un dommage.
+d-en: Harm or damage.
+a-en: ≠ “prejudice”, which is « préjugé ».
+x: She suffered serious harm. | Elle a subi un grave préjudice.
+
+@ fr-slip
+w: slip
+langue: fr
+t: faux-amis
+tr: pants, briefs, knickers
+nat: n
+g: masc
+d-fr: Un sous-vêtement.
+d-en: Underwear.
+a-en: British “pants” = underwear; American “pants” = trousers. A “slip” is a « combinaison » or « glissade ».
+x: A pair of pants. | Un slip.
+
+@ fr-assister
+w: assister à
+langue: fr
+t: faux-amis
+tr: to attend, to be present at, to witness
+nat: v
+d-fr: Être présent à un événement.
+d-en: To be present at an event.
+a-en: ≠ “to assist”, which is « aider ».
+x: I attended the conference. | J’ai assisté à la conférence.
+v: attend

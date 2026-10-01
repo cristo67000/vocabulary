@@ -1,0 +1,403 @@
+# Britannique ou américain ? Vedette britannique (celle de l'application),
+# mot américain en alias et en note.
+# Rédigé pour Vocabulary.
+module: actuel
+t: gb-us
+
+@ colour
+tr: une couleur
+mq: gb
+al: color
+d-fr: Orthographe britannique ; américain : « color ». De même « favourite / favorite », « neighbour / neighbor ».
+d-en: British spelling; American “color”. Likewise favourite/favorite, neighbour/neighbor.
+sc: app-gb-us
+x: What colour is it? | C’est de quelle couleur ?
+v: centre, organise
+
+@ centre
+tr: un centre
+mq: gb
+al: center
+d-fr: Orthographe britannique ; américain : « center ». De même « theatre / theater », « metre / meter ».
+d-en: British spelling; American “center”. Likewise theatre/theater, metre/meter.
+sc: app-gb-us
+x: The shopping centre closes at six. | Le centre commercial ferme à dix-huit heures.
+v: colour, organise
+
+@ organise
+tr: organiser
+mq: gb
+al: organize
+d-fr: Les deux orthographes existent au Royaume-Uni ; « -ise » y est la plus courante, « -ize » est la seule américaine.
+d-en: Both spellings are used in Britain, where -ise is more common; American English uses -ize only.
+sc: app-gb-us
+x: She organised the whole trip. | Elle a organisé tout le voyage.
+v: colour, centre
+
+@ flat
+tr: un appartement
+mq: gb
+al: apartment
+n-fr: Américain : « apartment ». « A block of flats » : un immeuble.
+n-en: American English: “apartment”.
+x: They’ve bought a flat in London. | Ils ont acheté un appartement à Londres.
+
+@ lift
+tr: un ascenseur
+mq: gb
+al: elevator
+n-fr: Américain : « elevator ». « To give someone a lift » : emmener quelqu’un en voiture.
+n-en: American English: “elevator”; « déposer quelqu’un » = to give someone a lift.
+x: The lift is out of order. | L’ascenseur est en panne.
+
+@ ground_floor
+tr: le rez-de-chaussée
+mq: gb
+nat: n
+a-fr: Au Royaume-Uni, « first floor » = premier étage ; aux États-Unis, « first floor » = rez-de-chaussée.
+a-en: In French, « le premier étage » is the British first floor.
+x: The toilets are on the ground floor. | Les toilettes sont au rez-de-chaussée.
+
+@ flatmate
+tr: un ou une colocataire, un ou une coloc
+mq: gb
+al: roommate
+n-fr: Américain : « roommate » (qui, au Royaume-Uni, partage la même chambre).
+x: I live with two flatmates. | J’habite avec deux colocs.
+
+@ rubbish
+tr: des ordures, des déchets ; n’importe quoi
+mq: gb
+al: trash, garbage
+n-fr: Américain : « trash », « garbage ». Familier britannique : « That’s rubbish! » : c’est nul, n’importe quoi !
+n-en: « C’est nul ! » = That’s rubbish!
+x: Can you take the rubbish out? | Tu peux sortir les poubelles ?
+
+@ bin
+tr: une poubelle
+mq: gb
+al: trash can, garbage can
+n-fr: Américain : « trash can », « garbage can ». « Bin day » : le jour de ramassage des poubelles.
+x: Put it in the bin. | Mets-le à la poubelle.
+
+@ tap
+tr: un robinet
+mq: gb
+al: faucet
+n-fr: Américain : « faucet ». « Tap water » : l’eau du robinet.
+x: Don’t leave the tap running. | Ne laisse pas couler le robinet.
+
+@ cooker
+tr: une cuisinière (appareil)
+mq: gb
+al: stove
+n-fr: Américain : « stove ». Le cuisinier, c’est « cook ».
+x: A gas cooker. | Une cuisinière à gaz.
+
+@ crisps
+tr: des chips
+mq: gb
+a-fr: Au Royaume-Uni, « chips » = des frites ; les chips se disent « crisps ». Aux États-Unis, « chips » = des chips.
+a-en: French « chips » are British crisps.
+x: A packet of crisps. | Un paquet de chips.
+v: chips
+
+@ chips
+tr: des frites
+mq: gb
+al: fries, French fries
+a-fr: Britannique ; américain : « fries ». Les chips (en sachet) se disent « crisps » au Royaume-Uni.
+a-en: British chips = French « frites »; French « chips » = British crisps.
+x: Fish and chips. | Du poisson pané avec des frites.
+v: crisps
+
+@ biscuit
+tr: un biscuit, un gâteau sec
+mq: gb
+al: cookie
+n-fr: Américain : « cookie » ; aux États-Unis, « biscuit » est une sorte de petit pain.
+x: Tea and biscuits. | Du thé et des biscuits.
+
+@ sweets
+tr: des bonbons
+mq: gb
+al: candy
+n-fr: Américain : « candy ». « Sweet » (adjectif) : sucré, mignon.
+x: Too many sweets are bad for your teeth. | Trop de bonbons, c’est mauvais pour les dents.
+
+@ aubergine
+tr: une aubergine
+mq: gb
+al: eggplant
+n-fr: Américain : « eggplant ».
+x: Grilled aubergine. | Des aubergines grillées.
+
+@ courgette
+tr: une courgette
+mq: gb
+al: zucchini
+n-fr: Américain : « zucchini ». Beaucoup de noms de légumes britanniques viennent du français.
+x: Courgette soup. | Une soupe de courgettes.
+
+@ takeaway
+tr: un plat à emporter ; un traiteur, un restaurant à emporter
+mq: gb
+al: takeout
+n-fr: Américain : « takeout ». « To have a takeaway » : commander à emporter.
+x: Let’s get a takeaway tonight. | Et si on commandait à emporter ce soir ?
+
+@ bill
+tr: l’addition, une facture ; un billet (américain)
+mq: gb
+al: check
+n-fr: Au restaurant, américain : « check ». Aux États-Unis, « a bill » est aussi un billet de banque (britannique : « a note »).
+n-en: « l’addition » (restaurant), « la facture » (gas, phone).
+x: Could we have the bill, please? | L’addition, s’il vous plaît.
+
+@ queue
+tr: une file d’attente, la queue ; faire la queue
+mq: gb
+al: line
+n-fr: Américain : « line » (« to stand in line »). Faire la queue est une institution britannique.
+x: There’s a long queue at the post office. | Il y a une longue file d’attente à la poste.
+
+@ trousers
+tr: un pantalon
+mq: gb
+al: pants
+a-fr: Américain : « pants » — qui veut dire « slip, culotte » au Royaume-Uni !
+a-en: Singular in French: « un pantalon ».
+x: These trousers are too long. | Ce pantalon est trop long.
+v: pants
+
+@ pants
+tr: un slip, une culotte ; un pantalon (américain)
+mq: gb
+al: underpants
+a-fr: Britannique : le sous-vêtement ; américain : le pantalon. Familier britannique : « pants » = nul.
+a-en: British pants = « un slip »; American pants = « un pantalon ».
+x: I forgot to pack clean pants. | J’ai oublié de prendre des slips propres.
+v: trousers, expressions:fr-slip
+
+@ jumper
+tr: un pull
+mq: gb
+al: sweater, pullover
+n-fr: Américain : « sweater ». Aux États-Unis, « jumper » est une robe chasuble.
+x: Put a jumper on, it’s cold. | Mets un pull, il fait froid.
+
+@ trainers
+tr: des baskets
+mq: gb
+al: sneakers
+n-fr: Américain : « sneakers ».
+x: I bought new trainers for running. | J’ai acheté de nouvelles baskets pour courir.
+v: expressions:fr-baskets
+
+@ waistcoat
+tr: un gilet (de costume)
+mq: gb
+al: vest
+a-fr: Américain : « vest » — qui veut dire « maillot de corps, débardeur » au Royaume-Uni.
+a-en: A French « gilet » is a waistcoat, or a cardigan (« un gilet en laine »).
+x: A three-piece suit with a waistcoat. | Un costume trois pièces avec gilet.
+
+@ dressing_gown
+tr: une robe de chambre, un peignoir
+mq: gb
+nat: n
+al: bathrobe, robe
+n-fr: Américain : « robe », « bathrobe ».
+x: He answered the door in his dressing gown. | Il a ouvert la porte en robe de chambre.
+
+@ mobile
+tr: un portable
+mq: gb
+al: mobile phone, cell phone, cellphone
+n-fr: Américain : « cell phone », « cell ». « Mobile number » : numéro de portable.
+n-en: « un portable » can also mean a laptop.
+x: Call me on my mobile. | Appelle-moi sur mon portable.
+
+@ holiday
+tr: des vacances ; un jour férié
+mq: gb
+al: vacation
+n-fr: Américain : « vacation ». « On holiday » : en vacances ; « a bank holiday » : un jour férié.
+n-en: « les vacances » is plural in French.
+x: We’re going on holiday to Spain. | Nous partons en vacances en Espagne.
+
+@ film
+tr: un film
+mq: gb
+al: movie
+n-fr: Américain : « movie » — de plus en plus courant au Royaume-Uni aussi.
+x: Have you seen the new Bond film? | Tu as vu le nouveau James Bond ?
+
+@ cinema
+tr: un cinéma
+mq: gb
+al: movie theater, the movies
+n-fr: Américain : « movie theater » ; « to go to the movies » : aller au cinéma.
+x: Shall we go to the cinema? | On va au cinéma ?
+
+@ football
+tr: le football, le foot
+mq: gb
+al: soccer
+a-fr: Aux États-Unis, « football » est le football américain ; le football se dit « soccer ».
+a-en: « le foot » is always association football.
+x: He plays football every Saturday. | Il joue au foot tous les samedis.
+
+@ autumn
+tr: l’automne (masculin)
+mq: gb
+al: fall
+n-fr: Américain : « fall ».
+x: The leaves turn red in autumn. | Les feuilles rougissent en automne.
+
+@ pavement
+tr: un trottoir
+mq: gb
+al: sidewalk
+a-fr: Américain : « sidewalk » ; aux États-Unis, « pavement » désigne la chaussée !
+x: Stay on the pavement. | Reste sur le trottoir.
+
+@ motorway
+tr: une autoroute
+mq: gb
+al: freeway, highway, expressway
+n-fr: Américain : « freeway », « highway ». Au Royaume-Uni, les autoroutes sont gratuites (sauf une).
+x: Take the M4 motorway. | Prenez l’autoroute M4.
+
+@ car_park
+tr: un parking
+mq: gb
+nat: n
+al: parking lot
+a-fr: « Un parking » (le lieu) = « a car park » (américain : « parking lot ») ; en anglais, « parking » = le stationnement.
+a-en: French « un parking » is a car park.
+x: The car park is full. | Le parking est complet.
+v: park
+
+@ petrol
+tr: de l’essence
+mq: gb
+al: gas, gasoline
+n-fr: Américain : « gas ». « Petrol station » : station-service.
+x: We need to get some petrol. | Il faut qu’on prenne de l’essence.
+
+@ lorry
+tr: un camion, un poids lourd
+mq: gb
+al: truck
+n-fr: Américain : « truck ».
+x: A lorry blocked the road. | Un camion bloquait la route.
+
+@ underground
+tr: le métro
+mq: gb
+al: subway, tube, metro
+a-fr: À Londres : « the Underground » ou « the Tube ». Au Royaume-Uni, « subway » est un passage souterrain pour piétons.
+a-en: « le métro » = the Underground, the Tube (London), the subway (US).
+x: It’s quicker by Underground. | C’est plus rapide en métro.
+
+@ single_ticket
+w: single
+tr: un aller simple
+mq: gb
+al: one-way ticket
+d-fr: Un billet pour l’aller seulement ; américain : « one-way ticket ».
+d-en: A ticket for the outward journey only; American “one-way ticket”.
+x: A single to Manchester, please. | Un aller simple pour Manchester, s’il vous plaît.
+v: return
+
+@ return
+tr: un aller-retour ; revenir, rendre
+mq: gb
+al: round-trip ticket, return ticket
+d-fr: Un billet aller-retour ; américain : « round-trip ticket ».
+d-en: A ticket there and back; American “round-trip ticket”.
+x: A day return to Oxford, please. | Un aller-retour dans la journée pour Oxford, s’il vous plaît.
+v: single_ticket
+
+@ timetable
+tr: un horaire, un emploi du temps
+mq: gb
+al: schedule
+n-fr: Américain : « schedule ».
+x: Check the train timetable. | Regarde les horaires des trains.
+
+@ post
+tr: le courrier ; poster
+mq: gb
+al: mail
+n-fr: Américain : « mail ». « Postman » : le facteur ; « postbox » : la boîte aux lettres (rue).
+n-en: « poster une lettre » = to post a letter (UK), to mail (US).
+x: Has the post arrived? | Le courrier est arrivé ?
+
+@ postcode
+tr: un code postal
+mq: gb
+al: zip code
+n-fr: Américain : « zip code ». Les codes postaux britanniques mêlent lettres et chiffres : SW1A 1AA.
+x: What’s your postcode? | Quel est votre code postal ?
+
+@ maths
+tr: les maths, les mathématiques
+mq: gb
+al: math
+n-fr: Américain : « math ».
+x: I was never good at maths. | Je n’ai jamais été bon en maths.
+
+@ rubber
+tr: une gomme ; du caoutchouc
+mq: gb
+al: eraser
+a-fr: Américain : « eraser » — en américain familier, « a rubber » est un préservatif !
+x: Can I borrow your rubber? | Je peux emprunter ta gomme ?
+
+@ torch
+tr: une lampe de poche, une lampe torche
+mq: gb
+al: flashlight
+n-fr: Américain : « flashlight ».
+x: Take a torch, it’s dark outside. | Prends une lampe de poche, il fait nuit dehors.
+
+@ nappy
+tr: une couche (de bébé)
+mq: gb
+al: diaper
+n-fr: Américain : « diaper ».
+x: Can you change the baby’s nappy? | Tu peux changer la couche du bébé ?
+
+@ chemists
+w: chemist’s
+tr: une pharmacie
+mq: gb
+al: chemist, pharmacy, drugstore
+n-fr: Américain : « drugstore », « pharmacy ». « Chemist » : le pharmacien (et le chimiste).
+x: Is there a chemist’s near here? | Il y a une pharmacie près d’ici ?
+
+@ high_street
+tr: la grand-rue, la rue commerçante
+mq: gb
+nat: n
+al: main street
+n-fr: Américain : « Main Street ». « High street shops » : les commerces de centre-ville, les grandes enseignes.
+x: The high street is full of empty shops. | La rue commerçante est pleine de boutiques vides.
+
+@ estate_agent
+tr: un agent immobilier
+mq: gb
+nat: n
+al: realtor, real estate agent
+n-fr: Américain : « realtor », « real estate agent ».
+x: We’ve put the house on the market with an estate agent. | Nous avons mis la maison en vente chez un agent immobilier.
+
+@ full_stop
+tr: un point (ponctuation)
+mq: gb
+nat: n
+al: period
+n-fr: Américain : « period ». « Full stop! » : un point c’est tout !
+x: End the sentence with a full stop. | Termine la phrase par un point.

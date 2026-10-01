@@ -1,0 +1,10 @@
+build/sources/
+build/rapport.txt
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+build/apercu-*.png
+build/croisees-creees.tsv
+build/construire.log
+build/traductions-deplacees.tsv

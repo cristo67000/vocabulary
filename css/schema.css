@@ -1,0 +1,65 @@
+/*
+ * Les schémas : les classes que `js/schema.js` pose sur les formes SVG.
+ *
+ * Aucune couleur n'est écrite dans le dessin lui-même : le moteur ne pose que
+ * des classes — `dn-ok` (nœud vert), `dl-bad` (trait rouge), `dt-a` (texte
+ * accent) — et c'est ici qu'on les relie aux variables du thème. Clair et
+ * sombre, et tout futur changement de palette, se règlent en un seul endroit.
+ */
+
+.schema-svg { display: block; width: 100%; height: auto; overflow: visible; }
+
+/* nœuds : remplissage doux + contour franc */
+.dn, .dn-n { fill: var(--carte); stroke: var(--trait-fort); stroke-width: 1.4; }
+.dn-a    { fill: var(--accent-clair); stroke: var(--accent); }
+.dn-ok   { fill: var(--ok-fond);      stroke: var(--ok); }
+.dn-warn { fill: var(--warn-fond);    stroke: var(--warn); }
+.dn-bad  { fill: var(--bad-fond);     stroke: var(--bad); }
+.dn-v    { fill: var(--v-fond);       stroke: var(--v); }
+.dn-info { fill: var(--info-fond);    stroke: var(--info); }
+.dn-mute { fill: var(--fond);         stroke: var(--trait-fort); }
+.dn-g    { fill: none; stroke: var(--encre-legere); stroke-width: 1; }
+/* forme à couleur libre : le remplissage vient de l'attribut fill */
+.dfree { stroke: var(--trait-fort); stroke-width: 1.2; }
+
+/* traits et flèches */
+.dl { fill: none; stroke: var(--encre-douce); stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.dl-n    { stroke: var(--encre-douce); }
+.dl-a    { stroke: var(--accent); }
+.dl-ok   { stroke: var(--ok); }
+.dl-warn { stroke: var(--warn); }
+.dl-bad  { stroke: var(--bad); }
+.dl-v    { stroke: var(--v); }
+.dl-info { stroke: var(--info); }
+.dl-mute { stroke: var(--encre-legere); }
+.dl-g    { stroke: var(--trait-fort); }
+.dnf { fill: none; }
+.dn.dnf { fill: none; }
+.dd { stroke-dasharray: 5 3.5; }
+.dfin { stroke-width: 1; }
+
+.dm { stroke: none; fill: var(--encre-douce); }
+.dm-a { fill: var(--accent); }
+.dm-ok { fill: var(--ok); }
+.dm-warn { fill: var(--warn); }
+.dm-bad { fill: var(--bad); }
+.dm-v { fill: var(--v); }
+.dm-info { fill: var(--info); }
+.dm-mute { fill: var(--encre-legere); }
+
+/* textes */
+.dt { fill: var(--encre); font-family: var(--sans); }
+.dt-mute { fill: var(--encre-legere); }
+.dt-a    { fill: var(--accent); }
+.dt-ok   { fill: var(--ok); }
+.dt-warn { fill: var(--warn); }
+.dt-bad  { fill: var(--bad); }
+.dt-v    { fill: var(--v); }
+.dt-info { fill: var(--info); }
+/* couleurs fixes, pour les figures dont le sujet est un contraste */
+.dt-blanc { fill: #ffffff; }
+.dt-gris { fill: #767676; }
+.dt-pale { fill: #c9c9c9; }
+.dmono { font-family: var(--mono); }
+.dbold { font-weight: 600; }
+.dhalo { paint-order: stroke; stroke: var(--carte); stroke-width: 3.5px; stroke-linejoin: round; }
