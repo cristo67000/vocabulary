@@ -1,0 +1,201 @@
+# lot 078 — besides, blame, bowl, chicken, context, coverage, determine, display, dying, false, incredible, meat, mode, neck, passing, surgery, vision, whenever, zero, Iran, champion, cream, editor, giant…
+89d6abaa9c Outre José, j’inviterai Jay et Renée, tous les trois.
+caa994c061 Je ne veux aller nulle part ailleurs qu’en Inde.
+3dc32e14a5 Je veux y aller avec quelqu’un d’autre que mon père.
+ab0f16f61e ✗
+2c147cfbd6 ✗
+5bfa1f8457 Nous avons payé toutes tes études, et bien plus encore !
+859af1f658 = It’s too expensive, and ⟦besides⟧, we don’t really need it. | C’est trop cher, et en plus, nous n’en avons pas vraiment besoin.
+35e0d07567 Je n’ai pas envie de sortir ce soir. D’ailleurs, je dois travailler demain matin de toute façon.
+9ebdc29686 Je suis allé en Espagne, mais nulle part ailleurs.
+c68ba8b50a ✗
+6bf55e9116 ✗
+a807fe2801 Les reproches fusaient de toutes parts.
+063fd206d1 = Run git ⟦blame⟧ to see who changed this line. | Lance git blame pour voir qui a modifié cette ligne.
+71d91ab410 La responsabilité de l’incendie incombe au pyromane.
+8874aa83b1 L’élève conducteur a été tenu pour responsable de l’accident.
+29f0198d31 Après ce qui s’est passé au mariage, je ne t’en voudrais pas si tu ne leur adressais plus jamais la parole.
+02c66d4c3b Nous avons imputé l’accident à l’élève conducteur.
+ac6c3ea07d ✗
+45c34c21dc Je couvrais aussi les émissions sérieuses et, d’ailleurs, dès le début, j’ai passé plus de temps à louer qu’à critiquer.
+f7c1357f35 = Critics ⟦blamed⟧ the film for its slow pace. | Les critiques ont reproché au film sa lenteur.
+c42131b316 Tu ne peux plus avoir de soupe : tu en as déjà pris trois bols.
+a624498829 = Mix the flour and eggs in a large ⟦bowl⟧. | Mélangez la farine et les œufs dans un grand saladier.
+90d90b4c4f Ce restaurant propose différents bowls.
+b031d301dc bowl d’açaï, bol de riz, sushi bowl
+a9e2504d36 Avant de cuire le poulet ou une autre volaille, rincez-le à l’eau froide et séchez-le avec de l’essuie-tout.
+3ecace8a29 ✗
+1b5d8b2a95 Maya : Héhé… Nick. T’es un peu une poule mouillée, hein ?
+64db3e556a ✗
+064d552fe2 Certaines poules pondent presque tous les jours. […] On élève aussi les poulets pour leur viande.
+a8616f8829 Il est resté serein tout au long de l’épreuve.
+a9b8c22b45 Il devint d’un coup très calme et maître de lui.
+ec70c9da3d les œuvres complètes de Charles Dickens
+c568bdd1aa — Dans quel contexte l’avez-vous agressé ? — Nos relations étaient assez tendues à l’époque, et quand il m’a insulté, j’ai craqué.
+7cff1184b3 Sans contexte, je ne peux pas dire si « dish » désigne une assiette ou le plat qu’on y sert.
+94851ffd1b Vos polices d’assurance comportent des garanties qui se recoupent.
+58e7687ea4 Le feu ennemi s’intensifie ; peut-on avoir une couverture immédiate depuis ces bunkers ?
+83883144fc Les services directs empruntant l’Elizabeth line ont été renforcés à partir du 6 novembre, mais cela n’a guère attiré l’attention des médias — surtout parce que c’est un succès opérationnel, […].
+04b0b49344 La couverture du réseau mobile est mauvaise dans certaines zones.
+bb4ca258dd La connaissance humaine a jusqu’ici été bornée par la vue.
+34cdcd92a0 ✗
+1315f73c3e = Investigators are trying to ⟦determine⟧ the cause of the fire. | Les enquêteurs tentent de déterminer la cause de l’incendie.
+26151395da quelque chose de divinement beau […] qui pourrait un jour influencer, voire déterminer, le cours de sa vie
+261e53fa15 = Your genes partly ⟦determine⟧ your height. | Vos gènes déterminent en partie votre taille.
+cd98e2e551 Le trapéziste a offert un incroyable numéro d’acrobatie.
+d2f8ffd1ca = The shop set up a ⟦display⟧ of new phones by the door. | Le magasin a installé un présentoir de nouveaux téléphones près de la porte.
+d40e9eced2 = The phone has a bright six-inch ⟦display⟧. | Le téléphone a un écran lumineux de six pouces.
+d352398f2d Les élèves doivent réaliser un panneau mural sur le pays de leur choix.
+d6d0858486 ✗
+2489754789 ✗
+bcd73c5a9c ✗
+899a69854c Le champ de bataille était jonché de morts et de mourants.
+e55e457a6c Le chien agonisant fut achevé d’une seule balle !
+70e7143f49 Ses dernières paroles furent pour sa mère.
+a48aefe0ff jusqu’à mon dernier jour
+6718156ca2 Dans les derniers instants du jour, j’aperçus une voile à l’horizon.
+f2abc442ad La diésélisation de cette ligne n’a pas été, comme c’est parfois le cas, un moyen de ranimer un embranchement moribond, mais un coup de pouce à un service en bonne santé.
+6fa182beb1 = Is the statement true or ⟦false⟧? | L’affirmation est-elle vraie ou fausse ?
+6b02c098bf = He wore a ⟦false⟧ beard as a disguise. | Il portait une fausse barbe pour se déguiser.
+58799db687 = The function returns ⟦false⟧ if the file is missing. | La fonction renvoie faux si le fichier est absent.
+39c1f03a4e législation abusive, sanction injustifiée
+10f49bd1f0 un ami, un amant ou un sujet déloyal ; infidèle à ses promesses
+09d5ccb3bc = She turned out to be a ⟦false⟧ friend who repeated my secrets. | Elle s’est révélée une fausse amie qui répétait mes secrets.
+263ae63ed1 La municipalité finance la réparation du toit de l’église.
+73812adac9 Cependant, l’effondrement de la demande de transport ferroviaire et aérien provoqué par la pandémie a eu des répercussions sur le financement du projet.
+3ce7f9a336 L’extinction d’une espèce jadis si nombreuse semblait incroyable.
+27b617d4cf L’autre explication serait qu’ils y croyaient sincèrement, ce qui démontrerait un manque presque incroyable de communication entre eux et leurs ingénieurs de terrain.
+7cbf2da8ea Il était si absorbé par les incroyables effets spéciaux qu’il en perdait le fil de l’histoire.
+1293b6dfe1 J’ai mangé une part de pizza si incroyable hier soir que je n’arrive plus à penser à autre chose.
+097ba7366d Un jour, le gentleman soyeux qui exploitait une péniche appelée le Knuckle Sandwich essaya de persuader la mère et le père de Borglum de lui vendre leur petit garçon nain pour douze pièces d’or.
+7bdd5edb89 […] ce cher petit homme écrivant dans le livre d’or de la « Ma », la logeuse des gens de théâtre […]
+c6fe8bd422 Une grande partie de la production nationale de viande provient d’animaux élevés dans des élevages industriels.
+a2757197ce L’adolescent vivant en autarcie a abattu un cerf pour fournir du gibier à sa famille pour l’hiver.
+853bc4f2ae La marge de la boucherie varie beaucoup selon les viandes.
+74f951e788 = The ⟦meat⟧ of the report is in chapter three. | L’essentiel du rapport se trouve au chapitre trois.
+09a1d99f5f = She stopped eating ⟦meat⟧ two years ago. | Elle a arrêté de manger de la viande il y a deux ans.
+c822f4c714 Elle travaille pour le ministère des Finances.
+614e58a34c Il travaille pour le ministère de la Défense.
+dcc5f7cae8 Le Premier ministre présenta au monarque la démission de son dernier gouvernement, et fut chargé d’en former un nouveau conformément aux résultats électoraux.
+105bb8f8b4 le ministère actuel du Saint-Esprit
+dd00c158ee ✗
+6441aa86af Quel a été le mode d’entrée ?
+0b842d17a1 Un moyen efficace et peu coûteux de protéger les arbres en espalier des gelées de printemps.
+521c4a5b3e En mode insertion, les caractères tapés sont directement insérés dans le tampon.
+94fff79f65 = Oversized jackets are very much the ⟦mode⟧ this season. | Les vestes oversize sont très à la mode cette saison.
+b923c0e603 mode normal de vibration
+abd705d729 mode avion ; mode nuit
+c2e73d4d5c La voiture a ensuite été placée en mode de conduite de niveau 2, un peu comme on le ferait avec les régulateurs de vitesse adaptatifs actuels.
+cf3ea19fac Les girafes ont un long cou.
+f757ea3a2c Maman, au secours, il y a une tête attachée à mon cou et je suis dedans.
+5a90bc97ae = This sweater has a V ⟦neck⟧. | Ce pull a un col en V.
+29dc36c987 = Hold the bottle by the ⟦neck⟧. | Tiens la bouteille par le goulot.
+fdb7856a1a = The guitar’s ⟦neck⟧ is made of maple. | Le manche de la guitare est en érable.
+27fb1e6dbe Les archégones sont entourés tôt dans leur développement par le jeune périanthe, par le bec étroit duquel dépasse le long col de l’archégone fécondé.
+ab5e0c9906 un col formant le tourillon d’un arbre
+9b40836c44 Alan et Betty se bécotaient à l’arrière d’une voiture quand le père de Betty les a surpris.
+15f7e949ff En fait, la plupart du temps, je me pavane dans ma voiture de sport argentée, à m’enfiler des drogues et à m’apitoyer sur mon sort.
+0d258981d6 Dans la pénombre, les clients sirotent des martinis Tokyo à la framboise, laissent échapper leurs sushis de leurs baguettes ou descendent des bières Asahi.
+a5b4808e4b ✗
+901fa9e531 = The team came up with a ⟦novel⟧ solution to the problem. | L’équipe a trouvé une solution inédite au problème.
+784fbcc0a2 ✗
+d42fd3a6a8 ✗
+9fba52ee30 ✗
+16007d58b0 On pourrait voir dans #dittowatch une énième lubie passagère d’Internet. Après tout, les hashtags sont éphémères.
+0fc36076d2 connaître vaguement quelqu’un ou quelque chose
+153cbe6884 faire une remarque en passant
+1f7b5cd63c C’est à force d’une vigueur extrême / Qu’il finit par déplacer la lourde pierre.
+d053d6b667 Ce parlement était destiné, en une courte heure de force convulsive, en une courte heure de gloire éphémère, à humilier l’orgueil et à éveiller les craintes de l’Angleterre.
+ef2f74d7fa = We were saddened by the ⟦passing⟧ of our old teacher. | Nous avons été attristés par le décès de notre ancien professeur.
+7c69a3ceba Et comme il n’avait pas vu Louie près de la porte pliante, Louie sut qu’à ses précédents allers-retours il n’avait pas pu la voir non plus.
+ef04ebb067 = Activists celebrated the ⟦passing⟧ of the law. | Les militants ont célébré l’adoption de la loi.
+d881851a22 = Their quick ⟦passing⟧ tore the defence apart. | Leur jeu de passes rapide a disloqué la défense.
+652fa4727d = The jugglers practised club ⟦passing⟧ in the park. | Les jongleurs s’entraînaient à se lancer des massues dans le parc.
+045e4cfe99 … C’est sur cette seconde question générale, la gestion d’informations discréditantes non révélées sur soi, que je me concentre dans ces notes — bref, le « passing ».
+5171ee00f0 Je trouve fort étrange que les forçats comprennent les honnêtes gens, mais que les honnêtes gens ne comprennent pas les forçats.
+7792b10474 Elle est fort jolie ; mais elle est si réservée, / Sa robe si discrète, ses cheveux si lisses, […]
+b314edd058 Je peux prendre le seul gâteau qui reste ?
+c326558b88 L’an dernier, l’entreprise a supprimé des centaines d’emplois et demandé à une partie du personnel restant de reprendre les responsabilités de ceux qui avaient été licenciés.
+a81af894cd Il est allé au centre commercial trouver une chemise correcte pour son entretien.
+0806f8c2df = He spilled coffee on his white ⟦shirt⟧. | Il a renversé du café sur sa chemise blanche.
+989b4d518a Quand les rendements obligataires augmentent lentement dans le temps, ce n’est pas un problème pour les fonds de pension qui appliquent des stratégies LDI ; cela améliore même leurs finances.
+9617a92e4b Il va voir un match de cricket au stade.
+7ff48fc671 ✗
+2c1a8afefb La chirurgie est souvent nécessaire pour empêcher un cancer de se propager.
+833bee0b89 = She wants to specialise in heart ⟦surgery⟧. | Elle veut se spécialiser en chirurgie cardiaque.
+d856dac7f9 La place du médecin était dans la bibliothèque, pas au cabinet.
+611aaba435 Je suis passé au cabinet en passant pour montrer mes hémorroïdes au médecin.
+517dbb1b82 = My father had knee ⟦surgery⟧ last month. | Mon père s’est fait opérer du genou le mois dernier.
+d8d5d440e0 Les consultations ont lieu de six à sept heures. Si vous vouliez amener un chien, ce serait le meilleur moment.
+4077f265a4 Il essaya de boire l’eau de la mare, mais se rendit compte que ce n’était qu’une vision.
+ccdca2958d Les visites sont un phénomène lié à l’au-delà fréquemment rapporté. Par exemple, une patiente mourante a une vision de sa mère, morte depuis vingt ans.
+7c40e6780c Il a travaillé sans relâche pour réaliser sa vision d’un monde en paix.
+1f82c13d0e Pour concrétiser leur projet, ils ont fait appel à la conceptrice architecturale locale Marcie Banks, de Clementine Construction.
+b96e051bb0 Il a eu une vision de la Vierge Marie.
+04bcac9c31 ✗
+faf15c7204 ✗
+20c5da04ec Gilead a toujours été une vision glaçante de ce que l’Amérique pourrait devenir si des théocrates de droite prenaient le pouvoir absolu et privaient les femmes de toute indépendance.
+d30bdc7f9a Viens quand tu veux.
+db8bac351e Comme tu peux l’imaginer, c’est une experte en politique, et elle prédit que, quel que soit le moment où tu décideras de te présenter, tu gagneras !
+1207603f58 Chaque fois qu’il a une paire d’as, ses paupières tressaillent.
+05237a9f8e Travailler autour d’un monument ancien a imposé la présence d’un archéologue sur place à chaque fouille.
+5d67e2fa53 Demain, je me lèverai à l’heure où le soleil se lèvera.
+190a5cfd8b Les revenus doivent être déclarés pour la période où ils sont acquis, quelle que soit la date de leur paiement effectif.
+a1bf3c5949 N’hésite pas à passer quand tu veux.
+f003feac18 Quand donc trouverai-je le temps de finir ce puzzle ?
+7cabdbbfa7 Elle s’inquiétait pour son fils, qu’on avait envoyé à la guerre.
+87784f0535 Le contrôleur attendit qu’il ne reste plus aucun passager.
+f85ecf58d0 Un chèque de zéro dollar et zéro cent a fait planter les ordinateurs à cause d’une division par zéro.
+fb62247af2 En notation unaire, et en notation k-adique en général, zéro est la chaîne vide.
+4c231f2f6a Le signe du zéro en langue des signes américaine est considéré comme grossier dans certaines cultures.
+a9833747af Il fait dix degrés en dessous de zéro dehors.
+6c5fecfa5e Un million s’écrit avec six zéros.
+5edb230323 ✗
+76f7497e67 Le radical de « kobieta » avec la désinence zéro est « kobiet ».
+023416d55d Mettez le fluorimètre à zéro avec le même solvant que celui utilisé pour l’extraction.
+4ea6e49744 Les résultats étaient incohérents parce qu’un tableau n’avait pas été remis à zéro à l’initialisation.
+a54aada1a9 Le trafic sur les canaux chiffrés utilisés par les généraux irakiens de haut rang avait culminé puis était tombé à zéro, avant de culminer à nouveau et de retomber à zéro.
+fa6ff36807 Si je rayais Jack, je m’en sortirais. Alors je l’ai effacé, j’ai fait comme si ces derniers mois n’avaient jamais existé.
+8abb0c9841 Le soldat est allé au stand de tir pour régler la visée de son arme.
+607e145e1e ✗
+4327371249 Farmer était aussi justement le genre d’expert dont Franck et son coauteur Daniel Abraham avaient besoin pour porter leurs romans à l’écran.
+9e4559f9a7 = In the Bible, ⟦Daniel⟧ survives a night in the lions’ den. | Dans la Bible, Daniel survit à une nuit dans la fosse aux lions.
+8627402e71 Le président américain lui-même a accusé l’Iran d’être derrière la provocation, menaçant la semaine dernière l’Iran de frappes aériennes — avant de les annuler quelques minutes avant leur lancement.
+5942873846 L’Iran est un pays vaste et ancien, à la situation stratégique au Moyen-Orient. Il est frontalier de la Russie, de l’Irak, de la Turquie, du Pakistan, du golfe d’Oman et du golfe Persique.
+d279f5b8e5 [La] Cambridge History of Iran [est] un panorama de l’histoire et de la géographie historique du territoire de l’Iran actuel, ainsi que d’autres territoires habités par des peuples d’origine iranienne.
+4e74995621 Zoroastre d’Iran. — Zoroastre serait apparu au VIIe siècle avant l’ère chrétienne, quelque part entre l’Indus et le Tigre.
+db73874e5b Avec le retour de nombreux joueurs clés de la saison 2022, Michigan faisait figure de favori pour le titre — bien que Jim Harbaugh ait entamé la saison sous le coup d’une suspension de trois matchs, un tout autre genre de « trois ».
+645ed00e96 Mais pour une satisfaction pure et profonde, pour l’équilibre entre plaisir et confort, rien ne vaut le jeudi.
+7f08476173 La juge Elena Kagan a défendu jeudi le code de conduite créé l’an dernier par la Cour suprême, tout en reconnaissant qu’il faudrait un moyen de faire respecter ces règles pour qu’il soit plus efficace.
+c878f9781e Resendiz a été vue pour la dernière fois le 29 mai dans sa caserne de Miller Hall, à la base navale de Norfolk, selon un avis de disparition publié le 3 juin par la police d’État de Virginie.
+ab08854cd6 Elle dit s’appeler Virginia Severson. Ça lui allait bien. Elle avait l’air très virginale, nette, calme et froide, à la manière scandinave.
+1773e2bfbf La ville de Waukesha a confirmé l’identité de cinq victimes : Virginia Sorenson, 79 ans ; Leanna Owen, 71 ans ; Tamara Durand, 52 ans ; Jane Kulich, 52 ans ; et Wilhelm Hospel, 81 ans.
+ba961d5930 Barcelone peut disputer la Coupe du monde des clubs de la FIFA en tant que champion d’Europe.
+2d2a160f98 Le tenant du titre devrait battre son challenger.
+adbab1288e Curry, quadruple champion NBA avec les Warriors, a joué trois saisons pour les Wildcats entre 2006 et 2009, où il a été deux fois élu joueur de l’année de sa conférence.
+09a017c960 Emmeline Pankhurst fut une championne du droit de vote des femmes.
+1872af1cf4 Parmi les retombées concrètes de cette politique figurait la nomination d’un « champion du numérique » chargé de faire avancer les efforts pour inclure davantage d’exclus.
+5aafd53a2a Tout en défendant évidemment le Bluebell [Railway], Beardmore tient à ce que le « grand chemin de fer » envisage de tirer parti de ce que les chemins de fer touristiques peuvent offrir.
+583aeeb4e6 Prenez 100 ml de crème et 50 grammes de sucre…
+e6814da7bb Il en reste des centaines d’exemplaires, qui suivent toujours le même schéma général : bordeaux, vert ou chocolat, par exemple, du sol à la taille, puis au-dessus une teinte crème de vieux cheddar.
+144b5af9ee la crème d’une collection de livres ou de tableaux
+a2fc391a69 le dessus du panier
+9d3a43104e Tu as l’air vraiment brûlé par le soleil ; tu devrais mettre de la crème.
+3e8396fb51 = Apply the ⟦cream⟧ to the rash twice a day. | Appliquez la crème sur l’éruption deux fois par jour.
+a465c2274e Je prends mon café avec deux crèmes et trois sucres.
+7eb2645a71 = They painted the kitchen ⟦cream⟧. | Ils ont peint la cuisine couleur crème.
+d3d0c73913 On a écrasé l’équipe adverse !
+349182d5c4 Pour commencer, les élections hongroises, où le Premier ministre Viktor Orbán et son parti, le Fidesz, se sont fait complètement laminer.
+b5f4b737d8 Liez les légumes au mélange d’huile d’olive, de farine, de sel et d’eau.
+8696e149f3 ✗
+ee64708d87 Je traverse une crise majeure en essayant de tapisser le salon.
+e691a33897 ✗
+80f2643526 ✗
+79311550b4 John Johnson a rédigé ce mémoire, et c’est Joan Johnson qui l’a relu.
+c725d98e01 John est chef de la rubrique locale au Daily Times.
+83cae60fdc = In the old days, film was cut on a mechanical ⟦editor⟧. | Autrefois, la pellicule se montait sur une table de montage mécanique.
+30df1f2bca L’éditeur TPU EVE est un excellent éditeur, extensible et programmable.
+9260710910 = The ⟦editor⟧ cut the documentary down to fifty minutes. | Le monteur a ramené le documentaire à cinquante minutes.
+ed56525a11 Le nain se mit alors à enfler et à grandir de plus en plus, jusqu’à devenir un géant monstrueux, puis il disparut dans les airs, tandis que les vieilles gens priaient Dieu et le remerciaient de leur délivrance.
+7085beb724 « C’est barbare, Norsus. — C’est Rome », dit platement le géant.
+1456aeebcd Les géants avaient aussi été proscrits avec Satan parce qu’ils avaient combattu Dieu.

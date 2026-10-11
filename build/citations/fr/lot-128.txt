@@ -1,0 +1,157 @@
+# lot 128 — stab, attribute, viewer, activate, metre, restriction, ingredient, initiate, jewellery, anticipate, renew, undertake, perceive, illustrate, appoint, neighbour, govern, assign, circumstance, remark, symptom, comprise, mare, nominate, convict, follower, induce, derive, organise, revise, criterion, Laurence, Vega, classify, designate, deem, injure, guideline, nigh, seine, rupee, Fourier transform… (paroles, violences, jugements moraux, sens archaïques ou obscurs et listes de méronymes ou synonymes écartés)
+376b52b4f8 ✗
+472ec38b20 ✗
+be4ac1fca3 Il me donnait des coups de brindille vers le visage, mais par chance, il manquait toujours mes yeux.
+2a781fd775 = She ⟦stabbed⟧ at the screen with her finger to show me the mistake. | Elle tapota l’écran du doigt pour me montrer l’erreur.
+2a0ea50aad Sa plus belle qualité, c’est sa gentillesse.
+6afe12fcca = In “a red car”, the word “red” is an ⟦attribute⟧ of “car”. | Dans « une voiture rouge », le mot « rouge » est épithète de « voiture ».
+4c0f95b8b1 Ce paquet a son attribut de cohérence mis à zéro.
+84a08e8082 Un fichier dont l’attribut « lecture seule » est activé ne peut pas être écrasé.
+df3f1f8cf2 L’aigle et la foudre sont des attributs de Jupiter.
+556d0fcee1 Cet attribut sert à déclarer dans les métadonnées que la méthode ou la classe à laquelle il s’applique requiert une SocketPermission de la forme déclarée.
+f78b98f5da On peut marquer des propriétés comme obsolètes au moyen d’un attribut, ce qui amène le compilateur à émettre un avertissement si elles sont utilisées.
+aad2de7a27 Ce poème est attribué à Browning.
+728d273928 = The quote is often ⟦attributed⟧ to Einstein, but he never said it. | La citation est souvent attribuée à Einstein, mais il ne l’a jamais prononcée.
+de87b48629 = Grandpa still uses an old slide ⟦viewer⟧ to look at his holiday photos. | Grand-père se sert encore d’une vieille visionneuse pour regarder ses diapos de vacances.
+2ef4d2afc8 Cette visionneuse d’images peut afficher des fichiers aux formats GIF, PNG et JPG.
+3b46a60472 Les farceurs ont déclenché l’alarme incendie en vaporisant du déodorant à côté.
+ea99f55519 Une nouvelle escadrille a été mise sur pied.
+ab8fc7b92a ✗
+a8d1d17d08 ✗
+40204900c3 = Bacteria use ⟦restriction⟧ to destroy the DNA of invading viruses. | Les bactéries recourent à la restriction pour détruire l’ADN des virus qui les envahissent.
+e113ad717b = There are new ⟦restrictions⟧ on hand luggage. | Il y a de nouvelles restrictions concernant les bagages à main.
+b82d3ab342 ✗
+e4ab5d49fc Les ingrédients d’une tortilla espagnole sont les pommes de terre, les œufs, l’oignon et un peu de sel.
+839cdf0862 L’innovation n’est qu’un des ingrédients d’une croissance durable.
+1aecff5e99 La patience et la compréhension sont des ingrédients essentiels d’un mariage durable.
+e09706013d Comment amorcer des changements de ce genre ?
+7f85f121b6 C’est un coup très fort, joué au bon moment. Il lance la combinaison tactique qui anéantit les espoirs des Noirs.
+803f18c771 = She ⟦initiated⟧ me into the mysteries of sourdough baking. | Elle m’a initié aux mystères du pain au levain.
+186adf022d ✗
+8b767004c2 = He was ⟦initiated⟧ into a student society in his first year. | Il a été initié à une confrérie étudiante dès sa première année.
+8e33d6323d ✗
+ed792086db = Only ⟦initiates⟧ understand the club’s jargon. | Seuls les initiés comprennent le jargon du club.
+99ab2f3dba Les bijoux étaient très chers dans cette boutique.
+0b325dc516 Elle portait sur elle plus de bijoux qu’il n’en fallait à trois dames réunies.
+c20453b3c4 se réjouir à l’avance des plaisirs d’une visite
+3602fe25bc anticiper les maux de la vie
+2b916390b5 Il serait probablement mort de la main du bourreau, si toutefois la populace n’avait pas devancé celui-ci.
+db6c515f63 L’avocate prévoit d’anticiper une partie de son argumentation.
+1329f7ec2a = A good night’s sleep ⟦renewed⟧ her energy. | Une bonne nuit de sommeil lui a redonné de l’énergie.
+05efaaf0e7 ✗
+574ad2c8f7 Les quartiers en rénovation confrontés aux bâtiments vacants ont cruellement besoin d’autres solutions que la démolition ou des espaces vides dangereux.
+a7af6f837d […] chez ceux qui ont peur, ils font une forte impression, se renouvellent souvent et ramènent à leur esprit ces chimères et ces fictions terribles.
+23c1e351e2 Ils entreprirent de nettoyer la maison pièce par pièce.
+7b382cb51a Ils se lancèrent dans cette nouvelle aventure, sans savoir où elle les mènerait.
+2963c948c7 Ils s’engagèrent à nettoyer la maison pièce par pièce.
+11d8f5c0c6 Il s’engagea à faire davantage d’exercice à l’avenir.
+8d17c416aa ✗
+b75478cbe7 = Dogs can ⟦perceive⟧ sounds that humans cannot hear. | Les chiens perçoivent des sons que les humains ne peuvent pas entendre.
+87f11254fe Ses camarades le considéraient comme un lâche.
+1ff8957400 Nous illustrons nos définitions par des citations ou des exemples simples.
+e0ff9c959b = Let me ⟦illustrate⟧ my point with a story. | Permettez-moi d’illustrer mon propos par une anecdote.
+5159e86341 Le manuel d’économie était illustré de nombreux graphiques.
+688fc48978 ✗
+f556a5aa51 Nous devons attendre qu’ils soient prêts à nous recevoir et veiller à arriver à l’heure convenue.
+0f8b74d567 ✗
+6caf2a4cf9 Neal Kwatra, nommé par Cuomo stratège en chef des campagnes du Parti démocrate de l’État, a été identifié par deux initiés démocrates clés[…]
+0acfd1c569 = The board ⟦appointed⟧ her as the new director. | Le conseil d’administration l’a nommée nouvelle directrice.
+99771ae776 = The meeting will take place at the time ⟦appointed⟧ by the chair. | La réunion aura lieu à l’heure fixée par la présidence.
+b69c3ec5d2 ✗
+ac4ba47fe4 Ce sont nos voisins d’en face.
+dc7743d474 Mon voisin a deux chats bruyants.
+1b8e8e5b3b Tu ne te vengeras pas et tu ne garderas pas de rancune envers les enfants de ton peuple, mais tu aimeras ton prochain comme toi-même : je suis le Seigneur.
+e9ecddf6bf ✗
+77f0312e6c L’algorithme de remplissage par diffusion colore une zone en partant d’un pixel et en visitant récursivement ses voisins.
+e36f66e7ed Le vieux roi gouvernait le pays avec sagesse.
+3e3a533d53 un élève incapable de maîtriser ses impulsions
+7152cc2b09 Conduisez-vous en gens civilisés.
+63f8f958b8 Le hasard détermine l’issue de nombreux jeux de cartes.
+25ce768e99 fixer une date pour le procès
+39538488b1 On affecte 100 à x.
+a8895b6fe9 commettre un avocat d’office à un prisonnier
+d1d76d5150 Elle s’en est bien sortie, vu les circonstances.
+cbd6fcd563 Elle a disparu dans des circonstances un peu inquiétantes.
+ed4900f82f Puis un autre événement se produisit, qui laissa une impression durable dans ma mémoire, bien que je ne fusse qu’un petit enfant.
+3f537127f7 ✗
+1cd4091eb4 ✗
+b4edafaf8b Il convient de remarquer que les chemins de fer japonais sont parmi les plus fréquentés du monde ; de plus, leur trafic augmente.
+45bf491c6d = She made a funny ⟦remark⟧ about my hat. | Elle a fait une remarque amusante sur mon chapeau.
+7a922a3a0c Il se souvient d’une chose que Pete Huntley a dite au déjeuner, juste une remarque en passant, et la réponse lui vient.
+009a4ecae9 Seins gonflés, nausées matinales et absence de règles sont des symptômes classiques de la grossesse.
+8ad7c4cf41 Le médecin lui a dit que sa toux et ses éternuements venaient de ce qu’il était resté trop longtemps sous la pluie.
+035335431a Le mensonge, la dissimulation de ses vrais sentiments et les liaisons sont des symptômes typiques d’un mariage voué à l’échec.
+2b627c9b50 ✗
+87f293312e ✗
+ea7c034619 Les parties sont comprises dans le tout.
+1663af1ce1 Le tout est constitué des parties.
+15b0ad0574 Les parties composent le tout.
+08c3203342 = The claimed device ⟦comprises⟧ a sensor and a battery. | Le dispositif revendiqué comprend un capteur et une batterie.
+e9385cc355 ✗
+7776fb06ea = The ⟦mare⟧ gave birth to a healthy foal. | La jument a mis bas un poulain en bonne santé.
+a8cd4a9918 Cette bécasse a appelé ta mère pour parler de faire une demande de prêt immobilier, et on ne veut pas de ça, hein ?
+ddab4d1638 Dans la méthode illimitée, ils peuvent désigner autant ou aussi peu de pairs qu’ils le jugent bon pour chaque question.
+232387f45b Ses remarques ont démontré son manque de sensibilité.
+34c4e8db7c C’était un criminel condamné.
+3fb249ca09 ✗
+2b17a9db0e = The escaped ⟦convict⟧ was caught two days later. | Le détenu évadé a été repris deux jours plus tard.
+0aa83930cd = Many of Australia’s early settlers were ⟦convicts⟧ sent from Britain. | Beaucoup des premiers colons d’Australie étaient des bagnards envoyés de Grande-Bretagne.
+85b79c72ce J’ai plus de 50 abonnés sur Twitter, mais tous mes tweets ne récoltent que 10 « j’aime ».
+2eb472f433 ✗
+c5d672ab2d Sa médiation amena un compromis. L’opium provoque le sommeil.
+bcd6fed131 Un simple coup d’œil aux résumés de la quatrième saison de la série suffit à provoquer des fous rires pavloviens et des frissons de joie.
+b9ea5c7560 La lecture est le meilleur moyen d’acquérir des connaissances.
+ee8a36e6cd Bob, susnommé, et ses chances actuelles de tirer une honnête indépendance de l’honorable profession à laquelle il s’était consacré.
+0809dc3aa5 = From these two premises we can ⟦derive⟧ a simple conclusion. | De ces deux prémisses, on peut déduire une conclusion simple.
+ce4b250c77 = Linguists ⟦derive⟧ the word “salary” from the Latin for salt. | Les linguistes font dériver le mot anglais « salary » du mot latin désignant le sel.
+b58db57fa4 = Aspirin is ⟦derived⟧ from salicylic acid. | L’aspirine est dérivée de l’acide salicylique.
+994d17f4c4 Ses excellentes capacités d’organisation lui viennent de l’époque où elle était secrétaire dans l’armée.
+a65db253dd Le foyer de la Britannia semble dériver de ceux des Pacific de Bulleid, auxquels il ressemble beaucoup.
+4290c77042 De crainte qu’elle [l’eau] n’engorge les puits […] ils [les ouvriers] la dérivent par d’autres drains.
+66b14edb32 ✗
+fec3173fba Cette volonté originelle et suprême organise le gouvernement.
+f3a50fd143 ✗
+f81b96c812 = Most European homes are supplied with ⟦alternating current⟧ at 230 volts. | La plupart des foyers européens sont alimentés en courant alternatif de 230 volts.
+022e43a8b9 Cette loi devrait être révisée.
+2c08e0ab89 Le chapitre qui traite spécifiquement des cas singuliers est l’étude révisée de Daniel Pipes sur les peuples du tiers-monde de l’Asie centrale soviétique.
+40f491e6dc Je viens tout juste de commencer à réviser pour mes examens.
+b3b06dd308 5 Vaut-il mieux réviser son vocabulaire de temps en temps pendant de longues séances, ou régulièrement par séances courtes ?
+66a40b5815 = After the meeting, she ⟦revised⟧ her opinion of the new manager. | Après la réunion, elle a revu son opinion sur le nouveau responsable.
+29ed13417b critère de choix, de décision, de sélection
+442a040cba = My uncle ⟦Laurence⟧ lives in Dublin. | Mon oncle Laurence habite à Dublin.
+78d505887b ✗
+c98f7ab1fa = On summer nights, ⟦Vega⟧ shines almost directly overhead. | Les nuits d’été, Véga brille presque juste au-dessus de nos têtes.
+4a5441cbaf Faut-il classer « make up » parmi les expressions idiomatiques ou parmi les verbes à particule ?
+0bf552bbf7 Ils ont décidé de classer ces informations secret-défense.
+64fbdabd10 désigner les émeutiers à arrêter
+ae2e1365fb délimiter les frontières d’un pays
+e69da01622 Elle jugea ses efforts insuffisants.
+47b630d1e1 À cette secte appartiennent aussi les Skakounui, ou Sauteurs. […] Ils refusent de prêter serment et ne veulent pas porter les armes, jugeant que verser le sang humain est un péché.
+d19b7fb36a Par exemple, des précipitations record au Royaume-Uni ont fait de février 2020 le mois de février le plus pluvieux jamais enregistré, tandis que juillet 2019 a été jugé le mois le plus chaud jamais enregistré dans le monde.
+8a62c5053d Et crois-tu, comme ceux qui scrutent / De leurs vieux yeux un court chemin devant eux, / Que la Beauté a déserté les rivages / De la matière, et que ton bien-aimé est perdu ?
+5fd196875a « Je déteste mon prénom, moi aussi, il est si sentimental ! Je voudrais que tout le monde dise Jo au lieu de Joséphine. Comment as-tu fait pour que les garçons arrêtent de t’appeler Dora ? »
+89bc55da14 Le joueur vedette de l’équipe de rugby s’est blessé dans une collision violente.
+8d5e8b365f Je me suis blessé à la cheville en jouant au tennis.
+3b2e137093 = Rumours like that can ⟦injure⟧ a company’s reputation. | Ce genre de rumeurs peut nuire à la réputation d’une entreprise.
+18bfdac4df = Wi-Fi signals rely on ⟦phase modulation⟧ to carry data. | Les signaux Wi-Fi s’appuient sur la modulation de phase pour transporter les données.
+5c61fddc4a Il considérait les dix commandements comme une ligne directrice plutôt que comme une obligation.
+e4ae804f10 En 2016, les CDC ont établi des recommandations pour la prescription d’opioïdes contre la douleur chronique.
+c73ce1132c ✗
+fe9cd7f8fb ✗
+e90e682dc2 Il visa à la tête celui qui se tenait le plus près ;
+a787bf1586 La fin est proche !
+b50502d64a Ils étaient trop occupés à haler des cordages, tirant ensemble une grande senne à travers la baie devant eux — et chantant à pleins poumons.
+712e419c8c = Fishermen here still use a beach ⟦seine⟧ to catch sardines. | Ici, les pêcheurs utilisent encore une senne de plage pour attraper les sardines.
+33fa680fcf C’était surtout le cas pour la pêche à la senne des pilchards.
+9a72c65045 Ikenna avait la typhoïde et avait été hospitalisé, où il recevait des injections intraveineuses.
+af60fba53d L’intérieur du véhicule est assez dépouillé : pas de bouteilles d’oxygène, de perfusions intraveineuses ni de machines qui font « bip ».
+9eead65be9 Ces couvertures ont été certifiées ignifuges.
+e5b24f5295 Nos actes nous rendent trois sortes de services. D’abord, ils nous attestent que nous sommes héritiers de la vie éternelle, et que l’Esprit de Dieu, qui en est le gage, est en nous.
+db87592a1f On ne dispose pas d’estimations précises des besoins en capitaux du développement agricole et rural en Inde. Mais les montants nécessaires se chiffrent en centaines de milliers de crores de roupies.
+d29e90c21e En cinquième et en sixième [année], j’ai obtenu des bourses de quatre et dix roupies respectivement, un succès que je dois plus à la chance qu’à mon mérite.
+0154821295 = Link needs fifty ⟦rupees⟧ to buy the shield. | Link a besoin de cinquante rubis pour acheter le bouclier.
+78d3bbbb36 La transformée de Fourier est une technique théorique précieuse, largement utilisée dans des domaines comme les mathématiques appliquées, la statistique, la physique et l’ingénierie.
+2c4e4f0ede Les transformées de Fourier ne s’appliquent pas qu’à des fonctions du temps, mais le domaine de la fonction d’origine est couramment appelé domaine temporel.
+1dd529a475 Watson s’est fait une spécialité de l’embonpoint ; aucune de ses beautés de revue ne saurait passer pour un poids plume.
+c1242a1825 ✗
+005c68830e = Old recipes often give weights in the ⟦apothecaries' system⟧. | Les vieilles recettes donnent souvent les poids selon le système des apothicaires.

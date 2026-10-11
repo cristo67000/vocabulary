@@ -1,6 +1,5 @@
 &	&	0	3	&	
 & co.	& Co.	0	2	et cie	
-'ere	'ere	0	3	ici, par ici	
 'nuff said	'nuff said	0	3	Assez parlé, point barre	x
 's	's	0	3	e, hez	
 'sblood	'sblood	0	3	palsambleu, parsambleu	
@@ -898,7 +897,7 @@ acetic acid	acetic acid	0	3	acide acétique
 acetimeter	acetimeter	0	3	acétimètre	
 acetoacetic acid	acetoacetic acid	0	3	acide acétylacétique	
 acetone	acetone	0	3	acétone	
-acetopropylic	acetopropylic	1	3	acétopropylique	
+acetopropylic	acetopropylic	0	3	acétopropylique	
 acetyl	acetyl	1	3	acétyl	
 acetyl chloride	acetyl chloride	1	3	chlorure d'éthanoyle	
 acetylaminophenol	acetylaminophenol	1	3	acétylaminophénol	
@@ -1798,7 +1797,7 @@ aging management	aging management	1	3	gestion du vieillissement
 agio	agio	1	3	agio	
 agitate	agitate	1	3	secouer, préoccuper, exciter	
 agitated	agitated	1	3	agissant, agité	
-agitation	agitation	2	3	agitation	
+agitation	agitation	1	3	agitation	
 agitato	agitato	2	3	agitato	
 agitator	agitator	2	3	agitateur, agitatrice	
 agitprop	agitprop	2	3	agitprop	
@@ -2077,7 +2076,7 @@ akkadophone	Akkadophone	2	3	akkadophone
 akonting	akonting	2	3	ekonting	
 al dente	al dente	2	3	al dente	
 ala	ala	2	3	aile, α-linolenic acid	
-alabama	Alabama	2	1	Alabama	
+alabama	Alabama	2	2	Alabama	
 alabamian	Alabamian	2	3	alabamien, alabamienne, Alabamien	
 alabaster	alabaster	2	3	albâtre	
 alabastron	alabastron	2	3	alabastre	
@@ -2698,7 +2697,7 @@ am i under arrest	am I under arrest	2	3	suis-je en état d'arrestation?	x
 amab	AMAB	2	3	AMAB	
 amadou	amadou	2	3	amadou	
 amalgam	amalgam	2	3	amalgame	
-amalgamate	amalgamate	3	3	amalgamer	
+amalgamate	amalgamate	2	3	amalgamer	
 amalgamation	amalgamation	3	3	amalgamation	
 amanda	Amanda	3	2	Amanda, Amande	
 amanita	amanita	3	3	amanite, amanite tue-mouches	
@@ -3598,7 +3597,7 @@ anthropography	anthropography	3	3	anthropographie
 anthropoid	anthropoid	3	3	anthropoïde	
 anthropolatry	anthropolatry	3	3	anthropolâtrie	
 anthropological	anthropological	3	3	anthropologique	
-anthropologically	anthropologically	4	3	anthropologiquement	
+anthropologically	anthropologically	3	3	anthropologiquement	
 anthropologist	anthropologist	4	3	anthropologue	
 anthropology	anthropology	4	2	anthropologie	
 anthropometric	anthropometric	4	3	anthropométrique	
@@ -3966,10 +3965,10 @@ anyone	anyone	4	0	personne, quelqu'un, n'importe qui
 anyone else	anyone else	4	2	personne [[d']]autre, toute autre personne	
 anyone's guess	anyone's guess	4	3	surprise, mystère	x
 anyplace	anyplace	4	3	quelque part	
+anything	anything	4	0	rien, n’importe quoi	
 anything but	anything but	4	2	tout sauf	x
 anything else	anything else	4	2	et avec ça, autre chose	
 anything goes	anything goes	4	2		x
-anythink	anythink	4	3	rien, n’importe quoi	
 anytime	anytime	4	2	toujours, à tout moment, n'importe quand	
 anyway	anyway	4	0	quand même, de toute façon, malgré tout	
 anywhere	anywhere	4	1	n'importe où, nulle part, où que ce soit	
@@ -4149,7 +4148,7 @@ apparently	apparently	4	1	apparemment, en apparence, évidemment
 apparition	apparition	4	3	apparition	
 appaume	appaumé	4	3	appaumé	
 appaz	appaz	4	3	askip	
-appeal	appeal	4	0	appel, attrait, faire appel	
+appeal	appeal	4	1	appel, attrait, faire appel	
 appeal from philip drunk to philip sober	appeal from Philip drunk to Philip sober	4	3		x
 appeal to authority	appeal to authority	4	3	argument d'autorité	
 appeal to emotion	appeal to emotion	4	3	appel à l’émotion	
@@ -4498,7 +4497,7 @@ archipelago	archipelago	4	3	archipel
 archiphoneme	archiphoneme	4	3	archiphonème	
 archisynagogue	archisynagogue	4	3	archisynagogue	
 architect	architect	4	1	architecte, architecturer	
-architectural	architectural	5	2	architectural	
+architectural	architectural	4	2	architectural	
 architecturally	architecturally	5	3	architecturalement	
 architecture	architecture	5	1	architecture	
 architranseme	architranseme	5	3	architransème	
@@ -4908,7 +4907,7 @@ as a whole	as a whole	5	2	tout compte fait, en fin de compte, somme toute	x
 as above, so below	as above, so below	5	3	ce qui est en haut est comme ce qui est en bas	x
 as all get-out	as all get-out	5	1	complètement, totalement, comme tout	x
 as always	as always	5	1	comme toujours	x
-as and when	as and when	5	0	tandis que	x
+as and when	as and when	5	1	tandis que	x
 as best one can	as best one can	5	1	au mieux, tant bien que mal, du mieux possible	x
 as clever as a cartload of monkeys	as clever as a cartload of monkeys	5	3		x
 as ever	as ever	5	1		x
@@ -5084,7 +5083,7 @@ ask for the moon	ask for the moon	5	3	demander la lune	x
 ask forgiveness	ask forgiveness	5	3	S’excuser, demander pardon	x
 ask my arse	ask my arse	5	3	ma tête est malade	cx
 ask out	ask out	5	2	inviter à sortir	x
-ask round	ask round	5	2	inviter quelqu’un chez soi	x
+ask round	ask round	5	3	inviter quelqu’un chez soi	x
 ask the impossible	ask the impossible	5	3	demander l'impossible	x
 askance	askance	5	3	de travers, avec méfiance	
 askari	askari	5	3	askari	
@@ -5234,7 +5233,7 @@ assume the mantle	assume the mantle	5	3		x
 assume the position	assume the position	5	3		x
 assumed	assumed	5	1	censé	
 assumption	Assumption	5	3	Assomption	
-assumption	assumption	5	1	assomption, hypothèse, supposition	
+assumption	assumption	5	2	assomption, hypothèse, supposition	
 assurance	assurance	5	2	assurance, culot	
 assure	assure	5	1	rassurer, assurer	
 assuredly	assuredly	5	3	assurément	
@@ -5379,7 +5378,7 @@ at bay	at bay	5	3	à distance, aux abois	x
 at best	at best	5	1	au mieux	x
 at bottom	at bottom	5	3		x
 at cost	at cost	5	2	à prix coûtant	x
-at cost price	at cost price	5	2	À prix coûtant	x
+at cost price	at cost price	5	3	À prix coûtant	x
 at cross-purposes	at cross-purposes	5	3		x
 at daggers drawn	at daggers drawn	5	3	à couteaux tirés	x
 at dark	at dark	5	2	pendant la tombée de la nuit	x
@@ -5398,7 +5397,7 @@ at half-mast	at half-mast	5	3	ou de deuil	x
 at hand	at hand	5	2	sous la main, à portée de main, proche	x
 at heart	at heart	5	2		x
 at home	at home	5	1	à la maison, chez soi, à l'aise	x
-at intervals	at intervals	6	3		x
+at intervals	at intervals	5	3		x
 at issue	at issue	6	2		x
 at it	at it	6	0		x
 at large	at large	6	2	en liberté, en cavale, en général	x
@@ -6059,6 +6058,7 @@ away game	away game	6	2	à l'extérieur	x
 away with the fairies	away with the fairies	6	3	tête en l'air, distrait, étourdi	x
 away with you	away with you	6	1	Bouge, Déguerpissez, Décampez	x
 awe	awe	6	2	crainte, révérence, admiration	
+awesome	awesome	6	0	impressionnant, terrifiant, magnifique	
 awesomely	awesomely	6	3	brillamment, superbement	
 awesomeness	awesomeness	6	3	génialité	
 awestruck	awestruck	6	3	stupéfait	
@@ -6425,7 +6425,7 @@ bad trot	bad trot	7	3		x
 bad weather	bad weather	7	3	gros temps, mauvais temps, temps de chien	
 bad word	bad word	7	2		x
 bad-tempered	bad-tempered	7	3	irascible, acariâtre, revêche	
-badarse	badarse	7	3	dur à cuire, tête, warrior	
+badass	badass	7	2	dur à cuire, tête, warrior	
 baddie	baddie	7	3	méchant	
 baden	Baden	7	3	Bade	
 badge	badge	7	2	plaque, décoration, insigne	
@@ -6457,6 +6457,7 @@ bag snatcher	bag snatcher	7	3	voleur à l'arrachée, voleuse à l'arrachée
 bag valve mask	bag valve mask	7	3	BAVU, ballon autoremplisseur à valve unidirectionnelle	
 bagasse	bagasse	7	3	bagasse	
 bagatelle	bagatelle	7	3	bagatelle, broutille	
+bagel	bagel	7	3	bagel, baguel, beguel	
 baggage	baggage	7	2	colis, bagage	
 baggage car	baggage car	7	3	fourgon, fourgon ferroviaire, camionnette	
 baggage claim	baggage claim	7	3	retrait des bagages	
@@ -7197,7 +7198,7 @@ battlecruiser	battlecruiser	7	3	croiseur de bataille
 battledore	battledore	7	3	battoir	
 battlefield	battlefield	7	2	champ de bataille	
 battlefront	battlefront	7	3	front	
-battleground	battleground	7	3	champ de bataille	
+battleground	battleground	8	3	champ de bataille	
 battlement	battlement	8	3	rempart	
 battleplan	battleplan	8	3	plan de bataille	
 battler	battler	8	3	battant	
@@ -7220,7 +7221,6 @@ bawdy	bawdy	8	3	paillard, grivois
 bawl	bawl	8	3	hurler	
 bawl one's eyes out	bawl one's eyes out	8	3		x
 bawl out	bawl out	8	3		x
-bawn	bawn	8	3	né	
 bay	Bay	8	1	La Baie	
 bay	bay	8	1	baie, laurier, aboiement	
 bay bolete	bay bolete	8	3	bolet bai	
@@ -7295,7 +7295,7 @@ be mother	be mother	8	2	servir le thé	x
 be my guest	be my guest	8	3	se servir, je t'en prie, je vous en prie	x
 be no match for	be no match for	8	2		x
 be off with you	be off with you	8	1	allez-vous-en, va-t'en	x
-be on days	be on days	8	1		x
+be on days	be on days	8	2		x
 be on nights	be on nights	8	3		x
 be on the ball	be on the ball	8	2	être au parfum	x
 be on to	be on to	8	0		x
@@ -7483,7 +7483,6 @@ bec de corbin	bec de corbin	8	3	bec de corbin
 because	because	8	0	car, parce que, à cause que	
 because of	because of	8	1	en raison de, à cause de, grâce à	x
 bechamel sauce	béchamel sauce	8	3	béchamel, sauce béchamel	
-bechune	bechune	8	3	entre	
 beckerian	Beckerian	8	3	beckérien	
 beckett	Beckett	8	3	Beckett	
 beckettian	Beckettian	8	3	beckettien	
@@ -7652,7 +7651,6 @@ beholden	beholden	8	3	redevable
 beholder	beholder	8	3	observateur, regardeur	
 behove	behove	8	3	seoir, incomber	
 beige	beige	8	3	beige	
-beigel	beigel	8	3	bagel, baguel, beguel	
 beignet	beignet	8	3	beignet	
 beijing	Beijing	8	2	Pékin, Beijing	
 beijinger	Beijinger	8	3	Pékinois, Pékinais, Pékinaise	
@@ -7711,6 +7709,7 @@ belize	Belize	8	3	Belize
 belizean	Belizean	8	3	Bélizien, Bélizais, bélizien	
 bell	bell	8	1	cloche, sonnette, sonnerie	
 bell curve	bell curve	8	3	courbe de Gauss	
+bell end	bell end	8	3	nœud, gland	c
 bell housing	bell housing	8	3	carter	
 bell out	bell out	8	3		x
 bell pepper	bell pepper	8	3	poivron	
@@ -7723,7 +7722,6 @@ bell-shaped	bell-shaped	8	3	en forme de cloche
 belladonna	belladonna	8	3	belladone	
 bellboy	bellboy	8	3	chasseur	
 belle	belle	8	2	belle, beauté	
-bellend	bellend	8	3	nœud, gland	c
 belles-lettres	belles-lettres	8	3	belles-lettres	
 bellflower	bellflower	8	3	campanule	
 bellgirl	bellgirl	8	3	chasseuse	
@@ -7945,7 +7943,7 @@ bestiary	bestiary	8	3	bestiaire
 bestow	bestow	8	3	consacrer, remettre, accorder	
 bestride	bestride	8	3	chevaucher	
 bestseller	bestseller	8	3	bestseller, best-seller	
-bet	bet	8	0	pari, parier	
+bet	bet	8	1	pari, parier	
 bet one's boots	bet one's boots	8	3	mettre sa main au feu, mettre sa main à couper	x
 bet one's bottom dollar	bet one's bottom dollar	8	3		x
 bet the farm	bet the farm	8	3		x
@@ -8003,6 +8001,7 @@ betterer	betterer	8	3	améliorateur
 betterment	betterment	8	3	amélioration	
 betti number	Betti number	8	3	nombre de Betti	
 betting shop	betting shop	8	3	boutique de paris	
+between	between	8	0	entre	
 between a rock and a hard place	between a rock and a hard place	8	3	entre l'arbre et l'écorce, entre le marteau et l'enclume, ê…	x
 between jobs	between jobs	8	3	chômeur, chômeuse, sans emploi	x
 between ourselves	between ourselves	8	3		x
@@ -8056,7 +8055,6 @@ bezoar goat	bezoar goat	8	3	chèvre égagre
 bff	BFF	8	3	BFF	
 bg	BG	8	3	historique d’un personnage, diégèse	
 bhikkhu	bhikkhu	8	3	bhikshu	
-bhoy	bhoy	8	0	garçon, gars, boy	
 bhut jolokia	bhut jolokia	8	3	jolokia, piment jolokia	
 bhutan	Bhutan	8	3	Bhoutan	
 bhutanese	Bhutanese	8	3	bhoutanais, Bhoutanais, Bhoutanaise	
@@ -8098,8 +8096,8 @@ bibliophobia	bibliophobia	8	3	bibliophobie
 bibliotherapy	bibliotherapy	8	3	bibliothérapie	
 biblist	biblist	8	3	bibliste	
 bica	bica	8	3	bica	
-bicalutamide	bicalutamide	9	3	bicalutamide	
-bicameral	bicameral	9	3	bicaméral	
+bicalutamide	bicalutamide	8	3	bicalutamide	
+bicameral	bicameral	8	3	bicaméral	
 bicameralism	bicameralism	9	3	bicaméralisme	
 bicarbonate	bicarbonate	9	3	bicarbonate	
 bicaudal	bicaudal	9	3	bicaudé	
@@ -8825,7 +8823,6 @@ bladderpod	bladderpod	9	3	tabac indien
 bladderwort	bladderwort	9	3	utriculaire	
 blade	blade	9	1	lame, brin	
 blade of grass	blade of grass	9	3	brin d’herbe	
-blag	blag	9	2	blog, blogue, bloguer	
 blagger	blagger	9	3	baratineur, braqueur	
 blah	blah	9	2	blabla, bla-bla	
 blah blah blah	blah blah blah	9	3	et patati et patata, blablabla	x
@@ -8998,9 +8995,9 @@ block chord	block chord	9	3	block chord
 block code	block code	9	3	code en bloc	
 block comment	block comment	9	3	commentaire en bloc	
 block heater	block heater	9	3	chauffe-bloc moteur, chauffe-bloc, chauffe-moteur	
-block hour	block hour	10	3	temps de vol cale à cale	
-block of flats	block of flats	10	3	immeuble résidentiel	
-block out	block out	10	3		x
+block hour	block hour	9	3	temps de vol cale à cale	
+block of flats	block of flats	9	3	immeuble résidentiel	
+block out	block out	9	3		x
 block polymer	block polymer	10	3	polymère à blocs	
 block validation	block validation	10	3	validation de bloc	
 blockade	blockade	10	2	blocus, bloquer, obstruer	
@@ -9013,6 +9010,7 @@ blockhouse	blockhouse	10	3	casemate
 blocking and tackling	blocking and tackling	10	3		x
 blocklist	blocklist	10	3	liste de prohibition	
 blockquote	blockquote	10	3	citation en exergue, citation en retrait	
+blog	blog	10	1	blog, blogue, bloguer	
 blogger	blogger	10	2	blogueur, blogueuse	
 blogosphere	blogosphere	10	3	blogosphère	
 blogpost	blogpost	10	3	billet	
@@ -9676,6 +9674,7 @@ boring	boring	10	1	alésage, ennuyeux, barbant
 boring as beans	boring as beans	10	3	extrêmement ennuyeux	x
 boring as hell	boring as hell	10	3	extrêmement ennuyeux	x
 boris	Boris	10	2	Boris	
+born	born	10	0	né	
 born and bred	born and bred	10	3		x
 born in a barn	born in a barn	10	3		x
 born ready	born ready	10	3	absolument prêt·e	x
@@ -9898,7 +9897,7 @@ box jellyfish	box jellyfish	10	3	méduse-boîte
 box of toys	box of toys	10	3	bruit	
 box office	box office	10	3	guichet, billetterie	
 box oneself into a corner	box oneself into a corner	10	3		x
-box plot	box plot	11	3	boîte à moustaches	
+box plot	box plot	10	3	boîte à moustaches	
 box room	box room	11	3	pièce de rangement	
 box seat	box seat	11	3	siège	x
 box someone's ears	box someone's ears	11	3		x
@@ -9917,6 +9916,7 @@ boxing day	Boxing Day	11	3	lendemain de Noël, Saint-Étienne, Boxing Day
 boxing glove	boxing glove	11	3	gant de boxe	
 boxing ring	boxing ring	11	3	ring de boxe	
 boxwood	boxwood	11	3	buis	
+boy	boy	11	0	garçon, gars, boy	
 boy band	boy band	11	3	boys band	
 boy howdy	boy howdy	11	3		x
 boy in the boat	boy in the boat	11	3		x
@@ -10464,7 +10464,7 @@ brochure	brochure	11	3	brochure
 brocket	brocket	11	3	daguet	
 brogue	brogue	11	3	brogue	
 broil	broil	11	3	griller, échauffourée	
-broke	broke	11	0	fauché, à sec, désargenté	
+broke	broke	11	1	fauché, à sec, désargenté	
 broke off	broke off	11	3	prétérit de \break off\	x
 broken	broken	11	1	cassé, brisé, rompu	
 broken heart	broken heart	11	3	cœur brisé, cœur blessé	x
@@ -10704,7 +10704,7 @@ buckthorn	buckthorn	11	3	nerprun, nerprun purgatif
 buckwheat	buckwheat	11	3	sarrasin, blé noir, blé sarrasin	
 bucolic	bucolic	11	3	bucolique, pastoral	
 bucranium	bucranium	11	3	bucrane	
-bud	bud	11	1	bouton, bourgeon, beu	
+bud	bud	11	2	bouton, bourgeon, beu	
 budapest	Budapest	11	3	Budapest	
 budapestian	Budapestian	11	3	budapestois, budapestoise, Budapestois	
 buddha	Buddha	11	2	Bouddha, bouddha	
@@ -14470,7 +14470,7 @@ class struggle	class struggle	16	3	lutte des classes
 class variable	class variable	16	3	variable de classe	
 classeme	classeme	16	3	classème	
 classic	classic	16	1	classique	
-classical	classical	16	1	classique	
+classical	classical	16	2	classique	
 classical college	classical college	16	3	collège classique	
 classical conditioning	classical conditioning	16	3	conditionnement classique, conditionnement pavlovien	
 classical greek	Classical Greek	16	3	grec classique	
@@ -14756,7 +14756,7 @@ close-fitting	close-fitting	16	3	serré
 close-knit	close-knit	16	3	à taille humaine	
 close-mid	close-mid	16	3	mi-fermé	
 close-up	close-up	16	3	gros plan, plan rapproché	
-closed	closed	16	0	fermé, privé	
+closed	closed	16	1	fermé, privé	
 closed book	closed book	16	3		x
 closed e	closed e	16	3	e fermé	
 closed interval	closed interval	16	3	intervalle fermé	
@@ -15406,7 +15406,7 @@ colossal	colossal	17	3	colossal
 colossus	colossus	17	3	colosse	
 colostomy	colostomy	17	3	colostomie	
 colostrum	colostrum	17	3	colostrum	
-colour	colour	17	0	couleur, en couleur, colorer	
+colour	colour	17	1	couleur, en couleur, colorer	
 colour blind	colour blind	17	3	daltonien	x
 colour blindness	colour blindness	17	3	daltonisme	
 colour composite	colour composite	17	3	composition colorée, image en équidensité colorée	
@@ -16403,6 +16403,7 @@ connected tv	connected TV	18	3	téléviseur connecté
 connected vehicle	connected vehicle	18	3	véhicule connecté	
 connecticut	Connecticut	18	2	Connecticut	
 connecting rod	connecting rod	18	3	bielle	x
+connection	connection	18	1	lien, connexion, rapport	
 connectionist	connectionist	18	3	connexionniste	
 connections	connections	18	1	piston	
 connective tissue	connective tissue	18	3	tissu conjonctif	
@@ -16411,7 +16412,6 @@ connectome	connectome	18	3	connectome
 connectomic	connectomic	18	3	connectomique	
 connectomics	connectomics	18	3	connectomique	
 connector	connector	18	2	connecteur	
-connexion	connexion	18	3	lien, connexion, rapport	
 conning tower	conning tower	18	3	kiosque	
 conniption	conniption	18	3	crise de colère, crise de panique	
 connivance	connivance	18	3	connivence	
@@ -16785,7 +16785,7 @@ controlled clinical trial	controlled clinical trial	18	3	essai clinique contrôl
 controlled mosaic	controlled mosaic	18	3	photoplan	
 controlled substance	controlled substance	18	3	substance contrôlée	
 controlled trial	controlled trial	18	3	essai clinique contrôlé	
-controller	controller	18	1	contrôleur, contrôleuse, manette	
+controller	controller	18	2	contrôleur, contrôleuse, manette	
 contronym	contronym	18	3	énantiosème	
 contronymy	contronymy	18	3	énantiosémie	
 controversial	controversial	18	2	polémique, controversé	
@@ -17406,7 +17406,6 @@ counterexample	counterexample	19	3	contrexemple
 counterfactual	counterfactual	19	3	contrefactuel	
 counterfeit	counterfeit	19	3	contrefait, contrefaçon, contrefaire	
 counterfeiter	counterfeiter	19	3	contrefacteur, faux-monnayeur	
-counterie	counterie	19	0	pays, contrée, campagne	
 counterinstitutionalization	counterinstitutionalization	19	3	contre-institutionnalisation	
 counterintuitive	counterintuitive	19	3	contre-intuitif	
 counterion	counterion	19	3	contre-ion	
@@ -17444,6 +17443,7 @@ counting rhyme	counting rhyme	19	3	comptine
 counting rod	counting rod	19	3	baguette à calculer	
 counting-out game	counting-out game	19	3	formulette	
 countless	countless	19	2	sans nombre, innombrable, incalculable	
+country	country	19	0	pays, contrée, campagne	
 country bumpkin	country bumpkin	19	3	péquenaud	
 country club	country club	19	2	country club	
 country code	country code	19	2	code de pays, code pays	
@@ -18889,7 +18889,6 @@ daffodil	daffodil	20	3	narcisse, jonquille
 daffy	daffy	20	3	un peu fou	
 daft	daft	20	3	dingue, simplet, branque	
 daft as a brush	daft as a brush	20	3		x
-dag	dag	20	1	chien, chien mâle, thon	
 dagesh	dagesh	20	3	dagesh	
 dagestani	Dagestani	20	3	daghestanais, Daghestanais, Daghestanaise	
 dagger	dagger	20	2	poignard, kandjar, croix	
@@ -18898,11 +18897,10 @@ dagon	dagon	20	3	pièce, bout
 daguerreotype	daguerreotype	20	3	daguerréotype, daguerréotyper	
 daguerreotypy	daguerreotypy	20	3	daguerréotypie	
 dagwood	dagwood	20	3	dagwood	
-dagwood dog	dagwood dog	21	3	pogo	
+dagwood dog	dagwood dog	20	3	pogo	
 dagwood sandwich	Dagwood sandwich	21	3	dagwood	
 dah	dah	21	3	ta	
 dahlia	dahlia	21	3	dahlia	
-dahn	dahn	21	2	à bas, en bas, sud	
 dahu	dahu	21	3	dahu	
 daikon	daikon	21	3	radis blanc, daïkon, radis chinois	
 daily	daily	21	0	quotidien, journalier, tous les jours	
@@ -19108,7 +19106,6 @@ dashcam	dashcam	21	3	caméra-témoin de circulation, dashcam
 dashing	dashing	21	3	fringant	
 dashpot	dashpot	21	3	piston	
 dassie	dassie	21	3	daman	
-dat	dat	21	1	que, pour que, ce	
 data	data	21	0	données	
 data attribute	data attribute	21	3	attribut de données	
 data broker	data broker	21	3	courtier de données, data broker	
@@ -19787,8 +19784,8 @@ deflation	deflation	21	3	déflation
 deflationary	deflationary	21	3	déflationniste	
 deflea	deflea	21	3	épucer	
 deflect	deflect	21	3	détourner, dévier	
+deflection	deflection	21	3	déflexion	
 deflector	deflector	21	3	déflecteur	
-deflexion	deflexion	21	3	déflexion	
 defloration	defloration	21	3	défloration	
 deflower	deflower	21	3	dépuceler, déflorer	
 defo	defo	21	3	totalement, absolument, carrément	
@@ -19798,9 +19795,9 @@ defoliate	defoliate	21	3	défolier
 defoliation	defoliation	21	3	défolitation	
 defoliator	defoliator	21	3	défoliateur	
 deforest	deforest	21	3	déboiser, déforester	
-deforestation	deforestation	22	3	déforestation, déboisement	
-deform	deform	22	3	déformer	
-deformation	deformation	22	3	déformation	
+deforestation	deforestation	21	3	déforestation, déboisement	
+deform	deform	21	3	déformer	
+deformation	deformation	21	3	déformation	
 deformed	deformed	22	3	difforme	
 deformity	deformity	22	3	déformation, difformité	
 defragment	defragment	22	3	défragmenter	
@@ -20358,7 +20355,7 @@ deserticolous	deserticolous	22	3	déserticole
 desertification	desertification	22	3	désertification	
 desertify	desertify	22	3	désertifier	
 desertion	desertion	22	3	désertion	
-deserve	deserve	22	0	mériter	
+deserve	deserve	22	1	mériter	
 desiccant	desiccant	22	3	absorbeur d'humidité	
 desiccate	desiccate	22	3	secher, déshydrater, mettre à sec	
 desiccation	desiccation	22	3	dessiccation	
@@ -20617,7 +20614,6 @@ dhimmitude	dhimmitude	22	3	dhimmitude
 dhivehi	Dhivehi	22	3	divehi	
 dhole	dhole	22	3	dhole	
 dhoti	dhoti	22	3	pagne	
-dhrink	dhrink	22	1	boire, verre, boisson	
 dhuhr	dhuhr	22	3	dhohr	
 dhunnunid	Dhunnunid	22	3	dhunnunide, Dhunnunide	
 di	DI	22	1	detective inspector, injection de dépendances, imagerie de …	
@@ -20698,10 +20694,10 @@ diamond jubilee	diamond jubilee	22	3	jubilé de diamant
 diamondiferous	diamondiferous	22	3	diamantifère	
 diamonds	diamonds	22	2	carreau	
 diamonds are forever	diamonds are forever	22	3	Les diamants sont éternels, Les diamants sont à jamais	x
-diana	Diana	23	2	Diane	
-dianetic	Dianetic	23	3	dianétique	
-dianetics	Dianetics	23	3	dianétique	
-diapause	diapause	23	3	diapause	
+diana	Diana	22	2	Diane	
+dianetic	Dianetic	22	3	dianétique	
+dianetics	Dianetics	22	3	dianétique	
+diapause	diapause	22	3	diapause	
 diapedesis	diapedesis	23	3	diapédèse	
 diaper	diaper	23	2	couche, couche-culotte, langer	
 diaper lover	diaper lover	23	3	amateur de couches	
@@ -21135,7 +21131,7 @@ directional	directional	23	3	directionnel
 directional derivative	directional derivative	23	3	dérivée directionnelle	
 directions	directions	23	2	mode d'emploi	
 directive	directive	23	2	directive, directif	
-directly	directly	23	0	directement, tout droit	
+directly	directly	23	1	directement, tout droit	
 directly proportional	directly proportional	23	3	directement proportionnel	x
 director	director	23	0	directeur, directrice, régisseur	
 director general	director general	23	2	directeur général	
@@ -21175,7 +21171,6 @@ dirty trick	dirty trick	23	3	coup bas, sale coup
 dirty war	dirty war	23	3	guerre sale	
 dirty word	dirty word	23	3	gros mot	x
 dirty work	dirty work	23	3	basse besogne, sale boulot	x
-dis	dis	23	2	ce, cette, ce ... ci	
 dis-	dis-	23	3	dé-	
 disability	disability	23	1	invalidité, pension d'invalidité	
 disability sport	disability sport	23	3	handisport	
@@ -21498,7 +21493,7 @@ disrupt	disrupt	23	2	déranger, perturber, interrompre
 disrupter	disrupter	23	3	perturbateur	
 disruption	disruption	23	2	rupture, interruption, perturbation	
 disruptive	disruptive	23	3	dérangeant, perturbant	
-diss	diss	23	3	insulter, diffamer	
+diss	diss	23	2	insulter, diffamer	
 dissatisfaction	dissatisfaction	23	3	mécontentement, insatisfaction	
 dissatisfied	dissatisfied	23	3	mécontent, insatisfait	
 dissect	dissect	23	3	disséquer	
@@ -21598,11 +21593,11 @@ disturbed orbit	disturbed orbit	23	3	orbite perturbée
 disturbing	disturbing	23	2	dérangeant, perturbant	
 disturbingly	disturbingly	23	3	étrangement, de façon troublante	
 disulfide bond	disulfide bond	23	3	pont disulfure	
-disunity	disunity	24	3	désunion	
-disuse	disuse	24	3	désuétude	
-disused	disused	24	3	désuet, désaffecté	
-disyllabic	disyllabic	24	3	dissyllabique, bisyllabique	
-dit	dit	24	3	ti	
+disunity	disunity	23	3	désunion	
+disuse	disuse	23	3	désuétude	
+disused	disused	23	3	désuet, désaffecté	
+disyllabic	disyllabic	23	3	dissyllabique, bisyllabique	
+dit	dit	23	3	ti	
 ditch	ditch	24	2	rigole, fossé, tranchée	
 ditetrahedral	ditetrahedral	24	3	ditétraédral, ditétraédrique	
 ditheism	ditheism	24	3	dithéisme	
@@ -21871,6 +21866,7 @@ does anyone here speak english	does anyone here speak English	24	3	est-ce qu'il 
 does the pope shit in the woods	does the Pope shit in the woods	24	3		x
 does the pope wear a funny hat	does the Pope wear a funny hat	24	3		x
 doff	doff	24	3	enlever, ôter	
+dog	dog	24	0	chien, chien mâle, thon	
 dog and cat	dog and cat	24	3		x
 dog and pony show	dog and pony show	24	3		x
 dog around	dog around	24	2		x
@@ -21878,7 +21874,7 @@ dog cart	dog cart	24	3	voiture à chien, charrette anglaise
 dog collar	dog collar	24	3	collier	
 dog days	dog days	24	2	canicule	
 dog eat dog	dog eat dog	24	3	loi de la jungle	x
-dog food	dog food	24	2	nourriture pour chien	
+dog food	dog food	24	3	nourriture pour chien	
 dog handler	dog handler	24	3	maître-chien	
 dog in the hunt	dog in the hunt	24	3		x
 dog in the manger	dog in the manger	24	3	Le Chien du jardinier	x
@@ -21940,7 +21936,7 @@ dolichocephaly	dolichocephaly	24	3	dolichocéphalie, dolichocrânie
 dolichophallic	dolichophallic	24	3	dolichophallique	
 dolichostenomelia	dolichostenomelia	24	3	dolichosténomélie	
 dolium	dolium	24	3	dolium	
-doll	doll	24	1	poupée	
+doll	doll	24	2	poupée	
 doll up	doll up	24	3	se pomponner, se faire beau	x
 doll's house	doll's house	24	3	maison de poupée	
 dollar	dollar	24	0	dollar	
@@ -22270,6 +22266,7 @@ dowdy	dowdy	24	3	vieux jeu
 dowdy up	dowdy up	24	3		x
 dowel	dowel	24	3	cheville, goujon	
 dower	dower	24	3	dot, douaire	
+down	down	24	0	à bas, en bas, sud	
 down and out	down and out	24	1		x
 down at heel	down at heel	24	3		x
 down bow	down bow	24	3	tiré	
@@ -22359,6 +22356,7 @@ draconian	draconian	24	3	draconien
 dracula	Dracula	24	3	Dracula	
 draculin	draculin	24	3	draculine	
 draff	draff	24	3	drêche	
+draft	draft	24	1	courant d'air, tirage, gorgée	
 draft animal	draft animal	24	3	animal de trait	
 draftee	draftee	24	3	appelé	
 drag	drag	24	1	trainée, taffe, emmerdeuse	
@@ -22433,7 +22431,6 @@ drastic conditions	drastic conditions	24	3	conditions drastiques
 drastic times call for drastic measures	drastic times call for drastic measures	24	3		x
 drastically	drastically	24	2	extrêmement	
 drat	drat	24	3	jurer, mince	
-draught	draught	24	2	courant d'air, tirage, gorgée	
 draught animal	draught animal	24	3	bête de somme, animal de trait, bête de trait	
 draught horse	draught horse	24	3	cheval de trait, jument de trait, étalon de trait	
 draughtproof	draughtproof	24	3	calfeutré, calfeutrer	
@@ -22498,9 +22495,9 @@ dreamer	dreamer	24	3	rêveur, rêveuse, barbacou à croupion blanc
 dreamland	dreamland	24	3	pays imaginaire, pays de rêve, paradis	
 dreamlike	dreamlike	24	3	rêveur, onirique	
 dreamt	dreamt	24	3	rêvé	
-dreary	dreary	25	3	terne, insipide, maussade	
-dredge	dredge	25	3	draguer	
-dredger	dredger	25	3	dragueur, bateau de dragage	
+dreary	dreary	24	3	terne, insipide, maussade	
+dredge	dredge	24	3	draguer	
+dredger	dredger	24	3	dragueur, bateau de dragage	
 dredging	dredging	25	3	dragage	
 dregs	dregs	25	3	lie	
 dreidel	dreidel	25	3	dreydel, sevivon	
@@ -22546,6 +22543,7 @@ drill	drill	25	1	percer, forer, s'entraîner
 drill bit	drill bit	25	3	foret, mèche	
 drill down	drill down	25	3	creuser, regarder en détail	x
 driller	driller	25	3	foreur, perceur	
+drink	drink	25	0	boire, verre, boisson	
 drink from a fire hose	drink from a fire hose	25	3	consommer trop d’information	x
 drink from a firehose	drink from a firehose	25	3		x
 drink like a fish	drink like a fish	25	3	boire comme un trou	x
@@ -22606,7 +22604,7 @@ driver's license	driver's license	25	3	permis de conduire
 driver's seat	driver's seat	25	3	siège conducteur	
 driveshaft	driveshaft	25	3	arbre	
 driveway	driveway	25	2	allée	
-driving	driving	25	0	moteur, conduite	
+driving	driving	25	1	moteur, conduite	
 driving force	driving force	25	3	moteur, force motrice	
 driving licence	driving licence	25	3	permis de conduire	
 driving range	driving range	25	3	practice	
@@ -22747,7 +22745,7 @@ drupaceous	drupaceous	25	3	drupacé
 drupe	drupe	25	3	drupe	
 drupelet	drupelet	25	3	drupéole	
 druze	Druze	25	3	Druze, Druzes	
-dry	dry	25	0	sec, anhydre, sécher	
+dry	dry	25	1	sec, anhydre, sécher	
 dry behind the ears	dry behind the ears	25	3		x
 dry cell	dry cell	25	3	pile sèche	
 dry cleaner	dry cleaner	25	3	pressing, teinturier	
@@ -23158,7 +23156,7 @@ e.g.	e.g.	25	3	par ex.
 ea.	ea.	25	3	ch.	
 each	each	25	0	chaque, chacun	
 each and every	each and every	25	2	chaque	
-each other	each other	25	1	l'un l'autre, les uns les autres	
+each other	each other	25	2	l'un l'autre, les uns les autres	
 eager	eager	25	2	impatient, enthousiaste, désireux	
 eager beaver	eager beaver	25	3	Personne enthousiaste et consciencieuse	x
 eagerly	eagerly	25	3	avidement	
@@ -23240,7 +23238,7 @@ earthling	Earthling	25	3	terrien, terrienne
 earthly	earthly	25	3	terrestre	
 earthly branch	earthly branch	25	3	branche terrestre	
 earthly paradise	earthly paradise	25	3	paradis terrestre	
-earthquake	earthquake	25	1	séisme, tremblement de terre	
+earthquake	earthquake	25	2	séisme, tremblement de terre	
 earthrise	earthrise	25	3	lever de Terre	
 earthset	earthset	25	3	coucher de Terre	
 earthshine	earthshine	25	3	clair de Terre, lumière cendrée	
@@ -23398,8 +23396,8 @@ echinoderm	echinoderm	25	3	échinoderme
 echinofauna	echinofauna	25	3	échinofaune	
 echo	Echo	25	3	Écho	
 echo	echo	25	1	écho	
-echo chamber	echo chamber	26	3	chambre réverbérante, écho, chambre d'écho	
-echo sounder	echo sounder	26	3	échosondeur	
+echo chamber	echo chamber	25	3	chambre réverbérante, écho, chambre d'écho	
+echo sounder	echo sounder	25	3	échosondeur	
 echo sounding	echo sounding	26	3	échosondage	
 echocardiogram	echocardiogram	26	3	échocardiogramme	
 echocardiography	echocardiography	26	3	échocardiographie	
@@ -23509,7 +23507,6 @@ edamame	edamame	26	3	edamame
 edaphic	edaphic	26	3	édaphique	
 edaphology	edaphology	26	3	édaphologie	
 edc	EDC	26	3	EDC	
-eddication	eddication	26	3	éducation, enseignement	
 eddy	eddy	26	3	remous, contre-courant, tourbillon	
 eddy current	eddy current	26	3	courants de Foucault	
 edelweiss	edelweiss	26	3	edelweiss, édelweiss	
@@ -23566,6 +23563,7 @@ educate	educate	26	2	éduquer
 educated	educated	26	1	cultivé, éclairé, avisé	
 educated guess	educated guess	26	3	estimation éclairée, hypothèse bien fondée, hypothèse raiso…	
 educatee	educatee	26	3	élève	
+education	education	26	0	éducation, enseignement	
 educational	educational	26	1	éducatif	
 educational institution	educational institution	26	3	établissement d'enseignement	
 educational software	educational software	26	3	logiciel éducatif	
@@ -24298,8 +24296,8 @@ emr	EMR	26	3	dossier médical numérique, dossier médical partagé, radiati…
 emt	EMT	26	3	ambulancier paramédical, ambulancière paramédicale	
 emu	EMU	26	3	UEM	
 emu	emu	26	3	émeu, émeus	
-emulate	emulate	27	3	imiter, émuler, copier	
-emulation	emulation	27	3	émulation	
+emulate	emulate	26	3	imiter, émuler, copier	
+emulation	emulation	26	3	émulation	
 emulator	emulator	27	3	émulateur, émulatrice	
 emulsifier	emulsifier	27	3	émulsifiant	
 emulsify	emulsify	27	3	émulsifier; émulsionner	
@@ -25190,7 +25188,7 @@ essive case	essive case	27	3	essif
 est	EST	27	3	STA, HNE	
 est	est	27	2	lus, s, es	
 establish	establish	27	1	affermir, établir	
-established	established	27	0	établi	
+established	established	27	1	établi	
 established order	established order	27	3	ordre établi	
 establishment	establishment	27	1	établissement, système, establishment	
 estate	estate	27	1	patrimoine, proprieté, biens	
@@ -25198,8 +25196,8 @@ estate agent	estate agent	27	3	agent immobilier, agente immobilière
 estate car	estate car	27	3	break	
 estate of	estate of	27	3	succession	
 esteem	esteem	27	2	respect, estime, respecter	
-ester	ester	28	3	ester	
-esterification	esterification	28	3	estérification	
+ester	ester	27	3	ester	
+esterification	esterification	27	3	estérification	
 esterify	esterify	28	3	estérifier	
 esther	Esther	28	2	Esther	
 estimate	estimate	28	0	estimation, devis, estimer	
@@ -25585,8 +25583,8 @@ evert	evert	28	3	retourner
 every	every	28	0	tout, chaque	
 every bit	every bit	28	2	complètement, exactement	x
 every cloud has a silver lining	every cloud has a silver lining	28	3	un mal pour un bien, à quelque chose malheur est bon, après…	x
-every day	every day	28	1	tous les jours, chaque jour	x
-every dog has its day	every dog has its day	28	2	à chacun son heure de gloire, à chacun vient sa chance	x
+every day	every day	28	2	tous les jours, chaque jour	x
+every dog has its day	every dog has its day	28	3	à chacun son heure de gloire, à chacun vient sa chance	x
 every inch	every inch	28	3		x
 every jack has his jill	every Jack has his Jill	28	3		x
 every last	every last	28	2		x
@@ -25689,7 +25687,7 @@ exaggerate	exaggerate	28	2	exagérer, outrer
 exaggeration	exaggeration	28	3	exagération	
 exalt	exalt	28	3	vanter, hausser, exalter	
 exalted	exalted	28	3	vanté, exalté	
-exam	exam	28	1	examen	
+exam	exam	28	2	examen	
 exam paper	exam paper	28	3	sujet, copie	
 examination	examination	28	1	examen	
 examination of conscience	examination of conscience	28	3	examen de conscience	
@@ -26098,8 +26096,8 @@ external link	external link	28	3	lien externe
 externality	externality	28	3	externalité	
 externalization	externalization	28	3	extériorisation	
 externally	externally	28	3	externement	
-extimate	extimate	29	3	extimité	
-extinct	extinct	29	2	disparu, éteint	
+extimate	extimate	28	3	extimité	
+extinct	extinct	28	2	disparu, éteint	
 extinction	extinction	29	2	extinction	
 extinguish	extinguish	29	3	éteindre	
 extinguisher	extinguisher	29	3	extincteur	
@@ -26308,7 +26306,6 @@ facilities report	facilities report	29	3	fiche technique
 facility	facility	29	0	centre, matériel, installation	
 facing	facing	29	1	parement	
 faciomuscular	faciomuscular	29	3	faciomusculaire	
-fack	fack	29	0	foutre, baiser, fourrer	c
 facsimile	facsimile	29	3	fac-similé, fax, télécopieur	
 fact	fact	29	0	fait, vérité	
 fact checking	fact checking	29	3	fact-checking	
@@ -26673,7 +26670,6 @@ fare dodger	fare dodger	29	3	resquilleur, resquilleuse
 fare thee well	fare thee well	29	3	adieu	x
 farewell	farewell	29	2	adieu, prendre congé, dire adieu	
 farinaceous	farinaceous	29	3	farinacé	
-farken	farken	29	1	foutu, maudit, foutue	
 farm	farm	29	0	domaine, ferme, exploitation agricole	
 farm animal	farm animal	29	3	animal de ferme	
 farm nigger	farm nigger	29	3		x
@@ -26998,10 +26994,10 @@ feldspar	feldspar	29	3	feldspath
 felicia	Felicia	29	3	Félicie	
 felicitations	felicitations	29	3	félicitations	
 felicity	Felicity	29	3	Félicité	
-felicity	felicity	30	3	félicité	
-felid	felid	30	3	félidé	
-feline	feline	30	3	félin	
-felinity	felinity	30	3	félinité	
+felicity	felicity	29	3	félicité	
+felid	felid	29	3	félidé	
+feline	feline	29	3	félin	
+felinity	felinity	29	3	félinité	
 felinoid	felinoid	30	3	félinoïde	
 felix	Felix	30	2	Félix	
 fell	fell	30	1	abattre, faire tomber	
@@ -27472,6 +27468,7 @@ financier	financier	30	3	financière, financier
 financieress	financieress	30	3	financière	
 finasteride	finasteride	30	3	finastéride	
 finch	finch	30	3	pinson	
+find	find	30	0	trouver, trouvaille	
 find another gear	find another gear	30	3		x
 find back	find back	30	1	retrouver	x
 find fault	find fault	30	3	pinailler	x
@@ -27696,7 +27693,7 @@ first-rate	first-rate	30	3	de premier choix
 firstborn	firstborn	30	3	aîné, ainé, premier-né	
 firstly	firstly	30	2	avant tout, en premier lieu, premièrement	
 firth	firth	30	3	estuaire, fjord, en Écosse	
-fiscal	fiscal	30	1	budgétaire	
+fiscal	fiscal	30	2	budgétaire	
 fiscal cliff	fiscal cliff	30	3	couperet budgétaire	
 fiscal policy	fiscal policy	30	3	politique budgétaire	
 fiscal year	fiscal year	30	3	année fiscale, exercice fiscal, exercice comptable	
@@ -27898,9 +27895,9 @@ flap steak	flap steak	30	3	bavette, bavette de bas de surlonge
 flapjack	flapjack	30	3	flapjack	
 flapper	flapper	30	3	garçonne	
 flare	flare	30	2	fusée lumineuse, feu de Bengale, feu de bengale	
-flare gun	flare gun	31	3	pistolet de détresse	
-flare up	flare up	31	3	se raviver, s'embraser, emporter	x
-flash	Flash	31	2	Flash	
+flare gun	flare gun	30	3	pistolet de détresse	
+flare up	flare up	30	3	se raviver, s'embraser, emporter	x
+flash	Flash	30	2	Flash	
 flash	flash	31	1	clignoter, s'exhiber, flash	
 flash back	flash back	31	3	faire un flashback	x
 flash card	flash card	31	3	fiche, carte mémoire	
@@ -28331,7 +28328,6 @@ foghorn	foghorn	31	3	corne de brume
 foible	foible	31	3	travers, faiblesse, faible	
 foie gras	foie gras	31	3	foie gras	
 foil	foil	31	2	feuille de métal, alu, papier d'aluminium	
-foind	foind	31	0	trouver, trouvaille	
 foist	foist	31	3	refourguer, imposer	
 folate	folate	31	3	folate	
 fold	fold	31	1	plier, incorporer, s’écrouler	
@@ -28397,6 +28393,7 @@ fondness	fondness	31	3	affection
 fondue	fondue	31	3	fondue	
 fondue fork	fondue fork	31	3	fourchette à fondue	
 fonio	fonio	31	3	fonio	
+font	font	31	2	fonts, police, fonte	
 fontanelle	fontanelle	31	3	fontanelle	
 fontange	fontange	31	3	fontange	
 foo	foo	31	3	foo, idiot, Sot	
@@ -28798,9 +28795,9 @@ formalin	formalin	31	3	formol
 formalise	formalise	31	3	formaliser	
 formalism	formalism	31	3	formalisme	
 formalist	formalist	31	3	formaliste	
-formality	formality	32	3	formalité	
-formally	formally	32	2	formellement	
-formant	formant	32	3	formant	
+formality	formality	31	3	formalité	
+formally	formally	31	2	formellement	
+formant	formant	31	3	formant	
 format	format	32	1	format	
 formate	formate	32	3	formiate	
 formation flight	formation flight	32	3	vol en formation	
@@ -29594,6 +29591,7 @@ ftw	FTW	32	3	slogan antisocial
 fubar	FUBAR	32	3	foutu, HS	
 fuchsia	fuchsia	32	3	fuchsia	
 fuchsian	Fuchsian	32	3	fuchsien	
+fuck	fuck	32	0	foutre, baiser, fourrer	c
 fuck a duck	fuck a duck	32	3	interjection exprimant la surprise	cx
 fuck about	fuck about	32	2	faire n’importe quoi, faire des bêtises, des conneries	x
 fuck all	fuck all	32	2	que dalle	c
@@ -29630,6 +29628,7 @@ fucked up	fucked up	32	3	foutu, bourré, pété	cx
 fucker	fucker	32	2	baiseur	c
 fuckface	fuckface	32	3		c
 fuckhead	fuckhead	32	3	enculé	c
+fucking	fucking	32	0	foutu, maudit, foutue	
 fucking a	fucking A	32	2	« génial », « super »	cx
 fucking hell	fucking hell	32	3		cx
 fucking machine	fucking machine	32	3		
@@ -29698,7 +29697,7 @@ full house	full house	32	2	main pleine, full
 full integration	full integration	32	3	intégration totale	
 full marks	full marks	32	3		x
 full moon	full moon	32	3	pleine lune	
-full name	full name	33	2	nom complet	
+full name	full name	32	2	nom complet	
 full of	full of	33	2		x
 full of beans	full of beans	33	3		x
 full of hot air	full of hot air	33	3		x
@@ -29819,7 +29818,7 @@ funnily	funnily	33	3	D’une façon amusante, bizarrement, étrangement
 funny	funny	33	0	drôle, marrant, amusant	
 funny bone	funny bone	33	3	petit juif	x
 funny kind of	funny kind of	33	3	drôle de	x
-funny money	funny money	33	2	monnaie de singe	
+funny money	funny money	33	3	monnaie de singe	
 funny sort of	funny sort of	33	3	drôle de	x
 funny stuff	funny stuff	33	3		x
 funny that	funny that	33	2		x
@@ -30068,7 +30067,7 @@ game of chance	game of chance	33	2	jeu de hasard
 game of skill	game of skill	33	3	jeu d'adresse	
 game on	game on	33	1		x
 game out	game out	33	1		x
-game over	game over	33	1	fin de partie, game over, fin de jeu	x
+game over	game over	33	2	fin de partie, game over, fin de jeu	x
 game plan	game plan	33	2	stratégie, plan d'action	x
 game set	game set	33	2		x
 game show	game show	33	2	jeu télévisé	
@@ -30133,7 +30132,6 @@ ganja	ganja	33	3	cannabis
 gannet	gannet	33	3	fou	
 gantry	gantry	33	3	portique	
 gantry crane	gantry crane	33	3	portique de manutention	
-gaol	gaol	33	2	prison, geôle	
 gaolbait	gaolbait	33	3	lolita	
 gaolbird	gaolbird	33	3	taulard, taularde, tôlard	
 gaoler	gaoler	33	3	geôlier, geôlière, gâfe	
@@ -30582,6 +30580,7 @@ gentle	gentle	33	2	gentil, doux, docile
 gentle as a lamb	gentle as a lamb	33	3		x
 gentle giant	gentle giant	33	3		x
 gentle sex	gentle sex	33	3		x
+gentleman	gentleman	33	1	monsieur, gentilhomme, messieurs	
 gentleman farmer	gentleman farmer	33	3	gentleman farmer	
 gentleman's agreement	gentleman's agreement	33	3	gentleman’s agreement	
 gentlemanly	gentlemanly	33	3	gentlemanesque	
@@ -30598,7 +30597,7 @@ genual	genual	33	3	géniculaire
 genuflect	genuflect	33	3	génuflexion, génuflexer, génuflexionner	
 genuflection	genuflection	33	3	génuflexion	
 genuine	genuine	33	1	véritable, authentique	
-genuine article	genuine article	34	3		x
+genuine article	genuine article	33	3		x
 genuinely	genuinely	34	2	vraiment, réellement, authentiquement	
 genuineness	genuineness	34	3	authenticité	
 genus	genus	34	2	genre	
@@ -30812,7 +30811,7 @@ get into one's stride	get into one's stride	34	3		x
 get into someone's pants	get into someone's pants	34	3		x
 get into the act	get into the act	34	2		x
 get into the wrong hands	get into the wrong hands	34	3		x
-get it	get it	34	0	piger, entraver	x
+get it	get it	34	1	piger, entraver	x
 get it how one lives	get it how one lives	34	2		x
 get it on	get it on	34	1		x
 get it up	get it up	34	1	avoir une érection	cx
@@ -31125,7 +31124,6 @@ ginkgo	ginkgo	34	3	ginkgo, noix de ginkgo, gingko
 ginnel	ginnel	34	3	venelle	
 ginormous	ginormous	34	3	énorme, gigantesque, méga	
 ginseng	ginseng	34	3	ginseng	
-gintleman	gintleman	34	2	monsieur, gentilhomme, messieurs	
 gipsy	Gipsy	34	3	gitan, tsigane, manouche	
 gipsy	gipsy	34	3	gitan, tsigane, romanichel	
 giraffe	giraffe	34	3	girafe, chameaupard	
@@ -31498,8 +31496,8 @@ gluino	gluino	34	3	gluino
 glum	glum	34	3	morose	
 glume	glume	34	3	glume	
 glumelle	glumelle	34	3	glumelle	
-gluon	gluon	35	3	gluon	
-gluonic	gluonic	35	3	gluonique	
+gluon	gluon	34	3	gluon	
+gluonic	gluonic	34	3	gluonique	
 glut	glut	35	3	inonder, gargantuer	
 glutamate	glutamate	35	3	glutamate	
 glutamic acid	glutamic acid	35	3	acide glutamique	
@@ -32252,6 +32250,7 @@ grain boundary	grain boundary	35	3	joint de grain
 grain of truth	grain of truth	35	3		x
 grains of paradise	grains of paradise	35	3	maniguette, graines de paradis, malaguette	
 graioceli	Graioceli	35	3	Graïocèles	
+gram	gram	35	2	gramme	
 gram negative	gram negative	35	3	gram négatif	x
 gram positive	gram positive	35	3	gram positif	x
 graminivore	graminivore	35	3	graminivore	
@@ -32268,7 +32267,6 @@ grammatical mood	grammatical mood	35	3	mode
 grammaticalisation	grammaticalisation	35	3	grammaticalisation	
 grammaticalise	grammaticalise	35	3	grammaticaliser	
 grammatically	grammatically	35	3	grammaticalement	
-gramme	gramme	35	2	gramme	
 gramophone	gramophone	35	3	gramophone	
 gramps	gramps	35	3	pépé, papy	
 gramscian	Gramscian	35	3	gramscien, gramsciste	
@@ -32398,8 +32396,8 @@ grasp all, lose all	grasp all, lose all	35	3	qui trop embrasse mal étreint	x
 grasp at straws	grasp at straws	35	3		x
 grass	grass	35	1	herbe, pelouse, gazon	
 grass carp	grass carp	35	3	carpe de roseau	
-grass court	grass court	36	3	court en gazon	
-grass mud horse	grass mud horse	36	3	cheval de l'herbe et de la boue	
+grass court	grass court	35	3	court en gazon	
+grass mud horse	grass mud horse	35	3	cheval de l'herbe et de la boue	
 grass of parnassus	grass of Parnassus	36	3	parnassie	
 grass roots	grass roots	36	3	population locale, société civile locale, la source	
 grass snake	grass snake	36	3	couleuvre, couleuvre à collier	
@@ -32487,6 +32485,7 @@ grease the wheels	grease the wheels	36	3		x
 greaser	greaser	36	3	graisseur	
 greasy	greasy	36	3	gras, huileux	
 greasy spoon	greasy spoon	36	3		x
+great	great	36	0	super, excellent, formidable	
 great antshrike	great antshrike	36	3	grand batara	
 great ape	great ape	36	3	grand singe, hominidé	
 great auk	great auk	36	3	grand pingouin	
@@ -32545,7 +32544,7 @@ great-great-grandparent	great-great-grandparent	36	3	arrière-arrière-grand-par
 great-great-grandson	great-great-grandson	36	3	arrière-arrière-petit-fils	
 great-uncle	great-uncle	36	3	grand-oncle	
 greatcoat	greatcoat	36	3	capote, pardessus, paletot	
-greater	greater	36	0	grand	
+greater	greater	36	1	grand	
 greater adjutant	greater adjutant	36	3	marabout argala	
 greater argentine	greater argentine	36	3	grande argentine	
 greater celandine	greater celandine	36	3	chélidoine	
@@ -32568,7 +32567,7 @@ greater yellow-headed vulture	greater yellow-headed vulture	36	3	grand urubu
 greater yellowlegs	greater yellowlegs	36	3	grand chevalier	
 greatest common divisor	greatest common divisor	36	3	plus grand commun diviseur	
 greatest thing since sliced bread	greatest thing since sliced bread	36	3	mieux que le fil à couper le beurre	x
-greatly	greatly	36	0	grandement	
+greatly	greatly	36	1	grandement	
 greatness	greatness	36	2	grandeur	
 greave	greave	36	3	grève	
 greaves	greaves	36	3	gratton, creton	
@@ -33142,7 +33141,6 @@ guqin	guqin	36	3	guqin
 gurgle	gurgle	36	3	gargouiller, gargouillis	
 gurnard	gurnard	36	3	grondin	
 gurney	gurney	36	3	civière, brancard	
-gurt	gurt	36	3	super, excellent, formidable	
 guru	guru	36	2	gourou, guru	
 gush	gush	36	3	jaillissement, jaillir, s'extasier	
 gusle	gusle	36	3	gusle, guzla	
@@ -33298,8 +33296,8 @@ haggard	haggard	36	3	hagard
 haggis	haggis	36	3	haggis	
 haggle	haggle	36	3	marchander, chipoter	
 hagio-	hagio-	36	3	hagio-	
-hagiographer	hagiographer	37	3	hagiographe	
-hagiographic	hagiographic	37	3	hagiographique	
+hagiographer	hagiographer	36	3	hagiographe	
+hagiographic	hagiographic	36	3	hagiographique	
 hagiography	hagiography	37	3	hagiographie	
 hagiological	hagiological	37	3	hagiologique	
 hagiotoponym	hagiotoponym	37	3	hagiotoponyme	
@@ -33390,7 +33388,7 @@ half rest	half rest	37	2	demi-pause
 half sister	half sister	37	3	demi-sœur	
 half sovereign	half sovereign	37	3	demi-souverain	
 half the battle	half the battle	37	3		x
-half title	half title	37	2	faux-titre	
+half title	half title	37	3	faux-titre	
 half volley	half volley	37	3	demi-volée	
 half width at half maximum	half width at half maximum	37	3	demie largeur à mi-hauteur	
 half-arse	half-arse	37	3	bâcler	c
@@ -34198,8 +34196,8 @@ hawk	hawk	37	2	autour, buse, épervier
 hawk owl	hawk owl	37	3	chouette épervière, épervière boréale	
 hawkbit	hawkbit	37	3	liondent	
 hawker	hawker	37	3	fauconnier, fauconnière, vendeur de rue	
-hawking radiation	Hawking radiation	38	3	rayonnement de Hawking	
-hawkish	hawkish	38	3	bagarreur, batailleur, va-t-en-guerre	
+hawking radiation	Hawking radiation	37	3	rayonnement de Hawking	
+hawkish	hawkish	37	3	bagarreur, batailleur, va-t-en-guerre	
 hawknose	hawknose	38	3	nez aquilin, nez en bec d'aigle	
 hawksbeard	hawksbeard	38	3	crépis	
 hawksbill turtle	hawksbill turtle	38	3	tortue imbriquée	
@@ -34784,6 +34782,7 @@ herd immunity	herd immunity	38	3	immunité grégaire
 herder	herder	38	3	berger	
 herding dog	herding dog	38	3	chien de berger	
 herdsman	herdsman	38	3	gardien, éleveur de bétail	
+here	here	38	0	ici, par ici	
 here and there	here and there	38	1	ici et là, par-ci, par-là, çà et là	x
 here are	here are	38	1	voici	x
 here below	here below	38	2	ici-bas, dans ce bas monde	x
@@ -34886,7 +34885,6 @@ herpetology	herpetology	38	3	herpétologie
 herring	herring	38	3	hareng	
 herring gull	herring gull	38	3	goéland	
 herringbone	herringbone	38	3	montée en canard	
-herry up	herry up	38	3	se dépêcher	x
 hers	hers	38	2	la sienne, les siens, le sien	
 herself	herself	38	1	elle-même	
 hertz	Hertz	38	3	Hertz	
@@ -35098,8 +35096,8 @@ high striker	high striker	38	3	jeu de la mailloche
 high summer	high summer	38	2		x
 high tech	high tech	38	3	haute technologie, high-tech	
 high technology	high technology	38	2	high-tech, hautes technologies, technologies de pointe	
-high temperature reactor	high temperature reactor	39	3	réacteur à haute température	
-high tide	high tide	39	3	marée haute, mer haute, pleine mer	
+high temperature reactor	high temperature reactor	38	3	réacteur à haute température	
+high tide	high tide	38	3	marée haute, mer haute, pleine mer	
 high time	high time	39	1	il est grand temps, il est plus que temps	x
 high treason	high treason	39	3	haute trahison	
 high up	high up	39	1		x
@@ -35317,7 +35315,7 @@ hit pause	hit pause	39	3		x
 hit pay dirt	hit pay dirt	39	3		x
 hit point	hit point	39	2	point de vie	
 hit rock bottom	hit rock bottom	39	3		x
-hit someone for six	hit someone for six	39	2	anéantir, dévaster	x
+hit someone for six	hit someone for six	39	3	anéantir, dévaster	x
 hit someone when they are down	hit someone when they are down	39	2		x
 hit the accelerator	hit the accelerator	39	3		x
 hit the big time	hit the big time	39	2		x
@@ -35645,7 +35643,7 @@ homecoming	homecoming	39	3	retour
 homegrown	homegrown	39	3	fait maison	
 homeland	homeland	39	2	patrie, terre natale	
 homelander	homelander	39	3	compatriote	
-homeless	homeless	39	1	SDF, itinérant, sans-abri	
+homeless	homeless	39	2	SDF, itinérant, sans-abri	
 homeless dumping	homeless dumping	39	3		x
 homeless shelter	homeless shelter	39	3	centre d'accueil	
 homelessness	homelessness	39	3	itinérance, sans-abrisme	
@@ -35795,6 +35793,7 @@ honor in the breach	honor in the breach	39	3		x
 honor killing	honor killing	39	3	crime d’honneur	
 honorable mention	honorable mention	39	3	mention honorable	x
 honorarium	honorarium	39	3	honoraires	
+honorary	honorary	39	2	honoraire, honoris causa	
 honorary consul	honorary consul	39	3	consul honoraire, consule honoraire	
 honorific	honorific	39	3	titre honorifique, honorifique	
 honorificabilitudinitatibus	honorificabilitudinitatibus	39	3	honorificabilitudinitatibe	
@@ -35802,7 +35801,6 @@ honour	honour	39	1	honneur, honorer
 honour killing	honour killing	39	3	crime d'honneur	
 honourable	honourable	39	2	honorable	
 honourably	honourably	39	3	honorablement	
-honourary	honourary	39	3	honoraire, honoris causa	
 honoured	honoured	39	2	honoré	
 hoo-ha	hoo-ha	39	3	bordel, tapage, brouhaha	
 hooch	hooch	39	3	gnôle, tord-boyaux, alcool de basse qualité	
@@ -35998,8 +35996,8 @@ host molecule	host molecule	39	3	molécule hôte
 hostage	hostage	39	2	otage	
 hostage-taker	hostage-taker	39	3	preneur d'otage	
 hostel	hostel	39	3	pension, auberge	
-hoster	hoster	40	3	hébergeur	
-hostess	hostess	40	3	hôtesse, maîtresse de maison, hôtesse de l'air	
+hoster	hoster	39	3	hébergeur	
+hostess	hostess	39	3	hôtesse, maîtresse de maison, hôtesse de l'air	
 hostile	hostile	40	2	hostile	
 hostile takeover	hostile takeover	40	3	offre hostile	
 hostility	hostility	40	2	hostilité, inimitié	
@@ -36361,9 +36359,9 @@ hummingbird	hummingbird	40	3	colibri, oiseau-mouche, oiseau de fleurs
 hummus	hummus	40	3	houmous	
 humongous	humongous	40	3	énorme, gigantesque	
 humoresque	humoresque	40	3	humoresque	
+humorous	humorous	40	3	amusant, humoristique	
 humour	humour	40	1	humour, disposition, humeur	
 humourist	humourist	40	3	humoriste	
-humourous	humourous	40	3	amusant, humoristique	
 hump	hump	40	3	bosse, cafard, baise	
 humpback	humpback	40	3	bosse, bossu, bossue	
 humpback whale	humpback whale	40	3	baleine à bosse, jubarte	
@@ -36446,6 +36444,7 @@ hurricane lamp	hurricane lamp	40	3	lampe-tempête
 hurriedly	hurriedly	40	3	à la va-vite, à la hâte, à la sauvette	
 hurry	hurry	40	2	hâte, précipitation, dépêcher	
 hurry off	hurry off	40	3	filer, partir précipitamment	x
+hurry up	hurry up	40	3	se dépêcher	x
 hurry up and wait	hurry up and wait	40	3		x
 hurt	hurt	40	0	blesser, faire mal, avoir mal	
 hurt a fly	hurt a fly	40	3	ne pas faire de mal à une mouche	x
@@ -36898,7 +36897,7 @@ i have a bridge to sell you	I have a bridge to sell you	40	3		x
 i have a cold	I have a cold	40	2	j'ai un rhume	x
 i have a disability	I have a disability	40	3	j'ai un handicap	x
 i have a fever	I have a fever	40	3	j'ai de la fièvre	x
-i have a headache	I have a headache	41	3	j'ai mal à la tête	x
+i have a headache	I have a headache	40	3	j'ai mal à la tête	x
 i have a question	I have a question	41	2	j'ai une question	x
 i have a toothache	I have a toothache	41	3	j'ai mal aux dents	x
 i have aids	I have AIDS	41	3	j'ai le SIDA, je suis sidéen, je suis sidéenne	x
@@ -37203,6 +37202,7 @@ id	id	41	1	ça, ide, idé
 idaean	Idaean	41	3	idéen	
 idaho	Idaho	41	2	Idaho	
 ide	ide	41	3	ide, ure	
+idea	idea	41	0	idée, pensée	
 idea management	idea management	41	2	gestion des idées	
 ideal	ideal	41	1	idéal, parfait	
 ideal gas	ideal gas	41	3	gaz parfait	
@@ -37215,7 +37215,6 @@ idealistically	idealistically	41	3	idéalistiquement
 ideality	ideality	41	3	idéalité	
 idealization	idealization	41	3	idéalisation	
 ideally	ideally	41	2	idéalement	
-idear	idear	41	1	idée, pensée	
 ideate	ideate	41	3	idéer	
 ideation	ideation	41	3	idéation	
 idee fixe	idée fixe	41	3	idée fixe, marotte	
@@ -37798,7 +37797,7 @@ in a body	in a body	41	2		x
 in a box	in a box	41	2		x
 in a bubble	in a bubble	41	3		x
 in a corner	in a corner	41	3		x
-in a family way	in a family way	42	2	enceinte	x
+in a family way	in a family way	41	2	enceinte	x
 in a fix	in a fix	42	3		x
 in a flash	in a flash	42	3	instantané, instantanément	x
 in a foam	in a foam	42	3		x
@@ -38106,7 +38105,7 @@ in private	in private	42	2	en privé	x
 in profile	in profile	42	3		x
 in progress	in progress	42	3	en cours	x
 in protest	in protest	42	3		x
-in public	in public	42	1	en public	x
+in public	in public	42	2	en public	x
 in pursuit	in pursuit	42	3		x
 in quantity	in quantity	42	3		x
 in question	in question	42	2	en question, remettre en question	x
@@ -38698,7 +38697,7 @@ indict	indict	42	3	accuser, inculper
 indict a ham sandwich	indict a ham sandwich	42	3		x
 indiction	indiction	42	3	indiction	
 indictment	indictment	42	2	mise en examen, inculpation, acte d'accusation	
-indie hacker	indie hacker	43	3	hacker indépendant	
+indie hacker	indie hacker	42	3	hacker indépendant	
 indie rock	indie rock	43	3	rock indé	
 indies	Indies	43	2	Indes	
 indifference	indifference	43	3	indifférence	
@@ -39598,7 +39597,7 @@ intermediate	intermediate	43	2	intermédiaire, concilier
 intermediate certificate	intermediate certificate	43	3	certificat intermédiaire	
 intermediate distribution frame	intermediate distribution frame	43	3	sous-répartiteur	
 intermediate phalange	intermediate phalange	43	3	phalangine	
-intermediate storage container	intermediate storage container	44	3	conteneur d’entreposage	
+intermediate storage container	intermediate storage container	43	3	conteneur d’entreposage	
 intermediate value theorem	intermediate value theorem	44	3	théorème des valeurs intermédiaires	
 intermediation	intermediation	44	3	entremise, intermédiation	
 interment	interment	44	3	enterrement, obsèques	
@@ -40463,6 +40462,7 @@ jaggery	jaggery	44	3	jagre, jagré, jaggery
 jaguar	jaguar	44	2	jaguar	
 jaguarundi	jaguarundi	44	3	jaguarondi	
 jai alai	jai alai	44	3	jaï-alaï	
+jail	jail	44	1	prison, geôle	
 jailbreak	jailbreak	44	3	évasion	
 jaipur	Jaipur	44	3	Djaïpour, Jaipur	
 jakarta	Jakarta	44	2	Jakarta, Djakarta	
@@ -41272,7 +41272,7 @@ keep the wolf from the door	keep the wolf from the door	45	3	être à l'abri du 
 keep track	keep track	45	2	garder un suivi	x
 keep up	keep up	45	1	conserver, maintenir, continuer	x
 keep up appearances	keep up appearances	45	3	sauver les apparences	x
-keep up with	keep up with	45	1	aller de pair avec	x
+keep up with	keep up with	45	2	aller de pair avec	x
 keep up with the joneses	keep up with the Joneses	45	3		x
 keep up with the times	keep up with the times	45	2	Restez dans le coup, Reste dans le coup	x
 keep vigil	keep vigil	45	3	veiller	x
@@ -42796,7 +42796,7 @@ leave it all on the field	leave it all on the field	47	2		x
 leave it alone	leave it alone	47	2		x
 leave it at that	leave it at that	47	2	en rester là	x
 leave it be	leave it be	47	2		x
-leave me alone	leave me alone	47	2	laisse-moi tranquille	x
+leave me alone	leave me alone	47	3	laisse-moi tranquille	x
 leave no stone unturned	leave no stone unturned	47	3	Remue ciel et terre, Remuez ciel et terre	x
 leave nothing to the imagination	leave nothing to the imagination	47	3	tout dévoiler, ne rien cacher	x
 leave off	leave off	47	2	omettre, arrêter, cesser	x
@@ -44261,7 +44261,7 @@ lone gunman	lone gunman	49	3		x
 lone it	lone it	49	3		x
 lone wolf	lone wolf	49	3	loup solitaire	
 loneliness	loneliness	49	2	solitude	
-lonely	lonely	49	1	seul, solitaire, abandonné	
+lonely	lonely	49	2	seul, solitaire, abandonné	
 loner	loner	49	3	solitaire	
 lonesome	lonesome	49	3	solitaire	
 long	long	49	0	long, languir, aspirer à	
@@ -44535,7 +44535,7 @@ lost generation	lost generation	49	3	génération perdue
 lost in the shuffle	lost in the shuffle	49	3		x
 lost in translation	lost in translation	49	3		x
 lost on	lost on	49	2		x
-lost property	lost property	49	2	objets trouvés	
+lost property	lost property	49	3	objets trouvés	
 lost river range	Lost River Range	49	3	chaînon Lost River	
 lost shark	lost shark	49	3	requin perdu	
 lost sheep	lost sheep	49	3	brebis égarée	
@@ -44628,8 +44628,8 @@ loveless	loveless	49	3	sans amour
 lovelessness	lovelessness	49	3	désaffection, manque d'amour, manque d'affection	
 loveliness	loveliness	49	3	beauté, charme	
 lovelock	lovelock	49	3	cadenette	
+lovely	lovely	49	1	magnifique, adorable	
 lover	lover	49	1	amoureux, amoureuse, amant	
-loverly	loverly	49	3	magnifique, adorable	
 lovesick	lovesick	49	3	énamouré, languissant	
 lovesickness	lovesickness	49	3	chagrin d'amour	
 loving	loving	49	1	aimant	
@@ -45608,6 +45608,7 @@ maltreatment	maltreatment	50	3	sévice, maltraitement
 malus genius	malus genius	50	3	mauvais génie	
 malvasia	malvasia	50	3	malvoisie	
 malware	malware	50	3	logiciel malveillant, maliciel	
+mama bear	mama bear	50	3	mère poule	
 mama's girl	mama's girl	50	3	fille à maman, fifille à sa maman, petite fille à sa maman	x
 mamba	mamba	50	3	mamba	
 mambo	mambo	50	3	mambo	
@@ -45897,7 +45898,7 @@ march to the beat of a different drum	march to the beat of a different drum	50	3
 marching band	marching band	50	3	fanfare	
 marchioness	marchioness	50	3	marquise	
 marcionism	Marcionism	50	3	marcionisme	
-marcophily	marcophily	50	3	marcophilie	
+marcophily	marcophily	51	3	marcophilie	
 marcot	marcot	51	3	marcotter	
 mare	mare	51	1	jument	
 mare's fart	mare's fart	51	3		x
@@ -46199,6 +46200,7 @@ mast cell	mast cell	51	3	mastocyte
 mastaba	mastaba	51	3	mastaba	
 mastalgia	mastalgia	51	3	mastalgie	
 mastectomy	mastectomy	51	3	mastectomie	
+master	master	51	0	maître, maîtriser	
 master bedroom	master bedroom	51	3	suite parentale	
 master builder	master builder	51	3	maître d'œuvre	
 master class	master class	51	3	classe de maître, masterclasse	
@@ -46234,7 +46236,7 @@ masturbatorily	masturbatorily	51	3	masturbatoirement
 masturbatorium	masturbatorium	51	3	masturbatorium	
 masturbatory	masturbatory	51	3	masturbant, masturbatoire	
 masu	masu	51	3	masu	
-mat	mat	51	2	tapis, natte, paillasson	
+mat	mat	51	1	tapis, natte, paillasson	
 matachin	matachin	51	3	matassin	
 matador	matador	51	3	matador	
 matamata	matamata	51	3	matamata	
@@ -46314,8 +46316,8 @@ matroid	matroid	51	3	matroïde
 matron	matron	51	3	matrone	
 matronymic	matronymic	51	3	matronymique	
 matsutake	matsutake	51	3	matsutake, champignon des pins	
-matt	matt	51	1	mat, mate	
 matt painter	matt painter	51	3	peintre de caches	
+matte	matte	51	3	mat, mate	
 matter	matter	51	0	matière, question, affaire	
 matter at hand	matter at hand	51	2		x
 matter of course	matter of course	51	2		x
@@ -46444,7 +46446,7 @@ mean value theorem	mean value theorem	51	3	théorème des accroissements finis
 mean well	mean well	51	2	vouloir bien faire	x
 meander	meander	51	3	méandre, méandrer	
 meandering	meandering	51	3	méandreux	
-meaning	meaning	51	0	sens, signification	
+meaning	meaning	51	1	sens, signification	
 meaning of life	meaning of life	51	3	sens de la vie	
 meaningful	meaningful	51	2	significatif, qui a du sens	
 meaningfully	meaningfully	51	3	sérieusement, gravement	
@@ -46458,7 +46460,6 @@ meant to	meant to	51	2	être censé	x
 meantime	meantime	51	2	pendant ce temps, en attendant	
 meanwhile	meanwhile	51	1	pendant ce temps, en attendant, entretemps	
 measles	measles	51	3	rougeole	
-measter	measter	51	0	maître, maîtriser	
 measurable	measurable	51	3	mesurable	
 measurably	measurably	51	3	D'une façon mesurable, remarquable, D'une façon notable	
 measure	measure	51	0	mesure, mesurer	
@@ -46518,7 +46519,6 @@ mechatronics	mechatronics	51	3	mécatronique
 meconate	meconate	51	3	méconate	
 meconic acid	meconic acid	51	3	acide méconique	
 meconin	meconin	51	3	méconine	
-med	med	51	2	pouvoir, puissance, force	
 medal	medal	51	1	médaille	
 medal table	medal table	51	3	tableau des médailles	
 medallion	medallion	51	3	médaillon	
@@ -46907,7 +46907,7 @@ mercurian	Mercurian	52	3	Mercurien, Mercurienne
 mercury	Mercury	52	2	Mercure	
 mercury	mercury	52	3	mercure, vif-argent, le mercure	
 mercury-vapour lamp	mercury-vapour lamp	52	3	lampe à vapeur de mercure	
-mercy	mercy	52	1	pitié, miséricorde	
+mercy	mercy	52	2	pitié, miséricorde	
 mercy fuck	mercy fuck	52	3		x
 mercy sake's alive	mercy sake's alive	52	3		x
 mere	mere	52	2	simple	
@@ -47423,6 +47423,7 @@ mien	mien	52	3	mine
 mifepristone	mifepristone	52	3	mifépristone	
 miff	miff	52	3	fâcherie, fâcher	
 miffed	miffed	52	3	irrité	
+might	might	52	0	pouvoir, puissance, force	
 might as well	might as well	52	2		x
 might makes right	might makes right	52	2	la raison du plus fort est toujours la meilleure	x
 mightily	mightily	52	3	puissamment, avec puissance	
@@ -47697,7 +47698,7 @@ minsker	Minsker	52	3	Minskois, Minskoise
 minster	minster	52	3	moutier	
 minstrel	minstrel	52	3	ménestrel, ménétrier	
 minstrel show	minstrel show	52	3	minstrel show	
-mint	mint	52	2	hôtel des monnaies, atelier des monnaies, fortune	
+mint	mint	53	2	hôtel des monnaies, atelier des monnaies, fortune	
 mint chocolate chip	mint chocolate chip	53	3	menthe pépites de chocolat	
 mint condition	mint condition	53	3		x
 mint sauce	mint sauce	53	3	sauce à la menthe	
@@ -47851,7 +47852,7 @@ missionary weed	missionary weed	53	3	épervière orangée
 mississippi	Mississippi	53	2	Mississippi	
 mississippi mud pie	Mississippi mud pie	53	3	Mississippi mud pie, tarte à la boue du Mississippi	
 missive	missive	53	3	missive	
-missouri	Missouri	53	1	Missouri	
+missouri	Missouri	53	2	Missouri	
 misspell	misspell	53	3	mal orthographier, mal écrire	
 misspelling	misspelling	53	3	faute d'orthographe	
 misstep	misstep	53	3	faux pas, bourde, trébucher	
@@ -47862,7 +47863,6 @@ mistake windmills for giants	mistake windmills for giants	53	3		x
 mistakenly	mistakenly	53	3	à tort, par erreur, sans faire exprès	
 mistelle	mistelle	53	3	mistelle	
 mister	mister	53	3	monsieur	
-misthrust	misthrust	53	3	défiance	
 mistle thrush	mistle thrush	53	3	draine, drenne	
 mistletoe	mistletoe	53	3	gui	
 mistral	mistral	53	3	mistral	
@@ -47871,6 +47871,7 @@ mistranslation	mistranslation	53	3	métraduction, trouduction
 mistreat	mistreat	53	3	maltraiter	
 mistress	mistress	53	2	maîtresse, amante	
 mistrial	mistrial	53	3	avortement de procès, nullité de procès, procès avorté	
+mistrust	mistrust	53	3	défiance	
 mists of time	mists of time	53	3	nuit des temps	x
 misty	misty	53	3	brumeux	
 misunderstand	misunderstand	53	2	méprendre, mécomprendre, mal interpréter	
@@ -48597,7 +48598,7 @@ motet	motet	53	3	motet
 motettist	motettist	53	3	motettiste	
 moth	moth	53	2	mite, papillon de nuit, phalène	
 moth-eaten	moth-eaten	53	3	mangé aux mites	
-mothball	mothball	53	3	boule de naphtaline	
+mothball	mothball	54	3	boule de naphtaline	
 mother	mother	54	0	mère, maman, mère de vinaigre	
 mother earth	Mother Earth	54	3	Terre-Mère	
 mother figure	mother figure	54	3	figure maternelle	
@@ -48702,7 +48703,7 @@ mountaineering	mountaineering	54	3	alpinisme
 mountainous	mountainous	54	3	montagneux	
 mountainousness	mountainousness	54	3	état montagneux	
 mountainside	mountainside	54	3	côté d’une montagne	
-mounted	mounted	54	1	à cheval	
+mounted	mounted	54	2	à cheval	
 mounted police	mounted police	54	3	police montée	
 mounting land	mounting land	54	3	plage d’accueil	
 mounting pad	mounting pad	54	3	plage d’accueil	
@@ -49002,7 +49003,6 @@ mum	mum	54	0	maman
 mum's the word	mum's the word	54	3	motus et bouche cousue	x
 mumbai	Mumbai	54	2	Bombay, Mumbai	
 mumble	mumble	54	3	marmonner	
-mumma bear	mumma bear	54	3	mère poule	
 mummer	mummer	54	3	mime	
 mummery	mummery	54	3	mommerie	
 mummification	mummification	54	3	momification	
@@ -49460,7 +49460,7 @@ naphthalenic	naphthalenic	54	3	naphtalénique
 napiform	napiform	54	3	napiforme	
 napkin	napkin	54	3	serviette	
 napkin ring	napkin ring	54	3	rond de serviette	
-naples	Naples	54	2	Naples	
+naples	Naples	54	3	Naples	
 naples yellow	Naples yellow	54	3	jaune d'antimoine, jaune de Naples	
 napoleon	Napoleon	54	2	Napoléon	
 napoleon complex	Napoleon complex	54	3	complexe de Napoléon	
@@ -49614,7 +49614,7 @@ natural farming	natural farming	55	3	agriculture naturelle
 natural fiber	natural fiber	55	3	fibre naturel	
 natural gas	natural gas	55	3	gaz naturel	
 natural gas for vehicles	natural gas for vehicles	55	3	gaz naturel comprimé	
-natural history	natural history	55	2	histoire naturelle	
+natural history	natural history	55	3	histoire naturelle	
 natural join	natural join	55	3	jointure naturelle	
 natural key	natural key	55	3	clé naturelle	
 natural language	natural language	55	3	langue naturelle	
@@ -50124,9 +50124,9 @@ neutron star	neutron star	55	3	étoile à neutrons
 neutronic	neutronic	55	3	neutronique	
 neutronium	neutronium	55	3	neutronium	
 neutrophil	neutrophil	55	3	neutrophile	
-neva	neva	55	3	jamais	
 nevada	Nevada	55	2	Nevada	
 nevanlinna theory	Nevanlinna theory	55	3	théorie de Nevanlinna	
+never	never	55	0	jamais	
 never a dull moment	never a dull moment	55	3		x
 never again	never again	55	2	plus jamais ça, jamais plus, plus jamais	x
 never ever	never ever	55	2	jamais de la vie, au grand jamais, jamais au grand jamais	x
@@ -50833,7 +50833,7 @@ noose	noose	56	3	nœud coulant, lacs
 noosphere	noosphere	56	3	noosphère	
 nop	NOP	56	3	NOP	
 nopalery	nopalery	56	3	nopalerie, nopalière	
-nope	nope	56	1	bah, nan	
+nope	nope	56	2	bah, nan	
 nope rope	nope rope	56	3	serpent	
 nor	NOR	56	3	NON-OU	
 nor	nor	56	1	ni	
@@ -51284,7 +51284,7 @@ numbat	numbat	56	3	numbat, myrmécopie à bandes
 number	number	56	0	nombre, numéro, chiffre	
 number games	number games	56	2		x
 number line	number line	56	2	droite réelle	
-number one	number one	56	1	numéro un, petite commission	x
+number one	number one	56	2	numéro un, petite commission	x
 number one with a bullet	number one with a bullet	56	3		x
 number plate	number plate	56	3	plaque d’immatriculation, plaque de police, plaque minéralo…	
 number system	number system	56	2	système de numération	
@@ -51962,6 +51962,7 @@ okra	okra	57	3	gombo
 okroshka	okroshka	57	3	okrochka	
 okrug	okrug	57	3	okroug	
 oktoberfest	Oktoberfest	57	3	Oktoberfest	
+old	old	57	0	vieux, vieille, vieil	
 old age	old age	57	2	vieillesse, troisième âge	
 old as the hills	old as the hills	57	3	vieux comme le monde	x
 old bag	old bag	57	3	vieille peau, vieille chouette	
@@ -52197,7 +52198,7 @@ on call	on call	57	2	de garde	x
 on camera	on camera	57	3		x
 on cloud nine	on cloud nine	57	3	être aux anges, être au septième ciel, être sur un petit nu…	x
 on cloud seven	on cloud seven	57	3		x
-on condition	on condition	57	3		x
+on condition	on condition	58	3		x
 on course	on course	58	2		x
 on credit	on credit	58	2	à crédit	x
 on deck	on deck	58	3	sur le pont	x
@@ -52414,7 +52415,7 @@ on the rise	on the rise	58	3		x
 on the road	on the road	58	2		x
 on the rocks	on the rocks	58	3	avec des glaçons	x
 on the run	on the run	58	2	en cavale, en vadrouille	x
-on the safe side	on the safe side	58	2	au cas où, par principe, par acquit de conscience	x
+on the safe side	on the safe side	58	3	au cas où, par principe, par acquit de conscience	x
 on the same page	on the same page	58	2	(être) sur la même longueur d’onde, sur la même longueur d’…	x
 on the same wavelength	on the same wavelength	58	3	sur la même longueur d'onde	x
 on the sauce	on the sauce	58	3		x
@@ -52457,7 +52458,7 @@ on the wrong side of the blanket	on the wrong side of the blanket	58	3		x
 on the wrong track	on the wrong track	58	3	faire fausse route	x
 on thin ice	on thin ice	58	3	sur la corde raide	x
 on this score	on this score	58	3		x
-on time	on time	58	0	à temps, à l'heure	x
+on time	on time	58	1	à temps, à l'heure	x
 on tiptoe	on tiptoe	58	3	sur la pointe des pieds, à pas feutrés	x
 on top	on top	58	2	en haut, en tête	x
 on top of	on top of	58	2	de plus, en plus	x
@@ -52954,7 +52955,7 @@ or words to that effect	or words to that effect	58	3	quelque chose du même genr
 oracle	oracle	58	2	oracle	
 oracle bone script	oracle bone script	58	3	écriture ossécaille	
 oracular	oracular	58	3	oraculaire	
-oral	oral	58	1	oral, buccal	
+oral	oral	58	2	oral, buccal	
 oral candidiasis	oral candidiasis	58	3	muguet buccal	
 oral dam	oral dam	58	3	digue dentaire	
 oral exam	oral exam	58	3	colle, khôlle	
@@ -53097,7 +53098,7 @@ organism	organism	58	2	organisme
 organist	organist	58	3	organiste	
 organizational health	organizational health	58	3	santé organisationnelle	
 organized	organized	58	1	organisé	
-organized crime	organized crime	58	3	crime organisé	
+organized crime	organized crime	59	3	crime organisé	
 organized labour	organized labour	59	3	syndicalisme	x
 organochlorine	organochlorine	59	3	organochloré	
 organogenesis	organogenesis	59	3	organogenèse	
@@ -53181,7 +53182,6 @@ orphanhood	orphanhood	59	3	orphelinisme
 orphic	Orphic	59	3	orphique	
 orphrey	orphrey	59	3	orfroi, orphroi	
 orpiment	orpiment	59	3	orpiment	
-orsum	orsum	59	3	impressionnant, terrifiant, magnifique	
 orthocenter	orthocenter	59	3	orthocentre	
 orthodontic	orthodontic	59	3	orthodontique	
 orthodontics	orthodontics	59	3	orthodontie	
@@ -53371,7 +53371,6 @@ ought to	ought to	59	3	devoir	x
 oughta	oughta	59	3	être obligé de	
 ouguiya	ouguiya	59	3	ouguiya	
 ouija	Ouija	59	3	Ouija	
-ould	ould	59	0	vieux, vieille, vieil	
 ounce	ounce	59	2	once	
 our era	our era	59	3		x
 our father	Our Father	59	2	Notre Père	
@@ -53977,7 +53976,6 @@ padre	padre	59	3	aumônier
 pads	PADS	59	3	PADS, syndrome de dépression post-Avatar	
 paduan	Paduan	59	3	padouan, Padouan, Padouane	
 paean	paean	59	3	péan, paean, pæan	
-paedagogical	paedagogical	59	3	pédagogique	
 paedagogically	paedagogically	59	3	pédagogiquement	
 paederast	paederast	59	3	pédé, pédéraste	
 paederastic	paederastic	59	3	pédérastique	
@@ -53998,8 +53996,8 @@ paganism	paganism	59	3	paganisme
 paganly	paganly	59	3	païennement	
 page	Page	59	2	Lepage	
 page	page	59	0	page, moment, haut fait	
-page boy	page boy	60	3	groom	
-page fault	page fault	60	3	défaut de page	
+page boy	page boy	59	3	groom	
+page fault	page fault	59	3	défaut de page	
 page setting	page setting	60	3	mise en page	
 page turner	page turner	60	3	accrolivre	
 page-turner	page-turner	60	3	tourneur de pages, tourneuse de pages	
@@ -54898,8 +54896,8 @@ pasteurize	pasteurize	60	3	pasteuriser
 pastiche	pastiche	60	3	pastiche	
 pastiera	pastiera	60	3	pastiera, pastiera napolitaine	
 pastille	pastille	60	3	pastille	
-pastime	pastime	61	3	passe-temps	
-pastis	pastis	61	3	pastis	
+pastime	pastime	60	3	passe-temps	
+pastis	pastis	60	3	pastis	
 pastophorus	pastophorus	61	3	pastophore	
 pastor	pastor	61	2	pasteur	
 pastoral	pastoral	61	3	pastoral	
@@ -55220,6 +55218,7 @@ peculiarity	peculiarity	61	3	singularité, bizarrerie, étrangeté
 peculiarly	peculiarly	61	3	étrangement, drôlement, singulièrement	
 pecuniary	pecuniary	61	3	monétaire, pécuniaire	
 ped	PED	61	3	DESP	
+pedagogical	pedagogical	61	3	pédagogique	
 pedagogism	pedagogism	61	3	pédagogisme	
 pedagogue	pedagogue	61	3	pédagogue	
 pedagogy	pedagogy	61	3	pédagogie	
@@ -55546,7 +55545,7 @@ perceptible	perceptible	61	3	perceptible
 perceptibly	perceptibly	61	3	perceptiblement	
 perception	perception	61	1	perception	
 perceptive	perceptive	61	3	pertinent, perspicace	
-perch	perch	61	2	perche, perchoir, se percher	
+perch	perch	61	3	perche, perchoir, se percher	
 perchance	perchance	61	3	peut-être	
 percipient	percipient	61	3	percipient	
 percolate	percolate	61	3	filtrer, percoler, faire percoler	
@@ -55568,6 +55567,7 @@ peremptory	peremptory	61	3	sans appel, irréfutable, péremptoire
 perennial	perennial	61	3	pérenne, vivace	
 perennially	perennially	61	3	constamment, longuement, durablement	
 perestroika	perestroika	61	3	perestroïka	
+perfect	perfect	61	0	parfait, perfectionner, parfaire	
 perfect cube	perfect cube	61	3	cube parfait	
 perfect field	perfect field	61	3	corps parfait	
 perfect fifth	perfect fifth	61	3	quinte juste	
@@ -55583,7 +55583,6 @@ perfectionist	perfectionist	61	3	perfectionniste
 perfective	perfective	61	3	perfectif	
 perfective aspect	perfective aspect	61	3	perfectif	
 perfectly	perfectly	61	1	parfaitement	
-perfick	perfick	61	3	parfait, perfectionner, parfaire	
 perfidious	perfidious	61	3	perfide	
 perfidy	perfidy	61	3	perfidie	
 perfin	perfin	61	3	perforé	
@@ -55798,7 +55797,7 @@ personal hygiene	personal hygiene	61	3	hygiène corporelle
 personal injury	personal injury	61	3	blessure	
 personal lubricant	personal lubricant	61	3	lubrifiant anatomique	
 personal pronoun	personal pronoun	61	3	pronom personnel	
-personal property	personal property	62	3	bien meuble	
+personal property	personal property	61	3	bien meuble	
 personal rapid transit	personal rapid transit	62	3	taxi robot	
 personal space	personal space	62	3	espace vital	
 personal stereo	personal stereo	62	3	baladeur	
@@ -55878,7 +55877,7 @@ pet therapy	pet therapy	62	3	zoothérapie
 peta-	peta-	62	3	peta-, péta-	
 petabyte	petabyte	62	3	pétaoctet	
 petainism	Pétainism	62	3	pétainisme	
-petal	petal	62	2	pétale	
+petal	petal	62	3	pétale	
 petaloid	petaloid	62	3	pétaloïde	
 petalous	petalous	62	3	pétaleux	
 petameter	petameter	62	3	pétamètre	
@@ -56401,11 +56400,11 @@ phytotronic	phytotronic	62	3	phytotronique
 pi	pi	62	2	pi	
 pia mater	pia mater	62	3	pie-mère	
 piagetian	Piagetian	62	3	piagétien	
-pianee	pianee	62	3	piano	
 pianissimo	pianissimo	62	3	pianissimo	
 pianist	pianist	62	3	pianiste	
 pianistic	pianistic	62	3	pianistique	
 pianistics	pianistics	62	3	pianistique	
+piano	piano	62	1	piano	
 piano accordion	piano accordion	62	3	accordéon-piano	
 piano four hands	piano four hands	62	3	piano à quatre mains, quatre-mains	
 piano maker	piano maker	62	3	facteur de pianos	
@@ -56698,7 +56697,7 @@ pins and needles	pins and needles	62	3	avoir des fourmis dans les jambes, fourmi
 pinstripe	pinstripe	62	3	rayure, rayé, à rayure	
 pint	pint	62	2	chopine, chopine de lait, sérieux	
 pintle	pintle	62	3	tige, broche	
-pinwheel	pinwheel	63	3	moulinet, moulin à vent	
+pinwheel	pinwheel	62	3	moulinet, moulin à vent	
 pinworm	pinworm	63	3	oxyure	
 pion	pion	63	3	pion	
 pioneer	pioneer	63	2	pionnier, pionnière	
@@ -56972,7 +56971,7 @@ planned community	planned community	63	3	ville nouvelle, ville neuve, ville plan
 planned economy	planned economy	63	3	économie planifiée	
 planned obsolescence	planned obsolescence	63	3	obsolescence programmée	
 planner	planner	63	2	agenda	
-planning	planning	63	0	prévision, planification	
+planning	planning	63	1	prévision, planification	
 planning permission	planning permission	63	3	permis de construire	
 planogamy	planogamy	63	3	planogamie	
 plant	plant	63	0	matériel, plante, herbacée	
@@ -57598,7 +57597,7 @@ politico	politico	63	3	politicard
 politics	politics	63	1	politique	
 politique	politique	63	3	politicard	
 polity	polity	63	3	politie	
-polka	polka	64	3	polka	
+polka	polka	63	3	polka	
 polka dot	polka dot	64	3	pois	
 polkist	polkist	64	3	polkiste	
 poll	poll	64	1	sondage	
@@ -58498,7 +58497,7 @@ predestination	predestination	64	3	prédestination
 predetermine	predetermine	64	3	prédéterminer	
 predeterminism	predeterminism	64	3	predeterminisme	
 prediabetes	prediabetes	64	3	prédiabète	
-predicament	predicament	65	3	classe, catégorie, prédicament	
+predicament	predicament	64	3	classe, catégorie, prédicament	
 predicate	predicate	65	3	prédicat	
 predicate calculus	predicate calculus	65	3	calcul des prédicats	
 predicate logic	predicate logic	65	3	calcul des prédicats, logique des prédicats	
@@ -58761,6 +58760,7 @@ pretonic	pretonic	65	3	prétonique
 pretoria	Pretoria	65	3	Pretoria, Prétoria	
 prettify	prettify	65	3	enjoliver	
 prettily	prettily	65	3	joliment	
+pretty	pretty	65	0	joli, assez, plutôt	
 pretty much	pretty much	65	2	à peu de choses près	x
 pretty penny	pretty penny	65	3	coûter les yeux de la tête, coûter un bras	x
 pretty pictures	pretty pictures	65	3		x
@@ -58840,7 +58840,7 @@ prima facie	prima facie	65	3	prima facie
 primacy	primacy	65	3	primauté	
 primacy effect	primacy effect	65	3	effet de primauté	
 primarily	primarily	65	1	surtout, principalement, essentiellement	
-primary	primary	65	0	primaire, prioritaire	
+primary	primary	65	1	primaire, prioritaire	
 primary alcohol	primary alcohol	65	3	alcool primaire	
 primary blend	primary blend	65	3	mélange primaire	
 primary care physician	primary care physician	65	3	médecin de famille, médecin traitant, médecin de premiers s…	
@@ -60113,7 +60113,6 @@ pursue	pursue	66	1	poursuivre, rechercher
 pursue one's point	pursue one’s point	66	3	persister, persévérer	x
 pursuer	pursuer	66	3	poursuivant	
 pursuit	pursuit	66	2	poursuite	
-purty	purty	66	2	joli, assez, plutôt	
 purulence	purulence	66	3	purulence	
 purulent	purulent	66	3	purulent	
 purvey	purvey	66	3	pourvoir, preparer, fournir	
@@ -60298,7 +60297,7 @@ put the clock forward	put the clock forward	66	3		x
 put the cork back in the bottle	put the cork back in the bottle	66	3		x
 put the fear of god into	put the fear of God into	66	3		x
 put the finger on	put the finger on	66	3		x
-put the genie back in the bottle	put the genie back in the bottle	67	3		x
+put the genie back in the bottle	put the genie back in the bottle	66	3		x
 put the hammer down	put the hammer down	67	3		x
 put the make on	put the make on	67	2	draguer, faire des avances	x
 put the moves on	put the moves on	67	3		x
@@ -60328,7 +60327,7 @@ put up a brick	put up a brick	67	3		x
 put up one's dukes	put up one's dukes	67	3		x
 put up or shut up	put up or shut up	67	3		x
 put up to	put up to	67	1		x
-put up with	put up with	67	1	supporter, subir, faire avec	x
+put up with	put up with	67	2	supporter, subir, faire avec	x
 put upon	put upon	67	2	exploité, utilisé	x
 put warrant	put warrant	67	3	option de vente	
 put words in someone's mouth	put words in someone's mouth	67	3	faire dire à [[quelqu'un]] ce [[qu']]il [[n'a]] pas dit	x
@@ -61198,7 +61197,7 @@ rap	rap	67	2	rapper
 rap and rend	rap and rend	67	3		x
 rap jumping	rap jumping	67	3	descente en rappel inversé	
 rap music	rap music	67	3	rap	
-rap sheet	rap sheet	68	3	casier judiciaire	
+rap sheet	rap sheet	67	3	casier judiciaire	
 rap someone's knuckles	rap someone's knuckles	68	3		x
 rapacious	rapacious	68	3	rapace	
 rapacity	rapacity	68	3	rapacité	
@@ -61976,12 +61975,12 @@ reflect on	reflect on	68	3	réfléchir	x
 reflect upon	reflect upon	68	3		x
 reflecting circle	reflecting circle	68	3	cercle de réflexion	
 reflecting satellite	reflecting satellite	68	3	satellite réflecteur	
+reflection	reflection	68	1	réflexion, reflet	
 reflective	reflective	68	3	réflectif	
 reflectivity	reflectivity	68	3	réflectivité	
 reflector	reflector	68	3	réflecteur	
 reflex	reflex	68	2	réflexe, continuateur	
 reflex camera	reflex camera	68	3	appareil reflex	
-reflexion	reflexion	68	2	réflexion, reflet	
 reflexive	reflexive	68	3	réfléchi	
 reflexive pronoun	reflexive pronoun	68	3	pronom réfléchi	
 reflexive verb	reflexive verb	68	3	verbe réfléchi, verbe pronominal	
@@ -62074,7 +62073,7 @@ regional lockout	regional lockout	68	3	codage régional, verrouillage régional
 regionalism	regionalism	68	3	régionalisme	
 regionalization	regionalization	68	3	régionalisation	
 regionally	regionally	68	3	régionalement	
-register	register	68	0	registre, inscription, niveau de langue	
+register	register	68	1	registre, inscription, niveau de langue	
 register office	register office	68	3	état civil, bureau de [[l']]état civil, service de [[l']]ét…	
 register recall	register recall	68	3	rappel d’enregistreur	
 register ton	register ton	68	3	tonneau	
@@ -62098,7 +62097,7 @@ regretful	regretful	68	3	de regret, plein de regrets
 regretfully	regretfully	68	3	À regret	
 regrettable	regrettable	68	3	regrettable	
 regrettably	regrettably	68	3	malheureusement	
-regrouping	regrouping	69	3	regroupement	
+regrouping	regrouping	68	3	regroupement	
 regular	regular	69	0	régulier, en ordre, normal	
 regular army	regular army	69	3	armée régulière	
 regular expression	regular expression	69	3	expression rationnelle, expression régulière	
@@ -62998,7 +62997,7 @@ rhetoric	rhetoric	69	2	discours, rhétorique
 rhetorical	rhetorical	69	3	rhétorique	
 rhetorical question	rhetorical question	69	3	question rhétorique	
 rhetorically	rhetorically	69	3	rhétoriquement	
-rheum	rheum	70	3	morve, chassie	
+rheum	rheum	69	3	morve, chassie	
 rheumatic	rheumatic	70	3	rhumatismal	
 rheumatism	rheumatism	70	3	rhumatisme	
 rheumatoid	rheumatoid	70	3	rhumatoïde	
@@ -63898,7 +63897,7 @@ rowel	rowel	70	3	molette
 rower	rower	70	3	rameur	
 rowhouse	rowhouse	70	3	maison en bande, maison mitoyenne	
 rowing	rowing	70	3	aviron, canotage	
-rowlock	rowlock	71	3	dame de nage	
+rowlock	rowlock	70	3	dame de nage	
 royal	royal	71	1	royal, royale, trochure	
 royal assent	royal assent	71	3	sanction royale	
 royal bumps	royal bumps	71	3		x
@@ -64798,7 +64797,7 @@ satanize	Satanize	71	3	sataniser
 satay	satay	71	3	satay, saté	
 satchel	satchel	71	3	cartable	
 sated	sated	71	3	repu, rassasié	
-satellitary	satellitary	72	3	satellitaire	
+satellitary	satellitary	71	3	satellitaire	
 satellite	satellite	72	1	satellite	
 satellite based-data	satellite based-data	72	3	donnée satellitaire	
 satellite cluster	satellite cluster	72	3	grappe de satellites	
@@ -65698,7 +65697,7 @@ secret police	secret police	72	3	police secrète
 secret service	secret service	72	3	service secret	
 secret society	secret society	72	3	société secrète	
 secretarial	secretarial	72	3	de secrétaire	
-secretariat	secretariat	73	3	secrétariat	
+secretariat	secretariat	72	3	secrétariat	
 secretary	secretary	73	0	secrétaire, messager serpentaire	
 secretary bird	secretary bird	73	3	messager secrétaire, messager sagittaire, messager serpenta…	
 secretary general	Secretary General	73	3	premier secrétaire, secrétaire général	
@@ -65739,7 +65738,7 @@ security interest	security interest	73	3	droit de gage
 security principal	security principal	73	3	commettant	
 security service	security service	73	2	service de sécurité	
 security theater	security theater	73	3	comédie sécuritaire	
-sedan	sedan	73	2	palanquin, berline	
+sedan	sedan	73	3	palanquin, berline	
 sedan chair	sedan chair	73	3	chaise à porteurs, filanzane	
 sedate	sedate	73	3	posé, tranquille, mettre sous calmants	
 sedation	sedation	73	3	sédation	
@@ -66598,7 +66597,7 @@ sex tape	sex tape	73	3	sextape
 sex text	sex text	73	3	sexto	
 sex tourism	sex tourism	73	3	tourisme sexuel	
 sex toy	sex toy	73	3	jouet sexuel, sextoy	
-sex up	sex up	74	2	rendre plus sexy	x
+sex up	sex up	73	2	rendre plus sexy	x
 sex work	sex work	74	2	travail du sexe	
 sex worker	sex worker	74	3	travailleur du sexe, travailleuse du sexe	
 sex, drugs and rock 'n' roll	sex, drugs and rock 'n' roll	74	3	sexe, drogue et 'rock n' roll	x
@@ -67035,7 +67034,7 @@ shit or get off the pot	shit or get off the pot	74	3		x
 shit out of luck	shit out of luck	74	3		x
 shit sandwich	shit sandwich	74	3	sandwich de marde	cx
 shit stain	shit stain	74	3		x
-shit the bed	shit the bed	74	2		x
+shit the bed	shit the bed	74	3		x
 shit yeah	shit yeah	74	2	merde!	x
 shit-eating grin	shit-eating grin	74	3	rictus jubilatoire, sourire de faux-cul, sourire à manger d…	cx
 shit-for-brains	shit-for-brains	74	3	bête, idiot, stupide	c
@@ -67338,7 +67337,6 @@ shun	shun	74	3	éviter, rejeter, fuir
 shunt	shunt	74	3	reléguer, parquer, dériver	
 shunter	shunter	74	3	locotracteur	
 shunting	shunting	74	3	aiguillage	
-shup	shup	74	3	fermer, enfermer, renfermer	
 shush	shush	74	3	chut	
 shut	shut	74	1	fermer	
 shut away	shut away	74	3	enfermer, emprisonner, incarcérer	x
@@ -67352,6 +67350,7 @@ shut one's gob	shut one's gob	74	3		x
 shut one's mouth	shut one's mouth	74	3		x
 shut one's trap	shut one's trap	74	3		x
 shut the fuck up	shut the fuck up	74	3	fermer son claque-merde	cx
+shut up	shut up	74	3	fermer, enfermer, renfermer	x
 shut your face	shut your face	74	3	ferme ta gueule	x
 shutdown	shutdown	74	2	arrêt	
 shutout	shutout	74	3	balle, blanchissage, balles	
@@ -67498,7 +67497,7 @@ sigh	sigh	74	2	soupirer, lamenter, soupir
 sigh of relief	sigh of relief	74	3	soupir de soulagement	x
 sight	sight	74	1	vue, curiosité, monuments	
 sight for sore eyes	sight for sore eyes	74	3	plaisir pour les yeux, régal pour les yeux	x
-sight read	sight read	75	3	déchiffrer, jouer à vue	x
+sight read	sight read	74	3	déchiffrer, jouer à vue	x
 sight sing	sight sing	75	3	déchiffrer, chanter à vue	x
 sight to behold	sight to behold	75	3		x
 sight translation	sight translation	75	3	traduction à vue	
@@ -67756,7 +67755,7 @@ single panel	single panel	75	3	panel commun
 single room	single room	75	2	chambre simple	
 single site mutation	single site mutation	75	3	mutation ponctuelle	
 single source	single source	75	2	panel commun	
-single stage	single stage	75	2	monoétage	x
+single stage	single stage	75	3	monoétage	x
 single transferable vote	single transferable vote	75	3	scrutin à vote unique transférable	
 single-click	single-click	75	3	seul-clic	
 single-entry	single-entry	75	3	en partie simple	
@@ -67821,6 +67820,7 @@ siphon	siphon	75	3	siphon, siphonner
 siphonogamous	siphonogamous	75	3	siphonogame	
 siphonogamy	siphonogamy	75	3	siphonogamie	
 siphonophore	siphonophore	75	3	siphonophore	
+sir	sir	75	0	monsieur, seigneur	
 sire	sire	75	3	saillir	
 siren	siren	75	2	sirène	
 siren song	siren song	75	3		x
@@ -68527,7 +68527,7 @@ smirk	smirk	76	3	sourire en coin, ricanerie, ricaner
 smishing	smishing	76	3	smishing	
 smite	smite	76	3	frapper	
 smite hip and thigh	smite hip and thigh	76	3		x
-smith	Smith	76	0	Lefèvre, Lefébure, Lefebvre	
+smith	Smith	76	1	Lefèvre, Lefébure, Lefebvre	
 smith	smith	76	3	forgeron, forgeronne	
 smithereens	smithereens	76	3	miettes	
 smithian	Smithian	76	3	smithien	
@@ -68825,7 +68825,6 @@ soak up	soak up	76	3	absorber une substance, subir un comportement, apprendre en
 soaked	soaked	76	2	trempe, trempé	
 soaked to the skin	soaked to the skin	76	3		x
 soaking wet	soaking wet	76	3	trempé comme une soupe, tout mouillé	x
-soal	soal	76	3	seul, unique, célibataire	
 soap	soap	76	2	savon, savonner, se savonner	
 soap bar	soap bar	76	3	barre de savon	
 soap bubble	soap bubble	76	3	bulle de savon	
@@ -69096,10 +69095,11 @@ solder	solder	76	3	soudure, souder, braser
 solder mask	solder mask	76	3	épargne de brasage, vernis-épargne, masque de brasage	
 soldering	soldering	76	3	soudure	
 soldering iron	soldering iron	76	3	fer à souder, fer à braser	
-soldier	soldier	76	0	soldat, soldate, mouillette	
+soldier	soldier	76	1	soldat, soldate, mouillette	
 soldier of fortune	soldier of fortune	76	3	mercenaire	
 soldier on	soldier on	76	3	tenir bon	x
 soldier pile wall	soldier pile wall	76	3	paroi berlinoise	
+sole	sole	76	1	seul, unique, célibataire	
 sole custody	sole custody	76	3	garde monoparentale	
 sole trader	sole trader	76	3	indépendant, auto-entreprise	
 solecism	solecism	76	3	solécisme	
@@ -69305,7 +69305,6 @@ sororicide	sororicide	77	3	sororicide
 sorority	sorority	77	3	sororité	
 sororize	sororize	77	3	sororiser	
 sorption	sorption	77	3	sorption	
-sorr	sorr	77	3	monsieur, seigneur	
 sorrel	sorrel	77	3	oseille, alezan	
 sorrow	sorrow	77	2	peine, chagrin	
 sorrowful	sorrowful	77	3	triste, douloureux, attristant	
@@ -69774,7 +69773,7 @@ speculatively	speculatively	77	3	spéculativement
 speculator	speculator	77	3	spéculateur, agioteur, boukiman	
 speculoos	speculoos	77	3	spéculoos, spéculos	
 speculum	speculum	77	3	spéculum	
-speech	speech	77	0	parole, discours	
+speech	speech	77	1	parole, discours	
 speech act	speech act	77	3	acte de langage, acte de parole	
 speech bubble	speech bubble	77	3	bulle, phylactère	
 speech community	speech community	77	3	communauté linguistique	
@@ -70198,7 +70197,7 @@ spreader	spreader	77	3	épandeur, séparateur
 spreading	spreading	77	2	écartement	
 spreading method	spreading method	77	3	dépôt par étalement	
 spreadsheet	spreadsheet	77	3	tableur, chiffrier, feuille de calcul	
-spree	Spree	78	3	Spree	
+spree	Spree	77	3	Spree	
 spree	spree	78	3	frénésie	
 sprig	sprig	78	3	brin, rameau	
 sprightly	sprightly	78	3	animé, vif, vigoureusement	
@@ -71098,7 +71097,7 @@ stinky	stinky	78	3	puant, fétide, malodorant
 stinky tofu	stinky tofu	78	3	tofu puant	
 stint	stint	78	2	passage, séjour	
 stipe	stipe	78	3	stipe	
-stipend	stipend	79	3	bourse, salaire, pension	
+stipend	stipend	78	3	bourse, salaire, pension	
 stipulate	stipulate	79	3	stipuler	
 stipulation	stipulation	79	3	clause	
 stipule	stipule	79	3	stipule	
@@ -71449,10 +71448,10 @@ streets behind	streets behind	79	3		x
 streetwalker	streetwalker	79	3	fille publique, fille des rues, péripatéticienne	
 streetwear	streetwear	79	3	streetwear	
 streisand effect	Streisand effect	79	3	effet Streisand	
+strength	strength	79	1	force, effectif, vigueur	
 strength of materials	strength of materials	79	3	résistance des matériaux	
 strength training	strength training	79	3	musculation	
 strengthen	strengthen	79	1	renforcer, fortifier, raffermir	
-strenth	strenth	79	2	force, effectif, vigueur	
 strenuous	strenuous	79	3	acharné, vigoureux, éprouvant	
 strenuously	strenuously	79	3	énergiquement	
 strepto-	strepto-	79	3	strepto-	
@@ -71998,7 +71997,7 @@ suction cup	suction cup	79	3	ventouse
 sudan	Sudan	79	2	Soudan	
 sudanese	Sudanese	79	3	soudanais, soudanaise, Soudanais	
 sudanophilic	sudanophilic	79	3	soudanophile	
-sudden	sudden	80	1	soudain, subit	
+sudden	sudden	79	1	soudain, subit	
 sudden death	sudden death	80	3	mort subite	
 sudden infant death syndrome	sudden infant death syndrome	80	3	mort subite du nourrisson	
 suddenly	suddenly	80	1	soudain, tout d'un coup, soudainement	
@@ -72072,7 +72071,7 @@ suicide bombing	suicide bombing	80	3	[[attentat-suicide]] à la bombe
 suicide by cop	suicide by cop	80	3	suicide par police interposée	
 suicide note	suicide note	80	3	lettre d'adieu	
 suid	suid	80	3	suidé	
-suit	suit	80	0	ensemble, complet, tenue	
+suit	suit	80	1	ensemble, complet, tenue	
 suit and tie	suit and tie	80	3	costume-cravate, costard-cravate	
 suit down to the ground	suit down to the ground	80	3		x
 suit jacket	suit jacket	80	3	veste, veston, veste de costume	
@@ -72083,7 +72082,7 @@ suit up	suit up	80	3	S’habiller, se vêtir	x
 suitable	suitable	80	1	approprié, adéquat, convenable	
 suitably	suitably	80	3	convenablement	
 suitcase	suitcase	80	2	valise	
-suite	suite	80	1	suite	
+suite	suite	80	2	suite	
 suitor	suitor	80	3	soupirant, prétendant, plaideur	
 sujuk	sujuk	80	3	soudjouk	
 sukun	sukun	80	3	soukoun	
@@ -72152,6 +72151,7 @@ sumptuary	sumptuary	80	3	somptuaire
 sumptuous	sumptuous	80	3	somptueux	
 sumptuously	sumptuously	80	3	somptueusement	
 sun	Sun	80	2	Soleil, dim.	
+sun	sun	80	0	soleil, Soleil	
 sun bear	sun bear	80	3	ours malais	
 sun dog	sun dog	80	3	parhélie	
 sun gear	sun gear	80	3	soleil, planétaire intérieur	
@@ -73551,7 +73551,6 @@ tanker aircraft	tanker aircraft	81	3	avion ravitailleur
 tankette	tankette	81	3	chenillette	
 tankful	tankful	81	3	plein, réservoir	
 tankie	tankie	81	3	tankie	
-tanks	tanks	81	1	merci, remerciement	
 tanned	tanned	81	3	bronzé	
 tanner	tanner	81	3	tanneur	
 tannery	tannery	81	3	tannerie, mégisserie	
@@ -73798,7 +73797,7 @@ teaching assistant	teaching assistant	81	3	assistant d'enseignement, assistante 
 teaching hospital	teaching hospital	81	3	CHU	
 teacup	teacup	81	3	tasse à thé	
 teahouse	teahouse	81	3	maison de thé, salon de thé	
-teak	teak	82	3	teck	
+teak	teak	81	3	teck	
 teakettle	teakettle	82	3	bouilloire, bouilloire à thé	
 teal	teal	82	3	sarcelle, bleu canard, bleu sarcelle	
 tealight	tealight	82	3	bougie chauffe-plat, bougie à réchaud	
@@ -74449,6 +74448,7 @@ thank-you	thank-you	82	3	remerciement
 thankful	thankful	82	2	reconnaissant	
 thankfulness	thankfulness	82	3	reconnaissance, gratitude	
 thankless	thankless	82	3	ingrat	
+thanks	thanks	82	0	merci, remerciement	
 thanks a bunch	thanks a bunch	82	3	Merci bien, Merci beaucoup, Mille mercis	x
 thanks a heap	thanks a heap	82	3		x
 thanks a lot	thanks a lot	82	2	un grand merci, merci beaucoup	x
@@ -74461,6 +74461,7 @@ thanks in advance	thanks in advance	82	3	merci [[d'avance]]	x
 thanks to	thanks to	82	2	grâce à	x
 thanksgiving	Thanksgiving	82	2	Action de grâce, Thanksgiving, Action de grâces	
 thanksgiving	thanksgiving	82	3	remerciement, bénédicité, grâces	
+that	that	82	0	que, pour que, ce	
 that does it	that does it	82	1	ça suffit	x
 that dog don't run	that dog don't run	82	3		x
 that ever walked on two legs	that ever walked on two legs	82	3		x
@@ -74697,7 +74698,7 @@ them's the breaks	them's the breaks	82	3		x
 them's the facts	them's the facts	82	3		x
 thematic	thematic	82	3	thématique	
 thematic vowel	thematic vowel	82	3	voyelle thématique	
-thematically	thematically	82	3	thématiquement	
+thematically	thematically	83	3	thématiquement	
 thematology	thematology	83	3	thématologie	
 theme	theme	83	1	thème	
 theme park	theme park	83	3	parc à thèmes	
@@ -75036,6 +75037,7 @@ thirty-sixth	thirty-sixth	83	3	trente-sixième
 thirty-third	thirty-third	83	3	trente-troisième	
 thirty-three	thirty-three	83	3	trente-trois	
 thirty-two	thirty-two	83	3	trente-deux	
+this	this	83	0	ce, cette, ce ... ci	
 this afternoon	this afternoon	83	3	cet [[après-midi]]	x
 this and that	this and that	83	0	ceci et cela	
 this evening	this evening	83	3	ce soir	x
@@ -75212,6 +75214,7 @@ throne	throne	83	1	trône
 throne room	throne room	83	3	toilettes	
 throng	throng	83	3	foule, essaim	
 throttle	throttle	83	3	accélérateur, limiter, étrangler	
+through	through	83	0	à travers, par, dans	
 through ball	through ball	83	2	passe en profondeur	
 through the gate	through the gate	83	3		x
 through the looking-glass	through the looking-glass	83	3		x
@@ -75294,7 +75297,6 @@ throwable	throwable	83	3	lançable
 throwback	throwback	83	3	retour en arrière, retour au passé	
 thrower	thrower	83	3	lanceur	
 throwing knife	throwing knife	83	3	couteau de lancer	
-thruff	thruff	83	2	à travers, par, dans	
 thrush	thrush	83	3	grive, muguet, mycose vaginale	
 thrush nightingale	thrush nightingale	83	3	rossignol, rossignol progné	
 thrushling	thrushling	83	3	petit de l'étourneau, bébé étourneau	
@@ -75596,8 +75598,8 @@ timpani	timpani	83	3	timbale, timbales
 timpanist	timpanist	83	3	timbalier, timbalière	
 tin	tin	83	2	étain, boîte de conserve, conserve	
 tin can	tin can	83	3	boîte de conserve	
-tin can telephone	tin can telephone	83	3	téléphone à ficelle	
-tin god	tin god	83	3		x
+tin can telephone	tin can telephone	84	3	téléphone à ficelle	
+tin god	tin god	84	3		x
 tin mine	tin mine	84	3	mine [[d']]étain	
 tin opener	tin opener	84	3	ouvre-boîtes	
 tin plate	tin plate	84	3	tôle, fer-blanc	
@@ -75758,7 +75760,7 @@ to each his own	to each his own	84	2	à chacun son goût, chacun voit midi à sa
 to err is human	to err is human	84	3	l'erreur est humaine	x
 to excess	to excess	84	3	À l'excès, jusqu'à l'excès	x
 to go	to go	84	1		x
-to god	to God	84	1		x
+to god	to God	84	2		x
 to hand	to hand	84	2		x
 to have on one's hands	to have on one’s hands	84	3	avoir sur les bras	x
 to heel	to heel	84	3	au pied	x
@@ -76496,8 +76498,8 @@ tranquilizer dart	tranquilizer dart	84	3	fléchette tranquillisante
 tranquilliser	tranquilliser	84	3	tranquillisant	
 tranquillity	tranquillity	84	3	tranquillité	
 trans	trans	84	1	trans	
-trans boy	trans boy	84	3	transboy, transboi	
-trans community	trans community	84	3	communauté trans	
+trans boy	trans boy	85	3	transboy, transboi	
+trans community	trans community	85	3	communauté trans	
 trans control	trans control	85	3	contrôle en trans	
 trans fat	trans fat	85	3	gras trans	
 trans girl	trans girl	85	3	transgirl	
@@ -77396,8 +77398,8 @@ tundra vole	tundra vole	85	3	campagnol nordique, campagnol de toundra
 tune	tune	85	1	air, mélodie, tube	
 tune in	tune in	85	3	syntoniser	x
 tune out	tune out	85	3		x
-tune up	tune up	85	3		x
-tuned in	tuned in	85	3		x
+tune up	tune up	86	3		x
+tuned in	tuned in	86	3		x
 tuner	tuner	86	3	accordeur, tuner, syntoniseur	
 tung tree	tung tree	86	3	tung	
 tungstate	tungstate	86	3	tungstate	
@@ -78296,8 +78298,8 @@ undeserved	undeserved	86	3	injustifié, immérité
 undesirable	undesirable	86	3	indésirable	
 undestroyable	undestroyable	86	3	indestructible	
 undetectable	undetectable	86	3	indétectable	
-undeterred	undeterred	86	3	pas démoralisé	
-undethronable	undethronable	86	3	indétrônable	
+undeterred	undeterred	87	3	pas démoralisé	
+undethronable	undethronable	87	3	indétrônable	
 undethroned	undethroned	87	3	indétrôné	
 undiagnosed	undiagnosed	87	3	non-diagnostiqué	
 undies	undies	87	3	sous-vêtements	
@@ -79196,8 +79198,8 @@ use in anger	use in anger	87	3		x
 use it or lose it	use it or lose it	87	2	Fais-en usage ou sépare-t'en, Utilise-le ou perds-le	x
 use one's head	use one's head	87	3		x
 use one's noggin	use one's noggin	87	3		x
-use the bathroom	use the bathroom	87	3	aller aux toilettes	x
-use the facilities	use the facilities	87	3	aller aux toilettes	x
+use the bathroom	use the bathroom	88	3	aller aux toilettes	x
+use the facilities	use the facilities	88	3	aller aux toilettes	x
 use the toilet	use the toilet	88	3	aller aux toilettes	x
 use up	use up	88	1	abattre, consommer, épuiser	x
 use-by date	use-by date	88	2	date de péremption	
@@ -79577,7 +79579,6 @@ vegan	Vegan	88	3	Végan, Végane
 vegan	vegan	88	2	végan, végétalien, végane	
 veganarchism	veganarchism	88	3	anarchisme végétalien, véganarchisme	
 veganism	veganism	88	3	véganisme, végétalisme	
-vegeburger	vegeburger	88	3	burger végétarien	
 vegetable	vegetable	88	1	légume, végétal, légumier	
 vegetable garden	vegetable garden	88	3	potager	
 vegetable lamb	vegetable lamb	88	3	agneau de Scythie, agneau tartare, barometz	
@@ -79591,6 +79592,7 @@ vegetate	vegetate	88	3	végéter
 vegetation	vegetation	88	2	végétation	
 vegetation index	vegetation index	88	3	indice de végétation	
 veggie	veggie	88	3	végétarien	
+veggie burger	veggie burger	88	3	burger végétarien	
 vehemence	vehemence	88	3	véhémence	
 vehement	vehement	88	3	véhément	
 vehemently	vehemently	88	3	véhémentement	
@@ -80096,8 +80098,8 @@ viscous	viscous	88	3	visqueux
 vise	vise	88	3	étau	
 vishing	vishing	88	3	vishing	
 visibility	visibility	88	2	visibilité	
-visible	visible	88	1	visible, perceptible	
-visible light	visible light	88	3	lumière visible	
+visible	visible	89	1	visible, perceptible	
+visible light	visible light	89	3	lumière visible	
 visible light communication	visible light communication	89	3	transmission par diode électroluminescente	
 visible spectrum	visible spectrum	89	3	spectre visible	
 visibly	visibly	89	3	visiblement	
@@ -80392,8 +80394,8 @@ wage war	wage war	89	3	guerroyer	x
 wage wedge	wage wedge	89	3	écart social	
 wager	wager	89	3	mise, pari, parier	
 waggle	waggle	89	3	frétiller	
-waggon	waggon	89	3	charrette	
 wagnerian	Wagnerian	89	3	wagnérien	
+wagon	wagon	89	2	charrette	
 wagoner	wagoner	89	3	conducteur de wagon	
 wagtail	wagtail	89	3	bergeronnette, hochequeue	
 wah-wah	wah-wah	89	3	wah-wah	
@@ -80996,8 +80998,8 @@ weasel into	weasel into	89	3		x
 weasel out	weasel out	89	3		x
 weaselly	weaselly	89	3	sournois	
 weather	weather	89	1	temps, météo, intempéries	
-weather balloon	weather balloon	89	3	ballon-sonde	
-weather bomb	weather bomb	89	3	bombe météo	
+weather balloon	weather balloon	90	3	ballon-sonde	
+weather bomb	weather bomb	90	3	bombe météo	
 weather forecast	weather forecast	90	3	météo, prévision météorologique, prévision météo	
 weather forecaster	weather forecaster	90	3	météorologue, prévisionniste	
 weather front	weather front	90	3	front météorologique	
@@ -81029,7 +81031,7 @@ web gear	web gear	90	3	harnais de combat, brêlage de combat
 web harvesting	web harvesting	90	3	moissonnage de données	
 web hosting	web hosting	90	3	hébergement de site web	
 web mail	web mail	90	3	portail de messagerie	
-web page	web page	90	2	page web, page Web	
+web page	web page	90	3	page web, page Web	
 web scraping	web scraping	90	3	moissonnage de données	
 web server	web server	90	3	serveur web	
 web service	Web service	90	3	service web, webservice	
@@ -81141,7 +81143,7 @@ welcome	welcome	90	0	bienvenue, bienvenu, accueillir
 welcome back	welcome back	90	2	bon retour parmi nous, content de vous revoir	x
 welcome home	welcome home	90	2		x
 welcome swallow	welcome swallow	90	3	hirondelle messagère	
-welcome to my world	welcome to my world	90	2		x
+welcome to my world	welcome to my world	90	3		x
 welcome to the club	welcome to the club	90	3		x
 welcoming	welcoming	90	2	accueillant	
 weld	weld	90	2	gaude, réséda des teinturiers, souder	
@@ -81896,8 +81898,8 @@ wicked tongue	wicked tongue	90	3		x
 wickedly	wickedly	90	3	cruellement, méchamment, mauvaisement	
 wickedness	wickedness	90	3	méchanceté, perversité, iniquité	
 wicker	wicker	90	3	osier	
-wickerwork	wickerwork	90	3	vannerie	
-wicket	wicket	90	2	portillon, guichet	
+wickerwork	wickerwork	91	3	vannerie	
+wicket	wicket	91	2	portillon, guichet	
 wicket gate	wicket gate	91	3	guichet	
 wide	wide	91	0	large, ample	
 wide area network	wide area network	91	3	WAN, réseau étendu	
@@ -82796,8 +82798,8 @@ wrong	wrong	91	0	faux, erroné, fautif
 wrong crowd	wrong crowd	91	3		x
 wrong number	wrong number	91	2	faux numéro	x
 wrong side of the tracks	wrong side of the tracks	91	3		x
-wrong way challenge	wrong way challenge	91	3	wrong way challenge	
-wrong-way driver	wrong-way driver	91	3	conducteur fantôme, conductrice fantôme	
+wrong way challenge	wrong way challenge	92	3	wrong way challenge	
+wrong-way driver	wrong-way driver	92	3	conducteur fantôme, conductrice fantôme	
 wrongdoer	wrongdoer	92	3	malfaiteur	
 wrongdoing	wrongdoing	92	3	malfaisance, méfait	
 wrongful	wrongful	92	3	injuste	
@@ -83053,7 +83055,6 @@ yeoman	yeoman	92	3	valet, franc-tenancier
 yeoman's service	yeoman's service	92	3	travail de Romain, travail de bénédictin	x
 yeomanry	yeomanry	92	3	yeomanry	
 yep	yep	92	1	mouais, moui, ouaip	
-yer	yer	92	2	ton, ta, tes	
 yerevanian	Yerevanian	92	3	Érévantsi	
 yersiniosis	yersiniosis	92	3	yersiniose	
 yes	yes	92	0	oui, si	
@@ -83199,7 +83200,7 @@ you wish	you wish	92	2	Dans tes rêves, Dans vos rêves	x
 you would think	you would think	92	1		x
 you'd better believe it	you'd better believe it	92	3		x
 you'll never guess	you'll never guess	92	3		x
-you're all right	you're all right	92	1	Tu vas bien, Vous allez bien	x
+you're all right	you're all right	92	2	Tu vas bien, Vous allez bien	x
 you're fine	you're fine	92	2		x
 you're good	you're good	92	1	T'es bon, T'es bonne, Tu es bon	x
 you're kidding	you're kidding	92	3	Tu me fais marcher, Tu plaisantes, Vous plaisantez	x
@@ -83228,6 +83229,7 @@ younger brother	younger brother	92	3	frère cadet
 younger sister	younger sister	92	3	petite sœur, sœur cadette	
 youngest	youngest	92	2	benjamin	
 youngster	youngster	92	2	enfant, ado	
+your	your	92	0	ton, ta, tes	
 your ass	your ass	92	2		x
 your boy	your boy	92	2		x
 your girl	your girl	92	2		x
@@ -83524,7 +83526,6 @@ zugzwang	zugzwang	92	3	zugzwang
 zuism	Zuism	92	3	zuisme	
 zuist	Zuist	92	3	zuiste	
 zulu	Zulu	92	3	Zoulou, Zouloue, Zoulous	
-zun	zun	92	3	soleil, Soleil	
 zunyite	zunyite	92	3	zunyite	
 zurich	Zurich	92	3	Zurich, Zürich	
 zwastika	zwastika	92	3	zwastika	

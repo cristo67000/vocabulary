@@ -1,0 +1,1422 @@
+# Expressions imagées anglaises et proverbes, deuxième série (version 1.1).
+# Rédigé pour Vocabulary. Exemples d'aujourd'hui : télétravail, téléphone,
+# réseaux, loyers. « lit-fr » : la traduction mot à mot, pour qu'on voie
+# pourquoi il ne faut pas traduire mot à mot.
+module: expressions
+langue: en
+
+# ————— Expressions anglaises —————
+
+@ hit_the_road
+w: hit the road
+t: idiomes-en
+tr: se mettre en route, mettre les voiles, y aller
+nat: locution
+mq: fam
+lit-fr: frapper la route
+d-fr: Partir, se mettre en route.
+d-en: To leave; to set off on a journey.
+x: It’s getting late — we should hit the road. | Il se fait tard, on devrait y aller.
+
+@ sit_on_the_fence
+w: sit on the fence
+t: idiomes-en
+tr: ne pas prendre parti, ménager la chèvre et le chou
+nat: locution
+lit-fr: s’asseoir sur la clôture
+d-fr: Refuser de choisir entre deux camps.
+d-en: To avoid taking sides in a debate.
+x: You can’t sit on the fence forever — are you for it or against it? | Tu ne peux pas ménager la chèvre et le chou éternellement : tu es pour ou contre ?
+
+@ cut_corners
+w: cut corners
+t: idiomes-en
+tr: bâcler, rogner sur la qualité, faire des économies de bouts de chandelle
+nat: locution
+lit-fr: couper les virages
+d-fr: Faire quelque chose vite ou à moindre coût, au détriment de la qualité ou de la sécurité.
+d-en: To do something cheaply or quickly, at the expense of quality or safety.
+x: The builders cut corners and now the roof leaks. | Les ouvriers ont bâclé le travail et maintenant le toit fuit.
+
+@ ball_in_your_court
+w: the ball is in your court
+t: idiomes-en
+tr: la balle est dans ton camp
+nat: locution
+lit-fr: la balle est sur ton court
+d-fr: C’est à toi d’agir ou de décider maintenant.
+d-en: It is now your turn to act or decide.
+x: I’ve sent my offer — the ball is in their court now. | J’ai envoyé mon offre : la balle est dans leur camp maintenant.
+
+@ back_to_square_one
+w: back to square one
+t: idiomes-en
+tr: retour à la case départ
+nat: locution
+lit-fr: retour à la case un
+d-fr: Revenir au point de départ après un échec.
+d-en: Back to the beginning, after a failed attempt.
+x: The update deleted all my settings, so I’m back to square one. | La mise à jour a effacé tous mes réglages : retour à la case départ.
+v: back_to_the_drawing_board
+
+@ bark_up_the_wrong_tree
+w: bark up the wrong tree
+t: idiomes-en
+tr: se tromper de cible, faire fausse route
+nat: locution
+mq: fam
+lit-fr: aboyer au pied du mauvais arbre
+d-fr: Chercher au mauvais endroit, accuser la mauvaise personne.
+d-en: To look in the wrong place or blame the wrong person.
+x: If you think I posted that comment, you’re barking up the wrong tree. | Si tu crois que c’est moi qui ai posté ce commentaire, tu te trompes de cible.
+
+@ best_thing_since_sliced_bread
+w: the best thing since sliced bread
+t: idiomes-en
+tr: la meilleure invention du siècle, le top du top
+nat: locution
+mq: fam, hum
+lit-fr: la meilleure chose depuis le pain en tranches
+d-fr: Une invention ou une idée formidable (souvent avec ironie).
+d-en: A wonderful new idea or invention (often ironic).
+x: He thinks his new air fryer is the best thing since sliced bread. | Il trouve que sa nouvelle friteuse sans huile, c’est l’invention du siècle.
+
+@ bite_your_tongue
+w: bite your tongue
+t: idiomes-en
+tr: tenir sa langue, se retenir de parler
+nat: locution
+lit-fr: mords ta langue
+d-fr: Se retenir de dire ce qu’on pense.
+d-en: To stop yourself from saying what you think.
+x: I wanted to argue, but I bit my tongue. | J’avais envie de répliquer, mais j’ai tenu ma langue.
+
+@ break_the_bank
+w: break the bank
+t: idiomes-en
+tr: coûter une fortune, se ruiner
+nat: locution
+lit-fr: faire sauter la banque
+d-fr: Coûter trop cher ; souvent à la forme négative : « ça ne ruinera personne ».
+d-en: To cost too much; often in the negative: “it won’t break the bank”.
+x: A weekend in Brighton won’t break the bank. | Un week-end à Brighton, ça ne va pas nous ruiner.
+
+@ burn_the_midnight_oil
+w: burn the midnight oil
+t: idiomes-en
+tr: travailler tard dans la nuit, veiller tard
+nat: locution
+lit-fr: brûler l’huile de minuit
+d-fr: Travailler très tard le soir.
+d-en: To work late into the night.
+x: I burned the midnight oil to finish my dissertation. | J’ai travaillé jusqu’au milieu de la nuit pour finir mon mémoire.
+
+@ by_the_book
+w: by the book
+t: idiomes-en
+tr: dans les règles, selon le règlement
+nat: locution
+lit-fr: d’après le livre
+d-fr: En suivant strictement les règles.
+d-en: Strictly following the rules.
+x: Our new manager does everything by the book. | Notre nouvelle cheffe fait tout dans les règles.
+
+@ call_the_shots
+w: call the shots
+t: idiomes-en
+tr: mener la barque, décider, commander
+nat: locution
+mq: fam
+lit-fr: annoncer les coups
+d-fr: Être celui qui prend les décisions.
+d-en: To be the person who makes the decisions.
+x: It’s her start-up, so she calls the shots. | C’est sa start-up, c’est elle qui mène la barque.
+
+@ cry_wolf
+w: cry wolf
+t: idiomes-en
+tr: crier au loup
+nat: locution
+lit-fr: crier « loup »
+d-fr: Donner l’alerte sans raison, si bien qu’on n’est plus cru le jour où c’est vrai.
+d-en: To raise a false alarm, so that people stop believing you.
+n-fr: Le français a la même fable et la même expression.
+n-en: French has the same fable and the same phrase.
+x: The app sends so many alerts that it’s crying wolf. | L’appli envoie tellement d’alertes qu’elle crie au loup.
+
+@ cut_to_the_chase
+w: cut to the chase
+t: idiomes-en
+tr: aller droit au but, en venir à l’essentiel
+nat: locution
+lit-fr: couper jusqu’à la poursuite
+d-fr: Aller directement à l’essentiel, sans détours.
+d-en: To get to the point without wasting time.
+x: Let’s cut to the chase: how much will it cost? | Allons droit au but : combien ça va coûter ?
+v: beat_about_the_bush
+
+@ down_to_earth
+w: down-to-earth
+t: idiomes-en
+tr: simple, qui a les pieds sur terre, nature
+nat: adj
+lit-fr: descendu jusqu’à terre
+d-fr: Simple, réaliste et sans prétention.
+d-en: Practical, realistic and unpretentious.
+a-fr: ≠ « terre à terre », qui est péjoratif (sans élévation) ; « down-to-earth » est un compliment.
+a-en: French « terre à terre » is negative (unimaginative); “down-to-earth” is a compliment.
+x: Despite her fame, she’s really down-to-earth. | Malgré sa célébrité, elle est vraiment simple.
+
+@ drop_the_ball
+w: drop the ball
+t: idiomes-en
+tr: rater son coup, commettre une bourde, laisser tomber un dossier
+nat: locution
+mq: fam
+lit-fr: lâcher la balle
+d-fr: Faire une erreur par négligence ; ne pas faire ce dont on était chargé.
+d-en: To make a mistake by being careless; to fail to do your part.
+x: Sorry, I dropped the ball on that email. | Désolé, j’ai complètement laissé passer ce mail.
+
+@ easier_said_than_done
+w: easier said than done
+t: idiomes-en
+tr: plus facile à dire qu’à faire
+nat: locution
+lit-fr: plus facile dit que fait
+d-fr: Une chose qui paraît simple mais ne l’est pas.
+d-en: Something that sounds simple but is hard to do.
+x: “Just stop checking your phone.” — “Easier said than done.” | « Arrête simplement de regarder ton téléphone. — Plus facile à dire qu’à faire. »
+
+@ get_out_of_hand
+w: get out of hand
+t: idiomes-en
+tr: dégénérer, échapper à tout contrôle
+nat: locution
+lit-fr: sortir de la main
+d-fr: Devenir impossible à maîtriser.
+d-en: To become impossible to control.
+x: The party got out of hand and the neighbours called the police. | La fête a dégénéré et les voisins ont appelé la police.
+
+@ get_off_your_chest
+w: get something off your chest
+t: idiomes-en
+tr: vider son sac, dire ce qu’on a sur le cœur
+nat: locution
+lit-fr: retirer quelque chose de sa poitrine
+d-fr: Dire enfin ce qui pèse sur la conscience.
+d-en: To finally say something that has been worrying you.
+x: I need to get something off my chest. | Il faut que je te dise quelque chose qui me pèse.
+
+@ benefit_of_the_doubt
+w: give someone the benefit of the doubt
+t: idiomes-en
+tr: accorder le bénéfice du doute
+nat: locution
+lit-fr: donner à quelqu’un le bénéfice du doute
+d-fr: Choisir de croire quelqu’un faute de preuve contraire.
+d-en: To believe someone because you cannot prove they are wrong.
+x: He says the bus was late; let’s give him the benefit of the doubt. | Il dit que le bus était en retard ; accordons-lui le bénéfice du doute.
+
+@ back_to_the_drawing_board
+w: back to the drawing board
+t: idiomes-en
+tr: tout reprendre à zéro, retour à la case départ
+nat: locution
+lit-fr: retour à la planche à dessin
+d-fr: Recommencer un projet après un échec.
+d-en: To start planning again after a failure.
+x: The client hated the logo, so it’s back to the drawing board. | Le client a détesté le logo : on reprend tout à zéro.
+v: back_to_square_one
+
+@ hang_in_there
+w: hang in there
+t: idiomes-en
+tr: tiens bon, accroche-toi
+nat: locution
+mq: fam
+lit-fr: reste suspendu là
+d-fr: Formule d’encouragement dans une période difficile.
+d-en: Words of encouragement in a difficult time.
+x: Hang in there — exams are almost over. | Tiens bon, les examens sont presque finis.
+
+@ chip_on_your_shoulder
+w: have a chip on your shoulder
+t: idiomes-en
+tr: être aigri, en vouloir à la terre entière, avoir un complexe
+nat: locution
+lit-fr: avoir un copeau sur l’épaule
+d-fr: Garder de la rancune ou un sentiment d’infériorité qui rend susceptible.
+d-en: To feel resentful or inferior, and be easily offended.
+x: He’s had a chip on his shoulder since he didn’t get the promotion. | Il en veut à tout le monde depuis qu’il n’a pas eu sa promotion.
+
+@ in_a_nutshell
+w: in a nutshell
+t: idiomes-en
+tr: en un mot, en bref, en résumé
+nat: locution
+lit-fr: dans une coquille de noix
+d-fr: En résumé, en peu de mots.
+d-en: In a few words; briefly.
+x: In a nutshell, the project is late and over budget. | En bref, le projet est en retard et a dépassé son budget.
+
+@ not_rocket_science
+w: it’s not rocket science
+t: idiomes-en
+tr: ce n’est pas sorcier, ce n’est pas la mer à boire
+nat: locution
+mq: fam
+lit-fr: ce n’est pas de la science des fusées
+d-fr: Ce n’est pas compliqué.
+d-en: It is not difficult to understand.
+n-fr: Variante : « it’s not brain surgery ».
+n-en: Also: “it’s not brain surgery”.
+x: Setting up the router isn’t rocket science. | Installer la box, ce n’est pas sorcier.
+
+@ keep_an_eye_on
+w: keep an eye on
+t: idiomes-en
+tr: garder un œil sur, surveiller
+nat: locution
+lit-fr: garder un œil sur
+d-fr: Surveiller quelqu’un ou quelque chose.
+d-en: To watch someone or something carefully.
+x: Can you keep an eye on my laptop while I get a coffee? | Tu peux surveiller mon ordi pendant que je vais chercher un café ?
+
+@ keep_your_chin_up
+w: keep your chin up
+t: idiomes-en
+tr: garder le moral, haut les cœurs
+nat: locution
+lit-fr: garde le menton levé
+d-fr: Rester courageux et optimiste.
+d-en: To stay cheerful in a difficult situation.
+x: Keep your chin up — you’ll find another job. | Garde le moral, tu retrouveras du travail.
+
+@ leave_no_stone_unturned
+w: leave no stone unturned
+t: idiomes-en
+tr: remuer ciel et terre, ne rien laisser au hasard
+nat: locution
+lit-fr: ne laisser aucune pierre non retournée
+d-fr: Tout essayer, chercher partout.
+d-en: To try every possible way to find something or succeed.
+x: The police left no stone unturned in their search. | La police a remué ciel et terre pour le retrouver.
+
+@ let_sleeping_dogs_lie
+w: let sleeping dogs lie
+t: idiomes-en
+tr: ne pas réveiller le chat qui dort
+nat: locution
+lit-fr: laisser les chiens qui dorment couchés
+d-fr: Ne pas raviver un problème qui s’est calmé.
+d-en: To avoid stirring up an old problem.
+x: Don’t mention the argument at dinner — let sleeping dogs lie. | Ne parle pas de la dispute au dîner : ne réveille pas le chat qui dort.
+
+@ long_story_short
+w: long story short
+t: idiomes-en
+tr: bref, pour faire court, en deux mots
+nat: locution
+mq: fam
+lit-fr: longue histoire courte
+d-fr: Pour résumer une histoire.
+d-en: To summarise a story quickly.
+x: Long story short, we missed the flight. | Bref, on a raté l’avion.
+
+@ no_brainer
+w: no-brainer
+t: idiomes-en
+tr: une évidence, ça ne se discute même pas
+nat: n
+mq: fam
+lit-fr: un sans-cerveau
+d-fr: Une décision si évidente qu’il n’y a pas à réfléchir.
+d-en: A decision so obvious that it needs no thought.
+x: Free upgrade? That’s a no-brainer. | Une mise à niveau gratuite ? Ça ne se discute même pas.
+
+@ off_the_top_of_my_head
+w: off the top of my head
+t: idiomes-en
+tr: de tête, comme ça, sans vérifier
+nat: locution
+lit-fr: depuis le haut de ma tête
+d-fr: Sans réfléchir ni vérifier, de mémoire.
+d-en: Without checking or thinking carefully.
+x: Off the top of my head, I’d say about fifty people. | Comme ça, de tête, je dirais une cinquantaine de personnes.
+
+@ on_the_ball
+w: on the ball
+t: idiomes-en
+tr: vif, réactif, au taquet
+nat: locution
+mq: fam
+lit-fr: sur la balle
+d-fr: Attentif, rapide à comprendre et à réagir.
+d-en: Alert and quick to understand or react.
+x: The new intern is really on the ball. | Le nouveau stagiaire est vraiment réactif.
+
+@ out_of_the_blue
+w: out of the blue
+t: idiomes-en
+tr: sans prévenir, tout à coup, tombé du ciel
+nat: locution
+lit-fr: hors du bleu
+d-fr: De façon totalement inattendue.
+d-en: Completely unexpectedly.
+x: My ex messaged me out of the blue after three years. | Mon ex m’a envoyé un message sans prévenir, au bout de trois ans.
+
+@ over_my_dead_body
+w: over my dead body
+t: idiomes-en
+tr: il faudra me passer sur le corps, jamais de la vie
+nat: locution
+mq: fam
+lit-fr: par-dessus mon cadavre
+d-fr: Refus catégorique.
+d-en: A firm refusal: it will never happen.
+x: Sell my vinyl collection? Over my dead body! | Vendre ma collection de vinyles ? Il faudra me passer sur le corps !
+
+@ play_it_by_ear
+w: play it by ear
+t: idiomes-en
+tr: improviser, voir venir, aviser
+nat: locution
+lit-fr: le jouer à l’oreille
+d-fr: Décider au fur et à mesure, sans plan fixé.
+d-en: To decide what to do as the situation develops.
+x: We haven’t booked anything — we’ll play it by ear. | On n’a rien réservé : on avisera sur place.
+
+@ pull_yourself_together
+w: pull yourself together
+t: idiomes-en
+tr: se ressaisir, se reprendre
+nat: locution
+lit-fr: tire-toi ensemble
+d-fr: Se calmer et reprendre le contrôle de soi.
+d-en: To calm down and regain control of yourself.
+x: Pull yourself together — the interview starts in five minutes. | Ressaisis-toi, l’entretien commence dans cinq minutes.
+
+@ rain_check
+w: take a rain check
+t: idiomes-en
+tr: remettre à plus tard, reporter
+nat: locution
+mq: fam
+lit-fr: prendre un ticket de pluie
+d-fr: Refuser une invitation en proposant de la reporter.
+d-en: To decline an invitation but suggest doing it another time.
+n-fr: D’origine américaine (le billet remis quand un match était annulé pour la pluie).
+n-en: Originally American, from tickets given when a game was rained off.
+x: Can I take a rain check on drinks tonight? I’m exhausted. | On peut remettre le verre de ce soir ? Je suis épuisé.
+
+@ rule_of_thumb
+w: rule of thumb
+t: idiomes-en
+tr: règle empirique, en règle générale, en gros
+nat: locution
+lit-fr: règle du pouce
+d-fr: Une règle pratique tirée de l’expérience, pas d’un calcul exact.
+d-en: A practical rule based on experience rather than exact calculation.
+x: As a rule of thumb, save 10% of your salary. | En règle générale, mettez de côté 10 % de votre salaire.
+
+@ sit_tight
+w: sit tight
+t: idiomes-en
+tr: ne pas bouger, patienter, rester sur ses positions
+nat: locution
+lit-fr: rester assis serré
+d-fr: Attendre sans agir.
+d-en: To wait patiently without taking action.
+x: Sit tight — the engineer will be there by noon. | Ne bougez pas, le technicien sera là avant midi.
+
+@ so_far_so_good
+w: so far so good
+t: idiomes-en
+tr: jusqu’ici tout va bien
+nat: locution
+lit-fr: jusqu’ici, si bon
+d-fr: Pour l’instant, tout se passe bien.
+d-en: Up to now, everything is going well.
+x: “How’s the new job?” — “So far so good.” | « Ça se passe comment, le nouveau boulot ? — Jusqu’ici tout va bien. »
+
+@ speak_your_mind
+w: speak your mind
+t: idiomes-en
+tr: dire ce qu’on pense, parler franchement
+nat: locution
+lit-fr: dire son esprit
+d-fr: Dire franchement son opinion.
+d-en: To say honestly what you think.
+x: In this team, everyone is free to speak their mind. | Dans cette équipe, chacun est libre de dire ce qu’il pense.
+
+@ steal_someones_thunder
+w: steal someone’s thunder
+t: idiomes-en
+tr: voler la vedette à quelqu’un, couper l’herbe sous le pied
+nat: locution
+lit-fr: voler le tonnerre de quelqu’un
+d-fr: Attirer l’attention qui revenait à quelqu’un d’autre.
+d-en: To take the attention or praise meant for someone else.
+x: She announced her engagement at my birthday party and stole my thunder. | Elle a annoncé ses fiançailles à mon anniversaire et m’a volé la vedette.
+
+@ take_it_easy
+w: take it easy
+t: idiomes-en
+tr: se détendre, y aller doucement, se reposer
+nat: locution
+lit-fr: le prendre facile
+d-fr: Se reposer, ne pas se fatiguer ; aussi : « du calme ».
+d-en: To relax and not work too hard; also: “calm down”.
+x: The doctor told me to take it easy for a week. | Le médecin m’a dit de me ménager pendant une semaine.
+
+@ tip_of_the_iceberg
+w: the tip of the iceberg
+t: idiomes-en
+tr: la partie émergée de l’iceberg
+nat: locution
+lit-fr: la pointe de l’iceberg
+d-fr: La petite partie visible d’un problème bien plus grand.
+d-en: The small visible part of a much bigger problem.
+x: These data leaks are just the tip of the iceberg. | Ces fuites de données ne sont que la partie émergée de l’iceberg.
+
+@ throw_under_the_bus
+w: throw someone under the bus
+t: idiomes-en
+tr: sacrifier quelqu’un, faire porter le chapeau à quelqu’un
+nat: locution
+mq: fam
+lit-fr: jeter quelqu’un sous le bus
+d-fr: Faire porter la faute à quelqu’un pour se protéger soi-même.
+d-en: To blame someone else to protect yourself.
+x: When the project failed, my boss threw me under the bus. | Quand le projet a échoué, mon chef m’a fait porter le chapeau.
+
+@ through_thick_and_thin
+w: through thick and thin
+t: idiomes-en
+tr: contre vents et marées, dans les bons comme dans les mauvais moments
+nat: locution
+lit-fr: à travers l’épais et le mince
+d-fr: Quoi qu’il arrive, dans toutes les épreuves.
+d-en: In good times and bad times.
+x: They’ve stayed friends through thick and thin. | Ils sont restés amis contre vents et marées.
+
+@ time_flies
+w: time flies
+t: idiomes-en
+tr: le temps passe vite, le temps file
+nat: locution
+lit-fr: le temps vole
+d-fr: Le temps passe très vite (« time flies when you’re having fun »).
+d-en: Time passes quickly (“time flies when you’re having fun”).
+x: Is it midnight already? Time flies! | Il est déjà minuit ? Le temps file !
+
+@ on_the_same_page
+w: be on the same page
+t: idiomes-en
+tr: être sur la même longueur d’onde, être d’accord
+nat: locution
+lit-fr: être sur la même page
+d-fr: Avoir la même compréhension d’une situation, être d’accord.
+d-en: To agree or have the same understanding.
+x: Let’s have a quick call to make sure we’re on the same page. | Faisons un appel rapide pour être sûrs d’être sur la même longueur d’onde.
+
+@ up_in_the_air
+w: up in the air
+t: idiomes-en
+tr: en suspens, pas encore décidé, flou
+nat: locution
+lit-fr: en l’air
+d-fr: Pas encore décidé.
+d-en: Not yet decided.
+x: Our summer plans are still up in the air. | Nos projets pour l’été sont encore en suspens.
+
+@ walk_on_eggshells
+w: walk on eggshells
+t: idiomes-en
+tr: marcher sur des œufs
+nat: locution
+lit-fr: marcher sur des coquilles d’œufs
+d-fr: Agir avec une prudence extrême pour ne froisser personne.
+d-en: To be very careful not to upset someone.
+x: Since the argument, I’ve been walking on eggshells around her. | Depuis la dispute, je marche sur des œufs avec elle.
+
+@ cross_that_bridge
+w: we’ll cross that bridge when we come to it
+t: idiomes-en
+tr: on verra le moment venu, chaque chose en son temps
+nat: locution
+lit-fr: on traversera ce pont quand on y arrivera
+d-fr: On s’occupera de ce problème quand il se posera.
+d-en: We’ll deal with that problem if and when it happens.
+x: What if it rains? We’ll cross that bridge when we come to it. | Et s’il pleut ? On verra le moment venu.
+
+@ you_can_say_that_again
+w: you can say that again
+t: idiomes-en
+tr: tu l’as dit !, à qui le dis-tu !
+nat: locution
+mq: fam
+lit-fr: tu peux le redire
+d-fr: Je suis entièrement d’accord.
+d-en: I completely agree.
+x: “This queue is ridiculous.” — “You can say that again!” | « Cette queue, c’est n’importe quoi. — À qui le dis-tu ! »
+
+@ your_guess_is_as_good_as_mine
+w: your guess is as good as mine
+t: idiomes-en
+tr: je n’en sais pas plus que toi, va savoir
+nat: locution
+lit-fr: ta supposition vaut la mienne
+d-fr: Je n’en sais rien, pas plus que toi.
+d-en: I don’t know any more than you do.
+x: “When will the train leave?” — “Your guess is as good as mine.” | « Le train part quand ? — Va savoir. »
+
+@ penny_for_your_thoughts
+w: a penny for your thoughts
+t: idiomes-en
+tr: à quoi tu penses ?
+nat: locution
+lit-fr: un penny pour tes pensées
+d-fr: Formule pour demander à quelqu’un de pensif ce qui l’occupe.
+d-en: Said to ask someone who looks thoughtful what they are thinking.
+x: You’re very quiet — a penny for your thoughts? | Tu es bien silencieux… à quoi tu penses ?
+
+@ at_the_drop_of_a_hat
+w: at the drop of a hat
+t: idiomes-en
+tr: sans hésiter, au quart de tour, sur-le-champ
+nat: locution
+lit-fr: à la chute d’un chapeau
+d-fr: Immédiatement, sans la moindre hésitation.
+d-en: Immediately, without hesitating.
+x: She’d move to Lisbon at the drop of a hat. | Elle partirait vivre à Lisbonne sans hésiter.
+
+@ in_two_minds
+w: be in two minds
+t: idiomes-en
+tr: être partagé, hésiter, être tiraillé
+nat: locution
+mq: gb
+lit-fr: être dans deux esprits
+d-fr: Ne pas arriver à se décider.
+d-en: To be unable to decide.
+x: I’m in two minds about taking the job. | J’hésite à accepter ce poste.
+
+@ bend_over_backwards
+w: bend over backwards
+t: idiomes-en
+tr: se mettre en quatre, se plier en quatre
+nat: locution
+lit-fr: se pencher en arrière
+d-fr: Faire tous les efforts possibles pour aider ou satisfaire.
+d-en: To try very hard to help or please someone.
+x: The hotel staff bent over backwards to help us. | Le personnel de l’hôtel s’est mis en quatre pour nous aider.
+
+@ bury_the_hatchet
+w: bury the hatchet
+t: idiomes-en
+tr: enterrer la hache de guerre
+nat: locution
+lit-fr: enterrer la hachette
+d-fr: Se réconcilier après une dispute.
+d-en: To make peace after a disagreement.
+x: After years of silence, the two brothers buried the hatchet. | Après des années de silence, les deux frères ont enterré la hache de guerre.
+
+@ come_rain_or_shine
+w: come rain or shine
+t: idiomes-en
+tr: qu’il pleuve ou qu’il vente, quoi qu’il arrive
+nat: locution
+lit-fr: que vienne la pluie ou le soleil
+d-fr: Quoi qu’il arrive, en toutes circonstances.
+d-en: Whatever happens.
+x: He goes running every morning, come rain or shine. | Il va courir tous les matins, qu’il pleuve ou qu’il vente.
+
+@ cut_some_slack
+w: cut someone some slack
+t: idiomes-en
+tr: être indulgent avec quelqu’un, lâcher du lest
+nat: locution
+mq: fam
+lit-fr: couper du mou à quelqu’un
+d-fr: Être moins sévère avec quelqu’un.
+d-en: To be less strict or critical with someone.
+x: Cut him some slack — it’s only his first week. | Sois indulgent, ce n’est que sa première semaine.
+
+@ get_your_act_together
+w: get your act together
+t: idiomes-en
+tr: se reprendre en main, se secouer
+nat: locution
+mq: fam
+lit-fr: rassembler son numéro
+d-fr: S’organiser et commencer à agir sérieusement.
+d-en: To get organised and start behaving sensibly.
+x: If you want to pass, you need to get your act together. | Si tu veux réussir, il faut te secouer.
+
+@ go_with_the_flow
+w: go with the flow
+t: idiomes-en
+tr: suivre le mouvement, se laisser porter
+nat: locution
+lit-fr: aller avec le courant
+d-fr: Accepter les choses comme elles viennent.
+d-en: To accept things as they happen.
+x: On holiday I don’t plan anything — I just go with the flow. | En vacances, je ne prévois rien : je me laisse porter.
+
+@ a_lot_on_your_plate
+w: have a lot on your plate
+t: idiomes-en
+tr: avoir du pain sur la planche, être débordé
+nat: locution
+lit-fr: avoir beaucoup dans son assiette
+d-fr: Avoir beaucoup de travail ou de soucis.
+d-en: To have a lot of work or problems to deal with.
+x: I’d love to help, but I’ve got a lot on my plate this week. | J’aimerais bien t’aider, mais j’ai du pain sur la planche cette semaine.
+
+@ in_the_nick_of_time
+w: in the nick of time
+t: idiomes-en
+tr: juste à temps, in extremis
+nat: locution
+lit-fr: dans l’entaille du temps
+d-fr: Au tout dernier moment.
+d-en: At the very last moment.
+x: I saved the file in the nick of time before my laptop died. | J’ai enregistré le fichier juste à temps avant que mon ordi ne s’éteigne.
+
+@ jump_the_gun
+w: jump the gun
+t: idiomes-en
+tr: partir trop tôt, griller les étapes, s’emballer
+nat: locution
+lit-fr: sauter avant le coup de pistolet
+d-fr: Agir trop tôt, avant le bon moment.
+d-en: To do something too soon.
+x: Let’s not jump the gun — we haven’t got the results yet. | Ne nous emballons pas : on n’a pas encore les résultats.
+
+@ know_the_ropes
+w: know the ropes
+t: idiomes-en
+tr: connaître les ficelles, connaître la musique
+nat: locution
+lit-fr: connaître les cordages
+d-fr: Bien connaître le fonctionnement d’un travail ou d’un lieu.
+d-en: To know how a job or place works.
+n-fr: « learn the ropes » : apprendre les ficelles ; « show someone the ropes » : mettre quelqu’un au courant.
+n-en: Also “learn the ropes” and “show someone the ropes”.
+x: Ask Priya — she knows the ropes. | Demande à Priya, elle connaît la musique.
+
+@ on_thin_ice
+w: be on thin ice
+t: idiomes-en
+tr: être sur la corde raide, être sur un terrain glissant
+nat: locution
+lit-fr: être sur de la glace mince
+d-fr: Être dans une situation risquée, près d’avoir de graves ennuis.
+d-en: To be in a risky situation, close to serious trouble.
+x: You’re late again — you’re on thin ice. | Encore en retard : tu es sur la corde raide.
+
+@ out_of_the_woods
+w: out of the woods
+t: idiomes-en
+tr: tiré d’affaire, hors de danger
+nat: locution
+lit-fr: sorti des bois
+d-fr: Sorti d’une situation difficile (souvent à la forme négative : pas encore).
+d-en: Out of danger (often negative: “not out of the woods yet”).
+x: The company is doing better, but it’s not out of the woods yet. | L’entreprise va mieux, mais elle n’est pas encore tirée d’affaire.
+
+@ pull_the_plug
+w: pull the plug
+t: idiomes-en
+tr: arrêter les frais, mettre fin à, débrancher
+nat: locution
+lit-fr: tirer la prise
+d-fr: Mettre fin à un projet, en cessant de le financer.
+d-en: To stop a project, usually by stopping its funding.
+x: The streaming service pulled the plug on the series after one season. | La plateforme a arrêté la série après une saison.
+
+@ cards_on_the_table
+w: put your cards on the table
+t: idiomes-en
+tr: jouer cartes sur table
+nat: locution
+lit-fr: mettre ses cartes sur la table
+d-fr: Dire franchement ses intentions.
+d-en: To be honest about your intentions.
+x: Let me put my cards on the table: I want your job. | Je vais jouer cartes sur table : je veux ton poste.
+
+@ the_whole_nine_yards
+w: the whole nine yards
+t: idiomes-en
+tr: tout le tralala, le grand jeu, la totale
+nat: locution
+mq: fam
+lit-fr: les neuf yards entiers
+d-fr: Tout, sans rien omettre.
+d-en: Everything; the full amount.
+x: They had a band, fireworks, the whole nine yards. | Ils avaient un groupe, un feu d’artifice, la totale.
+
+@ through_the_roof
+w: go through the roof
+t: idiomes-en
+tr: s’envoler, crever le plafond ; sortir de ses gonds
+nat: locution
+lit-fr: passer à travers le toit
+d-fr: Augmenter de façon spectaculaire ; aussi : se mettre en colère.
+d-en: To rise dramatically; also: to become very angry.
+x: Energy prices have gone through the roof. | Les prix de l’énergie se sont envolés.
+
+@ touch_wood
+w: touch wood
+t: idiomes-en
+tr: je touche du bois
+nat: locution
+mq: gb
+lit-fr: touche du bois
+d-fr: Se dit pour conjurer le sort après avoir évoqué sa chance.
+d-en: Said to avoid bad luck after mentioning good fortune.
+n-fr: Américain : « knock on wood ».
+n-en: American: “knock on wood”.
+x: I’ve never had a parking fine — touch wood. | Je n’ai jamais eu d’amende de stationnement, je touche du bois.
+
+@ two_peas_in_a_pod
+w: like two peas in a pod
+t: idiomes-en
+tr: se ressembler comme deux gouttes d’eau
+nat: locution
+lit-fr: comme deux petits pois dans une cosse
+d-fr: Très semblables.
+d-en: Very similar.
+x: The twins are like two peas in a pod. | Les jumeaux se ressemblent comme deux gouttes d’eau.
+
+@ under_the_radar
+w: under the radar
+t: idiomes-en
+tr: en toute discrétion, sans se faire remarquer
+nat: locution
+lit-fr: sous le radar
+d-fr: Sans attirer l’attention.
+d-en: Without being noticed.
+x: The update was released under the radar. | La mise à jour est sortie en toute discrétion.
+
+@ hot_potato
+w: a hot potato
+t: idiomes-en
+tr: un sujet brûlant, une patate chaude
+nat: locution
+lit-fr: une pomme de terre chaude
+d-fr: Un sujet délicat que tout le monde évite.
+d-en: A controversial issue that nobody wants to deal with.
+x: Housing has become a political hot potato. | Le logement est devenu un sujet politique brûlant.
+
+@ at_the_end_of_the_day
+w: at the end of the day
+t: idiomes-en
+tr: au bout du compte, en fin de compte
+nat: locution
+lit-fr: à la fin de la journée
+d-fr: Finalement, quand on a tout considéré.
+d-en: When everything has been considered.
+x: At the end of the day, it’s your decision. | Au bout du compte, c’est toi qui décides.
+
+@ ballpark_figure
+w: ballpark figure
+t: idiomes-en
+tr: un ordre de grandeur, un chiffre approximatif
+nat: n
+mq: fam
+lit-fr: un chiffre de stade
+d-fr: Une estimation approximative.
+d-en: A rough estimate.
+x: Can you give me a ballpark figure for the repairs? | Vous pouvez me donner un ordre de grandeur pour les réparations ?
+
+@ bite_the_dust
+w: bite the dust
+t: idiomes-en
+tr: mordre la poussière ; rendre l’âme (une machine)
+nat: locution
+mq: fam
+lit-fr: mordre la poussière
+d-fr: Échouer, être vaincu ; tomber en panne pour de bon.
+d-en: To fail or be defeated; to stop working for good.
+x: My old phone finally bit the dust. | Mon vieux téléphone a fini par rendre l’âme.
+
+@ by_and_large
+w: by and large
+t: idiomes-en
+tr: dans l’ensemble, globalement
+nat: locution
+lit-fr: par et large
+d-fr: D’une manière générale.
+d-en: On the whole; generally.
+x: By and large, the feedback has been positive. | Dans l’ensemble, les retours ont été positifs.
+
+@ red_handed
+w: catch someone red-handed
+t: idiomes-en
+tr: prendre quelqu’un la main dans le sac
+nat: locution
+lit-fr: attraper quelqu’un les mains rouges
+d-fr: Surprendre quelqu’un en train de commettre une faute.
+d-en: To catch someone in the act of doing something wrong.
+x: The doorbell camera caught him red-handed. | La caméra de la sonnette l’a pris la main dans le sac.
+
+@ draw_the_line
+w: draw the line
+t: idiomes-en
+tr: fixer une limite, dire stop
+nat: locution
+lit-fr: tracer la ligne
+d-fr: Refuser d’aller au-delà d’un certain point.
+d-en: To set a limit on what you will accept.
+x: I don’t mind working late, but I draw the line at weekends. | Travailler tard, ça va, mais je dis stop pour les week-ends.
+
+@ fit_as_a_fiddle
+w: fit as a fiddle
+t: idiomes-en
+tr: en pleine forme, frais comme un gardon
+nat: locution
+lit-fr: en forme comme un violon
+d-fr: En excellente santé.
+d-en: In very good health.
+x: My grandmother is ninety and fit as a fiddle. | Ma grand-mère a quatre-vingt-dix ans et elle est fraîche comme un gardon.
+
+@ get_the_ball_rolling
+w: get the ball rolling
+t: idiomes-en
+tr: lancer les choses, donner le coup d’envoi
+nat: locution
+lit-fr: faire rouler la balle
+d-fr: Commencer une activité, faire le premier pas.
+d-en: To start something happening.
+x: I’ll get the ball rolling with a quick introduction. | Je vais lancer les choses par une petite présentation.
+
+@ go_dutch
+w: go Dutch
+t: idiomes-en
+tr: partager l’addition, payer chacun sa part
+nat: locution
+mq: fam
+lit-fr: faire à la hollandaise
+d-fr: Partager les frais à parts égales, au restaurant par exemple.
+d-en: To share the cost of something, especially a meal.
+x: On a first date, I prefer to go Dutch. | Pour un premier rendez-vous, je préfère qu’on partage l’addition.
+v: actuel:split_the_bill
+
+@ head_over_heels
+w: head over heels
+t: idiomes-en
+tr: éperdument, follement (amoureux)
+nat: locution
+lit-fr: la tête par-dessus les talons
+d-fr: Complètement amoureux.
+d-en: Completely in love.
+x: She’s head over heels in love with him. | Elle est follement amoureuse de lui.
+
+@ hit_it_off
+w: hit it off
+t: idiomes-en
+tr: accrocher, sympathiser tout de suite
+nat: locution
+mq: fam
+lit-fr: le frapper
+d-fr: Bien s’entendre dès la première rencontre.
+d-en: To get on well from the first meeting.
+x: We hit it off straight away and talked for hours. | On a tout de suite accroché et on a parlé pendant des heures.
+
+@ in_the_long_run
+w: in the long run
+t: idiomes-en
+tr: à la longue, à long terme
+nat: locution
+lit-fr: dans la longue course
+d-fr: Sur une longue période, finalement.
+d-en: Over a long period of time; eventually.
+x: A heat pump is cheaper in the long run. | Une pompe à chaleur revient moins cher à long terme.
+
+@ pain_in_the_neck
+w: a pain in the neck
+t: idiomes-en
+tr: un casse-pieds, une plaie
+nat: locution
+mq: fam
+lit-fr: une douleur dans le cou
+d-fr: Une personne ou une chose très agaçante.
+d-en: A very annoying person or thing.
+x: Changing all my passwords is a pain in the neck. | Changer tous mes mots de passe, quelle plaie !
+
+@ pick_someones_brains
+w: pick someone’s brains
+t: idiomes-en
+tr: consulter quelqu’un, demander conseil à quelqu’un
+nat: locution
+mq: fam
+lit-fr: cueillir le cerveau de quelqu’un
+d-fr: Demander l’avis ou les connaissances de quelqu’un.
+d-en: To ask someone for advice or information.
+x: Can I pick your brains about investing? | Je peux te demander conseil pour placer mon argent ?
+
+@ pie_in_the_sky
+w: pie in the sky
+t: idiomes-en
+tr: une chimère, des promesses en l’air
+nat: locution
+lit-fr: une tarte dans le ciel
+d-fr: Un projet ou une promesse qui a peu de chances de se réaliser.
+d-en: A plan or promise that is very unlikely to happen.
+x: A four-hour working day sounds like pie in the sky. | La journée de travail de quatre heures, ça ressemble à une chimère.
+
+@ sleep_on_it
+w: sleep on it
+t: idiomes-en
+tr: la nuit porte conseil, laisser mûrir
+nat: locution
+lit-fr: dormir dessus
+d-fr: Attendre le lendemain avant de prendre une décision.
+d-en: To wait until the next day before deciding.
+x: Don’t answer now — sleep on it. | Ne réponds pas tout de suite : la nuit porte conseil.
+
+@ take_the_plunge
+w: take the plunge
+t: idiomes-en
+tr: se jeter à l’eau, sauter le pas
+nat: locution
+lit-fr: faire le plongeon
+d-fr: Se décider enfin à faire quelque chose d’important.
+d-en: To finally decide to do something important.
+x: After ten years in banking, she took the plunge and opened a café. | Après dix ans dans la banque, elle a sauté le pas et ouvert un café.
+
+@ up_to_scratch
+w: up to scratch
+t: idiomes-en
+tr: à la hauteur, au niveau
+nat: locution
+mq: gb
+lit-fr: jusqu’à la ligne
+d-fr: Assez bon, conforme à ce qu’on attend.
+d-en: Good enough; of an acceptable standard.
+x: The first draft wasn’t up to scratch. | Le premier jet n’était pas à la hauteur.
+
+@ get_your_head_around
+w: get your head around
+t: idiomes-en
+tr: arriver à comprendre, assimiler
+nat: locution
+mq: fam
+lit-fr: mettre sa tête autour
+d-fr: Réussir à comprendre quelque chose de difficile ou de surprenant.
+d-en: To manage to understand something difficult or surprising.
+x: I can’t get my head around these new tax rules. | Je n’arrive pas à comprendre ces nouvelles règles fiscales.
+
+@ think_outside_the_box
+w: think outside the box
+t: idiomes-en
+tr: sortir des sentiers battus, avoir des idées originales
+nat: locution
+lit-fr: penser en dehors de la boîte
+d-fr: Penser de façon originale, sans s’en tenir aux idées habituelles.
+d-en: To think creatively, in new ways.
+n-fr: Très employé dans le monde de l’entreprise, parfois jusqu’au cliché.
+n-en: Common in business, sometimes to the point of cliché.
+x: We need to think outside the box to attract younger customers. | Il faut sortir des sentiers battus pour attirer une clientèle plus jeune.
+
+@ low_hanging_fruit
+w: low-hanging fruit
+t: idiomes-en
+tr: les gains faciles, ce qui est à portée de main
+nat: n
+lit-fr: les fruits qui pendent bas
+d-fr: Les objectifs les plus faciles à atteindre, par lesquels on commence.
+d-en: The easiest tasks or targets, to deal with first.
+x: Let’s start with the low-hanging fruit: turning off unused servers. | Commençons par le plus facile : éteindre les serveurs inutilisés.
+
+@ move_the_needle
+w: move the needle
+t: idiomes-en
+tr: faire bouger les choses, avoir un effet réel
+nat: locution
+lit-fr: faire bouger l’aiguille
+d-fr: Produire un changement mesurable.
+d-en: To make a noticeable difference.
+x: A few posts on social media won’t move the needle. | Quelques publications sur les réseaux ne changeront pas grand-chose.
+
+@ read_the_room
+w: read the room
+t: idiomes-en
+tr: sentir l’ambiance, prendre la température
+nat: locution
+lit-fr: lire la pièce
+d-fr: Comprendre l’humeur d’un groupe pour adapter ce qu’on dit.
+d-en: To understand the mood of a group and adapt what you say.
+x: Making jokes at a funeral? Read the room! | Faire des blagues à un enterrement ? Sens un peu l’ambiance !
+
+@ go_down_a_rabbit_hole
+w: go down a rabbit hole
+t: idiomes-en
+tr: se perdre dans un sujet, plonger dans un tunnel sans fin
+nat: locution
+lit-fr: descendre dans un terrier de lapin
+d-fr: Se laisser absorber par un sujet ou des recherches, de lien en lien (allusion à Alice au pays des merveilles).
+d-en: To become absorbed in a subject, following one link after another (from Alice in Wonderland).
+x: I went down a rabbit hole of cooking videos and lost the whole evening. | Je me suis perdu dans les vidéos de cuisine et j’y ai passé toute la soirée.
+
+@ it_is_what_it_is
+w: it is what it is
+t: idiomes-en
+tr: c’est comme ça, on n’y peut rien
+nat: locution
+mq: fam
+lit-fr: c’est ce que c’est
+d-fr: On ne peut rien y changer, il faut l’accepter.
+d-en: It can’t be changed, so we have to accept it.
+x: The flight’s cancelled. It is what it is. | Le vol est annulé. C’est comme ça.
+
+@ the_new_normal
+w: the new normal
+t: idiomes-en
+tr: la nouvelle normalité, la norme désormais
+nat: locution
+lit-fr: le nouveau normal
+d-fr: Une situation autrefois inhabituelle devenue ordinaire.
+d-en: A situation that was unusual but has become standard.
+x: For many office workers, hybrid working is the new normal. | Pour beaucoup d’employés de bureau, le travail hybride est désormais la norme.
+
+@ hot_take
+w: hot take
+t: idiomes-en
+tr: un avis tranché, une opinion à chaud
+nat: n
+mq: fam
+lit-fr: une prise chaude
+d-fr: Une opinion provocatrice, donnée vite, souvent en ligne.
+d-en: A deliberately provocative opinion, often posted online.
+x: Hot take: pineapple belongs on pizza. | Avis tranché : l’ananas a toute sa place sur une pizza.
+
+@ on_brand
+w: on brand
+t: idiomes-en
+tr: typique de quelqu’un, bien dans son style
+nat: locution
+mq: fam
+lit-fr: sur la marque
+d-fr: Conforme à l’image ou au style habituel de quelqu’un ou d’une marque.
+d-en: Typical of someone’s usual image or style.
+x: Turning up late to his own party? Very on brand. | Arriver en retard à sa propre fête ? Tout à fait son style.
+
+# ————— Proverbes —————
+
+@ dont_judge_a_book
+w: don’t judge a book by its cover
+t: proverbes
+tr: l’habit ne fait pas le moine, il ne faut pas se fier aux apparences
+nat: proverb
+lit-fr: ne juge pas un livre à sa couverture
+d-fr: Il ne faut pas juger sur les apparences.
+d-en: You shouldn’t judge something by how it looks.
+x: The café looks shabby, but don’t judge a book by its cover — the food is great. | Le café ne paie pas de mine, mais l’habit ne fait pas le moine : on y mange très bien.
+
+@ once_bitten
+w: once bitten, twice shy
+t: proverbes
+tr: chat échaudé craint l’eau froide
+nat: proverb
+lit-fr: mordu une fois, deux fois timide
+d-fr: Une mauvaise expérience rend prudent.
+d-en: A bad experience makes you careful.
+x: I lost money on crypto once — once bitten, twice shy. | J’ai déjà perdu de l’argent avec les cryptos : chat échaudé craint l’eau froide.
+
+@ two_heads
+w: two heads are better than one
+t: proverbes
+tr: deux avis valent mieux qu’un, à deux on réfléchit mieux
+nat: proverb
+lit-fr: deux têtes valent mieux qu’une
+d-fr: À plusieurs, on trouve plus facilement une solution.
+d-en: It is easier to solve a problem with someone else.
+x: Let’s look at the bug together — two heads are better than one. | Regardons le bug ensemble : à deux, on réfléchit mieux.
+
+@ pen_mightier
+w: the pen is mightier than the sword
+t: proverbes
+tr: la plume est plus forte que l’épée
+nat: proverb
+lit-fr: la plume est plus puissante que l’épée
+d-fr: Les idées et les écrits ont plus de pouvoir que la force.
+d-en: Words and ideas are more powerful than violence.
+x: Journalists know that the pen is mightier than the sword. | Les journalistes le savent : la plume est plus forte que l’épée.
+
+@ cake_and_eat_it
+w: you can’t have your cake and eat it
+t: proverbes
+tr: on ne peut pas avoir le beurre et l’argent du beurre
+nat: proverb
+lit-fr: tu ne peux pas avoir ton gâteau et le manger
+d-fr: On ne peut pas profiter de deux avantages qui s’excluent.
+d-en: You can’t have two good things that cannot exist together.
+x: You want a big salary and no responsibility? You can’t have your cake and eat it. | Tu veux un gros salaire sans responsabilités ? On ne peut pas avoir le beurre et l’argent du beurre.
+
+@ strike_while_iron_hot
+w: strike while the iron is hot
+t: proverbes
+tr: il faut battre le fer pendant qu’il est chaud
+nat: proverb
+lit-fr: frappe pendant que le fer est chaud
+d-fr: Il faut profiter d’une occasion favorable sans attendre.
+d-en: Act while the opportunity is there.
+x: Tickets are on sale now — strike while the iron is hot. | Les billets sont en vente : il faut battre le fer pendant qu’il est chaud.
+
+@ all_that_glitters
+w: all that glitters is not gold
+t: proverbes
+tr: tout ce qui brille n’est pas or
+nat: proverb
+lit-fr: tout ce qui scintille n’est pas de l’or
+d-fr: Ce qui est attirant n’a pas forcément de la valeur.
+d-en: Attractive things are not always valuable.
+x: That influencer’s perfect life? All that glitters is not gold. | La vie parfaite de cette influenceuse ? Tout ce qui brille n’est pas or.
+
+@ picture_thousand_words
+w: a picture is worth a thousand words
+t: proverbes
+tr: une image vaut mille mots
+nat: proverb
+lit-fr: une image vaut mille mots
+d-fr: Une image explique mieux qu’un long discours.
+d-en: An image explains better than a long description.
+x: Just send me a screenshot — a picture is worth a thousand words. | Envoie-moi juste une capture d’écran : une image vaut mille mots.
+
+@ beggars_cant_be_choosers
+w: beggars can’t be choosers
+t: proverbes
+tr: faute de grives, on mange des merles ; quand on n’a pas le choix…
+nat: proverb
+lit-fr: les mendiants ne peuvent pas choisir
+d-fr: Quand on est dans le besoin, on prend ce qu’on nous offre.
+d-en: When you need help, you must accept what you are offered.
+x: It’s a sofa bed, not a hotel room, but beggars can’t be choosers. | C’est un canapé-lit, pas une chambre d’hôtel, mais faute de grives, on mange des merles.
+
+@ blood_thicker
+w: blood is thicker than water
+t: proverbes
+tr: la voix du sang est la plus forte
+nat: proverb
+lit-fr: le sang est plus épais que l’eau
+d-fr: Les liens familiaux passent avant tout.
+d-en: Family ties are stronger than other relationships.
+x: He helped his brother despite everything — blood is thicker than water. | Il a aidé son frère malgré tout : la voix du sang est la plus forte.
+
+@ easy_come_easy_go
+w: easy come, easy go
+t: proverbes
+tr: vite gagné, vite dépensé ; ce qui vient de la flûte s’en va par le tambour
+nat: proverb
+lit-fr: facile venu, facile parti
+d-fr: Ce qu’on obtient facilement se perd aussi facilement.
+d-en: Things you get easily are easily lost.
+x: I won fifty quid and spent it all the same night — easy come, easy go. | J’ai gagné cinquante livres et je les ai tout dépensées le soir même : vite gagné, vite dépensé.
+
+@ every_dog_has_its_day
+w: every dog has its day
+t: proverbes
+tr: à chacun son heure de gloire, chacun aura son tour
+nat: proverb
+lit-fr: chaque chien a son jour
+d-fr: Tout le monde finit par connaître un moment de réussite.
+d-en: Everyone gets a moment of success at some point.
+x: He finally won a match — every dog has its day. | Il a enfin gagné un match : à chacun son heure de gloire.
+
+@ fortune_favours_the_bold
+w: fortune favours the bold
+t: proverbes
+tr: la fortune sourit aux audacieux
+nat: proverb
+lit-fr: la fortune favorise les audacieux
+d-fr: Ceux qui osent prendre des risques sont récompensés.
+d-en: People who take risks are often rewarded.
+x: She quit her job to start a podcast — fortune favours the bold. | Elle a quitté son travail pour lancer un podcast : la fortune sourit aux audacieux.
+
+@ great_minds_think_alike
+w: great minds think alike
+t: proverbes
+tr: les grands esprits se rencontrent
+nat: proverb
+mq: hum
+lit-fr: les grands esprits pensent pareil
+d-fr: Se dit (souvent en plaisantant) quand deux personnes ont la même idée.
+d-en: Said (often jokingly) when two people have the same idea.
+x: You ordered the same pizza? Great minds think alike! | Tu as pris la même pizza ? Les grands esprits se rencontrent !
+
+@ honesty_best_policy
+w: honesty is the best policy
+t: proverbes
+tr: l’honnêteté est toujours la meilleure solution
+nat: proverb
+lit-fr: l’honnêteté est la meilleure politique
+d-fr: Il vaut toujours mieux dire la vérité.
+d-en: It is always better to tell the truth.
+x: Tell your boss you made a mistake — honesty is the best policy. | Dis à ton chef que tu t’es trompé : l’honnêteté est toujours la meilleure solution.
+
+@ if_it_aint_broke
+w: if it ain’t broke, don’t fix it
+t: proverbes
+tr: on ne change pas une équipe qui gagne, le mieux est l’ennemi du bien
+nat: proverb
+mq: fam
+lit-fr: si ce n’est pas cassé, ne le répare pas
+d-fr: Inutile de changer ce qui fonctionne bien.
+d-en: Don’t change something that already works well.
+x: Why redesign the app? If it ain’t broke, don’t fix it. | Pourquoi refaire l’appli ? On ne change pas une équipe qui gagne.
+
+@ takes_two_to_tango
+w: it takes two to tango
+t: proverbes
+tr: les torts sont partagés, il faut être deux pour se disputer
+nat: proverb
+lit-fr: il faut être deux pour danser le tango
+d-fr: Les deux parties sont responsables d’une situation.
+d-en: Both people involved are responsible.
+x: Don’t just blame her for the argument — it takes two to tango. | Ne lui mets pas toute la dispute sur le dos : les torts sont partagés.
+
+@ knowledge_is_power
+w: knowledge is power
+t: proverbes
+tr: savoir, c’est pouvoir
+nat: proverb
+lit-fr: la connaissance est le pouvoir
+d-fr: Plus on en sait, plus on a d’influence.
+d-en: The more you know, the more influence you have.
+x: Read your contract carefully — knowledge is power. | Lis bien ton contrat : savoir, c’est pouvoir.
+
+@ laughter_best_medicine
+w: laughter is the best medicine
+t: proverbes
+tr: le rire est le meilleur des remèdes
+nat: proverb
+lit-fr: le rire est le meilleur médicament
+d-fr: Rire aide à aller mieux.
+d-en: Laughing helps you feel better.
+x: We watched comedies all weekend — laughter is the best medicine. | On a regardé des comédies tout le week-end : le rire est le meilleur des remèdes.
+
+@ look_before_you_leap
+w: look before you leap
+t: proverbes
+tr: il faut réfléchir avant d’agir, tourne sept fois ta langue dans ta bouche
+nat: proverb
+lit-fr: regarde avant de sauter
+d-fr: Il faut réfléchir avant de se lancer.
+d-en: Think carefully before you act.
+x: Read the reviews before you sign up — look before you leap. | Lis les avis avant de t’inscrire : réfléchis avant d’agir.
+
+@ money_doesnt_grow_on_trees
+w: money doesn’t grow on trees
+t: proverbes
+tr: l’argent ne pousse pas sur les arbres
+nat: proverb
+lit-fr: l’argent ne pousse pas sur les arbres
+d-fr: L’argent est difficile à gagner, il ne faut pas le gaspiller.
+d-en: Money is hard to earn, so don’t waste it.
+x: Another new phone? Money doesn’t grow on trees, you know. | Encore un nouveau téléphone ? L’argent ne pousse pas sur les arbres, tu sais.
+
+@ necessity_mother_of_invention
+w: necessity is the mother of invention
+t: proverbes
+tr: nécessité est mère d’industrie
+nat: proverb
+lit-fr: la nécessité est la mère de l’invention
+d-fr: Le besoin pousse à trouver des solutions.
+d-en: Difficult situations make people inventive.
+x: No ladder, so we used the bookcase — necessity is the mother of invention. | Pas d’échelle, alors on a pris la bibliothèque : nécessité est mère d’industrie.
+
+@ apple_doesnt_fall_far
+w: the apple doesn’t fall far from the tree
+t: proverbes
+tr: tel père, tel fils ; les chiens ne font pas des chats
+nat: proverb
+lit-fr: la pomme ne tombe pas loin de l’arbre
+d-fr: Les enfants ressemblent à leurs parents.
+d-en: Children are similar to their parents.
+x: She’s a chef, like her mum — the apple doesn’t fall far from the tree. | Elle est cheffe, comme sa mère : les chiens ne font pas des chats.
+
+@ no_free_lunch
+w: there’s no such thing as a free lunch
+t: proverbes
+tr: on n’a rien sans rien, rien n’est gratuit
+nat: proverb
+lit-fr: le déjeuner gratuit n’existe pas
+d-fr: Tout a un prix, même ce qui paraît gratuit.
+d-en: Nothing is really free.
+x: The app is free, but it sells your data — there’s no such thing as a free lunch. | L’appli est gratuite, mais elle vend tes données : rien n’est gratuit.
+
+@ time_is_money
+w: time is money
+t: proverbes
+tr: le temps, c’est de l’argent
+nat: proverb
+lit-fr: le temps est de l’argent
+d-fr: Perdre du temps, c’est perdre de l’argent.
+d-en: Wasting time means wasting money.
+x: Let’s keep the meeting short — time is money. | Faisons une réunion courte : le temps, c’est de l’argent.
+
+@ old_dog_new_tricks
+w: you can’t teach an old dog new tricks
+t: proverbes
+tr: on n’apprend pas à un vieux singe à faire la grimace
+nat: proverb
+lit-fr: on ne peut pas apprendre de nouveaux tours à un vieux chien
+d-fr: Il est difficile de faire changer les habitudes des gens âgés ou installés.
+d-en: It is hard to make people change their old habits.
+n-fr: Le sens est inverse en français : le vieux singe n’a rien à apprendre, il sait déjà.
+n-en: The French proverb means the opposite: the old monkey already knows all the tricks.
+x: My dad refuses to use online banking — you can’t teach an old dog new tricks. | Mon père refuse la banque en ligne : difficile de changer ses vieilles habitudes.
+
+@ apple_a_day
+w: an apple a day keeps the doctor away
+t: proverbes
+tr: une pomme chaque matin éloigne le médecin
+nat: proverb
+lit-fr: une pomme par jour tient le docteur à distance
+d-fr: Manger sainement protège la santé.
+d-en: Eating healthily keeps you well.
+x: Take some fruit to work — an apple a day keeps the doctor away. | Emporte des fruits au travail : une pomme chaque matin éloigne le médecin.
+
+@ dont_bite_the_hand
+w: don’t bite the hand that feeds you
+t: proverbes
+tr: il ne faut pas mordre la main qui vous nourrit, ne crache pas dans la soupe
+nat: proverb
+lit-fr: ne mords pas la main qui te nourrit
+d-fr: Il ne faut pas nuire à ceux dont on dépend.
+d-en: Don’t harm the people who support you.
+x: Criticising your sponsor online? Don’t bite the hand that feeds you. | Critiquer ton sponsor en ligne ? Ne crache pas dans la soupe.
+
+@ when_the_cats_away
+w: when the cat’s away, the mice will play
+t: proverbes
+tr: quand le chat n’est pas là, les souris dansent
+nat: proverb
+lit-fr: quand le chat est absent, les souris jouent
+d-fr: Sans surveillance, chacun en profite.
+d-en: People misbehave when nobody is watching them.
+x: The boss is on holiday and everyone leaves at four — when the cat’s away, the mice will play. | Le patron est en vacances et tout le monde part à seize heures : quand le chat n’est pas là, les souris dansent.
+
+@ many_hands
+w: many hands make light work
+t: proverbes
+tr: l’union fait la force, à plusieurs, c’est plus vite fait
+nat: proverb
+lit-fr: beaucoup de mains rendent le travail léger
+d-fr: Une tâche est plus facile quand on est nombreux à s’y mettre.
+d-en: A job is easier when many people help.
+x: Everyone grab a box — many hands make light work. | Que chacun prenne un carton : à plusieurs, c’est plus vite fait.
+
+@ friend_in_need
+w: a friend in need is a friend indeed
+t: proverbes
+tr: c’est dans le besoin qu’on reconnaît ses vrais amis
+nat: proverb
+lit-fr: un ami dans le besoin est un ami en effet
+d-fr: Le véritable ami est celui qui aide dans les moments difficiles.
+d-en: A true friend helps you when you need it.
+x: She drove two hours to pick me up — a friend in need is a friend indeed. | Elle a fait deux heures de route pour venir me chercher : c’est dans le besoin qu’on reconnaît ses vrais amis.

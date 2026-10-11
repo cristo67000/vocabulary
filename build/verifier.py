@@ -245,11 +245,16 @@ def verifier_paquet(nom, manifeste):
                             coupees += 1
                         # Une marque qui déborde de sa phrase mettrait en gras
                         # n'importe quoi, avec l'aplomb d'une donnée vérifiée.
-                        for texte, marque, _reference in citations:
+                        # Un quatrième champ, s'il existe, est la traduction
+                        # française (build/citations.py) : jamais vide.
+                        for citation in citations:
+                            texte, marque = citation[0], citation[1]
                             if marque and not (0 <= marque[0] < marque[1] <= len(texte)):
                                 anomalie(f"« {mot} » : citation dont la marque "
                                          f"{marque} déborde d'un texte de "
                                          f"{len(texte)} signes")
+                            if len(citation) > 3 and not citation[3].strip():
+                                anomalie(f"« {mot} » : citation à traduction vide")
             for absent in sorted(attendus - trouves):
                 anomalie(f"« {absent} » adressé à {chemin.name} mais absent de cette tranche")
 

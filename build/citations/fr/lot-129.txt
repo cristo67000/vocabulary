@@ -1,0 +1,201 @@
+# lot 129 — sens restés sans exemple après le retrait de leurs citations : oh, hand, test, come on over, how old are you, fourth, fifth, happening, billion, platform, comfortable, equal, wing, frame, heaven, crown, calm… (sens vulgaires, sexuels, injurieux, archaïques ou obscurs écartés)
+e91c9992bb ✗
+c21e70799e ✗
+987a9a4d6d ✗
+8678644610 = ⟦Oh⟧ Mum, can I stay up a bit longer? | Oh, maman, je peux veiller encore un peu ?
+2347efd2e4 = The minute ⟦hand⟧ on the kitchen clock is stuck at twelve. | La grande aiguille de l’horloge de la cuisine est bloquée sur le douze.
+d45f497733 ✗
+9d0125385a ✗
+0219f3146d ✗
+a02a6949b9 ✗
+3e88b4e974 = The new car passed every crash ⟦test⟧. | La nouvelle voiture a réussi tous les essais de choc.
+3f6167bae2 ✗
+880dce8c7a ✗
+b7ddc47ca0 ✗
+cdf1e77a7d = ⟦Come on over⟧ after work and we’ll order pizza. | Passe à la maison après le boulot, on commandera des pizzas.
+623d41208e = “⟦How old are you⟧?” “I’m twelve and a half.” | « Tu as quel âge ? — Douze ans et demi. »
+76d9728ccf ✗
+70fabdd0aa ✗
+c24bece12f ✗
+413cf2751a ✗
+a4627e620f ✗
+47b2a17e58 ✗
+669a85cd33 ✗
+91490ce7f7 ✗
+9edf74ec73 ✗
+71225aa971 ✗
+b6b0f7344d ✗
+14771b7098 ✗
+cde1188ae0 = The melody opens with a rising ⟦fourth⟧. | La mélodie commence par une quarte ascendante.
+21fd5ce942 = He ordered a ⟦Jack⟧ and Coke at the bar. | Il a commandé un Jack-Coca au bar.
+7ecb773999 ✗
+86ed85be04 ✗
+01b59f8c30 ✗
+2103a3b5df ✗
+e0ca658fbe ✗
+3e1b928f7b = In the sixties, artists staged ⟦happenings⟧ in the street. | Dans les années soixante, des artistes organisaient des happenings dans la rue.
+46850a2453 ✗
+965f999d91 ✗
+9f51b82ae9 ✗
+e054a5174f = After the new recruits arrived, the regiment was back to full ⟦strength⟧. | Avec l’arrivée des nouvelles recrues, le régiment retrouva ses effectifs au complet.
+eb3704de55 ✗
+6ee1a0d0b6 ✗
+a5191f7df7 = Violin strings are tuned in perfect ⟦fifths⟧. | Les cordes du violon s’accordent en quintes justes.
+675af4c122 = ⟦Israel⟧ lies on the eastern shore of the Mediterranean. | Israël se trouve sur la rive orientale de la Méditerranée.
+5d46891e9b ✗
+ce35d6a99e ✗
+fbd3dc1cc0 ✗
+3eb772a262 ✗
+59e3c82042 ✗
+ec74b98d16 ✗
+1033f9d804 ✗
+d3a1c1d48a ✗
+1db64164eb ✗
+71cd9a3ca0 ✗
+cbc714affa = In old British usage, a ⟦billion⟧ meant a million million. | Dans l’ancien usage britannique, un « billion » valait un million de millions, comme le billion français.
+5562cfcf0f ✗
+b7ee0e587b ✗
+cd121710cb ✗
+b3efe0080f ✗
+502e326e16 ✗
+2a70e1ff78 ✗
+3c954f1756 ✗
+1ce39ef8d1 ✗
+adac994b41 ✗
+ce9eb689a8 ✗
+b9ba2e8076 ✗
+c08e614b8a = The atmosphere in the stadium was ⟦electric⟧. | L’ambiance dans le stade était électrique.
+5ed79133d0 = She was taken straight to ⟦emergency⟧. | Elle a été conduite directement aux urgences.
+0843f2b6c8 ✗
+61d6bb9a4f ✗
+417e5220ad ✗
+5b966157c4 ✗
+5f331ac84c ✗
+4caf6a0780 ✗
+63186adf62 ✗
+ac35906241 ✗
+00c27b9fde ✗
+0c7d1f864e ✗
+b356b8ba64 ✗
+d75c50a250 ✗
+f0f3d62c6d ✗
+fe33ccd398 ✗
+ba2af11f66 = She gave her son power of ⟦attorney⟧ over her finances. | Elle a donné procuration à son fils pour gérer ses finances.
+eca31602b1 = It was a ⟦historical⟧ victory for the club. | Ce fut une victoire historique pour le club.
+d1eee219a3 ✗
+ce6127d034 ✗
+3e21be35a2 ✗
+55f259ff0c ✗
+e11dfb9bac ✗
+3d0ae4c2eb ✗
+eaf29804af = ⟦Girlfriend⟧, you look amazing tonight! | Ma chérie, tu es superbe ce soir !
+17db6d7f20 ✗
+981451879c = The train to Brighton leaves from ⟦platform⟧ 4. | Le train pour Brighton part du quai 4.
+ba91c00e0a ✗
+011f4c6e9b ✗
+e5c6f3dbf6 = I’m still not ⟦comfortable⟧ speaking in public. | Je ne suis toujours pas à l’aise pour parler en public.
+dfcfb41a10 ✗
+a13fa20102 ✗
+a01c362441 ✗
+0fdb439a55 = She describes herself as a ⟦liberal⟧ on social issues. | Elle se dit progressiste sur les questions de société.
+7cb87521e9 = ⟦Taylor⟧ is starting at a new school in September. | Taylor entre dans une nouvelle école en septembre.
+ac393dc651 = I think the new guy at work is really ⟦cute⟧. | Je trouve le nouveau, au boulot, vraiment mignon.
+f1b7a9b74a = All citizens are ⟦equal⟧ before the law. | Tous les citoyens sont égaux devant la loi.
+bc69d34043 ✗
+874da5d455 = Nobody has ever ⟦equalled⟧ her record. | Personne n’a jamais égalé son record.
+97a0f5f093 ✗
+d01dbb049d = Each chapter opens with a short ⟦argument⟧ in italics. | Chaque chapitre s’ouvre sur un bref argument en italique.
+1e930b7c6e ✗
+f12ea27bc6 ✗
+68bbcfed35 = The villagers asked the priest to ⟦lay⟧ the ghost that haunted the mill. | Les villageois demandèrent au prêtre d’exorciser le fantôme qui hantait le moulin.
+68b6dc84be ✗
+49ba8dd2fb ✗
+963bcdca1a ✗
+8a2ce39bc8 ✗
+0716a34a1f ✗
+2a850c6318 ✗
+6b7ee03c97 ✗
+03fd8807a0 = Male peacocks ⟦display⟧ to attract a mate. | Les paons mâles font la roue pour attirer une partenaire.
+ae461010c6 ✗
+8706b91ed6 ✗
+986c6106a3 ✗
+a3a4729920 = She was a ⟦vision⟧ in her wedding dress. | Elle était resplendissante dans sa robe de mariée.
+ad3bd275d5 ✗
+07f2216ba0 ✗
+6ded65e5db = Helplines offer support to people at risk of ⟦suicide⟧. | Des lignes d’écoute apportent leur soutien aux personnes exposées au risque de suicide.
+e1ffff9a49 ✗
+2a410e1713 ✗
+57d17beabf ✗
+e8bbe119fb ✗
+5312956982 ✗
+14259185f9 ✗
+6beb757c7a ✗
+8c46474be7 ✗
+9ada73cd57 = The geese were ⟦winging⟧ south for the winter. | Les oies volaient vers le sud pour passer l’hiver.
+36366c30e1 = Your parcel is already ⟦winging⟧ its way to you. | Votre colis est déjà en route vers vous.
+c11b3d4b41 ✗
+e6c92e5cf2 ✗
+b16e6fd669 ✗
+9209fd23cb ✗
+643db302a3 ✗
+211b4a744b ✗
+bb1ebf42cb ✗
+3071b5c1ed ✗
+a52e21dde7 = ⟦Armed⟧ with a map and a flask of coffee, we set off. | Munis d’une carte et d’une thermos de café, nous nous sommes mis en route.
+defc3dbbbc = The ⟦bells⟧ of the foxgloves were full of bees. | Les clochettes des digitales étaient pleines d’abeilles.
+3f38b62bb3 ✗
+53d4f60749 ✗
+a3951990c9 ✗
+cd3dd720ad = At dawn, the streets were ⟦empty⟧ of people. | À l’aube, les rues étaient vides de monde.
+93dd10c3d0 ✗
+0bdb7b2699 ✗
+428c2fe4e1 ✗
+d2801c9b45 ✗
+9d59c051b8 ✗
+6683f8378f ✗
+3c05549d0e = The pirates took the merchant ship as a ⟦prize⟧. | Les pirates s’emparèrent du navire marchand comme d’une prise.
+582218cc49 ✗
+c6e65f774e ✗
+9a80900bf4 = The ⟦frame⟧ of the house is made of oak. | La charpente de la maison est en chêne.
+32196f63fc = She believes her grandmother is in ⟦heaven⟧ now. | Elle croit que sa grand-mère est maintenant au paradis.
+2fa5f10739 = They ⟦kissed⟧ under the mistletoe. | Ils se sont embrassés sous le gui.
+699780270b ✗
+3153fc5bdb ✗
+67d3dcfa07 ✗
+fc25bea772 ✗
+5295546c2b ✗
+c18828521d ✗
+1b85f30e7c ✗
+127dd0b723 ✗
+6804d1052d ✗
+138eab6513 ✗
+3eca98514c ✗
+6cddfc633a ✗
+da394e0306 = He’s starting to go bald at the ⟦crown⟧. | Il commence à se dégarnir au sommet du crâne.
+004d7f80da = Charles III was ⟦crowned⟧ in Westminster Abbey in 2023. | Charles III a été couronné à l’abbaye de Westminster en 2023.
+d31fdf3301 = Please ⟦excuse⟧ the mess — we’ve only just moved in. | Excusez le désordre, nous venons tout juste d’emménager.
+0b215398b6 ✗
+d52b0a9469 ✗
+caf8d633f0 ✗
+6a79123624 ✗
+c4a17decd5 ✗
+a32d90fca8 ✗
+7c6abd6464 = Shade the inside of the ⟦circle⟧ in blue. | Coloriez l’intérieur du disque en bleu.
+8b33fb101e ✗
+505b0b3d5f ✗
+c2f8fa6c75 = His behaviour ⟦shamed⟧ the whole family. | Son comportement a déshonoré toute la famille.
+5a54587b0d = We found a ⟦calm⟧ little café away from the crowds. | Nous avons trouvé un petit café calme, loin de la foule.
+a94f3ec0d6 = Is it ⟦calm⟧ if I bring a mate along tonight? | Ça passe si je viens avec un pote ce soir ?
+951acdc0a1 = She handled the crisis with remarkable ⟦calm⟧. | Elle a géré la crise avec un calme remarquable.
+1b719ad4ac ✗
+a577f4c6ae ✗
+192801584c = Don’t forget to ⟦wet⟧ the brush before you paint. | N’oublie pas de mouiller le pinceau avant de peindre.
+e81e175c92 ✗
+49ea917591 ✗
+7a2e30275c ✗
+f4a53a2580 ✗
+061ffacc7d ✗
+3abf28992b ✗
+d7c8ab94c5 = ⟦Today's⟧ teenagers have never known a world without smartphones. | Les adolescents d’aujourd’hui n’ont jamais connu un monde sans smartphones.
+b3434fa712 = The film starred a complete ⟦unknown⟧ who became famous overnight. | Le film avait pour vedette un parfait inconnu, devenu célèbre du jour au lendemain.
+95af7bfd98 ✗

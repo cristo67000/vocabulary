@@ -1,0 +1,201 @@
+# lot 016 — health, hope, important, least, means, news, within, able, book, early, information, local, oh, post, video, young, others, social, talk, court, fact, given, half, hand, level, mind, often, single
+203eabc382 Les ennemis de ce niveau ont beaucoup de points de vie.
+b5447c97da Les ennemis peuvent faire tomber tes points de vie à zéro si tu ne fais pas attention, et les améliorations d’objets se font attendre.
+a851dd1f35 Fait frappant, toutefois, Waller ne nie pas, mais se délecte au contraire de l’idée que les toasts portés à la santé de quelqu’un mènent à l’excès de boisson
+47c3ca8727 Il espère encore que tout finira bien.
+bd6b001876 — Il va bientôt se taire ? — J’espère bien.
+db3e8243b1 J’espère y retourner bientôt.
+3bcba6fed9 J’espérais trouver un jean, mais je n’y suis pas arrivé.
+519a4dc9c6 Il n’espère plus aucune amélioration.
+b28d27efb7 J’espère que mon chef va me proposer une augmentation.
+8830d23118 Tout espoir de trêve a disparu après la dernière attaque.
+0c32b6afd5 Il reste de l’espoir de retrouver notre chat disparu.
+1f0bd64a30 Il nous reste un espoir : mon colocataire verra peut-être le mot que j’ai laissé sur la table.
+d967d11ba2 = After the diagnosis, she never lost ⟦hope⟧. | Après le diagnostic, elle n’a jamais perdu espoir.
+f854442561 Nous avons jugé important qu’il y ait un escalier de secours à l’arrière de chaque bâtiment.
+ba6d88a340 De toutes les sœurs, c’est elle qui a le moins de patience.
+87be247729 C’est lui qui gagne le moins d’argent dans sa famille.
+ce4dca4801 = Choose the plan with the ⟦least⟧ risk. | Choisis la formule qui présente le moins de risques.
+5bea2bbbe9 La file qui contient le moins d’éléments au moment où l’on atteint cette branche logique sera exécutée en premier.
+d057e34f40 Cette décision récompense ceux qui le méritent le moins.
+836b21cb8b Mon meilleur enchaînement a été celui que j’avais le moins répété.
+9349df0d5c C’était la chose la moins surprenante.
+db6ec1179e Elle le traitait comme un moyen pour parvenir à ses fins.
+98109b050b Il y a deux moyens de sortir du bâtiment.
+9cee5575ca Il n’y avait pas grand-chose de neuf dans le communiqué de presse.
+9ab507a498 Il y a des nouvelles de la tempête ?
+601450b6b3 J’ai appris le séisme par le journal du matin.
+1489d625df Tu as entendu / lu / vu les dernières nouvelles ?
+77b95d700b Le système de forums Usenet rassemble des gens du monde entier et forme des groupes sociaux autour d’intérêts communs. Les forums Usenet souffrent gravement de la surcharge d’informations.
+e3398145e9 Les codes diplomatiques qui permettent à la Yougoslavie de s’entendre avec le reste du monde ne s’appliquent pas à l’intérieur de la Yougoslavie.
+4e895bddb4 Ô Dieu ! ne puis-je sauver / Un seul de la vague impitoyable ? / Tout ce que nous voyons ou semblons n’est-il / Qu’un rêve dans un rêve ?
+a2ca5b17d7 Partez d’ici dans les trois jours.
+b16f6e3b71 […] « Tu as intérêt à être là d’ici une demi-heure, sinon j’appelle la police. »
+c79b48600d à portée de voix ; à cinq secondes de battre le record ; à deux doigts de passer par-dessus bord
+7acb43d151 L’Angleterre a riposté par un bel essai de Ben Foden et est revenue à sept points à trois minutes de la fin, quand Mark Cueto a profité d’une percée du remplaçant Matt Banahan.
+240d4294dd Je viendrai te voir dès que je pourrai.
+487c0be9f9 Cet obstacle levé, je peux maintenant mettre mon plan à exécution.
+02b63ab955 Le président était aussi un marin habile.
+6ee2012583 Il est habilité à exercer le droit dans six États.
+ddd2891a3f Elle arrive à soulever la caisse sans aide.
+8ac39f05e0 Après la semaine de marches forcées, seule la moitié des hommes sont en pleine possession de leurs moyens.
+441f62b3ce = The soup was barely drink⟦able⟧. | La soupe était à peine buvable.
+28871868b4 Elle ouvrit le livre à la page 37 et commença à lire à voix haute.
+76037fc8e3 Il était frustré parce qu’il ne trouvait rien sur les dinosaures dans le livre.
+cb8a823899 J’ai trois exemplaires de son premier livre.
+3b9cbda524 ✗
+665660e7d7 La Genèse est le premier livre de la Bible.
+626c3ccb76 Beaucoup de lecteurs trouvent déroutant le premier livre du Conte de deux cités.
+2b3f9fab93 Je peux réserver des places pour le concert de la semaine prochaine.
+28198ad93c Je veux réserver une chambre d’hôtel pour demain soir.
+147ac77680 J’ai réservé un vol pour New York.
+0d6db636a2 Ils ont consigné ce message depuis la colline.
+96f3b1887a à onze heures, nous sommes allés déjeuner tôt ; elle a commencé à lire très jeune ; sa mère est morte prématurément
+c8ec19a1f1 Les premiers invités sirotaient leur punch en évitant de se regarder.
+24f83b8a3e Tu es en avance aujourd’hui ! D’habitude, je ne te vois pas avant neuf heures.
+3230d3155a Les Deux Gentilshommes de Vérone est l’une des premières œuvres de Shakespeare.
+754ce386e4 Les premiers résultats leur donnaient 245 sièges sur 300 au Parlement. Le principal adversaire n’en a remporté que 31.
+51da39cefa = The disease can be cured if it is caught at an ⟦early⟧ stage. | La maladie se soigne si elle est détectée à un stade précoce.
+fe779d9ff9 C’est trop tôt pour ce genre de choses. Je ne suis pas encore réveillé.
+95b024115b Nous avons fini le projet une heure plus tôt que prévu, alors nous sommes partis en avance.
+3c230a6e56 J’ai eu des enfants trop tôt (dans la vie), alors mon premier bébé est arrivé tôt.
+f1c1624abf ✗
+7a5e2b126d Tu dois me réveiller et m’appeler tôt, m’appeler tôt, maman chérie ; / Demain sera le plus beau moment de toute la joyeuse nouvelle année ; […]
+5c12db1c39 J’ai besoin de plus d’informations sur cette question.
+d28a757e30 Pour ta gouverne, j’ai fait ça parce que j’en avais envie.
+c5dc3bd1c9 Le 21 mai 1792, le procureur général déposa contre Paine un acte d’accusation pour diffamation séditieuse.
+161c635ab6 La seconde façon formelle d’inculper quelqu’un d’un crime est l’acte d’accusation du procureur, déposé sans examen par un grand jury.
+50274aff32 Nous préférons les produits locaux.
+5c32d0035b Le panneau affiche à la fois les sites locaux et distants.
+25296469e0 Le patient ne voulait pas être endormi, alors nous n’avons fait qu’une anesthésie locale.
+5b743e36fc Je suis aussi au TWU. Section locale 6.
+dc9c49ed32 C’est facile de distinguer les habitants des touristes.
+6c0243c6f4 La gare de Taunton est animée, et plus encore quand arrive la rame de mon train pour Bristol, chargée de l’habituel mélange de vacanciers restés au pays et de gens du coin.
+2c5500fc3b ✗
+4d1152e318 Je me suis fait interdire de mon pub habituel, alors maintenant je vais jusqu’en ville pour boire un verre.
+76277c3bc8 Oh ! Je ne t’avais pas vu.
+17c6c68e2e ✗
+47ce058be7 Oh, waouh ! C’est incroyable.
+cd8e8e698e Ah, c’est donc comme ça que ça marche.
+702696ebd5 enfoncer un poteau dans le sol
+5d1077cffe = The guard was asleep at his ⟦post⟧. | Le garde dormait à son poste.
+e3f608e77f Les poteaux marquent les limites de la propriété.
+75d1fc099b ✗
+a0e3b29474 ✗
+b860ade12f ✗
+90eff639b2 Martin Luther afficha ses quatre-vingt-quinze thèses sur la porte de l’église du château de Wittenberg.
+1df8837685 = She ⟦posted⟧ a photo of her new flat on Instagram. | Elle a publié une photo de son nouvel appartement sur Instagram.
+c9dda4d825 L’entreprise a affiché des bénéfices records ce trimestre.
+ea3d0bfc79 Il dit que si on ne peut pas gagner, abandonner, c’est permis ? Que dirait la PGA si des golfeurs abandonnaient le tournoi après avoir rendu une carte trop élevée ?
+c882974c83 dénoncer publiquement quelqu’un pour lâcheté
+79ad193506 ✗
+5457171e3e Nous avons monté une vidéo du premier anniversaire de Robbie.
+dc0085597d Avant, on faisait des vidéos sur des magnétoscopes à cassette.
+701d43106e = Let’s stay in and watch a ⟦video⟧ tonight. | Restons à la maison regarder un film ce soir.
+6c0bc1c226 Les débuts de la télévision utilisaient la pellicule pour enregistrer la vidéo.
+2d629ede26 Quel câble est pour le signal vidéo ?
+c4a1651788 = We still have a box of old ⟦videos⟧ in the loft. | On a encore un carton de vieilles cassettes vidéo au grenier.
+34f6acd797 ces albums illustrés sont destinés aux jeunes lecteurs
+b740cd67eb Viens faire du parachutisme avec nous. Allez, on n’est jeune qu’une fois !
+a747d47f7a l’ère du voyage spatial n’en est qu’à ses débuts
+9e4d57a7e3 ✗
+1679cf0f55 Sa grand-mère a fêté ses 70 printemps le mois dernier.
+81d9f5e48e Quel âge a ton chien ?
+f609f8c2f2 La lionne a attrapé un gnou pour nourrir ses petits.
+d2063db1e7 Les petits du lion sont curieux du monde qui les entoure.
+65dbd406f2 Je traite les autres comme je me traite moi-même.
+16839126c5 Javik : Ne te soucie pas de ce que pensent les autres. Fais ce que tu dois faire.
+7f80bc256d Toi, tu restes ; tous les autres sont priés de partir maintenant.
+d94401160d Deux ont décidé de se cacher, les autres se sont rendus.
+ac234d5ed3 James est quelqu’un de très sociable ; il connaît plein de monde.
+e071e52cfd Teresa est mal à l’aise dans certaines situations sociales.
+9f03abfee4 Le chômage est un problème de société.
+8b83463c67 Asseyons-nous et parlons.
+d3fef9846f Bien que je ne parle pas chinois, j’ai réussi à communiquer avec les villageois par signes et par gestes.
+71a140f816 Assez parlé travail, parlons vacances !
+2e20cae1a2 Ils se sont assis pour parler affaires.
+8b3d156da8 On parle français, parfois.
+5f6ae504ae Il faut qu’on parle de tes devoirs.
+c6f571cdd2 Il y a une conférence sur Shakespeare ce soir.
+1861e08823 Toute la ville parle de la comédie musicale.
+872c8ade6c Tout le monde ne parle que d’elle aujourd’hui.
+cf5c7d86d4 Les dirigeants du G8 sont actuellement en pourparlers sur les armes nucléaires.
+f1807a29f5 On jase beaucoup sur eux deux, ces derniers temps.
+171626f7d5 Tu as eu « la discussion » avec Jay ? J’ai trouvé un préservatif dans sa chambre.
+bfd7891ccb Les filles jouaient dans la cour.
+4012ac57c8 Goldsmith prit une mansarde dans une misérable impasse.
+7759694fca Les nobles rendirent visite à la reine en sa cour.
+7b07a1a3fb ✗
+c98d11e89d La reine et sa cour se rendirent en ville pour accueillir les soldats à leur retour.
+af26025495 L’amour règne à la cour, au camp, au bosquet.
+b5b914a452 Beaucoup de criminels célèbres ont été jugés dans ce tribunal.
+c8cb2d857c M. Smith n’était pas là de la journée ; il devait aller au tribunal.
+5d684558f0 La cour a ouvert l’audience à 11 heures.
+01d9a6b1ce = The ⟦Court⟧ ruled that the evidence was inadmissible. | La Cour a jugé que la preuve était irrecevable.
+7e5fc070fb = Politicians ⟦court⟧ young voters on social media. | Les politiques courtisent les jeunes électeurs sur les réseaux sociaux.
+074a70aaae Il démarchait de gros nouveaux clients que ses prédécesseurs n’avaient pas osé approcher.
+e351357c11 Elle s’exposait à la polémique par ses discours francs.
+18e7354e86 Elle a présenté les faits de façon claire et logique.
+6cbd6d7c7e Tenons-nous-en aux faits, pas aux opinions.
+169217ca83 La gravité est un fait, pas une théorie.
+051e8c2d2e Examinons les faits de l’affaire avant de trancher.
+e1316c344f On ne peut pas douter du fait que la Terre tourne autour du Soleil.
+657a53bb68 Vu la situation actuelle, je ne pense pas que ce soit possible.
+03fd261e5b Pour résoudre ce problème de maths, n’oublie pas de lire les données.
+a8a27340f7 Parmi les passagers de l’avion, la moitié étaient anglais.
+419c76757f J’ai acheté du chocolat. Tu peux en avoir la moitié.
+919d592b16 Trois quarts moins un quart égale une demie.
+989f6003c5 Un match de football se compose généralement de deux mi-temps de 45 minutes.
+80108dc073 J’ai accepté un demi de bière brune qu’il m’offrait.
+b362e803e3 Il est revenu avec une pinte de Guinness pour moi et un demi de bière brune pour Wendy.
+775acfea6d La densité de population de la Chine était autrefois la moitié de celle de la Grande-Bretagne.
+5f0f422ea1 En a tiré un demi-consentement.
+0dee7da551 un demi-frère ou une demi-sœur
+3ffe6050f2 Elle a des mains vraiment fortes.
+8a8ac3745f Se servant de ses mains comme d’essuie-glaces, elle tenta de chasser la neige de sa bouche. Quand elle se griffa la poitrine et le cou, les miettes lui retombèrent exaspérément sur le visage. Elle se sentit oppressée.
+7e450c9ee3 ✗
+bd4094cdd8 = I had a terrible ⟦hand⟧ — not a single ace. | J’avais une main épouvantable : pas un seul as.
+0ac24726df = She grabbed a ⟦handful⟧ of crisps. | Elle a pris une poignée de chips.
+a71ad20dd1 Malabar était une bête énorme, haute de près de dix-huit paumes, et aussi forte que deux chevaux ordinaires réunis.
+0f020f16bf ✗
+4dad46ae3b Il leur a remis la lettre. Elle m’a offert une occasion.
+dad0edaa7c Il a emprisonné des militants écologistes et prévoit de limiter le contrôle judiciaire en confiant à un organisme agréé par l’État le monopole des actions en justice environnementales.
+18537e5a85 aider une dame à monter en voiture
+08623a3679 Cette table n’est pas tout à fait de niveau : tu vois comme la bille roule et tombe ?
+58dd64d287 = Make sure the shelf is ⟦level⟧ before you drill. | Vérifie que l’étagère est bien droite avant de percer.
+578b6c8971 Nous avons essayé d’accrocher les tableaux pour que le bas des cadres soit au niveau de la ligne foncée du papier peint.
+b04217577e Son pouls est stable depuis douze heures.
+59a19ddf41 Sa voix n’a pas changé. Elle est égale depuis douze heures.
+cd3586569c Il a gardé la tête froide sous la pression.
+d08ed7cb48 Il gardait un regard posé.
+ccefd4c38c Passe-moi le niveau, que je vérifie si c’est bien installé.
+365c393b09 À la fin de la journée, nous avions creusé jusqu’au niveau de l’ancien sol de la cave.
+afa2ad4fc3 Nous avons atteint un nouveau palier dans la réussite.
+5978ea8aff Le niveau sonore est bien trop élevé ; ça me fait mal aux oreilles.
+d0d4b6c0b9 = The root node is at ⟦level⟧ zero. | Le nœud racine est au niveau zéro.
+fa1685c225 Tu peux mettre la table de niveau en tournant les patins vissés sous les pieds.
+83a37a8faa L’ouragan a rasé la forêt.
+03fb2fadbb = The earthquake ⟦levelled⟧ half the town. | Le séisme a rasé la moitié de la ville.
+6791c43b0a J’ai gagné un niveau après avoir vaincu le dragon.
+d4885a9084 Malgré l’âge, il avait l’esprit aussi vif que jamais.
+d5dcea8ed2 J’ai eu un trou noir.
+d5757cc10d Je n’arrive pas à me concentrer sur ce que je fais.
+36149e7b24 C’était l’un des plus grands esprits de l’histoire.
+adad988c10 J’ai vu les plus grands esprits de ma génération détruits par la folie, affamés hystériques nus, […]
+eba217056f Il ne doutait pas un instant qu’ils gagneraient.
+c6c8652132 Qui sait ce qui se passe vraiment dans l’esprit d’un criminel ?
+4380e41456 Attention à ne pas renverser ce verre.
+482bcd7859 N’oublie pas la réunion de demain matin, très tôt !
+f82d2d7862 Le pays où je ne penserai plus à toi / Est le pays où tout s’oublie.
+9a7b1aa1c6 On ne le dira jamais assez.
+0375915d1a Je vais souvent au travail à pied quand il fait beau.
+a8327d87ee Le vase contenait une seule rose à longue tige.
+004e6a918f Tu peux me donner une seule raison de ne pas partir tout de suite ?
+ed4137581f Josh a indiqué sur le site de rencontre qu’il était un homme célibataire.
+bac5b679f5 = She’s been ⟦single⟧ since she moved to London. | Elle est célibataire depuis qu’elle s’est installée à Londres.
+0cc6b83faf Les pommes de terre ont quitté la cuillère pour atterrir en un seul gros bloc dans l’assiette.
+35fce1fdd5 ✗
+4df482ee4d The Offspring ont sorti quatre singles de leur dernier album.
+37946c4d59 Il est allé à la fête dans l’espoir d’y rencontrer quelques célibataires sympathiques.
+8e4881e380 = He hit a ⟦single⟧ to left field. | Il a frappé un simple vers le champ gauche.
+3cccd826f5 = My dad still has his first ⟦single⟧, bought in 1979. | Mon père a encore son premier 45 tours, acheté en 1979.

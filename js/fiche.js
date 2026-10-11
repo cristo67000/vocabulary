@@ -25,8 +25,9 @@
  * **Chaque signification porte ses propres exemples**, dans les deux formes
  * que les données permettent :
  *
- *   citations  du Wiktionnaire, dans la langue du mot, non traduites — mais le
- *              mot vedette y est marqué, et chaque mot est cliquable ;
+ *   citations  du Wiktionnaire, dans la langue du mot — le mot vedette y est
+ *              marqué, chaque mot est cliquable, et celles des mots anglais
+ *              les plus courants sont traduites ;
  *   phrases    de Tatoeba, avec leur traduction en regard.
  *
  * **Tout mot est cliquable** (`motsvifs.js`) : dans les définitions, dans les
@@ -318,17 +319,25 @@
 
   // ── Les sens, et leurs exemples ───────────────────────────────────────────
 
-  /* Une citation du Wiktionnaire : la phrase, le mot marqué, la référence.
+  /* Une citation du Wiktionnaire : la phrase, le mot marqué, la référence, et
+   * sa traduction quand elle en a une.
    *
-   * Elle n'est pas traduite — le Wiktionary anglais cite en anglais. C'est
-   * assumé : les mots y sont cliquables, et un exemple qu'on déchiffre mot à
-   * mot vaut mieux qu'un sens laissé sans exemple. Les phrases de Tatoeba, qui
-   * viennent juste après, apportent la traduction. */
-  function citation(texte, marque, reference, langue) {
+   * Le Wiktionary anglais cite en anglais. Les citations des cinq mille mots
+   * anglais les plus courants ont été traduites pour l'application (voir
+   * build/citations/) : la traduction vient dessous, comme pour une phrase
+   * de Tatoeba. Les autres restent en anglais seul — les mots y sont
+   * cliquables, et un exemple qu'on déchiffre mot à mot vaut mieux qu'un sens
+   * laissé sans exemple. */
+  function citation(texte, marque, reference, langue, traduction) {
     const bloc = element('div', 'citation');
     const phrase = element('p', 'citation-texte');
     phrase.appendChild(MotsVifs.tisser(texte, langue, { marque }));
     bloc.appendChild(phrase);
+    if (traduction) {
+      const traduite = element('p', 'citation-traduction');
+      traduite.appendChild(MotsVifs.tisser(traduction, langue === 'en' ? 'fr' : 'en', {}));
+      bloc.appendChild(traduite);
+    }
     if (reference) {
       bloc.appendChild(element('p', 'citation-source', reference));
     }
@@ -385,6 +394,7 @@
 
   function sens(entree, lecture, cleVedette) {
     const bloc = document.createDocumentFragment();
+    const autre = entree.langue === 'en' ? 'fr' : 'en';
     /* Les sens crus sont tus tant qu'on ne demande pas à les voir ; on dit
      * combien, sans les montrer. */
     const visibles = lecture[4].filter((donnees) => Lexique.montrerCrus || !estCru(donnees));
@@ -404,8 +414,13 @@
       }
       const pastilles = pastillesDeMarques(donnees[4]);
       if (pastilles) ligne.appendChild(pastilles);
+      /* Les traductions sont cliquables comme le reste : dans la fiche
+       * d'un mot français, ce sont des mots anglais qu'on veut pouvoir
+       * apprendre à leur tour. */
       for (const traduction of traductions) {
-        ligne.appendChild(element('span', 'traduction', traduction));
+        const span = element('span', 'traduction');
+        span.appendChild(MotsVifs.lier(traduction, autre));
+        ligne.appendChild(span);
       }
       /* Un sens que le Wiktionnaire connaît et que WikDict ignore n'a pas de
        * traduction. Il vaut d'être montré — il a sa définition et son exemple —
@@ -423,8 +438,8 @@
         paragraphe.appendChild(texte);
       }
 
-      for (const [texte, marque, reference] of citations) {
-        paragraphe.appendChild(citation(texte, marque, reference, entree.langue));
+      for (const [texte, marque, reference, traduction] of citations) {
+        paragraphe.appendChild(citation(texte, marque, reference, entree.langue, traduction));
       }
 
       if (numeros.length) {
@@ -441,12 +456,15 @@
     return bloc;
   }
 
-  function synonymes(lecture) {
+  function synonymes(lecture, langue) {
     const liste = lecture[6] || [];
     if (!liste.length) return null;
     const ligne = element('p', 'synonymes');
     ligne.appendChild(element('b', null, I18n.t('fiche.synonymes') + ' '));
-    ligne.appendChild(document.createTextNode(liste.slice(0, 8).join(', ')));
+    liste.slice(0, 8).forEach((synonyme, rang) => {
+      if (rang) ligne.appendChild(document.createTextNode(', '));
+      ligne.appendChild(MotsVifs.lier(synonyme, langue));
+    });
     return ligne;
   }
 
@@ -554,7 +572,7 @@
       const listeFormes = formes(entree, lecture);
       if (listeFormes) section.appendChild(listeFormes);
       section.appendChild(sens(entree, lecture, cleVedette));
-      const listeSynonymes = synonymes(lecture);
+      const listeSynonymes = synonymes(lecture, entree.langue);
       if (listeSynonymes) section.appendChild(listeSynonymes);
       const tableau = flexion(entree, lecture);
       if (tableau) section.appendChild(tableau);

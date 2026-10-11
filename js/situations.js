@@ -525,7 +525,9 @@
         for (const v of variantes[l] || []) {
           const li = element('li');
           li.appendChild(element('span', 'pastille', I18n.t('langue.' + l + '.court')));
-          li.appendChild(element('span', null, v));
+          const variante = element('span');
+          variante.appendChild(MotsVifs.tisser(v, l, {}));
+          li.appendChild(variante);
           li.appendChild(boutonEcouter(v, l, { court: true, classe: 'ecouter-phrase' }));
           ul.appendChild(li);
         }

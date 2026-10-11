@@ -31,7 +31,7 @@
  * l'efface, sur demande explicite ou en installant une version plus récente.
  */
 
-const VERSION = 'v1.0.1';
+const VERSION = 'v1.1.0';
 const COQUILLE = 'vocabulary-coquille-' + VERSION;
 
 /* Les ressources obligatoires : sans l'une d'elles, il n'y a pas

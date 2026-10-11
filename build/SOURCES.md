@@ -65,8 +65,15 @@ l'exigent. Les moutures exactes des fichiers téléchargés sont notées dans
 - **Fiches des modules** : `build/contenu/*.txt` (mots courants et actuels,
   britannique ou américain, argot et abréviations, IA, expressions, faux amis,
   dessins) ; **dessins d'apprentissage** : `js/schemas/apprendre.js` ;
-  **phrases et dialogues** : `build/conversation.txt`.
-- **Licence** : CC BY-SA 4.0.
+  **phrases et dialogues** : `build/conversation.txt` ; **exemples des fiches
+  anglaises** : `build/citations/fr/lot-*.txt` (`build/citations.py`) —
+  traduction française des citations du Wiktionary pour les mots les plus
+  courants, exemples contemporains rédigés à la place des citations
+  archaïques ou pour les sens qui n'en avaient aucun, citations écartées
+  (paroles de chansons protégées, contenus sexuels, violents ou polémiques,
+  sens obsolètes).
+- **Licence** : CC BY-SA 4.0 (les traductions de citations restent soumises à
+  la licence du Wiktionary, CC BY-SA).
 - Rédigés par un assistant d'écriture (Claude, d'Anthropic), contrôlés par
   programme (structure, renvois, parité des deux langues), **non relus par un
   locuteur natif** — ce que chaque fiche dit.

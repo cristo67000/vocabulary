@@ -1,0 +1,1146 @@
+# Verbes à particule et formules utiles, deuxième série (version 1.1).
+# Rédigé pour Vocabulary.
+module: expressions
+langue: en
+
+# ————— Verbes à particule —————
+
+@ ask_out
+w: ask out
+t: particules
+tr: inviter à sortir, proposer un rendez-vous
+nat: v
+d-fr: Inviter quelqu’un à un rendez-vous amoureux.
+d-en: To invite someone on a date.
+x: He finally asked her out after the gig. | Il lui a enfin proposé de sortir avec lui après le concert.
+
+@ back_up
+w: back up
+t: particules
+tr: sauvegarder ; soutenir, appuyer ; reculer
+nat: v
+d-fr: Faire une copie de sécurité de fichiers ; soutenir quelqu’un ; reculer (un véhicule).
+d-en: To make a copy of files; to support someone; to reverse a vehicle.
+x: Back up your photos before you update your phone. | Sauvegarde tes photos avant de mettre ton téléphone à jour.
+x: Thanks for backing me up in the meeting. | Merci de m’avoir soutenu pendant la réunion.
+
+@ blow_up
+w: blow up
+t: particules
+tr: exploser, faire sauter ; gonfler ; s’emporter
+nat: v
+d-fr: Exploser ou faire exploser ; gonfler (un ballon) ; se mettre en colère ; devenir viral (familier).
+d-en: To explode; to inflate; to lose your temper; to suddenly become popular online (informal).
+x: Her video blew up overnight. | Sa vidéo a explosé du jour au lendemain.
+x: Can you help me blow up the balloons? | Tu peux m’aider à gonfler les ballons ?
+
+@ calm_down
+w: calm down
+t: particules
+tr: se calmer, calmer
+nat: v
+d-fr: Devenir ou rendre plus calme.
+d-en: To become or make someone calmer.
+a-fr: Dire « Calm down! » à quelqu’un d’énervé l’énerve souvent davantage, comme en français.
+a-en: Telling an angry person to “calm down” often makes things worse.
+x: Calm down, it’s only a scratch. | Calme-toi, ce n’est qu’une égratignure.
+
+@ call_off
+w: call off
+t: particules
+tr: annuler
+nat: v
+d-fr: Annuler un événement prévu.
+d-en: To cancel a planned event.
+x: The match was called off because of the storm. | Le match a été annulé à cause de la tempête.
+
+@ call_back
+w: call back
+t: particules
+tr: rappeler
+nat: v
+d-fr: Téléphoner de nouveau à quelqu’un, ou en retour.
+d-en: To phone someone again or in return.
+x: I’m on the train — can I call you back later? | Je suis dans le train, je peux te rappeler plus tard ?
+
+@ check_out
+w: check out
+t: particules
+tr: regarder, jeter un œil à ; quitter (l’hôtel) ; passer en caisse
+nat: v
+d-fr: Regarder quelque chose d’intéressant ; régler et quitter un hôtel ; finaliser un achat en ligne.
+d-en: To look at something interesting; to leave a hotel after paying; to complete an online purchase.
+x: Check out this new café near the station. | Va voir ce nouveau café près de la gare.
+x: We have to check out by eleven. | On doit libérer la chambre avant onze heures.
+v: check_in
+
+@ cheer_up
+w: cheer up
+t: particules
+tr: remonter le moral, reprendre courage
+nat: v
+d-fr: Rendre ou devenir plus joyeux.
+d-en: To become or make someone happier.
+x: Cheer up — it’s nearly the weekend! | Courage, c’est bientôt le week-end !
+
+@ chill_out
+w: chill out
+t: particules
+tr: se détendre, décompresser
+nat: v
+mq: fam
+d-fr: Se détendre, se calmer.
+d-en: To relax; to calm down.
+x: We just chilled out at home and watched a film. | On a juste décompressé à la maison devant un film.
+
+@ clean_up
+w: clean up
+t: particules
+tr: nettoyer, ranger
+nat: v
+d-fr: Nettoyer et remettre en ordre.
+d-en: To make a place clean and tidy.
+x: Who’s going to clean up after the party? | Qui va ranger après la fête ?
+
+@ come_back
+w: come back
+t: particules
+tr: revenir
+nat: v
+d-fr: Revenir à un endroit ; revenir à la mode.
+d-en: To return to a place; to become fashionable again.
+x: Flared jeans have come back. | Les jeans pattes d’éléphant sont revenus à la mode.
+
+@ come_up_with
+w: come up with
+t: particules
+tr: trouver, proposer, imaginer
+nat: v
+d-fr: Trouver une idée, un plan, une solution.
+d-en: To think of an idea, plan or solution.
+x: We need to come up with a name for the podcast. | Il faut qu’on trouve un nom pour le podcast.
+
+@ count_on
+w: count on
+t: particules
+tr: compter sur
+nat: v
+d-fr: Avoir confiance en quelqu’un pour obtenir son aide.
+d-en: To rely on someone.
+x: You can count on me. | Tu peux compter sur moi.
+
+@ cut_down_on
+w: cut down on
+t: particules
+tr: réduire sa consommation de, limiter
+nat: v
+d-fr: Consommer ou faire moins de quelque chose.
+d-en: To use or do less of something.
+x: I’m trying to cut down on screen time. | J’essaie de passer moins de temps sur les écrans.
+
+@ deal_with
+w: deal with
+t: particules
+tr: s’occuper de, gérer, traiter
+nat: v
+d-fr: S’occuper d’un problème ou d’une personne.
+d-en: To handle a problem or a person.
+x: I’ll deal with the emails after lunch. | Je m’occuperai des mails après le déjeuner.
+
+@ drop_off
+w: drop off
+t: particules
+tr: déposer ; s’assoupir
+nat: v
+d-fr: Déposer quelqu’un ou quelque chose quelque part ; s’endormir.
+d-en: To take someone or something somewhere and leave them; to fall asleep.
+x: Can you drop me off at the station? | Tu peux me déposer à la gare ?
+
+@ drop_out
+w: drop out
+t: particules
+tr: abandonner (ses études), se retirer
+nat: v
+d-fr: Arrêter ses études ou se retirer d’une activité avant la fin.
+d-en: To leave school or an activity before finishing.
+x: He dropped out of uni to start a business. | Il a arrêté la fac pour monter une entreprise.
+
+@ end_up
+w: end up
+t: particules
+tr: finir par, se retrouver
+nat: v
+d-fr: Se retrouver dans une situation sans l’avoir prévu.
+d-en: To finally be in a situation you did not plan.
+x: We ended up ordering pizza again. | On a fini par recommander une pizza.
+
+@ fill_in
+w: fill in
+t: particules
+tr: remplir ; remplacer ; mettre au courant
+nat: v
+d-fr: Remplir un formulaire ; remplacer quelqu’un ; mettre quelqu’un au courant (« fill someone in »).
+d-en: To complete a form; to replace someone temporarily; to give someone the latest information.
+n-fr: Américain : « fill out » pour un formulaire.
+n-en: American English often says “fill out” a form.
+x: Please fill in this form. | Veuillez remplir ce formulaire.
+x: I missed the meeting — can you fill me in? | J’ai raté la réunion, tu peux me mettre au courant ?
+
+@ get_away_with
+w: get away with
+t: particules
+tr: s’en tirer, s’en sortir impunément
+nat: v
+d-fr: Faire quelque chose de mal sans être puni.
+d-en: To do something wrong without being punished.
+x: He won’t get away with lying to us. | Il ne va pas s’en tirer comme ça après nous avoir menti.
+
+@ get_back
+w: get back
+t: particules
+tr: rentrer, revenir ; récupérer
+nat: v
+d-fr: Revenir chez soi ; récupérer quelque chose ; « get back to someone » : recontacter quelqu’un.
+d-en: To return; to get something back; “get back to someone”: to reply later.
+x: What time did you get back last night? | Tu es rentré à quelle heure hier soir ?
+
+@ get_over
+w: get over
+t: particules
+tr: se remettre de, surmonter
+nat: v
+d-fr: Se remettre d’une maladie, d’une séparation, d’un choc.
+d-en: To recover from an illness, a break-up or a shock.
+x: It took her months to get over the break-up. | Il lui a fallu des mois pour se remettre de la rupture.
+
+@ get_rid_of
+w: get rid of
+t: particules
+tr: se débarrasser de
+nat: v
+d-fr: Jeter, vendre ou faire partir ce dont on ne veut plus.
+d-en: To throw away or remove something you don’t want.
+x: I got rid of half my clothes when I moved. | Je me suis débarrassé de la moitié de mes vêtements en déménageant.
+
+@ get_through
+w: get through
+t: particules
+tr: traverser, surmonter ; joindre (au téléphone)
+nat: v
+d-fr: Passer une période difficile ; réussir à joindre quelqu’un.
+d-en: To survive a difficult period; to manage to contact someone by phone.
+x: I couldn’t get through to the helpline. | Je n’ai pas réussi à joindre l’assistance.
+
+@ give_back
+w: give back
+t: particules
+tr: rendre
+nat: v
+d-fr: Rendre ce qu’on a emprunté ; aider sa communauté en retour.
+d-en: To return something; to help your community in return.
+x: Give me back my charger! | Rends-moi mon chargeur !
+
+@ go_ahead
+w: go ahead
+t: particules
+tr: vas-y, je t’en prie ; avoir lieu
+nat: v
+d-fr: Commencer, avoir lieu ; « go ahead! » : vas-y, je t’en prie.
+d-en: To start or take place; “go ahead!”: please do.
+x: “Can I use your phone?” — “Go ahead.” | « Je peux prendre ton téléphone ? — Vas-y. »
+
+@ go_off
+w: go off
+t: particules
+tr: sonner ; exploser ; tourner (aliment) ; s’éteindre
+nat: v
+d-fr: Se déclencher (alarme) ; exploser ; se gâter (nourriture) ; s’éteindre.
+d-en: To start ringing; to explode; to go bad (food); to stop working.
+x: My alarm didn’t go off this morning. | Mon réveil n’a pas sonné ce matin.
+x: The milk has gone off. | Le lait a tourné.
+
+@ go_through
+w: go through
+t: particules
+tr: traverser, subir ; examiner, passer en revue
+nat: v
+d-fr: Vivre une période difficile ; examiner quelque chose en détail.
+d-en: To experience something difficult; to examine something carefully.
+x: Let’s go through the slides one more time. | Repassons les diapos une dernière fois.
+
+@ grow_up
+w: grow up
+t: particules
+tr: grandir
+nat: v
+d-fr: Devenir adulte ; « grow up! » : sois un peu adulte !
+d-en: To become an adult; “grow up!”: stop being childish.
+x: I grew up in a small town near Leeds. | J’ai grandi dans une petite ville près de Leeds.
+
+@ hand_in
+w: hand in
+t: particules
+tr: rendre, remettre
+nat: v
+d-fr: Remettre un devoir, un document, sa démission.
+d-en: To give a piece of work or a document to someone in authority.
+x: The essay must be handed in by Friday. | La dissertation doit être rendue avant vendredi.
+
+@ hang_up
+w: hang up
+t: particules
+tr: raccrocher ; accrocher
+nat: v
+d-fr: Mettre fin à un appel ; suspendre (un vêtement).
+d-en: To end a phone call; to hang clothes on a hook.
+x: She hung up on me! | Elle m’a raccroché au nez !
+
+@ hold_on
+w: hold on
+t: particules
+tr: attendre ; tenir bon ; s’accrocher
+nat: v
+d-fr: Attendre un instant ; se tenir fermement.
+d-en: To wait for a moment; to hold something tightly.
+x: Hold on, I’ll check. | Attends, je vérifie.
+v: hang_on
+
+@ keep_up_with
+w: keep up with
+t: particules
+tr: suivre, se tenir au courant de, suivre le rythme de
+nat: v
+d-fr: Aller au même rythme que quelqu’un ; se tenir informé.
+d-en: To move at the same speed as someone; to stay informed.
+x: It’s hard to keep up with all the new apps. | Difficile de suivre toutes les nouvelles applis.
+v: catch_up
+
+@ kick_off
+w: kick off
+t: particules
+tr: commencer, donner le coup d’envoi
+nat: v
+d-fr: Commencer (un match, une réunion, un événement).
+d-en: To start a match, meeting or event.
+x: The festival kicks off on Friday. | Le festival commence vendredi.
+
+@ let_down
+w: let down
+t: particules
+tr: décevoir, laisser tomber
+nat: v
+d-fr: Décevoir quelqu’un qui comptait sur soi.
+d-en: To disappoint someone who was relying on you.
+x: I promised I’d help, and I won’t let you down. | J’ai promis de t’aider, je ne te laisserai pas tomber.
+
+@ look_up
+w: look up
+t: particules
+tr: chercher (dans un dictionnaire) ; s’améliorer
+nat: v
+d-fr: Chercher une information ; « things are looking up » : ça va mieux.
+d-en: To search for information; “things are looking up”: things are improving.
+x: If you don’t know a word, look it up in the app. | Si tu ne connais pas un mot, cherche-le dans l’appli.
+
+@ look_into
+w: look into
+t: particules
+tr: examiner, se renseigner sur, étudier
+nat: v
+d-fr: Étudier une question, enquêter.
+d-en: To investigate or examine something.
+x: We’re looking into the problem and will get back to you. | Nous étudions le problème et reviendrons vers vous.
+
+@ mess_up
+w: mess up
+t: particules
+tr: rater, gâcher, foirer
+nat: v
+mq: fam
+d-fr: Faire mal quelque chose, gâcher.
+d-en: To do something badly; to spoil something.
+x: I totally messed up the presentation. | J’ai complètement raté la présentation.
+
+@ move_in
+w: move in
+t: particules
+tr: emménager
+nat: v
+d-fr: S’installer dans un nouveau logement ; « move in together » : s’installer ensemble.
+d-en: To start living in a new home; “move in together”: to start living together.
+x: They moved in together last spring. | Ils se sont installés ensemble au printemps dernier.
+v: actuel:to_move
+
+@ move_on
+w: move on
+t: particules
+tr: passer à autre chose, tourner la page
+nat: v
+d-fr: Passer à un autre sujet ; laisser derrière soi une expérience.
+d-en: To change to a new subject; to leave a past experience behind.
+x: It’s time to move on and find a new job. | Il est temps de tourner la page et de chercher un autre travail.
+
+@ pass_out
+w: pass out
+t: particules
+tr: s’évanouir, tomber dans les pommes
+nat: v
+d-fr: Perdre connaissance.
+d-en: To lose consciousness.
+x: It was so hot that someone passed out in the queue. | Il faisait si chaud que quelqu’un s’est évanoui dans la file d’attente.
+
+@ pay_back
+w: pay back
+t: particules
+tr: rembourser
+nat: v
+d-fr: Rendre l’argent qu’on a emprunté.
+d-en: To return money that you borrowed.
+x: I’ll pay you back on Friday. | Je te rembourse vendredi.
+
+@ point_out
+w: point out
+t: particules
+tr: faire remarquer, signaler
+nat: v
+d-fr: Attirer l’attention sur un fait.
+d-en: To draw attention to a fact.
+x: She pointed out a mistake in the report. | Elle a signalé une erreur dans le rapport.
+
+@ put_on
+w: put on
+t: particules
+tr: mettre (un vêtement), allumer ; prendre (du poids)
+nat: v
+d-fr: Mettre un vêtement ; allumer un appareil ; prendre du poids ; organiser un spectacle.
+d-en: To start wearing; to switch on; to gain weight; to organise a show.
+x: Put on a jumper, it’s cold. | Mets un pull, il fait froid.
+x: I put on three kilos over Christmas. | J’ai pris trois kilos pendant les fêtes.
+
+@ put_away
+w: put away
+t: particules
+tr: ranger
+nat: v
+d-fr: Remettre quelque chose à sa place.
+d-en: To put something back where it belongs.
+x: Put your phone away during dinner. | Range ton téléphone pendant le dîner.
+
+@ rip_off
+w: rip off
+t: particules
+tr: arnaquer, escroquer ; plagier
+nat: v
+mq: fam
+d-fr: Faire payer trop cher ; copier l’idée de quelqu’un.
+d-en: To charge someone too much; to copy someone’s idea.
+x: The taxi driver ripped us off. | Le chauffeur de taxi nous a arnaqués.
+v: actuel:rip-off
+
+@ run_into
+w: run into
+t: particules
+tr: tomber sur, croiser ; rencontrer (un problème)
+nat: v
+d-fr: Rencontrer quelqu’un par hasard ; se heurter à une difficulté.
+d-en: To meet someone by chance; to meet a difficulty.
+x: I ran into my old teacher at the supermarket. | Je suis tombé sur mon ancien prof au supermarché.
+
+@ set_off
+w: set off
+t: particules
+tr: partir, se mettre en route ; déclencher
+nat: v
+d-fr: Commencer un voyage ; déclencher une alarme.
+d-en: To start a journey; to cause an alarm to start.
+x: We set off at dawn to avoid the traffic. | On est partis à l’aube pour éviter les bouchons.
+x: The smoke from the toast set off the fire alarm. | La fumée du pain grillé a déclenché l’alarme incendie.
+
+@ settle_down
+w: settle down
+t: particules
+tr: se ranger, se poser ; se calmer
+nat: v
+d-fr: Mener une vie plus stable (se marier, s’installer) ; se calmer.
+d-en: To start a quieter life, often with a partner; to become calm.
+x: He’s not ready to settle down yet. | Il n’est pas encore prêt à se poser.
+
+@ show_off
+w: show off
+t: particules
+tr: frimer, se la raconter ; exhiber
+nat: v
+mq: fam
+d-fr: Chercher à impressionner ; montrer fièrement.
+d-en: To try to impress people; to show something proudly.
+x: Stop showing off your new watch. | Arrête de frimer avec ta nouvelle montre.
+
+@ shut_down
+w: shut down
+t: particules
+tr: éteindre ; fermer
+nat: v
+d-fr: Éteindre un appareil ; fermer définitivement une entreprise.
+d-en: To turn off a computer; to close a business permanently.
+x: Shut down your laptop before the update. | Éteins ton portable avant la mise à jour.
+
+@ sign_up
+w: sign up
+t: particules
+tr: s’inscrire, créer un compte
+nat: v
+d-fr: S’inscrire à un service, un cours, une liste.
+d-en: To register for a service, a course or a list.
+x: I signed up for a Spanish course. | Je me suis inscrit à un cours d’espagnol.
+
+@ slow_down
+w: slow down
+t: particules
+tr: ralentir
+nat: v
+d-fr: Aller moins vite ; en faire moins.
+d-en: To go more slowly; to do less.
+x: Slow down, you’re speaking too fast. | Ralentis, tu parles trop vite.
+
+@ split_up
+w: split up
+t: particules
+tr: se séparer, rompre ; diviser
+nat: v
+d-fr: Se séparer (un couple, un groupe) ; partager en parts.
+d-en: To end a relationship; to divide into parts.
+x: The band split up in 2019. | Le groupe s’est séparé en 2019.
+v: actuel:break_up
+
+@ stand_out
+w: stand out
+t: particules
+tr: se démarquer, ressortir
+nat: v
+d-fr: Être facile à remarquer, se distinguer.
+d-en: To be easy to notice; to be better than others.
+x: Your CV needs to stand out. | Ton CV doit se démarquer.
+
+@ stand_up_for
+w: stand up for
+t: particules
+tr: défendre, prendre la défense de
+nat: v
+d-fr: Soutenir quelqu’un ou une idée qu’on attaque.
+d-en: To defend someone or something.
+x: Thanks for standing up for me. | Merci d’avoir pris ma défense.
+
+@ step_down
+w: step down
+t: particules
+tr: démissionner, se retirer
+nat: v
+d-fr: Quitter un poste important.
+d-en: To leave an important job.
+x: The CEO stepped down after the scandal. | Le PDG a démissionné après le scandale.
+
+@ take_after
+w: take after
+t: particules
+tr: tenir de, ressembler à
+nat: v
+d-fr: Ressembler à un parent.
+d-en: To look or behave like an older relative.
+x: She takes after her dad. | Elle tient de son père.
+
+@ take_on
+w: take on
+t: particules
+tr: embaucher ; accepter (une tâche) ; affronter
+nat: v
+d-fr: Embaucher ; prendre en charge une responsabilité ; affronter un adversaire.
+d-en: To employ; to accept a responsibility; to compete against.
+x: I’ve taken on too much work this month. | Je me suis engagé à faire trop de choses ce mois-ci.
+
+@ take_over
+w: take over
+t: particules
+tr: prendre le relais ; racheter, prendre le contrôle de
+nat: v
+d-fr: Remplacer quelqu’un dans une tâche ; prendre le contrôle d’une entreprise.
+d-en: To take control of something; to replace someone in a task.
+x: Can you take over while I make a call? | Tu peux prendre le relais pendant que je passe un appel ?
+
+@ take_up
+w: take up
+t: particules
+tr: se mettre à ; prendre (de la place, du temps)
+nat: v
+d-fr: Commencer une activité ; occuper de la place ou du temps.
+d-en: To start a hobby; to fill space or time.
+x: I’ve taken up climbing. | Je me suis mis à l’escalade.
+x: The sofa takes up half the room. | Le canapé prend la moitié de la pièce.
+
+@ tell_off
+w: tell off
+t: particules
+tr: gronder, passer un savon à
+nat: v
+mq: fam
+d-fr: Réprimander quelqu’un.
+d-en: To speak angrily to someone who has done something wrong.
+x: The teacher told us off for using our phones. | Le prof nous a grondés parce qu’on utilisait nos téléphones.
+
+@ throw_away
+w: throw away
+t: particules
+tr: jeter
+nat: v
+d-fr: Mettre à la poubelle.
+d-en: To put something in the bin.
+x: Don’t throw away the receipt. | Ne jette pas le ticket de caisse.
+
+@ try_out
+w: try out
+t: particules
+tr: essayer, tester
+nat: v
+d-fr: Utiliser quelque chose pour voir si ça fonctionne ou si ça plaît.
+d-en: To test something to see if it works or if you like it.
+a-fr: Pour un vêtement, on dit « try on » (essayer).
+a-en: For clothes, use “try on”.
+x: I’m trying out a new running app. | Je teste une nouvelle appli de course à pied.
+
+@ turn_down
+w: turn down
+t: particules
+tr: refuser ; baisser (le son)
+nat: v
+d-fr: Refuser une offre ; baisser le volume ou le chauffage.
+d-en: To refuse an offer; to reduce the volume or heat.
+x: She turned down the job offer. | Elle a refusé l’offre d’emploi.
+x: Can you turn the music down? | Tu peux baisser la musique ?
+
+@ turn_into
+w: turn into
+t: particules
+tr: devenir, se transformer en
+nat: v
+d-fr: Se changer en autre chose.
+d-en: To change into something else.
+x: The old factory has been turned into flats. | La vieille usine a été transformée en appartements.
+
+@ wake_up
+w: wake up
+t: particules
+tr: se réveiller, réveiller
+nat: v
+d-fr: Sortir du sommeil ; tirer quelqu’un du sommeil.
+d-en: To stop sleeping; to make someone stop sleeping.
+x: I woke up at five and couldn’t get back to sleep. | Je me suis réveillé à cinq heures et je n’ai pas pu me rendormir.
+
+@ wear_out
+w: wear out
+t: particules
+tr: user ; épuiser
+nat: v
+d-fr: S’abîmer à force d’usage ; fatiguer complètement.
+d-en: To become damaged by use; to make someone very tired.
+x: My trainers are worn out. | Mes baskets sont usées.
+
+@ write_down
+w: write down
+t: particules
+tr: noter, écrire
+nat: v
+d-fr: Écrire une information pour s’en souvenir.
+d-en: To write information so you remember it.
+x: Write down the code before you forget it. | Note le code avant de l’oublier.
+
+@ zone_out
+w: zone out
+t: particules
+tr: décrocher, être dans la lune
+nat: v
+mq: fam
+d-fr: Cesser de prêter attention, perdre le fil.
+d-en: To stop paying attention.
+x: Sorry, I zoned out — what did you say? | Pardon, j’ai décroché : tu disais quoi ?
+
+@ freak_out
+w: freak out
+t: particules
+tr: paniquer, flipper
+nat: v
+mq: fam
+d-fr: Paniquer ou s’énerver très fort.
+d-en: To become very anxious, upset or angry.
+x: Don’t freak out, but I’ve scratched your car. | Ne panique pas, mais j’ai rayé ta voiture.
+
+@ burn_out
+w: burn out
+t: particules
+tr: s’épuiser, faire un burn-out
+nat: v
+d-fr: S’épuiser au point de ne plus pouvoir travailler.
+d-en: To become exhausted from working too hard.
+x: If you keep working weekends, you’ll burn out. | Si tu continues à travailler le week-end, tu vas t’épuiser.
+v: actuel:burnout
+
+@ log_off
+w: log off
+t: particules
+tr: se déconnecter ; décrocher (des écrans)
+nat: v
+d-fr: Quitter une session ; arrêter de travailler sur l’ordinateur.
+d-en: To end a session on a computer; to stop working online.
+x: I log off at six, no matter what. | Je me déconnecte à dix-huit heures, quoi qu’il arrive.
+v: actuel:log_in
+
+@ opt_out
+w: opt out
+t: particules
+tr: se désinscrire, refuser, se retirer
+nat: v
+d-fr: Choisir de ne pas participer.
+d-en: To choose not to take part in something.
+x: You can opt out of marketing emails in the settings. | Vous pouvez refuser les mails publicitaires dans les réglages.
+
+@ roll_out
+w: roll out
+t: particules
+tr: déployer, lancer
+nat: v
+d-fr: Mettre en service progressivement un produit ou une mesure.
+d-en: To introduce a new product or service gradually.
+x: The new feature is rolling out to all users this week. | La nouvelle fonction est déployée pour tous les utilisateurs cette semaine.
+
+@ reach_out
+w: reach out
+t: particules
+tr: contacter, prendre contact ; tendre la main
+nat: v
+d-fr: Contacter quelqu’un, souvent pour proposer ou demander de l’aide.
+d-en: To contact someone, often to offer or ask for help.
+x: Feel free to reach out if you have any questions. | N’hésitez pas à me contacter si vous avez des questions.
+
+@ team_up
+w: team up
+t: particules
+tr: s’associer, faire équipe
+nat: v
+d-fr: Travailler ensemble sur un projet.
+d-en: To work together.
+x: Two brands teamed up to make a sustainable trainer. | Deux marques se sont associées pour créer une basket écoresponsable.
+
+@ wind_down
+w: wind down
+t: particules
+tr: se détendre, décompresser ; réduire progressivement
+nat: v
+d-fr: Se relaxer après une activité ; diminuer peu à peu une activité.
+d-en: To relax after activity; to gradually reduce something.
+x: I read for half an hour to wind down before bed. | Je lis une demi-heure pour décompresser avant de dormir.
+
+# ————— Formules utiles —————
+
+@ hows_it_going
+w: how’s it going?
+t: formules
+tr: ça va ?, comment ça va ?
+nat: locution
+mq: fam
+d-fr: Façon détendue de demander des nouvelles.
+d-en: A casual way of asking how someone is.
+x: Hi Sam, how’s it going? | Salut Sam, ça va ?
+
+@ whats_up
+w: what’s up?
+t: formules
+tr: quoi de neuf ?, ça va ? ; qu’est-ce qui se passe ?
+nat: locution
+mq: fam
+d-fr: Salutation familière ; ou : qu’est-ce qui ne va pas ?
+d-en: An informal greeting; or: what’s wrong?
+x: What’s up? You look worried. | Qu’est-ce qui se passe ? Tu as l’air inquiet.
+
+@ long_time_no_see
+w: long time no see
+t: formules
+tr: ça fait une paye !, ça fait longtemps !
+nat: locution
+mq: fam
+d-fr: Se dit quand on revoit quelqu’un après longtemps.
+d-en: Said when you meet someone you haven’t seen for a long time.
+x: Long time no see! How was Canada? | Ça fait une paye ! C’était comment, le Canada ?
+
+@ nice_to_meet_you
+w: nice to meet you
+t: formules
+tr: enchanté, ravi de vous rencontrer
+nat: locution
+d-fr: Formule de politesse à la première rencontre.
+d-en: A polite thing to say when you meet someone for the first time.
+x: Hi, I’m Léa. — Nice to meet you, Léa. | Bonjour, je suis Léa. — Enchanté, Léa.
+
+@ see_you_later
+w: see you later
+t: formules
+tr: à plus tard, à plus, à tout à l’heure
+nat: locution
+d-fr: Pour prendre congé, même sans projet de se revoir le jour même.
+d-en: A common way of saying goodbye.
+n-fr: Aussi « see you », « see ya », « laters » (britannique, familier).
+n-en: Also “see you”, “see ya”, “laters” (British, informal).
+x: I’m off — see you later! | J’y vais, à plus !
+
+@ have_a_good_one
+w: have a good one
+t: formules
+tr: bonne journée !, bonne soirée !
+nat: locution
+mq: fam
+d-fr: Souhait passe-partout en se quittant.
+d-en: A friendly way of saying goodbye.
+x: Thanks, have a good one! | Merci, bonne journée !
+
+@ can_i_get
+w: can I get…?
+t: formules
+tr: je pourrais avoir… ?, je vais prendre…
+nat: locution
+d-fr: Pour commander au café ou au restaurant.
+d-en: Used to order food or drink.
+n-fr: Venue des États-Unis ; au Royaume-Uni, « Could I have…? » ou « I’ll have… » restent plus polis pour certains.
+n-en: Originally American; some British people still prefer “Could I have…?”.
+x: Can I get a flat white to take away, please? | Je pourrais avoir un flat white à emporter, s’il vous plaît ?
+
+@ say_that_again
+w: could you say that again?
+t: formules
+tr: vous pouvez répéter ?
+nat: locution
+d-fr: Demander poliment de répéter.
+d-en: A polite way of asking someone to repeat something.
+x: Sorry, the line’s bad — could you say that again? | Désolé, la ligne est mauvaise : vous pouvez répéter ?
+v: sorry
+
+@ what_do_you_mean
+w: what do you mean?
+t: formules
+tr: qu’est-ce que tu veux dire ?, c’est-à-dire ?
+nat: locution
+d-fr: Demander une explication.
+d-en: Used to ask for an explanation.
+x: What do you mean, it’s cancelled? | Comment ça, c’est annulé ?
+
+@ no_way
+w: no way!
+t: formules
+tr: pas possible !, sans blague ! ; sûrement pas !
+nat: locution
+mq: fam
+d-fr: Exprime la surprise, ou un refus catégorique.
+d-en: Expresses surprise, or a firm refusal.
+x: You got tickets for the final? No way! | Tu as des places pour la finale ? Pas possible !
+
+@ on_my_way
+w: I’m on my way
+t: formules
+tr: j’arrive, je suis en route
+nat: locution
+d-fr: Je suis parti, j’arrive bientôt.
+d-en: I have left and will arrive soon.
+x: I’m on my way — be there in ten minutes. | Je suis en route, j’arrive dans dix minutes.
+
+@ running_late
+w: I’m running late
+t: formules
+tr: je suis en retard, j’ai du retard
+nat: locution
+d-fr: Prévenir qu’on va arriver en retard.
+d-en: Used to warn someone that you will be late.
+x: Sorry, I’m running late — start without me. | Désolé, j’ai du retard : commencez sans moi.
+
+@ my_bad
+w: my bad
+t: formules
+tr: autant pour moi, c’est ma faute
+nat: locution
+mq: fam
+d-fr: Reconnaître une petite erreur.
+d-en: Used to admit a small mistake.
+x: Oops, I sent it to the wrong group. My bad! | Oups, je l’ai envoyé au mauvais groupe. Autant pour moi !
+
+@ sounds_good
+w: sounds good
+t: formules
+tr: ça marche, ça me va, d’accord
+nat: locution
+mq: fam
+d-fr: Accepter une proposition.
+d-en: Used to agree to a suggestion.
+x: “Lunch at one?” — “Sounds good.” | « Déjeuner à treize heures ? — Ça marche. »
+
+@ im_good
+w: I’m good, thanks
+t: formules
+tr: non merci, ça ira ; ça va bien, merci
+nat: locution
+mq: fam
+d-fr: Façon courante de refuser une offre ; ou de dire qu’on va bien.
+d-en: A common way to decline an offer; or to say you are well.
+a-fr: « Would you like more coffee? » — « I’m good, thanks » veut dire « non merci », pas « je suis bon ».
+a-en: In reply to an offer, it means “no, thank you”.
+x: “Another drink?” — “I’m good, thanks.” | « Un autre verre ? — Non merci, ça ira. »
+
+@ go_for_it
+w: go for it
+t: formules
+tr: vas-y, fonce, lance-toi
+nat: locution
+mq: fam
+d-fr: Encourager quelqu’un à essayer.
+d-en: Used to encourage someone to try something.
+x: You want to apply? Go for it! | Tu veux postuler ? Fonce !
+
+@ sorry_to_hear_that
+w: I’m sorry to hear that
+t: formules
+tr: je suis désolé d’apprendre ça, ça me fait de la peine
+nat: locution
+d-fr: Réaction polie à une mauvaise nouvelle.
+d-en: A polite reaction to bad news.
+x: “I lost my job.” — “I’m sorry to hear that.” | « J’ai perdu mon emploi. — Je suis désolé d’apprendre ça. »
+
+@ thats_a_shame
+w: that’s a shame
+t: formules
+tr: c’est dommage
+nat: locution
+d-fr: Exprimer un regret.
+d-en: Used to express disappointment.
+a-fr: ≠ « c’est une honte » : « shame » ici veut dire « dommage ».
+a-en: Not “c’est une honte”: here “shame” means “pity”.
+x: You can’t come? That’s a shame. | Tu ne peux pas venir ? C’est dommage.
+
+@ let_me_know
+w: let me know
+t: formules
+tr: tiens-moi au courant, dis-moi
+nat: locution
+d-fr: Demander à être informé.
+d-en: Used to ask someone to tell you something.
+x: Let me know when you get home. | Dis-moi quand tu es rentré.
+v: keep_me_posted
+
+@ keep_me_posted
+w: keep me posted
+t: formules
+tr: tiens-moi au courant
+nat: locution
+d-fr: Demander à recevoir des nouvelles régulières.
+d-en: Used to ask someone to give you regular news.
+x: Keep me posted on the results. | Tiens-moi au courant des résultats.
+v: let_me_know
+
+@ give_me_a_hand
+w: can you give me a hand?
+t: formules
+tr: tu peux me donner un coup de main ?
+nat: locution
+d-fr: Demander de l’aide.
+d-en: Used to ask for help.
+x: Can you give me a hand with these boxes? | Tu peux me donner un coup de main avec ces cartons ?
+
+@ here_you_go
+w: here you go
+t: formules
+tr: tenez, voilà, et voilà
+nat: locution
+d-fr: En tendant quelque chose à quelqu’un.
+d-en: Said when giving something to someone.
+x: Here you go — one latte with oat milk. | Et voilà, un latte au lait d’avoine.
+
+@ is_this_seat_taken
+w: is this seat taken?
+t: formules
+tr: cette place est prise ?, c’est libre ?
+nat: locution
+d-fr: Demander si on peut s’asseoir.
+d-en: Used to ask if you can sit somewhere.
+x: Excuse me, is this seat taken? | Excusez-moi, cette place est libre ?
+
+@ just_looking
+w: I’m just looking
+t: formules
+tr: je regarde seulement
+nat: locution
+d-fr: Réponse à un vendeur qui propose son aide.
+d-en: A reply to a shop assistant who offers help.
+x: “Can I help you?” — “I’m just looking, thanks.” | « Je peux vous aider ? — Je regarde seulement, merci. »
+
+@ could_i_have_the_bill
+w: could I have the bill, please?
+t: formules
+tr: l’addition, s’il vous plaît
+nat: locution
+d-fr: Demander l’addition au restaurant.
+d-en: Used to ask for the bill in a restaurant.
+n-fr: Américain : « Could I have the check, please? ».
+n-en: American: “Could I have the check, please?”.
+x: That was lovely. Could we have the bill, please? | C’était délicieux. L’addition, s’il vous plaît.
+v: actuel:bill
+
+@ how_much_is_it
+w: how much is it?
+t: formules
+tr: c’est combien ?, ça coûte combien ?
+nat: locution
+d-fr: Demander un prix.
+d-en: Used to ask the price.
+x: How much is it for a day pass? | C’est combien, le forfait à la journée ?
+
+@ sorry_to_bother_you
+w: sorry to bother you
+t: formules
+tr: désolé de vous déranger
+nat: locution
+d-fr: Formule polie pour aborder quelqu’un.
+d-en: A polite way to start talking to someone who is busy.
+x: Sorry to bother you, but is this the way to the station? | Désolé de vous déranger, mais c’est bien par là, la gare ?
+
+@ i_see_what_you_mean
+w: I see what you mean
+t: formules
+tr: je vois ce que tu veux dire
+nat: locution
+d-fr: Montrer qu’on comprend un point de vue.
+d-en: Used to show you understand someone’s point.
+x: I see what you mean, but I still disagree. | Je vois ce que tu veux dire, mais je ne suis toujours pas d’accord.
+
+@ couldnt_agree_more
+w: I couldn’t agree more
+t: formules
+tr: je suis entièrement d’accord, je ne te le fais pas dire
+nat: locution
+d-fr: Accord total.
+d-en: Used to say you completely agree.
+a-fr: Malgré la négation, c’est un accord total : « je ne pourrais pas être plus d’accord ».
+a-en: Despite the negative, it means total agreement.
+x: “We need more breaks.” — “I couldn’t agree more.” | « Il nous faut plus de pauses. — Je suis entièrement d’accord. »
+v: i_couldnt_care_less
+
+@ to_be_honest
+w: to be honest
+t: formules
+tr: pour être honnête, franchement, à vrai dire
+nat: locution
+d-fr: Introduit un avis sincère, souvent un peu négatif.
+d-en: Introduces a sincere, often slightly negative, opinion.
+n-fr: En message : « TBH ».
+n-en: In texts: “TBH”.
+x: To be honest, I didn’t like the ending. | Franchement, je n’ai pas aimé la fin.
+v: argot:TBH
+
+@ if_you_ask_me
+w: if you ask me
+t: formules
+tr: si tu veux mon avis, à mon avis
+nat: locution
+d-fr: Introduit une opinion personnelle.
+d-en: Introduces a personal opinion.
+x: If you ask me, the film was too long. | Si tu veux mon avis, le film était trop long.
+
+@ as_far_as_i_know
+w: as far as I know
+t: formules
+tr: à ma connaissance, que je sache, pour autant que je sache
+nat: locution
+d-fr: Selon ce que je sais.
+d-en: According to what I know.
+n-fr: En message : « AFAIK ».
+n-en: In texts: “AFAIK”.
+x: As far as I know, the shop is still open. | À ma connaissance, le magasin est encore ouvert.
+v: argot:AFAIK
+
+@ get_back_to_you
+w: I’ll get back to you
+t: formules
+tr: je vous recontacte, je reviens vers vous
+nat: locution
+d-fr: Promettre une réponse plus tard.
+d-en: A promise to reply later.
+x: Let me check my diary and I’ll get back to you. | Je regarde mon agenda et je reviens vers vous.
+
+@ hope_youre_well
+w: I hope you’re well
+t: formules
+tr: j’espère que vous allez bien
+nat: locution
+d-fr: Formule d’ouverture courante dans un mail.
+d-en: A common way to start an email.
+x: Hi Tom, I hope you’re well. I’m writing about the invoice. | Bonjour Tom, j’espère que vous allez bien. Je vous écris au sujet de la facture.
+
+@ kind_regards
+w: kind regards
+t: formules
+tr: cordialement, bien cordialement
+nat: locution
+d-fr: Formule de fin de mail professionnelle.
+d-en: A common way to end a work email.
+n-fr: Plus chaleureux : « best wishes », « all the best » ; très courant : « best ».
+n-en: Warmer: “best wishes”, “all the best”; very common: “best”.
+x: Kind regards, Jamie | Cordialement, Jamie
+
+@ thanks_in_advance
+w: thanks in advance
+t: formules
+tr: merci d’avance
+nat: locution
+d-fr: Remercier avant que le service soit rendu.
+d-en: Used to thank someone before they help you.
+x: Could you send me the file? Thanks in advance. | Tu pourrais m’envoyer le fichier ? Merci d’avance.
+
+@ sorry_for_the_late_reply
+w: sorry for the late reply
+t: formules
+tr: désolé pour cette réponse tardive
+nat: locution
+d-fr: S’excuser d’avoir répondu tard.
+d-en: An apology for answering late.
+x: Sorry for the late reply — I was on holiday. | Désolé pour cette réponse tardive, j’étais en vacances.
+
+@ youre_on_mute
+w: you’re on mute
+t: formules
+tr: tu es en sourdine, ton micro est coupé
+nat: locution
+d-fr: Formule (devenue rituelle) des réunions en visio.
+d-en: The (now classic) phrase of video calls.
+x: Sorry, you’re on mute — we can’t hear you. | Désolé, ton micro est coupé : on ne t’entend pas.
+v: actuel:video_call
+
+@ can_you_see_my_screen
+w: can you see my screen?
+t: formules
+tr: vous voyez mon écran ?
+nat: locution
+d-fr: Vérifier un partage d’écran en visio.
+d-en: Used to check screen sharing on a video call.
+x: Can you see my screen? I’ll share the slides. | Vous voyez mon écran ? Je partage les diapos.
+
+@ youre_breaking_up
+w: you’re breaking up
+t: formules
+tr: ça coupe, je t’entends mal
+nat: locution
+d-fr: La connexion est mauvaise, le son se coupe.
+d-en: The connection is bad and your voice keeps cutting out.
+a-fr: Rien à voir avec une rupture amoureuse (« break up »).
+a-en: Nothing to do with ending a relationship.
+x: Sorry, you’re breaking up — I’ll call you back. | Désolé, ça coupe : je te rappelle.
+
+@ take_this_offline
+w: let’s take this offline
+t: formules
+tr: on en reparle en dehors de la réunion
+nat: locution
+d-fr: Proposer de discuter d’un point plus tard, en petit comité.
+d-en: Used to suggest discussing something later, outside a meeting.
+x: Good point — let’s take this offline. | Bonne remarque, on en reparle après la réunion.

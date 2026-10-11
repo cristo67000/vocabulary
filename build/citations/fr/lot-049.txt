@@ -1,0 +1,201 @@
+# lot 049 — host, patient, prove, balance, dress, horse, map, request, stick, vehicle, wake, aid, develop, driver, farm, file, fix, fly, guide, raise, roll, suggest, surprise
+b5258ba049 Le présentateur était épouvantable, mais les numéros eux-mêmes étaient bons.
+141d871ab5 Notre entreprise accueillera la conférence annuelle cette année.
+51ec816b62 J’étais nul pour animer cette émission.
+4e11de8beb Kremvax héberge divers services.
+2f8320ac7c Le logiciel TCP/IP de CMU/TEK consomme une quantité excessive de ressources processeur pour gérer les terminaux, aussi bien en sortie, quand on accède à un autre système, qu’en entrée, quand le système local héberge une session.
+43ed11dad9 ✗
+b6e62568d4 Sois patient : tes amis arriveront dans quelques heures.
+48b3a7c631 Culture asari VI : En raison de notre longévité — atteignant parfois 1 000 ans —, nous sommes patientes dans nos décisions et préférons les solutions à long terme aux gains à court terme.
+0d3406f778 Tout ce que j’ai accompli […] est dû à […] une réflexion patiente.
+3eb93d3779 Bonjour, votre cabinet accepte-t-il de nouveaux patients en ce moment ? J’aimerais en faire partie si c’est le cas.
+e5a8b3b9f4 À la clinique vétérinaire, bien soigner les patients et bien gérer leurs propriétaires sont deux compétences nécessaires.
+2ae5e6bea8 Le sujet d’un verbe passif est généralement un patient.
+e0eb9d1007 Le nombre d’un participant de première ou de deuxième personne est généralement marqué à la fois pour l’agent et pour le patient, à tous les aspects.
+e017448e03 Comment une personne passe-t-elle du statut de patient à celui d’agent dans la conduite de sa vie ?
+f3d43623b1 Car il semble clair que le sujet du changement est ce qui est changé, c’est-à-dire le patient — à une condition : qu’il y ait un agent, un auteur du changement.
+08e5e7d02c Je vais prouver que ma méthode est plus efficace que la tienne.
+63bdea9887 Fait important, l’hypothèse ne peut pas être prouvée vraie : on peut seulement prouver qu’elle est fausse.
+c2a8d4a017 Une connexion défectueuse s’est révélée être la coupable.
+e7448c3db8 La journée s’est avérée froide.
+9fb022c27e Prévoyez une stratégie de sortie au cas où vos calculs s’avéreraient faux.
+5799ac8d3b L’espoir qu’il réagisse s’est révélé totalement infondé.
+8d800357e9 Ces poids servent de contrepoids à la véranda en surplomb.
+0b08b0daf0 Blair pensait pouvoir apporter un contrepoids utile à la politique de Bush.
+7aa888191c = The painting has a lovely ⟦balance⟧ of warm and cool colours. | Le tableau présente un bel équilibre entre couleurs chaudes et froides.
+0a9696b574 Il faut juste que je fasse un saut à la banque pour vérifier mon solde.
+b44b43a69e = The watchmaker adjusted the ⟦balance⟧ so the watch kept time. | L’horloger régla le balancier pour que la montre soit à l’heure.
+f9424c3056 Mais l’homme civilisé est un tout autre animal, et quand il rase une ville entière ou abat une forêt, il n’agit plus dans le cadre de l’équilibre naturel des choses.
+e4850cee0e Ce dernier versement, ou crédit, solde le compte.
+83c60466b3 équilibrer des livres de comptes
+3cde94c449 Elle avançait en équilibre sur le fil sous les yeux captivés de la foule.
+9b6a598200 Ils doivent avancer en équilibre le long de la clôture jusqu’au bout.
+f59537966e le principe de Protée aide à nuancer et à équilibrer les notions de narrateur et de situation narrative telles qu’elles avaient été élaborées dans les études classiques de Gérard Genette et Franz Stanzel.
+fdc2c7fd15 Mes enfants sont assez grands pour s’habiller tout seuls maintenant.
+c5ecef4a28 Il était habillé à la dernière mode.
+6c827e106c Elle courut dans la maison et revint avec des bandages ; et tandis qu’elle lavait et pansait la blessure, Lassiter parlait.
+de7734c7fd […] il était d’une pâleur mortelle, et le bandage taché de sang autour de sa tête disait qu’il avait été blessé récemment, et pansé plus récemment encore.
+c593ecbae0 = Farmers ⟦dress⟧ the fields with manure in autumn. | Les agriculteurs amendent les champs avec du fumier en automne.
+749494c3b4 = We need to ⟦dress⟧ for dinner tonight. | Il faut s’habiller pour le dîner ce soir.
+e42d85b957 ✗
+a03739b6dd Le couturier était fier d’avoir habillé la reine pour la soirée caritative.
+dd5fd5551c Amy et Mary étaient très jolies dans leurs robes.
+5135944b9c Elle avait l’air détendue dans une robe en coton gris bien coupée, avec un foulard et des chaussures couleur terre cuite, et ses cheveux formaient un casque de soie noire.
+33a3a15be2 Il est venu à la fête en tenue de soirée.
+9d96024ad2 = The invitation says evening ⟦dress⟧. | L’invitation précise : tenue de soirée.
+809d294e1c = The dancers wore traditional ⟦dress⟧. | Les danseurs portaient le costume traditionnel.
+91004d7ad8 Il n’a jamais existé, et il ne peut exister, de bonne peinture d’histoire là où les costumes des gens de l’époque ne sont pas beaux : […]
+2b3bfff9d5 Hier, il est venu au bureau en robe orange vif.
+c9b5fa6b0e Nous devrions placer deux unités de cavalerie et une d’infanterie de ce côté du champ.
+43cc295825 Rappelle-moi comment se déplace le cavalier, déjà ?
+21888737ba Elle a obtenu une très bonne note aux barres parallèles ; voyons comment elle s’en sort au cheval d’arçons.
+9f38a9503a = We sawed the planks on a pair of wooden ⟦horses⟧. | Nous avons scié les planches sur une paire de tréteaux en bois.
+e777120823 Le meilleur ami du cow-boy, c’est son cheval.
+c444637a95 Elle adorait dresser des chevaux le samedi.
+51ca8aff7a une carte de l’Australie, une carte de Lilliput
+fa11701aa6 Il a acheté un plan pour la visite du château d’Édimbourg.
+2af4e8ff2d Soit f une application de ℝ dans ℝ
+6ea5f51783 une carte du champ magnétique terrestre
+0ebfa788e7 Les 256 octets de RAM interne sont répartis comme le montre la carte mémoire ci-dessus.
+cda4b89420 Je ne veux pas rejouer cette carte !
+57107aca7d Jack adore jouer sur cette carte de Fortnite.
+b38aca1168 Associe « volume moins » à la touche F2.
+7a52193a7e De manière équivalente : f : A→B, a↦f(a)
+4f49729642 f envoie A dans B, en associant à chaque a∈A l’élément f(a)∈B.
+cb83c6f6d5 Ce grand atlas cartographie le monde entier de façon très détaillée.
+96b8609b97 La figure 3 représente la répartition des pressions dans le système circulatoire humain.
+e8be5590a7 La sonde spatiale cartographie le champ gravitationnel de la Terre.
+36b2fb175e L’équipe établit le tracé de la nouvelle ligne de chemin de fer.
+d1fabda8e7 J’ai demandé que les meubles soient remis à leur place d’origine.
+c9fc572aa1 Le caporal a demandé des renforts.
+c43978354d Elle m’a appelé dans son bureau et m’a prié de m’asseoir.
+d8264197b5 La promesse qui naît d’un arrêté de compte est de payer sur demande.
+f9b1dc5ab5 = The song was played at the ⟦request⟧ of the bride. | La chanson a été jouée à la demande de la mariée.
+76787d7659 = We received a ⟦request⟧ for more information. | Nous avons reçu une demande de renseignements complémentaires.
+6c61fe9469 ✗
+7d58cd5ece Le serveur a renvoyé une erreur 404 à la requête HTTP.
+a90ca5337f = The DJ played my ⟦request⟧ just before midnight. | Le DJ a passé le morceau que j’avais demandé juste avant minuit.
+60d9afec0d Le barrage du castor était fait de bâtons.
+3eedb85952 J’ai trouvé plusieurs bons bâtons dans le tas de broussailles.
+a2e3412ed0 Comment appelle-t-on un boomerang qui ne revient pas ? Un bâton.
+05a4cbb651 Je n’ai pas besoin de ma canne pour marcher, mais elle m’aide.
+91f3681484 La cire à cacheter existe en bâtonnet cylindrique ou rectangulaire.
+67db838ddb = He has a great ⟦stick⟧ and rarely misses an open net. | Il a un excellent maniement de crosse et rate rarement un but vide.
+bda795468c J’ai trouvé assez de planches dans les bennes de chantiers pour construire mon abri.
+1e04a1b66f = Just ⟦stick⟧ your bags in the corner. | Pose tes sacs dans le coin, n’importe comment.
+2f173dfba0 = Gardeners ⟦stick⟧ willow cuttings straight into wet soil. | Les jardiniers plantent les boutures de saule directement dans la terre humide.
+5bf71b371d Les deux types de véhicules alimenteront avec ces données des systèmes d’intelligence artificielle qui, entraînés par apprentissage automatique, identifieront, caractériseront et évalueront les phénomènes extérieurs.
+9871035ae8 des seconds rôles dans un film porté par Steven Spielberg
+fbe2f7b1f2 une pommade à excipient de vaseline
+035b31f374 Je me suis réveillé à quatre heures ce matin.
+1fdc2b2490 Je ne saurais dire combien de temps je dormis, car rien ne me permettait de mesurer le temps, mais je finis par me réveiller et me retrouvai toujours dans l’obscurité.
+ae0df82fbb L’alarme de la voiture du voisin m’a tiré d’un rêve étrange.
+1aedf94867 = Please ⟦wake⟧ me at seven. | Réveille-moi à sept heures, s’il te plaît.
+bb98836394 Même la croisade de Richard suscita peu d’intérêt dans son royaume insulaire.
+192f1e54ec ✗
+ad04519468 = The family held a ⟦wake⟧ for their grandfather. | La famille a organisé une veillée funèbre pour le grand-père.
+4d6c5b722e = Gulls followed in the ferry’s ⟦wake⟧. | Des mouettes suivaient le sillage du ferry.
+f9d5440545 ✗
+9758e745bb ✗
+3b0d0406ad De grandes solennités furent célébrées dans toutes les églises, et de grandes foires et fêtes paroissiales dans toute l’Angleterre.
+bd004e1195 = Some Lancashire towns still hold ⟦Wakes⟧ Week every summer. | Certaines villes du Lancashire célèbrent encore chaque été la « Wakes Week », semaine de fête et de congés traditionnelle.
+211fe5e500 Il est venu à mon secours quand je sombrais.
+7a88e8a397 Une méthode inconstitutionnelle pour obtenir une aide.
+5b7994f57a ✗
+309211e371 Les aides à l’amincissement comprennent les compléments alimentaires et les coupe-faim.
+e2dddde256 L’homme est si mal conçu pour les aventures aquatiques qu’il ne peut même pas voir sous l’eau sans aides artificielles.
+ef602aaaec = Volunteers ⟦aided⟧ the rescue teams. | Des bénévoles ont aidé les équipes de secours.
+bef4c48fd1 Smith est aidé dans sa quête par un extraterrestre lutin, voyageur temporel doté de pouvoirs psychiques, incarné par un autre habitué des frères Coen, Michael Stuhlbarg, vedette de A Serious Man.
+58360a2fe7 Tous les insectes […] acquièrent les pattes articulées avant que les ailes soient complètement développées.
+9727d4cb41 Isabel est passée du stade de dépression tropicale à celui de tempête tropicale puis d’ouragan. Un embryon devient un fœtus, puis un nourrisson.
+e5b8f9133c Nous devons développer au maximum nos propres ressources.
+84ac55b72e Je dois élaborer un plan pour les trois prochaines semaines.
+51618e61b8 Faites développer cette pellicule, s’il vous plaît.
+e657e84688 Je dois développer mon fou de cases blanches.
+26b065f45b ✗
+c11776fe12 Quand il apparut que le défendeur n’avait jamais vraiment étudié les effets des ingrédients du Vita-Pote sur les hommes, les juristes locaux commencèrent à dire que le plaignant ne pouvait pas perdre.
+2e9683de7e Luke North travaillait dans le district nord-est quand Harry Patterson, le conducteur de poney, passa. Il était 5 h 45. Luke sentit le danger dans l’air. Il fit le tour du poney pour parler à Harry […]
+59e936f6ad Le pourboire au chauffeur est facultatif mais très apprécié.
+dea7a75027 Le conducteur fera une annonce à l’approche de la fin du trajet.
+36e8f8440c = Cattle ⟦drivers⟧ once walked herds hundreds of miles to market. | Autrefois, les bouviers menaient des troupeaux sur des centaines de kilomètres jusqu’au marché.
+1814eb377f = Install the latest printer ⟦driver⟧. | Installe le dernier pilote d’imprimante.
+44a96c2cf6 La nature du travail est un moteur du changement social, tout comme les nouvelles formes de travail sont le résultat d’un changement social plus large.
+cb99335aaa Le brassie ressemblait beaucoup au driver, mais le fer ouvrait un tout nouveau champ de pratique ; […]
+7715a93be4 champ d’antennes ; dépôt de carburant ; centrale solaire ; parc éolien
+55b1ef0fe6 ✗
+977ef9305e ✗
+84cc8e4be4 ✗
+dc1e3d958f = The police keep a ⟦file⟧ on every suspect. | La police tient un dossier sur chaque suspect.
+80296e4e01 Il avait créé un fichier de code pour concevoir un nouveau produit.
+74932aca68 Je vais supprimer ces fichiers inutiles pour libérer de l’espace disque.
+cc0b0f42f0 = Smooth the edges with a metal ⟦file⟧. | Égalise les bords avec une lime en métal.
+f79d66f13c = The rook controls the open ⟦file⟧. | La tour contrôle la colonne ouverte.
+9f595bfa49 ✗
+732661408b = She ⟦filed⟧ her nails while she waited. | Elle se limait les ongles en attendant.
+f9b6990613 Elle a classé leurs comptes hier.
+d262df99da Alors que les mères des filles s’apprêtaient à signaler leur disparition, elles reçurent un appel leur disant que leurs filles allaient bien.
+ba578e4d68 Ils ont demandé un remboursement au titre de la garantie.
+9c8bbaae4c Elle a demandé le divorce le lendemain.
+d54f72b5b1 La Constitution fixe la date à laquelle le Congrès doit se réunir.
+d5cce73390 Une sangsue peut se fixer à ta peau sans que tu le sentes.
+f96107fbcf Ce radiateur va provoquer un incendie si tu ne le répares pas.
+c112c1d7ff On ne guérit pas la bêtise.
+dcbf60a610 Une majorité d’électeurs pensaient que l’élection était truquée en faveur du sortant.
+271b3fa89f Rover a arrêté de creuser sous la clôture après que nous l’avons fait castrer chez le vétérinaire.
+ef47f2d0a0 Et Cash m’a parlé de cas où deux branchés se font un fix ensemble et où l’un des deux sort sa plaque.
+0cba31a42c Peut-être trouverai-je dans le yagé ce que je cherchais dans la came, l’herbe et la coke. Le yagé sera peut-être le fix ultime.
+c75faa2aa8 Comme le note le voleur professionnel : on voit à la façon dont l’affaire est menée au tribunal quand c’est arrangé d’avance.
+2739be33a1 Chaque personnage nous arrive avec sa propre vision de la réalité, façonnée par toute une vie d’expérience et par les urgences du moment.
+cf0b3d2870 La réparation de ce plombier est bien meilleure que celle du premier.
+1c3fe2e5a8 = Your ⟦fly⟧ is undone. | Ta braguette est ouverte.
+f800a27e33 ✗
+b4a912544a La sonde a volé au-delà du système solaire.
+4789775111 Il faut environ onze heures de vol de Francfort à Hong Kong.
+ced0f77b54 Chaque jour, la poste achemine par avion des milliers de lettres dans le monde entier.
+d55d446fa1 Les oiseaux rapportent leurs proies au nid en volant pour nourrir leurs petits.
+b0054bc3cb Ma compagnie aérienne exige que j’obtienne une autorisation avant de pouvoir voler à nouveau.
+c883996569 Si on veut prendre l’avion aujourd’hui, il faut partir pour l’aéroport tout de suite.
+c6b9ecae76 Il a plutôt la classe.
+410317a18d ✗
+e551d3c23e ✗
+69f3b54a9f ✗
+ce947578fe ✗
+8725abc633 Le guide nous a fait faire le tour du musée en expliquant les œuvres.
+54fcd0a327 = Our ⟦guide⟧ spoke four languages. | Notre guide parlait quatre langues.
+ba4be09312 = I bought a ⟦guide⟧ to the restaurants of Lyon. | J’ai acheté un guide des restaurants de Lyon.
+cead25fefa Les familiers des magiciens, en revanche, n’étaient pas toujours malfaisants, et pouvaient souvent se rapprocher des « guides » que connaissent bien les spirites d’aujourd’hui.
+88254caadd Shepard : Guide celle-ci, Kalahira, et elle sera pour toi une compagne comme elle l’a été pour moi.
+60aec7b4f6 = A local fisherman ⟦guided⟧ us to the hidden beach. | Un pêcheur du coin nous a guidés jusqu’à la plage cachée.
+ea59c95102 = Her values ⟦guide⟧ every decision she makes. | Ses valeurs guident chacune de ses décisions.
+5cc7a535ca le drapeau fut hissé
+a211a9b38a lever la main si on veut dire quelque chose ; lever sa canne pour se défendre
+2c82d1268e Le sortilège fit sortir les morts de leurs tombes !
+cd0666f91a = The proposal ⟦raised⟧ a lot of questions. | La proposition a soulevé beaucoup de questions.
+5e78465c5b = Two ⟦raised⟧ to the power of ten is 1,024. | Deux élevé à la puissance dix donne 1 024.
+8e11f7cceb élever un mur, ou un tas de pierres
+1ae17e0e0d = The town ⟦raised⟧ a monument to the fallen. | La ville a élevé un monument aux morts.
+d657f26ee5 Faire rouler une roue, une balle ou un tonneau.
+67721d0eb1 L’enfant va se rouler par terre.
+b8f3294096 Le tissu s’enroule mal ; la neige roule bien.
+cc4f477efe Rouler une feuille de papier ; rouler de l’argile ou du mastic en boule.
+fa67d2123e Envelopper le vase dans du papier bulle.
+562127f8fa Ce fleuve roule ses eaux jusqu’à l’océan.
+c1d4ebd3ca Les années s’écoulent.
+70ff2f7df1 passer un champ au rouleau ; abaisser une pâte au rouleau ; laminer des rails d’acier.
+2b71da52f5 La pâte s’étale bien au rouleau.
+8470a84629 Des gouttes de sueur roulaient sur son visage.
+1db14c19fa Regarde le roulis des vagues.
+4ea07ad33a le roulement d’une balle
+db3d2e0a02 faire passer des rails dans les cylindres du laminoir
+488a8f7e37 Écoute le grondement du canon.
+a925ec1e0c Il y eut un roulement de tonnerre et la pluie se mit à tomber à verse.
+e7006246fc = Buy a ⟦roll⟧ of tape at the hardware shop. | Achète un rouleau de ruban adhésif à la quincaillerie.
+fc79901e33 = The teacher called the ⟦roll⟧ at nine. | La maîtresse a fait l’appel à neuf heures.
+8b210016c8 une liasse de billets
+8e37f56138 Vous insinuez que j’ai tué ma femme ?
+428d0c244e Le nom de « hamburger » laisse penser que les hamburgers viennent de Hambourg.
+206125e9e3 Certaines idées […] sont suggérées à l’esprit par toutes les voies de la sensation et de la réflexion.
+1d3de27087 Ce lieu de réunion nous a été suggéré par notre patron.
+307a2e7204 Le guide recommandait de visiter la cathédrale, alors c’est ce que nous avons fait.
+0ca2e889f8 ✗
+296e52103e Ce fut une surprise quand il réussit.

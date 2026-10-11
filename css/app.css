@@ -357,6 +357,8 @@ button { font: inherit; color: inherit; }
 .citation { margin: .45rem 0 0; }
 .citation-texte { margin: 0; font-size: .97rem; }
 .citation-texte .cible { color: var(--accent); font-weight: 700; }
+/* Sa traduction, dessous, du même ton que celle d'une phrase de Tatoeba. */
+.citation-traduction { margin: .12rem 0 0; color: var(--encre-douce); font-size: .93rem; }
 .citation-source {
   margin: .1rem 0 0;
   font-size: .78rem;

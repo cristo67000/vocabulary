@@ -1,3 +1,4 @@
+en:-core
 en:.git
 en:.gitattributes
 en:.gitignore
@@ -10,14 +11,17 @@ en:AGI
 en:AI
 en:AI Act
 en:AI assistant
+en:AI chatbot
 en:AI safety
 en:AI slop
 en:AI-generated
+en:AMA
 en:API
 en:API key
 en:APK
 en:ASAP
 en:ASCII
+en:ATM
 en:AVIF
 en:Activity
 en:Amend
@@ -25,8 +29,10 @@ en:Android
 en:Android permission
 en:April
 en:August
+en:BFF
 en:BOM
 en:BRB
+en:BTS
 en:BTW
 en:Back-end
 en:Base64
@@ -81,14 +87,18 @@ en:DevTools
 en:Diff
 en:Docker
 en:Dotfile
+en:EOD
 en:ETA
 en:ETag
+en:EV
 en:EXIF
 en:Embedding
 en:Endianness
 en:Endpoint
 en:Event loop
 en:FOMO
+en:FR
+en:FWIW
 en:FYI
 en:Fast-forward
 en:Favicon
@@ -108,17 +118,22 @@ en:GIF
 en:GOAT
 en:GP
 en:GPU
+en:GTG
 en:Gamma
 en:Gamut
 en:Garbage collector
+en:Gen Z
 en:Git
 en:Git object
 en:GitHub
 en:GitHub Pages
 en:Glob
 en:Gradle
+en:HBD
 en:HBU
 en:HEAD
+en:HMU
+en:HR
 en:HSL
 en:HTML
 en:HTTP
@@ -132,13 +147,19 @@ en:Headless
 en:Heredoc
 en:Hook
 en:Hot reload
+en:I couldn’t agree more
 en:I couldn’t care less
+en:I hope you’re well
+en:I see what you mean
 en:ICC profile
 en:ICYMI
 en:ID
+en:IDC
 en:IDE
 en:IDK
+en:IKR
 en:ILY
+en:IMHO
 en:IMO
 en:IP
 en:IRL
@@ -146,7 +167,13 @@ en:IYKYK
 en:Index (Git)
 en:IndexedDB
 en:Intent
+en:I’ll get back to you
 en:I’m afraid…
+en:I’m good, thanks
+en:I’m just looking
+en:I’m on my way
+en:I’m running late
+en:I’m sorry to hear that
 en:JK
 en:JPEG
 en:JS
@@ -158,6 +185,7 @@ en:June
 en:Keystore
 en:LLM
 en:LMAO
+en:LMK
 en:LOL
 en:Lambda
 en:Lazy loading
@@ -181,14 +209,20 @@ en:Module
 en:Monday
 en:Monorepo
 en:NGL
+en:NHS
 en:NP
+en:NPC
+en:NSFW
 en:NVM
 en:NoSQL
 en:Node.js
 en:November
 en:OAuth
 en:OCR
+en:OFC
 en:OMG
+en:OOO
+en:OP
 en:ORM
 en:OSI model
 en:Observer
@@ -200,6 +234,7 @@ en:PATH
 en:PIN
 en:PNG
 en:POV
+en:PSA
 en:PWA
 en:Parsing
 en:Patch
@@ -224,6 +259,7 @@ en:RAG
 en:REST
 en:RGB
 en:RN
+en:ROFL
 en:Rate limiting
 en:Rebase
 en:Refactoring
@@ -264,6 +300,7 @@ en:Sideloading
 en:Slash
 en:Slash command
 en:Smoke test
+en:Sod’s law
 en:Source map
 en:Squash
 en:Stash
@@ -276,10 +313,14 @@ en:TBC
 en:TBH
 en:TCP
 en:TDD
+en:TFW
 en:TIL
 en:TL;DR
 en:TLS
+en:TMI
+en:TTYL
 en:TWA
+en:TYSM
 en:Tag
 en:Thread
 en:Thursday
@@ -295,6 +336,7 @@ en:Unicode
 en:VPN
 en:Vibe coding
 en:Viewport
+en:WFH
 en:WYD
 en:Web Worker
 en:WebAssembly
@@ -303,44 +345,65 @@ en:WebSocket
 en:WebView
 en:Webhook
 en:Wednesday
+en:Wi-Fi
 en:Working tree
 en:XML
 en:XOXO
 en:XSS
 en:YAML
 en:a blessing in disguise
+en:a doddle
 en:a few
+en:a friend in need is a friend indeed
+en:a hot potato
 en:a little
 en:a lot of
+en:a pain in the neck
+en:a penny for your thoughts
+en:a picture is worth a thousand words
 en:a piece of cake
+en:a round
 en:a storm in a teacup
+en:a tad
 en:above
+en:abusive
 en:acceptance testing
 en:accessibility
 en:account
 en:achievement
 en:actions speak louder than words
+en:activewear
 en:actually
+en:ad blocker
 en:adb
 en:add insult to injury
+en:aeroplane mode
 en:affair
 en:afford
 en:after you
 en:afternoon
+en:ageing population
 en:agenda
 en:agent
 en:agentic
+en:ages
 en:ago
+en:air fryer
 en:airport
 en:algorithm
 en:alignment
+en:all that glitters is not gold
 en:allergy
+en:allow it
 en:alpha channel
 en:already
+en:ambulance
+en:an apple a day keeps the doctor away
 en:angry
 en:ankle
 en:annual leave
 en:anxiety
+en:anxious
 en:app
 en:application ID
 en:apply
@@ -351,49 +414,77 @@ en:arm
 en:armchair
 en:array
 en:artefact
+en:as far as I know
 en:ashamed
+en:ask out
 en:aspect ratio
 en:assertion
 en:assetlinks.json
 en:assist
+en:asylum seeker
 en:async / await
 en:at
+en:at the drop of a hat
+en:at the end of the day
+en:ate
+en:attachment
 en:attend
 en:aubergine
+en:audiobook
 en:aunt
+en:aura
 en:authentication and authorisation
 en:automation
 en:autumn
+en:aye
 en:baby
 en:back
+en:back to square one
+en:back to the drawing board
+en:back up
 en:backup
 en:bae
 en:bake
+en:ballpark figure
 en:band
 en:bandwidth
 en:bank account
 en:bank holiday
+en:bank transfer
 en:banter
 en:bare
 en:bargain
+en:bark up the wrong tree
 en:based
 en:basic
+en:batch cooking
 en:bath
 en:bathroom
 en:battery
+en:be in two minds
+en:be laid off
+en:be on the same page
+en:be on thin ice
+en:be quids in
 en:beach
 en:beat about the bush
 en:bedroom
+en:beggars can’t be choosers
 en:behind
+en:beige flag
 en:belt
+en:bend over backwards
+en:benefits
 en:bet
 en:better late than never
 en:better safe than sorry
 en:between
 en:bias
+en:big yikes
 en:bike
 en:bill
 en:billion
+en:bills included
 en:bin
 en:binary
 en:binge-watch
@@ -402,57 +493,110 @@ en:birds of a feather flock together
 en:biscuit
 en:bite off more than one can chew
 en:bite the bullet
+en:bite the dust
+en:bite your tongue
+en:bits and bobs
+en:bitter
+en:blended family
 en:bless you
 en:blimey
+en:block
 en:bloke
+en:blood
+en:blood is thicker than water
+en:blood test
 en:bloody
 en:bloody hell
+en:blow up
 en:board game
 en:boarding pass
 en:body
+en:bog
 en:boil
+en:boiler
+en:boiling
 en:bollocks
+en:bone
+en:book club
+en:boomer
 en:booster
 en:boots
 en:bored
+en:boundaries
 en:bowl
 en:boyfriend
 en:brain
+en:brain rot
+en:brainstorm
+en:brassic
 en:bread
 en:break a leg
 en:break down
+en:break the bank
 en:break the ice
 en:break up
+en:breakdown
 en:breakfast
 en:brekkie
 en:bring up
 en:brolly
 en:brother
 en:browser
+en:brunch
 en:bruv
+en:bucket list
 en:bugger off
+en:burn out
+en:burn the midnight oil
 en:burnout
+en:bury the hatchet
 en:bus
+en:bus lane
+en:bussin
 en:butter
+en:button
 en:buy now, pay later
+en:by and large
+en:by the book
 en:by the skin of one’s teeth
 en:cake
+en:call back
 en:call it a day
+en:call off
+en:call the shots
+en:calm
+en:calm down
+en:camping
+en:can I get…?
+en:can you give me a hand?
+en:can you see my screen?
+en:cancel culture
 en:candid
 en:cap
+en:capsule wardrobe
 en:car park
+en:car sharing
 en:carbon footprint
+en:carbon neutral
+en:carbon offsetting
+en:carer
 en:carry on
 en:cash
+en:cashback
 en:cashless
 en:catch
+en:catch someone red-handed
 en:catch up
+en:catfish
+en:caught in 4K
+en:cave
 en:ceiling
 en:cellar
 en:centre
 en:certificate
 en:chain of thought
 en:chance
+en:char
 en:character encoding
 en:charger
 en:charging point
@@ -460,32 +604,49 @@ en:charity
 en:charity shop
 en:chatbot
 en:check in
+en:check out
+en:check-up
 en:checkout
+en:cheek
 en:cheeky
+en:cheer up
+en:cheerful
 en:cheerio
 en:cheers
 en:cheers for that
 en:cheese
+en:cheesed off
 en:chemist’s
 en:chest
 en:chest of drawers
 en:chicken
+en:chill out
+en:chilly
+en:chin
+en:chinwag
 en:chips
 en:chmod
 en:chock-a-block
+en:chronically online
 en:chuffed
 en:cinema
+en:circle back
+en:city break
 en:city centre
 en:class
+en:clean up
 en:clever
 en:click and collect
+en:clickbait
 en:client-server
 en:climate change
 en:closed testing
 en:clothes
 en:cloud
 en:cloudy
+en:co-parenting
 en:coat
+en:cock-up
 en:code review
 en:coding assistant
 en:coin
@@ -494,17 +655,25 @@ en:colleague
 en:college
 en:colour
 en:come across
+en:come back
+en:come rain or shine
+en:come up with
 en:comment
 en:commit message
+en:commute
+en:commuter
 en:comparative
 en:compilation
 en:complexity
+en:compost
 en:comprehensive
 en:compression
 en:compute
 en:computer vision
 en:condition
 en:confident
+en:congestion charge
+en:consent
 en:console.log
 en:conspiracy theory
 en:constant
@@ -513,48 +682,75 @@ en:content creator
 en:context window
 en:contrast ratio
 en:cook
+en:cooked
 en:cooker
+en:cookie
 en:copper
 en:corner
 en:cost an arm and a leg
 en:cost of living
 en:couch potato
+en:cough
+en:could I have the bill, please?
+en:could you say that again?
 en:council
+en:count on
 en:countryside
 en:courgette
 en:cousin
 en:cover letter
+en:coworking space
 en:crap
 en:crayon
+en:credit card
 en:cringe
 en:crisps
 en:cron
 en:crossroads
+en:crossword
+en:cry wolf
 en:cryptocurrency
+en:culture war
 en:cup
 en:cuppa
 en:curiosity killed the cat
 en:curl
 en:currently
 en:curtains
+en:cut corners
+en:cut down on
+en:cut someone some slack
+en:cut to the chase
 en:cyberbullying
+en:cycle lane
+en:cycling
 en:dad
+en:dairy-free
 en:damn
+en:damp
 en:dark mode
 en:data centre
 en:data safety
 en:database
 en:database schema
 en:date
+en:dating app
 en:daughter
+en:deadass
 en:deadline
+en:deal with
+en:debit card
 en:debt
 en:debugger
 en:debugging
+en:decade
+en:deceive
 en:deception
 en:decimal point
+en:decorate
 en:deep learning
 en:deepfake
+en:deforestation
 en:degree
 en:delayed
 en:delicious
@@ -564,58 +760,89 @@ en:demand
 en:demonstration
 en:dependency
 en:deployment
+en:deposit
 en:dictionary
 en:diffusion model
 en:digital detox
 en:digital signature
 en:dining room
 en:dinner
+en:direct debit
 en:directions
 en:disappointed
 en:discount
+en:disgrace
 en:dishwasher
+en:dissertation
+en:diversion
 en:diversity
+en:divorce
+en:do one
 en:dodgy
 en:domain name
+en:don’t bite the hand that feeds you
 en:don’t count your chickens before they hatch
+en:don’t judge a book by its cover
 en:don’t put all your eggs in one basket
 en:doomscrolling
 en:door
+en:doorbell
 en:dosh
+en:down-to-earth
 en:download
 en:downstairs
 en:draw
+en:draw the line
 en:dress
+en:dress code
 en:dressing gown
 en:driving licence
 en:drizzle
+en:drop off
+en:drop out
+en:drop the ball
 en:drought
 en:during
+en:e-reader
 en:e-scooter
 en:ear
+en:earbuds
 en:early
+en:easier said than done
+en:easy come, easy go
 en:easy-going
+en:echo chamber
 en:eco-anxiety
 en:egg
 en:elbow
 en:election
 en:electric car
+en:electrician
 en:embarrassed
 en:emoji
+en:empty nester
 en:emulator
 en:encryption
+en:end up
 en:end-to-end test
 en:endangered
+en:ends
 en:energy bill
+en:engaged
+en:enshittification
 en:environment
 en:environment variable
 en:equality
+en:era
+en:escape room
 en:escaping
+en:esports
 en:estate agent
 en:evening
 en:event
 en:eventually
 en:every cloud has a silver lining
+en:every dog has its day
 en:exception
 en:excited
 en:excuse me
@@ -624,30 +851,46 @@ en:exit code
 en:expensive
 en:extra
 en:eye
+en:eyebrow
+en:fabric
 en:face
 en:face the music
+en:factory reset
 en:faff
 en:fair enough
 en:fake news
 en:fall in love
 en:fall out
+en:fam
 en:family
 en:fancy
+en:fast fashion
+en:feed
 en:feel blue
 en:feel like
 en:feel sick
+en:festival
 en:figure out
+en:fill in
 en:film
 en:find out
 en:finger
+en:fire
 en:firewall
+en:first date
 en:fish
 en:fit
+en:fit as a fiddle
 en:fiver
+en:flash flood
 en:flat
+en:flat tyre
+en:flat-pack furniture
 en:flatmate
 en:flex
+en:flexitime
 en:flight
+en:flight shame
 en:flood
 en:floor
 en:flour
@@ -662,114 +905,191 @@ en:football
 en:footie
 en:for
 en:forecast
+en:forehead
 en:foreign key
 en:fork
+en:formidable
 en:fortnight
+en:fortune favours the bold
 en:four-day week
+en:freak out
 en:free time
+en:freelancer
 en:freezer
+en:freezing
 en:fridge
 en:friend
+en:frost
 en:fruit
+en:frustrated
 en:fry
 en:frying pan
 en:fuck
+en:full English breakfast
 en:full stop
+en:fully remote
 en:function
 en:funny
 en:furniture
 en:gaff
+en:gaming
 en:gap year
 en:garden
 en:gardening
 en:garlic
+en:gaslighting
 en:gassed
 en:generative AI
+en:generous
+en:gentle
+en:gentrification
+en:get away with
+en:get back
 en:get better
 en:get cold feet
 en:get dressed
+en:get engaged
 en:get married
 en:get on
 en:get on with
 en:get out of bed on the wrong side
+en:get out of hand
+en:get over
+en:get rid of
+en:get something off your chest
+en:get the ball rolling
 en:get the hang of something
+en:get through
 en:get up
+en:get your act together
+en:get your head around
 en:ghost
 en:gig
+en:gig economy
+en:girl dinner
 en:girlfriend
 en:git add
 en:git log
 en:git status
+en:give back
 en:give in
+en:give someone the benefit of the doubt
 en:give up
 en:glass
 en:glasses
 en:global warming
 en:gloves
+en:glow-up
 en:gluten-free
+en:go Dutch
+en:go ahead
 en:go bananas
+en:go down a rabbit hole
+en:go for it
+en:go off
 en:go on
 en:go out
+en:go pear-shaped
 en:go the extra mile
+en:go through
+en:go through the roof
 en:go viral
+en:go with the flow
 en:gobsmacked
+en:godparent
+en:graft
 en:grandchildren
 en:grandfather
 en:grandmother
 en:graph
 en:grass
 en:grateful
+en:great minds think alike
+en:green flag
 en:greenhouse gas
 en:greenwashing
 en:grep
 en:grotty
 en:ground floor
 en:group chat
+en:grow up
+en:grumpy
 en:guardrails
+en:gut health
 en:gutted
 en:gym
+en:haggle
+en:hail
 en:hair
 en:half past
 en:hall
 en:hallucination
+en:hammered
 en:hand
+en:hand in
 en:handbag
+en:hang in there
 en:hang on
 en:hang out
+en:hang up
 en:happy
 en:hard-working
 en:hash
 en:hash table
 en:hashtag
 en:hat
+en:hate speech
+en:have a chip on your shoulder
 en:have a frog in one’s throat
+en:have a good one
+en:have a lot on your plate
 en:have a sweet tooth
 en:have butterflies in one’s stomach
 en:have fun
 en:have one’s head in the clouds
 en:have other fish to fry
+en:hay fever
 en:head
+en:head over heels
 en:headache
 en:heart
+en:heartbroken
 en:heat pump
 en:heating
 en:heatwave
 en:help yourself
+en:here you go
 en:hex colour
 en:hexadecimal
 en:high street
+en:hiking
+en:hip
+en:hit it off
 en:hit the nail on the head
+en:hit the road
 en:hit the sack
+en:hits different
 en:hobby
+en:hold on
 en:holiday
 en:home
+en:homelessness
+en:homesick
+en:honesty is the best policy
 en:hoodie
 en:hoover
+en:hopeful
 en:hot
+en:hot take
+en:hot-desking
+en:hotspot
 en:house
 en:housework
 en:housing crisis
 en:how do you do?
+en:how much is it?
+en:how’s it going?
+en:humid
 en:hungry
 en:hurt
 en:husband
@@ -777,226 +1097,371 @@ en:hybrid working
 en:iOS
 en:ick
 en:idempotence
+en:if it ain’t broke, don’t fix it
+en:if you ask me
 en:image generator
+en:impulse buy
 en:in
+en:in a bit
+en:in a nutshell
 en:in front of
 en:in hot water
+en:in the long run
+en:in the nick of time
 en:in the same boat
+en:in time
 en:in-laws
+en:inbox
 en:inclusive
 en:index
 en:inference
 en:inflation
 en:influencer
 en:inheritance
+en:injure
 en:innit
 en:instance
 en:insulation
 en:integer and float
 en:integration test
+en:interest rate
 en:interface
 en:internship
 en:interpretation
+en:is this seat taken?
+en:issue
 en:it depends
+en:it is what it is
+en:it takes two to tango
+en:it’s giving
+en:it’s not rocket science
 en:it’s raining cats and dogs
+en:it’s spitting
 en:it’s up to you
 en:jab
 en:jacket
 en:jailbreak
+en:jammy
 en:jealous
 en:jeans
 en:job
+en:job hunting
 en:job interview
 en:join
 en:journey
 en:jump on the bandwagon
+en:jump the gun
 en:jumper
+en:karaoke
+en:keep an eye on
+en:keep me posted
+en:keep up with
+en:keep your chin up
+en:kettle
 en:key
 en:key-value store
 en:keyword
+en:kick off
 en:kill two birds with one stone
 en:kilobyte, megabyte
 en:kind
+en:kind regards
 en:kip
 en:kitchen
 en:knackered
 en:knee
 en:knife
+en:know the ropes
 en:knowledge cutoff
+en:knowledge is power
+en:lad
 en:landing
 en:landlord
+en:lass
+en:last-minute
 en:late
 en:latency
+en:laughter is the best medicine
 en:lazy
+en:leak
 en:least privilege
+en:leave no stone unturned
 en:lecture
+en:leftovers
 en:leg
+en:let down
+en:let me know
 en:let off steam
+en:let sleeping dogs lie
 en:let the cat out of the bag
+en:letting agent
+en:let’s take this offline
 en:library
 en:licence
 en:lift
+en:like
+en:like two peas in a pod
 en:line break
+en:line manager
 en:linked list
+en:lip
 en:lit
+en:live rent-free in someone’s head
 en:livestream
 en:living room
 en:load balancer
 en:loaded
+en:loan
 en:localStorage
 en:localhost
 en:location
 en:lock file
 en:lockdown
+en:locked in
+en:lodger
 en:loft
 en:log in
+en:log off
+en:loneliness
 en:lonely
 en:long
+en:long COVID
+en:long story short
+en:long time no see
+en:long-distance relationship
 en:loo
 en:look after
+en:look before you leap
 en:look for
 en:look forward to
+en:look into
+en:look up
 en:loop
+en:loop in
 en:lorry
 en:lose
 en:low-emission zone
+en:low-hanging fruit
 en:lowkey
+en:loyalty card
 en:luggage
 en:lunch
+en:lung
+en:lush
 en:machine translation
 en:main
+en:main character energy
 en:main course
 en:make ends meet
 en:make up
 en:manager
 en:mandem
 en:many
+en:many hands make light work
 en:map
+en:mardy
 en:maskable icon
 en:match
 en:mate
 en:maths
 en:meal
+en:meal deal
+en:meal prep
 en:mean
 en:meat
 en:meeting
 en:meme
 en:mental health
+en:mess up
 en:message queue
+en:microplastics
+en:microwave
 en:mid
+en:midnight
 en:migration
+en:mild
 en:milk
+en:millennial
 en:minSdk, targetSdk, compileSdk
 en:mind your head
 en:mindfulness
 en:minging
 en:minification
+en:minimum wage
+en:minted
 en:mirror
+en:miserable
 en:misinformation
 en:miss
 en:miss the boat
 en:mobile
 en:model
+en:money doesn’t grow on trees
 en:month
+en:moody
 en:morning
 en:mortgage
 en:motorway
+en:mould
 en:mountain
 en:mouth
 en:move
+en:move in
+en:move on
+en:move the needle
+en:moving mad
 en:much
 en:mug
 en:multimodal
+en:multitask
 en:mum
+en:muscle
 en:museum
 en:mushroom
 en:mutability
+en:mute
+en:my bad
 en:naff
 en:nappy
+en:necessity is the mother of invention
 en:neck
 en:neighbour
 en:neighbourhood
 en:nephew
+en:nepo baby
+en:nervous
 en:net zero
+en:networking
 en:neural network
 en:never mind
 en:next to
 en:nice
+en:nice to meet you
 en:nick
 en:niece
 en:night
 en:no cap
 en:no pain, no gain
 en:no use crying over spilt milk
+en:no way!
 en:no worries
+en:no-brainer
 en:no-code
 en:non-binary
+en:noon
 en:noreply address
 en:normalisation
 en:nose
 en:not my cup of tea
+en:notice
+en:notice period
 en:notification
 en:novel
 en:nowadays
 en:npm
 en:null
 en:o'clock
+en:oat milk
 en:object
+en:occasion
+en:off the top of my head
 en:office
 en:oil
 en:on
+en:on brand
 en:on cloud nine
+en:on the ball
+en:on time
+en:onboarding
+en:once bitten, twice shy
 en:once in a blue moon
 en:onion
 en:online shopping
 en:only child
+en:open-minded
 en:open-plan office
 en:open-weight model
 en:operator
 en:opposite
+en:opt out
 en:organise
 en:origin
+en:out of office
+en:out of order
 en:out of sight, out of mind
+en:out of stock
+en:out of the blue
+en:out of the woods
+en:outfit
 en:oven
+en:over my dead body
 en:over the moon
+en:overcast
+en:overdraft
 en:overfitting
+en:oversized
+en:overtime
+en:overwhelmed
 en:package
 en:package.json
 en:packet
+en:padel
 en:painkiller
 en:pants
 en:parameter
+en:parasocial
 en:parcel
 en:parents
 en:park
+en:parking ticket
 en:partner
 en:party
+en:pass out
 en:passport
 en:password
 en:pasta
 en:path
 en:pavement
+en:pay back
 en:pay gap
 en:pay rise
+en:payslip
+en:paywall
 en:peak
 en:peckish
 en:pedestrian crossing
 en:peng
+en:pension
 en:pepper
+en:performance review
+en:pet
+en:petition
 en:petrol
 en:phishing
+en:pick someone’s brains
 en:pick up
+en:pick-me
+en:pie in the sky
 en:ping
+en:pint
 en:piss off
 en:pissed
 en:plant-based
+en:plaster
 en:plate
 en:platform
+en:play it by ear
+en:playlist
+en:plumber
 en:pocket
 en:podcast
+en:point out
 en:pointer
+en:polarisation
 en:polite
+en:polling station
 en:polymorphism
+en:portion
 en:posh
 en:post
 en:postcode
@@ -1009,27 +1474,46 @@ en:prescription
 en:present perfect
 en:preservative
 en:pretend
+en:price cap
 en:primary key
 en:process
+en:profile picture
 en:profiling
+en:promotion
 en:prompt injection
 en:proper
+en:protest
 en:proud
+en:pub
+en:pub quiz
 en:public and private keys
 en:pudding
 en:pull
 en:pull someone’s leg
+en:pull the plug
+en:pull yourself together
+en:put away
 en:put off
+en:put on
 en:put one’s foot in it
 en:put up with
+en:put your cards on the table
 en:pyjamas
 en:quarter past
 en:quarter to
 en:queue
 en:quid
 en:quiet quitting
+en:radiator
+en:railcard
 en:rain
 en:rainbow
+en:raisin
+en:rank
+en:ratio
+en:reach out
+en:read the room
+en:ready meal
 en:realise
 en:reasoning model
 en:receipt
@@ -1037,8 +1521,11 @@ en:recipe
 en:recommendation algorithm
 en:recursion
 en:recycle
+en:red flag
 en:redirection
 en:redundant
+en:referendum
+en:refill
 en:refugee
 en:refund
 en:register
@@ -1054,20 +1541,28 @@ en:resolution
 en:rest
 en:resume
 en:return
+en:returns policy
 en:reusable
 en:revise
+en:rewilding
 en:rice
 en:ring a bell
+en:rip off
 en:rip-off
 en:river
 en:rizz
 en:road
+en:roadworks
+en:roaming
+en:roll out
 en:roof
 en:room
 en:roundabout
 en:rubber
 en:rubbish
 en:rude
+en:rule of thumb
+en:run into
 en:run out of
 en:running
 en:rush hour
@@ -1079,60 +1574,97 @@ en:salt
 en:salting
 en:salty
 en:sarnie
+en:satnav
 en:saucepan
 en:savage
 en:savings
+en:savoury
+en:say less
 en:scalability
 en:scam
 en:scared
 en:scarf
 en:scope
+en:scran
 en:screen density
+en:screen fatigue
 en:screen time
 en:screenshot
+en:scroll
 en:sea
+en:sea level rise
+en:season ticket
 en:second-hand
 en:secret
 en:see eye to eye
+en:see you later
 en:self-care
 en:self-employed
 en:selfie
+en:selfish
 en:sensible
 en:serialisation
 en:series
 en:session
+en:set off
 en:set up
+en:settle down
 en:share
+en:sharenting
 en:shattered
 en:shelf
 en:shirt
 en:shit
 en:shoes
+en:shook
 en:shoulder
+en:show off
 en:show up
 en:shower
+en:shrinkflation
+en:shut down
 en:shy
 en:sick
 en:sick leave
+en:sick note
+en:side effect
 en:side hustle
+en:sign up
+en:simp
 en:since
 en:single
 en:single-use plastic
 en:singleton
 en:sink
 en:sister
+en:sit on the fence
+en:sit tight
 en:situationship
 en:size
+en:skew-whiff
 en:skin
 en:skint
 en:skirt
+en:skive
 en:sky
 en:slaps
 en:slay
+en:sleep on it
+en:sleet
+en:sleeve
+en:slow cooker
+en:slow down
+en:smart casual
+en:smart meter
+en:smart speaker
+en:smartwatch
 en:smell a rat
 en:snack
+en:snatched
+en:sneakers
 en:snog
 en:snow
+en:so far so good
 en:social media
 en:socket
 en:socks
@@ -1141,35 +1673,61 @@ en:solar panel
 en:son
 en:song
 en:soon
+en:sore throat
+en:sorry for the late reply
+en:sorry to bother you
 en:sorry?
 en:sort out
 en:sorted
+en:sounds good
+en:sour
+en:spam
+en:spare room
 en:speak of the devil
+en:speak your mind
 en:speech recognition
+en:speed camera
+en:spicy
 en:spill the beans
 en:spill the tea
 en:split the bill
+en:split up
+en:splurge
 en:spoiler
 en:spoon
+en:sprain
 en:spring
 en:stack
 en:stage
 en:stairs
 en:stan
+en:stand out
+en:stand up for
 en:starter
 en:state machine
 en:station
+en:staycation
 en:stdin, stdout, stderr
+en:steal someone’s thunder
+en:step down
+en:stepdad
 en:stepmother
 en:still
 en:still water
 en:stomach
 en:storm
+en:story
 en:straight on
 en:streaming
 en:street
+en:street food
 en:stressed
 en:strike
+en:strike while the iron is hot
+en:strop
+en:stubborn
+en:student loan
+en:studio flat
 en:subagent
 en:subscription
 en:sudo
@@ -1179,6 +1737,7 @@ en:summer
 en:sunny
 en:superlative
 en:supervised learning
+en:support
 en:surprised
 en:sus
 en:sustainable
@@ -1186,24 +1745,38 @@ en:sw.js
 en:sweets
 en:swimming costume
 en:swimming pool
+en:swipe
 en:sympathetic
+en:symptom
+en:sync
 en:syntax
 en:synthetic data
 en:system prompt
 en:ta
 en:table
+en:take a rain check
+en:take after
 en:take an exam
 en:take care
+en:take it easy
 en:take off
+en:take on
+en:take over
 en:take something with a pinch of salt
+en:take the mick
 en:take the piss
+en:take the plunge
+en:take up
 en:takeaway
 en:tap
 en:tax
 en:tea
 en:team
+en:team up
 en:technical debt
 en:teenager
+en:tekkers
+en:tell off
 en:telly
 en:temperature
 en:tenner
@@ -1211,24 +1784,50 @@ en:tense
 en:terminal
 en:test coverage
 en:text-to-speech
+en:thanks in advance
+en:that’s a shame
+en:the apple doesn’t fall far from the tree
+en:the ball is in your court
 en:the best of both worlds
+en:the best thing since sliced bread
+en:the clocks go forward
 en:the day after tomorrow
 en:the day before yesterday
 en:the early bird catches the worm
 en:the elephant in the room
 en:the grass is always greener on the other side
 en:the last straw
+en:the local
+en:the new normal
+en:the pen is mightier than the sword
+en:the tip of the iceberg
+en:the whole nine yards
 en:theatre
 en:therapist
+en:there’s no such thing as a free lunch
+en:thermostat
+en:think outside the box
 en:thirsty
+en:thoughtful
 en:throat
+en:through thick and thin
+en:throw a wobbly
+en:throw away
 en:throw in the towel
+en:throw someone under the bus
+en:thumb
 en:thunder
 en:ticket
 en:tie
+en:time flies
+en:time is money
 en:timetable
 en:tip
 en:tired
+en:tissue
+en:to be honest
+en:to-do list
+en:toaster
 en:today
 en:toe
 en:toilet
@@ -1236,8 +1835,11 @@ en:tomorrow
 en:too many cooks spoil the broth
 en:tooth
 en:torch
+en:touch base
 en:touch grass
+en:touch wood
 en:town
+en:toxic
 en:tracksuit
 en:traffic jam
 en:traffic lights
@@ -1248,80 +1850,119 @@ en:training data
 en:transaction
 en:transpilation
 en:tree
+en:trend
 en:trending
 en:trillion
 en:trip
 en:troll
 en:trousers
 en:try on
+en:try out
 en:tuition fees
 en:turn a blind eye
+en:turn down
+en:turn into
 en:turn left
 en:turn off
 en:turn on
 en:turn right
 en:turn up
+en:twee
 en:twins
+en:two heads are better than one
+en:two-factor authentication
 en:type
 en:umbrella
 en:uncle
 en:under
+en:under the radar
 en:under the weather
 en:underground
+en:understood the assignment
 en:underwear
 en:unemployed
+en:unfollow
 en:uni
+en:union
 en:unit test
 en:until
+en:up in the air
+en:up to scratch
+en:upcycling
 en:update
 en:upload
 en:upset
+en:upskill
 en:upstairs
 en:upstream
+en:username
+en:vaccine
+en:valid
 en:variable
 en:vector and raster
 en:vector database
 en:vegan
 en:vegetables
+en:vegetarian
+en:versatile
 en:versionCode et versionName
 en:vibe
+en:vibe check
 en:video call
 en:video game
+en:vintage
 en:virtual machine
 en:voice note
 en:volunteer
+en:voucher
 en:vulnerability
 en:wagwan
 en:waistcoat
+en:waiting list
+en:wake up
+en:walk on eggshells
 en:walking
 en:wall
+en:wally
 en:wanker
 en:wardrobe
 en:warm
 en:washing machine
 en:waste
+en:wasteman
 en:watch
 en:watermark
 en:wear
+en:wear out
 en:weather
 en:wedding
+en:wee
 en:week
 en:weekend
 en:weights
 en:well
 en:well done
 en:wellbeing
+en:wellness
+en:we’ll cross that bridge when we come to it
+en:what do you mean?
+en:what’s up?
 en:when in Rome, do as the Romans do
 en:when pigs fly
+en:when the cat’s away, the mice will play
 en:where there’s a will, there’s a way
+en:whistleblower
+en:widow
 en:wife
 en:wildfire
 en:win
+en:wind down
 en:wind turbine
 en:wind up
 en:window
 en:windy
 en:winter
+en:woke
 en:wonky
 en:wood
 en:work out
@@ -1329,10 +1970,25 @@ en:work-life balance
 en:workload
 en:worried
 en:would you mind…?
+en:wrist
+en:write down
 en:year
+en:yeet
 en:yesterday
 en:yet
+en:yoga
+en:you can say that again
+en:you can’t have your cake and eat it
+en:you can’t teach an old dog new tricks
+en:your guess is as good as mine
+en:you’re breaking up
+en:you’re on mute
 en:you’re welcome
+en:zero waste
+en:zero-hours contract
+en:zip
+en:zone out
+en:zonked
 fr:abonné itinérant
 fr:accord parapluie de protection des données personnelles
 fr:accréditation

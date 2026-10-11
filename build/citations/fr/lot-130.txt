@@ -1,0 +1,201 @@
+# lot 130 — sens restés sans exemple après le retrait de leurs citations : blind, engaged, witness, plastic, angel, bath, spin, spell, tube, consumption, knock, cure, fighter, bow, phrase, overseas, filter, mature… (sens vulgaires, sexuels, injurieux, archaïques ou obscurs écartés)
+1bc751ec49 = We watched the birds from a wooden ⟦blind⟧ by the lake. | Nous observions les oiseaux depuis un affût en bois au bord du lac.
+1e8bd21309 ✗
+2d821d50a0 ✗
+5acfa60b7b = I’m afraid the manager is ⟦engaged⟧ at the moment. | Je crains que le directeur ne soit occupé pour le moment.
+78828056a1 = Autumn ⟦painted⟧ the hills red and gold. | L’automne a paré les collines de rouge et d’or.
+6eaa730411 ✗
+8c1a44180e ✗
+db6c201937 = Her paintings bear ⟦witness⟧ to her love of the sea. | Ses tableaux témoignent de son amour pour la mer.
+09828fe6a1 ✗
+a2993c9d79 = Bring your own cup instead of using a ⟦plastic⟧ one. | Apportez votre propre gobelet au lieu d’en prendre un en plastique.
+6783e0ebce = Sculpture is one of the ⟦plastic⟧ arts. | La sculpture fait partie des arts plastiques.
+a5d8ddfc4e ✗
+ac5594111c ✗
+d53c0d9f84 ✗
+5f88db3c82 = I need to make some ⟦bread⟧ before the summer. | Il faut que je me fasse un peu de blé avant l’été.
+ec1b7b4731 ✗
+89fb4a78f5 ✗
+23e5caaac2 = We finally ⟦rid⟧ the house of mice. | Nous avons enfin débarrassé la maison des souris.
+54f6c05f65 ✗
+0f65abbadd ✗
+291f129fbd ✗
+f120ee10ef = The ⟦historic⟧ village has barely changed in two hundred years. | Le vieux village n’a presque pas changé en deux cents ans.
+e0d2c021c2 = The museum holds ⟦historic⟧ documents from the war. | Le musée conserve des documents historiques de la guerre.
+bd5267415d ✗
+ff18ad5cb9 ✗
+54d03a1f85 ✗
+da14a5923c ✗
+a1a4464d41 = Some people are ⟦naturally⟧ shy. | Certaines personnes sont timides de nature.
+f52069f125 ✗
+04e4731679 ✗
+6132b75c88 ✗
+94e5513ef7 ✗
+a75f316411 ✗
+a56f8ff732 ✗
+5167210b48 ✗
+61c2a7ec9f ✗
+2c45a38d53 ✗
+5029d9c861 ✗
+c5ad06d59d ✗
+ebe1143d31 ✗
+c960197117 ✗
+338bb5c1f0 ✗
+1ac15c0fc0 ✗
+b301eb2822 = Thanks for staying late to help — you’re a real ⟦soldier⟧. | Merci d’être resté tard pour aider, tu es un vrai bon soldat.
+c201e81d87 = Their baby is an absolute ⟦angel⟧ — she hardly ever cries. | Leur bébé est un vrai petit ange : elle ne pleure presque jamais.
+d758c7d048 ✗
+32f893bb49 ✗
+8d92742b80 ✗
+3af4c15fcc ✗
+9f12936b99 ✗
+cb5543172c = Ms ⟦Kelly⟧ teaches maths at our school. | Mme Kelly enseigne les maths dans notre école.
+6fb4ff9207 = The spa offers mud ⟦baths⟧ and saunas. | Le spa propose des bains de boue et des saunas.
+e72ee5d404 ✗
+4f47a25da9 ✗
+d7dbdc1ca9 ✗
+34fe30b428 ✗
+234dc59703 ✗
+f40eeb2311 ✗
+4cd5671958 ✗
+e071901580 ✗
+c9e29b199a ✗
+5458750954 ✗
+243f778fa6 ✗
+c0114d0039 ✗
+9106e64aa4 ✗
+7385eb0184 ✗
+b807622f3c ✗
+f82096954b ✗
+2aca6e945d ✗
+c57ae5ce55 ✗
+3153fbb000 ✗
+f5ab6ad176 ✗
+90bca2ab16 ✗
+1bd42840b8 ✗
+1d81d2dbad ✗
+02f1593b49 ✗
+64043c874c ✗
+3c21882898 = The ⟦Dragon⟧ winds between the Great Bear and the Little Bear. | Le Dragon serpente entre la Grande Ourse et la Petite Ourse.
+9d59904290 ✗
+e8b082c0d8 = Dr ⟦Alexander⟧ will see you now. | Le docteur Alexander va vous recevoir.
+c1962d0752 ✗
+b24714616f ✗
+2002f8290e ✗
+752fd9359c ✗
+4968b33d14 ✗
+64b73eb90f ✗
+11c9dc3b66 ✗
+e1e6fffbee ✗
+7521a2e613 = The poet was an ⟦Arab⟧ born in Beirut. | Le poète était un Arabe né à Beyrouth.
+b68426548f ✗
+76aa799a51 ✗
+d5cc0ada42 = Few people were ⟦abroad⟧ at that late hour. | Il y avait peu de monde dehors à cette heure tardive.
+ea75cc306c ✗
+8d580891c5 ✗
+b4092fc3dc ✗
+f009402a2e ✗
+7f80e15b92 ✗
+41ba4c765e ✗
+174315e07c ✗
+a30265cfd0 ✗
+afd2ad09bf = The police found some ⟦grass⟧ in his car. | La police a trouvé de l’herbe dans sa voiture.
+2300c3b267 ✗
+984079a9fd ✗
+ff8422c09d ✗
+386b15a239 ✗
+efe100d160 = The island was once a Spanish ⟦possession⟧. | L’île fut autrefois une possession espagnole.
+f09245cb98 = The minister’s team tried to ⟦spin⟧ the bad figures as good news. | L’équipe du ministre a tenté de faire passer les mauvais chiffres pour une bonne nouvelle.
+4efa05a4f1 = He made an ⟦exhibition⟧ of himself at the wedding. | Il s’est donné en spectacle au mariage.
+8e9b0e81fb ✗
+ae6ee6ba01 = That little vintage car is a real ⟦honey⟧. | Cette petite voiture de collection est une vraie merveille.
+bc1d5724cf ✗
+03977543c5 ✗
+04e6e77de8 ✗
+3b4f173836 ✗
+8d76b07a64 = The café was a favourite ⟦resort⟧ of artists and students. | Le café était un repaire apprécié des artistes et des étudiants.
+6384d89063 ✗
+c6220274ab ✗
+0d1dcda6fc ✗
+0a4e73e344 ✗
+fe1adb57d8 ✗
+f5030aed7a ✗
+2c5a3e47ba = The witch cast a ⟦spell⟧ on the prince. | La sorcière jeta un sort au prince.
+e8d117376f = I recognised her soft Irish ⟦tongue⟧ at once. | J’ai tout de suite reconnu son doux accent irlandais.
+5c3d9226c5 ✗
+bcdae4e6d9 ✗
+82c3e7d6cb ✗
+7ec0470a09 ✗
+1e2a8b2357 ✗
+c6c83247de ✗
+f597476c7e = He didn’t ⟦regard⟧ the warning signs. | Il n’a pas tenu compte des panneaux d’avertissement.
+f34262fed6 ✗
+b568548dac ✗
+599860ba1b = There’s nothing good on the ⟦tube⟧ tonight. | Il n’y a rien de bien à la télé ce soir.
+b7949f8355 = ⟦Detroit⟧ is betting heavily on electric cars. | L’industrie automobile américaine mise gros sur la voiture électrique.
+3a26de1baf ✗
+c881f37e49 ✗
+a0e2b45bbb = In the nineteenth century, many people died of ⟦consumption⟧. | Au XIXᵉ siècle, beaucoup de gens mouraient de phtisie.
+db545d7986 = Salt slows down the ⟦corruption⟧ of meat. | Le sel ralentit la putréfaction de la viande.
+3f49da9d92 = There was a loud ⟦knock⟧ at the door. | On frappa fort à la porte.
+8631a9640f ✗
+c86ffd384b ✗
+a82397e34d = This cream will ⟦ease⟧ the pain. | Cette crème soulagera la douleur.
+8e85a0321a ✗
+cc44ed5e79 ✗
+d7e3ca99af = My grandparents loved dancing to ⟦swing⟧. | Mes grands-parents adoraient danser sur du swing.
+4b1e7878e6 ✗
+7c90706cc1 ✗
+f97f4bb39b ✗
+f9162e439f ✗
+78d7d80c35 ✗
+7a6bb0db2f ✗
+38c2accab0 ✗
+aea9662567 = He has a slight ⟦shake⟧ in his left hand. | Il a un léger tremblement de la main gauche.
+32d5314108 ✗
+533dc0ef23 ✗
+01bc2f3e79 ✗
+767a0273cb = There is still no ⟦cure⟧ for the common cold. | Il n’existe toujours pas de remède contre le rhume.
+15a6f3fd48 = My grandmother is a ⟦fighter⟧; she’ll get through this. | Ma grand-mère est une battante, elle va s’en sortir.
+71d5192c6a ✗
+cae66e9a9d ✗
+1f897db98e ✗
+3cdec40356 = He jumped into the freezing lake for a ⟦dare⟧. | Il a sauté dans le lac glacé pour relever un défi.
+c66e5d2cc5 ✗
+591bbeb150 ✗
+25a23daa6b ✗
+7a69266d93 ✗
+3aad6128f6 ✗
+32234948c4 ✗
+5d6dca5b7d ✗
+1d484c5077 ✗
+00bc3f6fd0 ✗
+8e8cc19e18 ✗
+ac9fe93b83 = She drew her ⟦bow⟧ and aimed at the target. | Elle banda son arc et visa la cible.
+430f48c1d4 ✗
+516a01e146 ✗
+74de1784f0 ✗
+81ec3f189f = “The old house on the hill” is a noun ⟦phrase⟧. | « The old house on the hill » est un groupe nominal.
+c4ce82a106 = Her older brother was her ⟦shield⟧ against the bullies. | Son grand frère était son bouclier contre les harceleurs.
+88b1f312fa ✗
+9c2fc877a4 ✗
+6193e6c37a ✗
+e18f1aa4eb ✗
+4ea40e7aca ✗
+47d0cc2602 ✗
+6823d18a6b ✗
+c46035d070 ✗
+314668eafc ✗
+ab1cb83ac7 ✗
+51bd3554a5 = I’m a ⟦fool⟧ for dark chocolate. | Je suis fou de chocolat noir.
+f414488555 = You can’t ⟦fool⟧ me with that old trick. | Tu ne m’auras pas avec ce vieux truc.
+442b32bb2a ✗
+0e4bbb8854 ✗
+050341e114 = She has been working ⟦overseas⟧ for three years. | Elle travaille à l’étranger depuis trois ans.
+3dadbb4568 ✗
+e6c09ec478 ✗
+0d68eb153a = The project is ⟦worthy⟧ of our support. | Le projet mérite notre soutien.
+6bb727a4f1 ✗
+71a93131e7 ✗
+cb4dec74db = Change the coffee ⟦filter⟧ every morning. | Changez le filtre à café tous les matins.
+f72f59b02a = The cheese ⟦matures⟧ for eighteen months in a cellar. | Le fromage s’affine pendant dix-huit mois en cave.

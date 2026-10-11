@@ -9,7 +9,7 @@ $0.02	0,two cents
 1000	0,thousand
 1000th	0,thousandth
 101s	3,
-10x	0,tanks
+10x	0,thanks
 12	0,twelve
 14	0,fourteen
 16	0,sixteen
@@ -64,7 +64,7 @@ $0.02	0,two cents
 40th	0,fortieth
 4m	0,forum
 4rum	0,forum
-4uck	0,fack
+4uck	0,fuck
 5	0,five
 50-50	0,fifty-fifty
 50.50	0,fifty-fifty
@@ -111,7 +111,7 @@ a.k.a.	0,also known as
 a.r.	0,aqua regia
 a.w.o.l.	0,awol
 a/k/a	0,also known as
-aad	0,ould
+aad	0,old
 aamchoor	0,amchur
 aamchur	0,amchur
 aard-vark	4,vark
@@ -3472,10 +3472,9 @@ anxiogenics	10,
 anxiouser	7,
 anxiousest	7,
 anymore	3, more
-anything	7,k
-anythinged	7,k
-anythinging	7,k
-anythings	7,k
+anythinged	8,
+anythinging	8,
+anythings	8,
 anyways	6,
 anywheres	8,
 aorists	6,
@@ -4918,7 +4917,7 @@ auctoritie	0,authority
 auctour	0,author
 auctoure	0,author
 aucubas	6,
-aud	0,ould|0,australian dollar
+aud	0,old|0,australian dollar
 audacities	7,y
 audiations	9,
 audibled	7,
@@ -4979,8 +4978,8 @@ augusting	6,
 augusts	6,
 auks	3,
 aukwardness	0,awkwardness
-aul	0,ould
-auld	0,ould
+aul	0,old
+auld	0,old
 auletrides	7,s
 aulmos	0,almost
 auloi	4,s
@@ -5318,10 +5317,9 @@ aweful	0,awful
 awefull	0,awful
 aweing	3,
 awes	3,
-awesome	0,orsum
 awesomenesses	11,
-awesomer	0,orsum
-awesomest	0,orsum
+awesomer	7,
+awesomest	7,
 awfull	5,
 awfuller	5,
 awfullest	5,
@@ -5457,7 +5455,7 @@ b.	0,azure
 b.b.	0,bb
 b.s.	0,balto-slavic
 b/c	0,because
-b/w	0,bechune
+b/w	0,between
 b4	0,before
 b8	0,bait
 ba'athism	0,baathism
@@ -5712,12 +5710,11 @@ bacteriums	9,
 bacula	5,um
 baculums	7,
 bad	0,bid
-bad-arse	3,arse
-bad-ass	3,arse
+bad-arse	3,ass
+bad-ass	3,ass
 bad-mouth	3,mouth
-badarse	7,
-badass	4,rse
-badasses	4,rse
+badarse	4,ss
+badasses	6,
 badded	3,
 badder	3,
 baddest	3,
@@ -5763,12 +5760,11 @@ bagatelling	8,e
 bagdad	3,hdad
 bagdadi	3,hdadi
 bagdat	3,hdad
-bagel	0,beigel
-bageled	0,beigel
-bageling	0,beigel
-bagelled	0,beigel
-bagelling	0,beigel
-bagels	0,beigel
+bageled	5,
+bageling	5,
+bagelled	5,
+bagelling	5,
+bagels	5,
 bagged	3,
 bagging	3,
 baghdadis	8,
@@ -6988,7 +6984,7 @@ behoved	6,
 behoven	6,
 behoves	6,
 behoving	5,e
-beigel	6,
+beigel	0,bagel
 beiger	5,
 beiges	5,
 beigest	5,
@@ -7043,8 +7039,8 @@ belittles	8,
 belittling	7,e
 belizeans	8,
 belizian	5,ean
-bell-end	4,end
-bell-ends	4,end
+bell-end	4, end
+bell-ends	4, end
 bell-gables	10,
 bell-ringer	4, ringer
 bell-wether	4,wether
@@ -7052,7 +7048,7 @@ bellbottoms	4,-bottoms
 bellboys	7,
 belle-lettre	5,s-lettres
 belled	4,
-bellend	7,
+bellend	4, end
 beller	4,ow
 belles	5,
 belles-letters	11,res
@@ -7386,10 +7382,9 @@ betters	6,
 betting	3,
 bettle	0,battle
 bettony	3,ony
-between	0,bechune
-betweene	0,bechune
-betweens	0,bechune
-betwene	0,bechune
+betweene	7,
+betweens	7,
+betwene	5,en
 betwix	6,t
 betwixte	7,
 betwyxt	4,ixt
@@ -8222,15 +8217,14 @@ blocklists	9,
 blockquotes	10,
 blocks	5,
 blocs	4,
-blog	0,blag
-blogged	0,blag
+blogged	4,
 bloggers	7,
-blogging	0,blag
+blogging	4,
 blogospheres	11,
 blogposted	8,
 blogposting	8,
 blogposts	8,
-blogs	0,blag
+blogs	4,
 blokes	5,
 blonde	5,
 blonded	5,
@@ -8548,7 +8542,7 @@ bogy	3,ie
 bogyman	3,eyman
 boh	0,back of house
 bohemias	7,
-boi	0,bhoy
+boi	0,boy
 boiar	0,boyar
 boiarin	0,boyar
 boids	4,
@@ -8879,7 +8873,7 @@ boringer	6,
 boringest	6,
 borings	6,
 borises	5,
-born	0,bawn|0,bear|0,burn
+born	0,bear|0,burn
 born-agains	10,
 borne	0,bear
 bornologies	8,y
@@ -9131,7 +9125,6 @@ boxoffice	3, office
 boxplot	3, plot
 boxspring	3, spring
 boxwoods	7,
-boy	0,bhoy
 boy-band	3, band
 boy-friend	3,friend
 boy-shorts	3,shorts
@@ -9144,21 +9137,21 @@ boycotted	7,
 boycotters	9,
 boycotting	7,
 boycotts	7,
-boyed	0,bhoy
+boyed	3,
 boyfriended	9,
 boyfriending	9,
 boyfriends	9,
 boyhoods	7,
-boying	0,bhoy
+boying	3,
 boyl	0,boil
 boyle	0,boil
 boymoded	7,
 boymodes	7,
 boymoding	6,e
-boys	0,bhoy
+boys	3,
 boyscout	3, scout
 boysenberries	10,y
-boyz	0,bhoy
+boyz	3,
 bozack	0,ball sack
 bozas	4,
 bpa	0,bisphenol a
@@ -9902,8 +9895,8 @@ bse	0,bovine spongiform encephalopathy
 bsl.	0,balto-slavic
 btn	0,button
 bts	0,behind the scenes
-btw	0,bechune|0,by the way
-btwn	0,bechune
+btw	0,between|0,by the way
+btwn	0,between
 bubble-wrap	6, wrap
 bubbled	6,
 bubblegums	9,
@@ -15754,15 +15747,14 @@ connectedst	7,
 connectest	7,
 connecteth	7,
 connecting	7,
-connection	5,xion
-connections	5,xion
+connections	10,
 connectivities	11,y
 connectomes	10,
 connectors	9,
 connects	7,
 conned	3,
-connex.	6,ion
-connexion	9,
+connex.	5,ction
+connexion	5,ction
 connexivity	5,ctivity
 conning	3,
 conniptions	10,
@@ -16095,8 +16087,8 @@ contrasts	8,
 contravariances	14,
 contravariants	13,
 contraventions	13,
-contree	0,counterie
-contrey	0,counterie
+contree	0,country
+contrey	0,country
 contributed	10,
 contributes	10,
 contributing	9,e
@@ -16795,7 +16787,7 @@ counterfeited	11,
 counterfeiters	13,
 counterfeiting	11,
 counterfeits	11,
-counterie	9,
+counterie	5,ry
 countering	7,
 counterinstitutionalisation	21,zation
 counterinstitutionalizations	27,
@@ -16848,18 +16840,17 @@ counterweights	13,
 countesses	8,
 countest	5,
 counteth	5,
-counthry	5,erie
+counthry	5,ry
 counties	5,y
 counting	5,
 countings	8,
-countre	5,erie
-countrey	5,erie
-countrie	5,erie
-countrier	5,erie
-countries	5,erie
-countriest	5,erie
+countre	6,y
+countrey	6,y
+countrie	6,y
+countrier	6,y
+countries	6,y
+countriest	6,y
 countrol	0,control
-country	5,erie
 country-house	7, house
 countrymen	8,an
 countrysides	11,
@@ -17918,7 +17909,7 @@ cunnilinguses	11,
 cunnings	7,
 cunted	4,
 cunting	4,
-cuntry	0,counterie
+cuntry	0,country
 cunts	4,
 cup-and-balls	12,
 cup-bearer	3,bearer
@@ -18601,7 +18592,7 @@ daredevilled	9,
 daredevilling	9,
 daredevils	9,
 dares	4,
-darg	0,dag
+darg	0,dog
 darics	5,
 daring	3,e
 darings	6,
@@ -18665,7 +18656,7 @@ dashings	7,
 dashpots	7,
 dassies	6,
 dast	0,dare
-dat	3,
+dat	0,that
 data	3,um
 data-base	4,base
 data-mining	4, mining
@@ -18729,7 +18720,7 @@ dawdles	6,
 dawdlest	6,
 dawdleth	6,
 dawdling	5,e
-dawg	0,dag
+dawg	0,dog
 dawncer	0,dancer
 dawned	4,
 dawning	4,
@@ -19455,10 +19446,9 @@ defleaing	6,
 defleas	6,
 deflected	7,
 deflecting	7,
-deflection	5,xion
-deflections	5,xion
+deflections	10,
 deflects	7,
-deflexion	9,
+deflexion	5,ction
 deflorations	11,
 deflowered	8,
 deflowering	8,
@@ -20578,7 +20568,7 @@ dhootie	3,ti
 dhooty	3,ti
 dhotis	5,
 dhoty	4,i
-dhrink	6,
+dhrink	0,drink
 dhuhur	4,r
 dhunnunids	9,
 dhuti	0,dhoti
@@ -20957,7 +20947,7 @@ dining-hall	6, hall
 dining-room	6, room
 dining-table	6, table
 diningroom	6, room
-dink	0,dhrink
+dink	0,drink
 dinkier	4,y
 dinkies	4,y
 dinkiest	4,y
@@ -21913,7 +21903,6 @@ doffest	4,
 doffeth	4,
 doffing	4,
 doffs	4,
-dog	0,dag
 dog's-bane	3,bane
 dog's-ear	3,-ear
 dog's-eared	3,-eared
@@ -21927,7 +21916,7 @@ dog-whelk	3, whelk
 dogates	6,
 dogbanes	7,
 dogcart	3, cart
-doge	0,dag
+doge	3,
 dogear	3,-ear
 dogeared	3,-eared
 dogeate	3,ate
@@ -21938,23 +21927,23 @@ dogfighting	8,
 dogfights	8,
 dogfood	3, food
 dogfought	4,ight
-dogge	0,dag
-dogged	0,dag
+dogge	3,
+dogged	3,
 doggerels	8,
-doggie	0,dag|4,y
+doggie	3,|4,y
 doggie-style	4,y style
 doggier	4,y
 doggies	4,y
 doggiest	4,y
 doggiestyle	4,y style
-dogging	0,dag
-doggo	0,dag
+dogging	3,
+doggo	3,
 doggoned	7,
 doggones	7,
 doggonest	7,
 doggoning	6,e
 doggrel	4,erel
-doggy	0,dag
+doggy	3,
 doggy-dog	3, eat dog
 doggy-style	5, style
 doggystyle	5, style
@@ -21971,7 +21960,7 @@ dogmatizing	8,e
 dogmeat	3, meat
 dogrel	3,gerel
 dogrose	3, rose
-dogs	0,dag
+dogs	3,
 dogs**t	3, shit
 dogs-bane	3,bane
 dogsbane	3,bane
@@ -22124,7 +22113,7 @@ doomscrolled	10,
 doomscrolling	10,
 doomscrolls	10,
 doomsdays	8,
-doon	0,dun|0,dahn
+doon	0,dun|0,down
 door-frame	4, frame
 door-keeper	4,keeper
 door-knob	4,knob
@@ -22174,7 +22163,7 @@ dopings	6,
 doppelgangers	12,
 dorata	3,y
 dorcadions	9,
-dorg	0,dag
+dorg	0,dog
 dorian	0,durian
 dorians	6,
 dories	3,y
@@ -22341,14 +22330,13 @@ dowels	5,
 dowered	5,
 dowering	5,
 dowers	5,
-down	0,dahn
 down-time	4,time
 downbeats	8,
 downbursts	9,
 downcasted	8,
 downcasting	8,
 downcasts	8,
-downed	0,dahn
+downed	4,
 downfal	7,l
 downfallen	8,
 downfalling	8,
@@ -22363,7 +22351,7 @@ downhills	8,
 downier	4,y
 downies	4,y
 downiest	4,y
-downing	0,dahn
+downing	4,
 downloadables	12,
 downloaded	8,
 downloaders	10,
@@ -22376,7 +22364,7 @@ downpoured	8,
 downpouring	8,
 downpours	8,
 downrights	9,
-downs	0,dahn
+downs	4,
 downshifted	9,
 downshifting	9,
 downshifts	9,
@@ -22445,15 +22433,14 @@ drachme	6,a
 draconians	9,
 draculas	7,
 draffs	5,
-draft	3,ught
 draft horse	3,ught horse
-drafted	3,ught
+drafted	5,
 draftees	7,
-drafting	3,ught
+drafting	5,
 draftman	3,ughtsman
 draftproof	3,ughtproof
 draftproofing	3,ughtproofing
-drafts	3,ught|3,ughts
+drafts	5,|3,ughts
 draftsman	3,ughtsman
 drag-and-drop	4, and drop
 drag-net	4,net
@@ -22509,8 +22496,8 @@ dramaturgies	9,y
 dramaturging	9,e
 dramedies	6,y
 dramyins	7,
-drank	0,dhrink
-dranken	0,dhrink
+drank	0,drink
+dranken	0,drink
 dranyen	3,myin
 drap	0,drop
 draped	5,
@@ -22523,7 +22510,7 @@ drat!	4,
 drats	4,
 dratted	4,
 dratting	4,
-draught	7,
+draught	3,ft
 draught-proof	7,proof
 draughtman	7,sman
 draughtproofed	12,
@@ -22632,18 +22619,17 @@ drilled	5,
 drilling	5,
 drills	5,
 drily	0,dryly
-drinck	0,dhrink
-drink	0,dhrink
+drinck	4,k
 drink-drivers	12,
 drinkables	9,
-drinke	0,dhrink
-drinked	0,dhrink
-drinken	0,dhrink
+drinke	5,
+drinked	5,
+drinken	5,
 drinkers	7,
-drinking	0,dhrink
+drinking	5,
 drinking-straw	8, straw
 drinkings	8,
-drinks	0,dhrink
+drinks	5,
 dripped	4,
 dripping	4,
 drippings	8,
@@ -22782,8 +22768,8 @@ drumming	4,
 drumroll	4, roll
 drums	4,
 drumsticks	9,
-drunk	0,dhrink
-drunken	0,dhrink
+drunk	0,drink
+drunken	0,drink
 drunkened	7,
 drunkening	7,
 drunkennesses	11,
@@ -22917,7 +22903,7 @@ duffs	4,
 dufftail	0,dovetail
 dufrenites	9,
 dufus	0,doofus
-dug	0,dag|0,dig
+dug	0,dig|0,dog
 dug-out	3,out
 dugongs	6,
 dugouts	6,
@@ -23567,15 +23553,14 @@ edmontonians	11,
 edmunds	6,
 educables	8,
 educamate	5,te
-educamation	0,eddication
-educashun	0,eddication
+educamation	5,tion
+educashun	5,tion
 educated	7,
 educatees	8,
 educates	7,
 educating	6,e
-education	0,eddication
 educationals	11,
-educations	0,eddication
+educations	9,
 educators	8,
 edulcorated	10,
 edulcorates	10,
@@ -23825,13 +23810,13 @@ elbows	5,
 elchee	4,i
 elchie	5,
 elchis	5,
-elder	0,ould
+elder	0,old
 elderberries	9,y
 eldered	5,
 eldering	5,
 elderlies	6,y
 elders	5,
-eldest	0,ould
+eldest	0,old
 elearning	0,e-learning
 eleatics	7,
 elecampanes	10,
@@ -26340,26 +26325,26 @@ ezr.	3,a
 ezras	4,
 e♭	0,e-flat
 f	0,feminine
-f##k	0,fack
-f#$k	0,fack
-f#%k	0,fack
-f#*k	0,fack
-f#@k	0,fack
-f&!k	0,fack
+f##k	0,fuck
+f#$k	0,fuck
+f#%k	0,fuck
+f#*k	0,fuck
+f#@k	0,fuck
+f&!k	0,fuck
 f's	0,f
-f***	0,fack
-f**k	0,fack
-f*ck	0,fack
-f--k	0,fack
-f-bomb	0,fack
+f***	0,fuck
+f**k	0,fuck
+f*ck	0,fuck
+f--k	0,fuck
+f-bomb	0,fuck
 f-holes	6,
-f-k	0,fack
-f-word	0,fack
+f-k	0,fuck
+f-word	0,fuck
 f.	0,feminine
-f...k	0,fack
+f...k	0,fuck
 f.a.s.t.	0,fast
 f.n.	0,footnote
-f@%k	0,fack
+f@%k	0,fuck
 fa	0,for
 faamgs	5,
 fabians	6,
@@ -26634,7 +26619,7 @@ fancies	4,y
 fanciest	4,y
 fancifull	8,
 fancying	5,
-fand	0,foind
+fand	0,find
 fandangoed	8,
 fandangoes	8,
 fandangoing	8,
@@ -26647,7 +26632,7 @@ fanged	4,
 fanging	4,
 fangs	4,
 fanham	3,am
-fanks	0,tanks
+fanks	0,thanks
 fanlation	3,slation
 fanlights	8,
 fanned	3,
@@ -26910,7 +26895,7 @@ faythe	0,faith
 fazed	4,
 fazes	4,
 fazing	3,e
-fck	0,fack
+fck	0,fuck
 fcs	0,fc
 fdis	3,
 fead	0,feud
@@ -27527,13 +27512,12 @@ finantial	5,cial
 finched	5,
 finches	5,
 finching	5,
-find	0,foind
-findest	0,foind
-findeth	0,foind
-finding	0,foind
+findest	4,
+findeth	4,
+finding	4,
 findings	7,
 findoms	6,
-finds	0,foind
+finds	4,
 fine-tuned	9,
 fine-tunes	9,
 fine-tuning	8,e
@@ -27770,7 +27754,7 @@ fizzles	6,
 fizzling	5,e
 fjelds	5,
 fjords	5,
-fk	0,fack
+fk	0,fuck
 fla	3,y
 flabagasted	4,bergasted
 flabbergasted	11,
@@ -28450,13 +28434,12 @@ fondued	6,
 fondueing	6,
 fondues	6,
 fonduing	5,e
-font	0,fount
 fontanel	8,le
 fontanelles	10,
 fontanges	8,
-fonted	0,fount
-fonting	0,fount
-fonts	0,fount
+fonted	4,
+fonting	4,
+fonts	4,
 food-truck	4, truck
 foodbank	4, bank
 foodies	6,
@@ -28901,23 +28884,23 @@ fouling	4,
 foulmouthed	4,-mouthed
 fouls	4,
 foulsmelling	4,-smelling
-found	0,foind
+found	0,find
 foundations	10,
 founded	5,
 foundedst	5,
-founden	0,foind
+founden	0,find
 foundered	7,
 foundering	7,
 founders	7,
 foundery	5,ry
-foundest	0,foind|5,
+foundest	0,find|5,
 foundeth	5,
 founding	5,
 foundings	8,
 foundlings	9,
 foundries	6,y
 founds	5,
-fount	5,
+fount	0,font
 fountained	8,
 fountaining	8,
 fountains	8,
@@ -29440,7 +29423,7 @@ frying	3,
 frying-pan	6, pan
 fryingpan	6, pan
 fs	0,f|0,for sure
-fsck	0,fack
+fsck	0,fuck
 fsh	0,follicle stimulating hormone
 fsm	0,finite-state machine
 fsts	3,
@@ -29448,34 +29431,33 @@ ft	0,fourier transform
 ftas	3,
 ftms	3,
 ftmtfs	5,
-fu#k	0,fack
-fu$k	0,fack
-fu*k	0,fack
-fu-k	0,fack
-fu...k	0,fack
-fu@k	0,fack
+fu#k	0,fuck
+fu$k	0,fuck
+fu*k	0,fuck
+fu-k	0,fuck
+fu...k	0,fuck
+fu@k	0,fuck
 fub	0,fob
 fuchsias	7,
-fuck	0,fack
 fuck-face	4,face
 fuck-tard	4,tard
 fuck-up	4,up|4, up
 fuck-you	4, you
 fuckables	8,
 fuckbuddy	4, buddy
-fucked	0,fack
+fucked	4,
 fucked-up	6, up
-fuckedst	0,fack
+fuckedst	4,
 fuckers	6,
-fuckest	0,fack
-fucketh	0,fack
+fuckest	4,
+fucketh	4,
 fuckfaces	8,
 fuckheads	8,
-fuckin	0,farken
-fuckin'	0,farken
-fucking	0,fack|0,farken
-fuckings	0,farken
-fucks	0,fack
+fuckin	6,g
+fuckin'	6,g
+fucking	4,
+fuckings	7,
+fucks	4,
 fuckshits	8,
 fucktards	8,
 fuckups	6,
@@ -29712,16 +29694,16 @@ futurologies	9,y
 futurologists	12,
 futwa	0,fatwa
 futwah	0,fatwa
-fuxk	0,fack
+fuxk	0,fuck
 fuzzed	4,
 fuzzes	4,
 fuzzier	4,y
 fuzzies	4,y
 fuzziest	4,y
 fuzzing	4,
-fu©k	0,fack
-fu…k	0,fack
-fvck	0,fack
+fu©k	0,fuck
+fu…k	0,fuck
+fvck	0,fuck
 fvs	0,fv
 fwalchon	0,falchion
 fy	0,fie
@@ -29732,7 +29714,7 @@ fyking	3,e
 fyllo	0,phyllo
 fyrst	0,first
 fyrste	0,first
-f…k	0,fack
+f…k	0,fuck
 g'bye	0,goodbye
 g'night	0,good night
 g-d	0,god
@@ -30009,7 +29991,7 @@ gans	3,
 gant	0,gaunt
 gantlet	0,gauntlet
 gantries	5,y
-gaol	4,
+gaol	0,jail
 gaolbait	8,
 gaoler	6,
 gaoliang	0,kaoliang
@@ -30301,7 +30283,7 @@ geeking	4,
 geeks	4,
 gees	3,
 geese	0,goose
-geet	0,gurt
+geet	0,great
 geeze	4,
 geezers	6,
 geffery	0,geoffrey
@@ -30452,10 +30434,9 @@ gentians	7,
 gentiles	7,
 gentilics	8,
 gentled	6,
-gentleman	0,gintleman
 gentlemanlier	10,y
 gentlemanliest	10,y
-gentlemen	0,gintleman
+gentlemen	7,an
 gentler	6,
 gentles	6,
 gentlest	6,
@@ -30570,7 +30551,7 @@ gerrard	3,ard
 gerrymandered	11,
 gerrymandering	11,
 gerrymanders	11,
-gert	0,gurt
+gert	0,great
 gerundives	9,
 gerunds	6,
 gesamtkunstwerks	15,
@@ -30833,7 +30814,7 @@ gironne	0,gyronny
 gironnee	0,gyronny
 giros	4,|0,gyro
 girouds	6,
-girt	3,d|0,gurt
+girt	3,d|0,great
 girthed	5,
 girthing	5,
 girths	5,
@@ -31662,7 +31643,6 @@ grained	5,
 graining	5,
 grains	5,
 grakle	3,ckle
-gram	4,me
 graminivores	11,
 gramma	3,ndma
 grammar-nazi	7, nazi
@@ -31680,11 +31660,11 @@ grammaticalize	12,se
 grammaticalized	12,se
 grammaticalizes	12,se
 grammaticalizing	12,se
-gramme	6,
+gramme	4,
 grammer	5,ar
 grammy	3,nny
 grampa	3,ndpa
-grams	4,me
+grams	4,
 gramscians	9,
 gran'ma	4,dma
 gran'pa	4,dpa
@@ -31880,7 +31860,6 @@ greased	6,
 greasers	7,
 greases	6,
 greasing	5,e
-great	0,gurt
 great-aunts	10,
 great-grandchildren	16,
 great-granddaughters	19,
@@ -31896,8 +31875,8 @@ great-martyr	5, martyr
 great-tit	5, tit
 great-uncles	11,
 greatcoats	9,
-greater	0,gurt|5,ly
-greatest	0,gurt|5,ly
+greater	5,|5,ly
+greatest	5,|5,ly
 greatgrandchild	5,-grandchild
 greatgranddaughter	5,-granddaughter
 greatgrandson	5,-grandson
@@ -31905,7 +31884,7 @@ greatlier	6,y
 greatliest	6,y
 greatmartyr	5, martyr
 greatnesses	9,
-greats	0,gurt
+greats	5,
 greatuncle	5,-uncle
 greaved	6,
 greaves	6,
@@ -32503,7 +32482,7 @@ gurnards	7,
 gurnet	4,ard
 gurneys	6,
 guroo	3,u
-gurt	4,
+gurt	0,great
 gurued	4,
 guruing	4,
 gurus	4,
@@ -34230,14 +34209,14 @@ herded	4,
 herding	4,
 herds	4,
 herdsmen	6,an
-here	3,|0,'ere
+here	3,
 here-with	4,with
 hereditaries	9,y
 heredities	7,y
 herefords	8,
 heremit	3,mit
 heremite	3,mit
-heres	0,'ere
+heres	4,
 heresiarchs	10,
 heresies	5,y
 heresiologists	13,
@@ -35121,9 +35100,8 @@ honorable	4,urable
 honorables	4,urable
 honorably	4,urably
 honoraria	8,um
-honoraries	4,urary
+honoraries	7,y
 honorariums	10,
-honorary	4,urary
 honored	4,ur|4,ured
 honorifick	9,
 honorifics	9,
@@ -35133,7 +35111,7 @@ honour	6,
 honour'd	6,ed
 honourable	10,
 honourarium	4,rarium
-honourary	9,
+honourary	4,rary
 honourific	4,rific
 hons	3,
 hony	3,ey
@@ -35626,7 +35604,6 @@ humor	4,ur
 humoresques	10,
 humorist	4,urist
 humorists	4,urist
-humorous	4,urous
 humoured	6,
 humouring	6,
 humourist	9,
@@ -35717,7 +35694,6 @@ hurricanes	9,
 hurricaning	8,e
 hurried	4,y
 hurries	4,y
-hurry up	0,herry up
 hurrying	5,
 hurted	4,
 hurtedst	4,
@@ -36231,8 +36207,7 @@ idafah	0,ezafe
 idafat	0,ezafe
 idahos	5,
 idc	0,i don't care
-idea	4,r
-ideae	4,r
+ideae	4,
 idealisation	6,zation
 idealise	8,
 idealisms	8,
@@ -36245,7 +36220,7 @@ idealizes	6,se
 idealizing	6,se
 ideals	5,
 idean	0,idaean
-ideas	4,r
+ideas	4,
 ideat	5,e
 ideated	6,
 ideates	6,
@@ -38624,7 +38599,6 @@ jagra	3,gery
 jaguarondi	6,undi
 jaguars	6,
 jaguarundis	10,
-jail	0,gaol
 jail-bait	0,gaolbait
 jailbait	0,gaolbait
 jailbaits	0,gaolbait
@@ -38634,12 +38608,12 @@ jailbreaking	9,
 jailbreaks	9,
 jailbroke	6,eak
 jailbroken	6,eak
-jailed	0,gaol
+jailed	4,
 jailer	0,gaoler
 jailers	0,gaoler
-jailing	0,gaol
+jailing	4,
 jailor	0,gaoler
-jails	0,gaol
+jails	4,
 jaine	0,jane
 jak	0,jack
 jakartans	8,
@@ -42786,12 +42760,11 @@ loved	4,
 lovedst	4,
 lovegrass	4, grass
 lovehandle	4, handle
-lovelier	4,rly
-lovelies	4,rly
-loveliest	4,rly
+lovelier	5,y
+lovelies	5,y
+loveliest	5,y
 lovelinesses	10,
 lovelocks	8,
-lovely	4,rly
 lover	0,loafer|0,louver
 lovers	5,
 loves	4,
@@ -43481,8 +43454,8 @@ maire	0,mayor
 maislin	0,maslin
 maisonettes	10,
 maisonnette	6,ette
-maister	0,measter
-maistre	0,measter
+maister	0,master
+maistre	0,master
 maiz	4,e
 maizes	5,
 majalis	3,lis
@@ -43634,7 +43607,6 @@ malts	4,
 malvasias	8,
 malwares	7,
 mam	0,mum
-mama bear	0,mumma bear
 mama's boy	0,mummy's boy
 mamaluke	3,eluke
 mambas	5,
@@ -44092,7 +44064,7 @@ marrows	6,
 marryed	4,ied
 marrying	5,
 mars	3,
-marse	0,measter
+marse	0,master
 marseilles	9,
 marseillese	8,ais
 marses	4,
@@ -44166,7 +44138,7 @@ marzipanned	8,
 marzipanning	8,
 marzipans	8,
 mas	0,ma
-mas'r	0,measter
+mas'r	3,ter
 mascarade	3,querade
 mascaraed	7,
 mascaraing	7,
@@ -44219,7 +44191,7 @@ masqueraded	10,
 masquerades	10,
 masquerading	9,e
 masques	6,
-massa	0,measter
+massa	3,ter
 massacer	6,re
 massacred	8,
 massacres	8,
@@ -44228,7 +44200,7 @@ massage parlor	13,ur
 massaged	7,
 massages	7,
 massaging	6,e
-massah	0,measter
+massah	3,ter
 massaliote	9,
 massaliots	9,
 massasaugas	10,
@@ -44248,30 +44220,29 @@ massiliote	4,aliot
 massing	4,
 massives	7,
 massotherapies	11,y
-massy	0,measter
-masta	0,measter
+massy	3,ter
+masta	4,er
 mastabah	7,
 mastabas	7,
-mastah	0,measter
+mastah	4,er
 mastalgias	9,
 mastectomies	9,y
 masted	4,
-master	0,measter
 master-craftsman	6, craftsman
 master-piece	6,piece
 mastercards	10,
 masterclass	6, class
 mastercraftsman	6, craftsman
-mastered	0,measter
+mastered	6,
 masterie	6,y
 masteries	6,y
-mastering	0,measter
+mastering	6,
 masterings	9,
 masterminded	10,
 masterminding	10,
 masterminds	10,
 masterpieces	11,
-masters	0,measter
+masters	6,
 masterstrokes	12,
 masterworks	10,
 masterworts	10,
@@ -44288,10 +44259,10 @@ mastives	5,ff
 mastlin	3,lin
 mastodons	8,
 mastodont	8,
-mastr	0,measter
-mastre	0,measter
+mastr	4,er
+mastre	4,er
 masts	4,
-mastuh	0,measter
+mastuh	4,er
 masturbated	10,
 masturbater	9,or
 masturbates	10,
@@ -44379,15 +44350,14 @@ matsah	3,zo
 matsutakes	9,
 matt	3,
 matt.	4,hew
-matte	4,
-matted	3,|4,
+matted	3,|5,
 mattered	6,
 mattering	6,
 matters	6,
-mattes	4,
+mattes	5,
 matth.	5,ew
 matthews	7,
-matting	3,|4,
+matting	3,|4,e
 mattins	3,ins
 mattocked	7,
 mattocking	7,
@@ -44485,7 +44455,7 @@ maypoling	6,e
 mayr	3,or
 mayre	3,or
 mays	3,
-mayster	0,measter
+mayster	0,master
 mayven	0,maven
 mayvin	0,maven
 maz'hab	0,madhhab
@@ -44576,7 +44546,7 @@ mear	0,mere
 meare	0,mare|0,mere
 measels	4,les
 measle	6,s
-measter	7,
+measter	0,master
 measured	7,
 measurements	11,
 measures	7,
@@ -44617,7 +44587,7 @@ mechanizing	7,se
 mechas	5,
 meck	0,make
 meconates	8,
-med	3,
+med	0,might
 med-evac	3,evac
 medaled	5,
 medaling	5,
@@ -45148,7 +45118,7 @@ messiest	4,y
 messines	7,
 messing	4,
 messrs.	0,mr.
-mester	0,measter
+mester	0,master
 mestizoes	7,
 mestizos	7,
 met	0,meet
@@ -45535,14 +45505,14 @@ mieve	0,move
 miffed	4,
 miffing	4,
 miffs	4,
-might	0,may|0,med
-mighter	0,med
-mightest	0,med
+might	0,may
+mighter	5,
+mightest	5,
 mightie	5,y
 mightier	5,y
 mighties	5,y
 mightiest	5,y
-mights	0,med
+mights	5,
 migod	0,oh my god
 migraines	8,
 migrants	7,
@@ -46048,7 +46018,7 @@ mistaking	6,e
 misted	4,
 mistella	7,e
 mistelles	8,
-mister	0,measter
+mister	0,master
 mistered	6,
 mistering	6,
 misters	6,
@@ -46068,13 +46038,12 @@ mistresses	8,
 mistressing	8,
 mistrials	8,
 mistris	5,ess
-mistrust	4,hrust
-mistrusted	4,hrust
-mistrustedst	4,hrust
-mistrustest	4,hrust
-mistrusteth	4,hrust
-mistrusting	4,hrust
-mistrusts	4,hrust
+mistrusted	8,
+mistrustedst	8,
+mistrustest	8,
+mistrusteth	8,
+mistrusting	8,
+mistrusts	8,
 mists	4,
 misunderstanding	13,
 misunderstandings	16,
@@ -46088,7 +46057,7 @@ mitannians	9,
 mitched	5,
 mitches	5,
 mitching	5,
-mite	0,med
+mite	0,might
 miter	3,re
 mites	4,
 mither	0,mother
@@ -46959,7 +46928,7 @@ moues	4,
 mouezzin	0,muezzin
 moufflon	4,lon
 mouflons	7,
-mought	0,med
+mought	0,might
 moujik	0,mujik
 mould	5,
 mould-board	5,board
@@ -47008,7 +46977,7 @@ mousses	6,
 moussing	5,e
 moustaches	9,
 moustachio'd	10,ed
-mout	0,med
+mout	0,might
 mouth-part	5,part
 mouth-watering	5,watering
 mouthe	5,
@@ -47953,7 +47922,7 @@ nbcs	3,
 nbe	0,north by east
 nco	0,non-commissioned officer
 ne	0,northeast
-ne'er	0,neva
+ne'er	0,never
 ne'ertheless	0,nevertheless
 neam	0,eme
 neame	0,eme
@@ -47984,7 +47953,7 @@ neatlier	5,y
 neatliest	5,y
 neatnesses	8,
 neats	4,
-neber	0,neva
+neber	0,never
 neble	0,nipple
 nebraskans	9,
 nebrises	6,
@@ -48278,7 +48247,7 @@ networked	7,
 networking	7,
 networks	7,
 networth	3, worth
-neuer	0,neva
+neuer	0,never
 neum	4,e
 neuma	4,e
 neumes	5,
@@ -48345,11 +48314,10 @@ neutrals	7,
 neutrinos	8,
 neutrons	7,
 neutrophils	10,
-nev'r	3,a
-neva	4,
+nev'r	3,er
+neva	3,er
 nevadder	5,a
-nevah	4,
-never	3,a
+nevah	3,er
 neverending	5,-ending
 neverlands	9,
 nevil	5,le
@@ -48357,7 +48325,7 @@ nevile	5,le
 nevill	6,e
 nevilles	7,
 nevils	5,le
-nevuh	3,a
+nevuh	3,er
 new-age	3, age
 new-born	3,born
 new-comer	3,comer
@@ -49868,31 +49836,30 @@ okry	3,a
 oks	0,ok
 oktoberfests	11,
 okwa	0,okra
-ol	0,ould
-ol'	0,ould
+ol	0,old
+ol'	0,old
 ol.	0,olympiad
 olaph	0,aleph
-old	0,ould
 old-fashioneds	13,
 old-man	3, man
 old-school	3, school
 old-sweat	3, sweat
 old-timers	9,
-olde	0,ould
-older	0,ould
+olde	3,
+older	3,
 older-fashioned	3,-fashioned
-oldermost	0,ould
-oldest	0,ould
+oldermost	3,
+oldest	3,
 oldest-fashioned	3,-fashioned
 oldests	6,
 oldman	3, man
 oldnesses	7,
-olds	0,ould
+olds	3,
 oldschool	3, school
 oldskool	3, school
 oldtimer	3,-timer
 oldtown	3, town
-ole	0,ould
+ole	0,old
 oleanders	8,
 oleasters	8,
 oleates	6,
@@ -50488,7 +50455,7 @@ orringe	0,orange
 orryge	0,orange
 orrynge	0,orange
 ors	0,or
-orsum	5,
+orsum	0,awesome
 orthagonal	4,ogonal
 orthocenters	11,
 orthocentre	9,er
@@ -50649,9 +50616,9 @@ ouguiyas	7,
 ouigour	0,uyghur
 ouijas	5,
 ouistiti	0,wistiti
-oul	3,d
-oul'	3,d
-ould	4,
+oul	0,old
+oul'	0,old
+ould	0,old
 ounces	5,
 our	0,we|0,are
 our's	3,s
@@ -51146,7 +51113,7 @@ ower	0,over
 owes	3,
 owies	4,
 owing	0,owe
-owld	0,ould
+owld	0,old
 owled	3,
 owler	0,alder
 owlets	5,
@@ -51329,7 +51296,7 @@ padymelon	3,emelon
 paeaned	5,
 paeaning	5,
 paeans	5,
-paedagogical	12,
+paedagogical	0,pedagogical
 paedagogically	14,
 paedagogue	0,pedagogue
 paedagoguy	0,pedagogy
@@ -52603,7 +52570,6 @@ pectorals	8,
 peculiarities	10,y
 peculiars	8,
 pedagog	7,ue
-pedagogical	0,paedagogical
 pedagogically	0,paedagogically
 pedagogies	7,y
 pedagogisms	10,
@@ -52971,25 +52937,24 @@ perelles	3,ilous
 peremptories	9,y
 perennials	9,
 perestroikas	11,
-perfect	4,ick
-perfected	4,ick
-perfecter	4,ick
-perfectest	4,ick
+perfected	7,
+perfecter	7,
+perfectest	7,
 perfectibilities	13,y
-perfecting	4,ick
+perfecting	7,
 perfectioned	10,
 perfectioning	10,
 perfectionisms	13,
 perfectionists	13,
 perfections	10,
 perfectives	10,
-perfects	4,ick
+perfects	7,
 perfidies	6,y
-perfight	5,ck
+perfight	4,ect
 perfightlie	4,ectly
 perfightly	4,ectly
 perfins	6,
-perfite	5,ck
+perfite	4,ect
 perforations	11,
 perforced	8,
 perforces	8,
@@ -53400,7 +53365,7 @@ peyes	0,peot
 peyiss	0,peot
 peyotes	6,
 pf	0,pff
-pf.	0,perfick|0,perfective aspect
+pf.	0,perfect|0,perfective aspect
 pfff	3,
 pfft	3,
 pft	0,pff
@@ -53812,12 +53777,11 @@ piagetians	9,
 pianissimi	9,o
 pianissimos	10,
 pianists	7,
-piano	4,ee
-pianoed	4,ee
-pianoes	4,ee
+pianoed	5,
+pianoes	5,
 pianofortists	12,
-pianoing	4,ee
-pianos	4,ee
+pianoing	5,
+pianos	5,
 piarists	7,
 piaster	5,re
 piastres	7,
@@ -54791,7 +54755,7 @@ pogroming	6,
 pogroms	6,
 poi	3,nt of interest
 poieses	5,is
-poifect	0,perfick
+poifect	0,perfect
 poignancies	8,y
 poignard	0,poniard
 poinard	0,poniard
@@ -55180,7 +55144,7 @@ pooring	4,
 poors	4,
 poos	3,
 pooter	0,potter
-pooty	0,purty
+pooty	0,pretty
 pooves	3,f
 pop'n	3,ulation
 pop-corn	3,corn
@@ -55788,7 +55752,7 @@ prating	4,e
 prattled	7,
 prattles	7,
 prattling	6,e
-pratty	0,purty
+pratty	0,pretty
 prau	0,proa
 praught	0,preach
 prawned	5,
@@ -56174,20 +56138,19 @@ preterites	9,
 pretexted	7,
 pretexting	7,
 pretexts	7,
-pretie	0,purty
+pretie	4,ty
 pretious	3,cious
 pretorian	0,praetorian
 pretorship	0,praetorship
-prettie	0,purty
-prettied	0,purty
-prettier	0,purty
-pretties	0,purty
-prettiest	0,purty
+prettie	5,y
+prettied	5,y
+prettier	5,y
+pretties	5,y
+prettiest	5,y
 prettified	7,y
 prettifies	7,y
 prettifying	8,
-pretty	0,purty
-prettying	0,purty
+prettying	6,
 pretzeled	7,
 pretzeling	7,
 pretzelled	7,
@@ -57397,7 +57360,7 @@ purchased	8,
 purchases	8,
 purchasing	7,e
 purchasings	10,
-purdy	3,ty
+purdy	0,pretty
 pure-blooded	4,blooded
 purebreds	8,
 pured	4,
@@ -57463,7 +57426,7 @@ pursues	6,
 pursuing	5,e
 pursuite	7,
 pursuits	7,
-purty	5,
+purty	0,pretty
 puruey	3,vey
 purulences	9,
 purveyed	6,
@@ -59444,15 +59407,14 @@ refining	5,e
 reflected	7,
 reflecter	7,or
 reflecting	7,
-reflection	5,xion
-reflections	5,xion
+reflections	10,
 reflectives	10,
 reflectors	9,
 reflects	7,
 reflexed	6,
 reflexes	6,
 reflexing	6,
-reflexion	9,
+reflexion	5,ction
 reflexives	9,
 reflexivities	10,y
 refluxed	6,
@@ -62005,7 +61967,7 @@ s/v	0,sv
 sa'id	0,said
 sa.	0,sable
 saami	0,sami
-saar	0,sorr
+saar	0,sir
 sabatons	7,
 sabbatarianisms	14,
 sabbatarians	11,
@@ -64319,7 +64281,7 @@ shackling	6,e
 shacks	5,
 shaddah	6,
 shaddas	6,
-shaddup	0,shup
+shaddup	0,shut up
 shaded	5,
 shaders	6,
 shades	5,
@@ -65144,7 +65106,7 @@ shucks	5,
 shuddered	7,
 shuddering	7,
 shudders	7,
-shuddup	3,p
+shuddup	3,t up
 shuffled	7,
 shuffles	7,
 shuffling	6,e
@@ -65164,11 +65126,10 @@ shunting	5,
 shuntings	8,
 shunts	5,
 shurafa	0,sharif
-shurrup	3,p
+shurrup	3,t up
 shushed	5,
 shushes	5,
 shushing	5,
-shut up	3,p
 shut-down	4,down
 shutdowns	8,
 shutouts	7,
@@ -65184,7 +65145,7 @@ shuttlecocks	11,
 shuttled	7,
 shuttles	7,
 shuttling	6,e
-shutup	3,p
+shutup	4, up
 shwa	0,schwa
 shwarma	0,shawarma
 shyer	3,
@@ -65571,7 +65532,6 @@ siphons	6,
 sipped	3,
 sipping	3,
 sips	3,
-sir	0,sorr
 sired	4,
 sirene	5,
 sirened	5,
@@ -65586,9 +65546,9 @@ sirname	0,surname
 siroc	5,co
 siroccos	7,
 sirop	0,syrup
-sirred	0,sorr
-sirring	0,sorr
-sirs	0,sorr
+sirred	3,
+sirring	3,
+sirs	3,
 sirtakis	7,
 sirup	0,syrup
 sirupy	0,syrupy
@@ -66719,7 +66679,7 @@ so-and-sos	9,
 soaked	4,
 soaking	4,
 soaks	4,
-soal	4,
+soal	0,sole
 soap-box	4,box
 soap-bubble	4, bubble
 soapberries	8,y
@@ -66884,14 +66844,13 @@ soldiers	7,
 soldior	5,er
 soldiour	5,er
 soldiuh	5,er
-sole	0,soal
 solecisms	8,
-soled	0,soal
+soled	4,
 solemner	6,
 solemnest	6,
 solemnities	8,y
 solenoids	8,
-soles	3,|0,soal
+soles	3,|4,
 solfataras	9,
 solfatare	8,a
 solfeges	7,
@@ -66925,7 +66884,7 @@ soliloquized	9,se
 soliloquizes	9,se
 soliloquizing	9,se
 soliloquying	9,
-soling	0,soal
+soling	3,e
 soliped	7,e
 solipedes	8,
 solipsisms	9,
@@ -67309,7 +67268,7 @@ sower	0,sour
 sowers	5,
 sowing	3,
 sowings	6,
-sowl	0,soal|0,soul
+sowl	0,sole|0,soul
 sown	3,
 sownd	0,sound
 sowne	0,sound
@@ -69253,13 +69212,12 @@ streetwalkers	12,
 streight	3,ait|3,aight
 streit	3,ait
 stremtch	4,tch
-strength	5,th
-strengthed	5,th
+strengthed	8,
 strengthened	10,
 strengthening	10,
 strengthens	10,
-strengthing	5,th
-strengths	5,th
+strengthing	8,
+strengths	8,
 streptococci	11,us
 stressed	6,
 stresses	6,
@@ -70081,7 +70039,6 @@ sumthing	0,something
 sumting	0,something
 sumu	3,
 sumy	3,
-sun	0,zun
 sun-bath	3,bath
 sun-dog	3, dog
 sun-glasses	3,glasses
@@ -70133,18 +70090,18 @@ sunlighted	8,
 sunlighting	8,
 sunlights	8,
 sunloungers	10,
-sunned	0,zun
+sunned	3,
 sunnee	4,i
 sunnier	4,y
 sunnies	4,y
 sunniest	4,y
-sunning	0,zun
+sunning	3,
 sunnis	5,
 sunrised	7,
 sunrises	7,
 sunrising	6,e
 sunroofs	7,
-suns	0,zun
+suns	3,
 sunscreened	9,
 sunscreening	9,
 sunscreens	9,
@@ -71002,7 +70959,7 @@ t&a	0,tits and ass
 t'	0,to|0,the
 t'ai-p'ing	0,taiping
 t'ai-wan	0,taiwan
-t'anks	0,tanks
+t'anks	0,thanks
 t'gether	0,together
 t'night	0,tonight
 t'ree	0,three
@@ -72273,7 +72230,7 @@ thalwegs	7,
 thanatologies	10,y
 thanatologists	13,
 thang	0,thing
-thank	0,tanks
+thank	5,s
 thank-yous	9,
 thanke	5,
 thanked	5,
@@ -72281,22 +72238,21 @@ thankefull	5,ful
 thankefulnesse	5,fulness
 thankfulnesses	12,
 thanking	5,
-thanks	0,tanks|5,
+thanks	5,
 thanksgivings	12,
 thankuverymuch	5, you very much
 thankyou	5,-you
 thankyouverymuch	5, you very much
 thanne	4,
-thanx	0,tanks
+thanx	4,ks
 thar	0,there
 thare	0,there
-that	0,dat
 thatched	6,
 thatcherites	11,
 thatchers	8,
 thatches	6,
 thatching	6,
-thats	0,dat
+thats	4,
 thattaboy	0,attaboy
 thaught	0,thought
 thaumaturges	11,
@@ -72429,12 +72385,12 @@ therof	4,eof
 therophytes	10,
 thesauri	7,us
 thesauruses	9,
-these	0,dis
+these	0,this
 theses	4,is
 thesmothetes	11,
 thessalians	10,
 thessalonians	12,
-thet	0,dat
+thet	0,that
 thetas	5,
 theurgies	6,y
 theurgists	9,
@@ -72557,8 +72513,7 @@ thirty-sevenths	14,
 thirty-sixths	12,
 thirty-thirds	12,
 thirty-threes	12,
-this	0,dis
-thises	0,dis
+thises	4,
 thistles	7,
 thithermost	7,
 tho	3,ugh
@@ -72570,7 +72525,7 @@ tholing	4,e
 tholins	6,
 thomases	6,
 thongs	5,
-thoo	0,thruff
+thoo	0,through
 thoraces	5,x
 thoracick	8,
 thoracics	8,
@@ -72584,7 +72539,7 @@ thorning	5,
 thorns	5,
 thoro	5,ugh
 thorofare	5,ughfare
-thorough	0,thruff
+thorough	0,through
 thorough-going	8,going
 thoroughbreds	12,
 thorougher	8,
@@ -72593,12 +72548,12 @@ thoroughfair	10,re
 thoroughfares	12,
 thoroughnesses	12,
 thoroughs	8,
-thorow	0,thruff
+thorow	0,through
 thorowfair	5,ughfare
 thorowly	5,ughly
 thorpe	5,
 thorps	5,
-those	0,dat
+those	0,that
 thot	3,ugh|3,ught
 thou	0,thee|4,gh
 thoued	4,
@@ -72690,7 +72645,7 @@ thrilled	6,
 thrillers	8,
 thrilling	6,
 thrills	6,
-thrink	0,dhrink
+thrink	0,drink
 thrip	5,s
 thripses	6,
 thrived	6,
@@ -72698,7 +72653,7 @@ thriven	6,
 thrives	6,
 thriving	5,e
 thrivings	8,
-thro'	3,uff
+thro'	4,ugh
 throate	6,
 throated	6,
 throating	6,
@@ -72729,18 +72684,17 @@ throte	4,at
 throttled	8,
 throttles	8,
 throttling	7,e
-through	3,uff
 through-ball	7, ball
 through-draft	11,ught
 through-draughts	15,
 through-line	7,line
 throughdraft	7,-draught
 throughdraught	7,-draught
-throughe	3,uff
+throughe	7,
 throughfare	0,thoroughfare
 throughlines	11,
 throughputs	10,
-throughs	3,uff
+throughs	7,
 throuples	8,
 throve	3,ive
 throw	4,e
@@ -72754,8 +72708,8 @@ throwing	5,
 throwing-knife	8, knife
 thrown	5,
 throws	5,
-thru	4,ff
-thrue	4,ff
+thru	3,ough
+thrue	3,ough
 thrun	3,ow
 thruple	3,ouple
 thrupple	3,ouple
@@ -72813,7 +72767,7 @@ thur	0,there
 thurians	7,
 thurifers	8,
 thuringians	10,
-thurrow	0,thruff
+thurrow	0,through
 thursdays	8,
 thursty	0,thirsty
 thus	3,
@@ -72829,7 +72783,7 @@ thwartest	6,
 thwarteth	6,
 thwarting	6,
 thwarts	6,
-thx	0,tanks
+thx	0,thanks
 thylacines	9,
 thylakoids	9,
 thymes	5,
@@ -73232,7 +73186,7 @@ tld	0,top-level domain
 tldnr	0,tl;dr
 tldr	0,tl;dr
 tmeses	4,is
-tnx	0,tanks
+tnx	0,thanks
 to-and-fro	0,to and fro
 to-date	0,to date
 to-day	0,today
@@ -76295,7 +76249,7 @@ uptodate	0,up-to-date
 upturned	6,
 upturning	6,
 upturns	6,
-ur	0,yer
+ur	0,your
 uracils	6,
 uraei	4,us
 uraemia	0,uremia
@@ -76828,8 +76782,8 @@ vees	3,
 veganisms	8,
 vegans	5,
 vegas	4,
-vege-burger	4,burger
-vegeburger	10,
+vege-burger	3,gie burger
+vegeburger	3,gie burger
 vegetables	9,
 vegetals	7,
 vegetarianisms	13,
@@ -76838,10 +76792,9 @@ vegetated	8,
 vegetates	8,
 vegetating	7,e
 vegetations	10,
-veggie burger	3,eburger
-veggieburger	3,eburger
-vegi-burger	3,eburger
-vegiburger	3,eburger
+veggieburger	6, burger
+vegi-burger	3,gie burger
+vegiburger	3,gie burger
 vegitable	3,etable
 vehicled	7,
 vehicles	7,
@@ -77761,15 +77714,14 @@ wagging	3,
 waggled	6,
 waggles	6,
 waggling	5,e
-waggon	6,
+waggon	3,on
 waging	3,e
 wagnerians	9,
-wagon	3,gon
-wagoned	3,gon
-wagoning	3,gon
-wagonned	3,gon
-wagonning	3,gon
-wagons	3,gon
+wagoned	5,
+wagoning	5,
+wagonned	5,
+wagonning	5,
+wagons	5,
 wags	3,
 wagtails	7,
 wah-wahed	7,
@@ -79414,7 +79366,7 @@ wokism	3,eism
 wokked	3,
 wokking	3,
 woks	3,
-wold	0,ould|0,weld
+wold	0,old|0,weld
 wolf-dog	4, dog
 wolf-fish	4,fish
 wolf-hunters	11,
@@ -80000,13 +79952,13 @@ xylophoning	8,e
 xylophonists	11,
 xyloses	6,
 xystarchs	8,
-y	0,dat|0,the
+y	0,the|0,that
 y'	0,you
 y'know	0,you know
 y-axes	4,is
 y-chromosome	0,y chromosome
 y.o.l.o.	0,yolo
-ya	0,yer|0,you|0,yeah
+ya	0,you|0,yeah|0,your
 yachted	5,
 yachters	7,
 yachting	5,
@@ -80185,7 +80137,7 @@ yens	3,
 yeomen	4,an
 yeon	0,yon
 yeps	3,
-yer	0,ere|3,|0,you
+yer	0,ere|0,you|0,your
 yerd	0,yard
 yere	0,year
 yerevanians	10,
@@ -80248,8 +80200,8 @@ ylelond	0,island
 ylides	5,
 ylond	0,island
 ymolten	0,molten
-yo	0,yer|0,you
-yo'	0,yer
+yo	0,you|0,your
+yo'	0,your
 yo'self	0,yourself
 yo-yoed	5,
 yo-yoing	5,
@@ -80287,7 +80239,7 @@ yogurd	3,hurt
 yogurt	3,hurt
 yogurt-maker	6, maker
 yogurts	3,hurt
-yoh	0,yer|0,you
+yoh	0,you|0,your
 yohourth	0,yoghurt
 yohself	0,yourself
 yok	0,yogh
@@ -80338,7 +80290,7 @@ youngests	8,
 younging	5,
 youngs	5,
 youngsters	9,
-your	0,yer|3,
+your	3,
 your's	4,s
 yours	3,
 yourself	3,|7,ves
@@ -80354,10 +80306,10 @@ yow	0,you
 yowe	0,you
 yplaced	0,place
 ypsilon	0,upsilon
-yr	0,yer
+yr	0,your
 yslain	0,slay
-yt	0,dat
-yt.	0,dat
+yt	0,that
+yt.	0,that
 ytt	0,yet
 ytterbiums	9,
 yttriums	7,
@@ -80386,7 +80338,7 @@ yuo	0,you
 yuppies	6,
 yuppy	4,ie
 yups	3,
-yur	0,yer|0,year
+yur	0,year|0,your
 yurii	4,
 yuriy	4,
 yuroks	5,
@@ -80398,7 +80350,7 @@ yvettes	6,
 yw	0,you're welcome
 ywriten	0,write
 yᵉ	0,the
-yᵗ	0,dat
+yᵗ	0,that
 z-axes	4,is
 z-bosons	7,
 z-movies	7,

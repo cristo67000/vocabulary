@@ -1,0 +1,1261 @@
+# Les mots d'aujourd'hui, deuxième série (version 1.1) : numérique, travail,
+# écologie, société, santé, argent. Définitions courtes dans les deux
+# langues, exemple traduit, et le piège quand il y en a un.
+# Rédigé pour Vocabulary.
+module: actuel
+
+# ————— Numérique et réseaux —————
+
+@ wifi
+w: Wi-Fi
+t: numerique
+tr: le wifi
+d-fr: La connexion sans fil à Internet.
+d-en: A wireless connection to the internet.
+n-fr: Se prononce « waï-faï ». « What’s the Wi-Fi password? » : c’est quoi, le code du wifi ?
+n-en: French says « le wifi », pronounced « oui-fi ».
+x: What’s the Wi-Fi password? | C’est quoi, le code du wifi ?
+al: wifi
+
+@ hotspot
+t: numerique
+tr: un partage de connexion, un point d’accès
+d-fr: Le partage de la connexion d’un téléphone avec d’autres appareils ; un point d’accès wifi public.
+d-en: Sharing a phone’s connection with other devices; a public Wi-Fi access point.
+x: Can you turn on your hotspot? My data’s run out. | Tu peux activer ton partage de connexion ? Je n’ai plus de data.
+
+@ data_roaming
+w: roaming
+t: numerique
+tr: l’itinérance, le roaming
+d-fr: L’utilisation de son forfait mobile à l’étranger.
+d-en: Using your mobile plan abroad.
+x: Turn off roaming before you land. | Désactive l’itinérance avant d’atterrir.
+
+@ inbox
+t: numerique
+tr: la boîte de réception
+d-fr: Le dossier où arrivent les nouveaux mails ou messages.
+d-en: The folder where new emails or messages arrive.
+x: I’ve got two hundred unread emails in my inbox. | J’ai deux cents mails non lus dans ma boîte de réception.
+
+@ spam
+t: numerique
+tr: le spam, les courriels indésirables, le pourriel
+d-fr: Les messages publicitaires ou frauduleux non sollicités.
+d-en: Unwanted advertising or fraudulent messages.
+x: Check your spam folder — the confirmation might be there. | Regarde dans tes spams, la confirmation y est peut-être.
+v: phishing
+
+@ attachment
+t: numerique
+tr: une pièce jointe
+d-fr: Un fichier joint à un mail.
+d-en: A file sent with an email.
+x: You forgot the attachment! | Tu as oublié la pièce jointe !
+
+@ two_factor_authentication
+w: two-factor authentication
+t: numerique
+tr: la double authentification, la validation en deux étapes
+d-fr: Une sécurité qui demande une deuxième preuve d’identité (code par SMS, appli) en plus du mot de passe.
+d-en: A security check that asks for a second proof of identity as well as a password.
+n-fr: Souvent abrégé « 2FA ».
+n-en: Often shortened to “2FA”.
+x: Turn on two-factor authentication for your bank account. | Active la double authentification pour ton compte bancaire.
+v: password
+
+@ cookies
+w: cookie
+t: numerique
+tr: un cookie, un témoin de connexion
+d-fr: Un petit fichier qu’un site enregistre sur l’appareil pour mémoriser des informations.
+d-en: A small file a website saves on your device to remember information.
+n-fr: « Accept all cookies » : tout accepter. On peut refuser les cookies non essentiels.
+n-en: You can usually reject non-essential cookies.
+x: I always reject non-essential cookies. | Je refuse toujours les cookies non essentiels.
+
+@ ad_blocker
+w: ad blocker
+t: numerique
+tr: un bloqueur de publicités
+d-fr: Une extension qui empêche l’affichage des publicités.
+d-en: Software that stops adverts from appearing.
+x: Some news sites ask you to turn off your ad blocker. | Certains sites d’info demandent de désactiver son bloqueur de pub.
+
+@ algorithm
+t: numerique
+tr: un algorithme
+d-fr: Le programme qui choisit ce qu’une plateforme montre à chacun.
+d-en: The program that decides what a platform shows each user.
+x: The algorithm keeps showing me cooking videos. | L’algorithme n’arrête pas de me montrer des vidéos de cuisine.
+
+@ feed
+t: numerique
+tr: le fil d’actualité, le fil
+d-fr: La liste des publications qu’on fait défiler sur un réseau social.
+d-en: The list of posts you scroll through on social media.
+x: My feed is full of adverts. | Mon fil d’actu est plein de pubs.
+v: doomscrolling
+
+@ scroll
+t: numerique
+tr: faire défiler ; scroller
+d-fr: Faire défiler un contenu sur un écran.
+d-en: To move content up or down on a screen.
+x: I scrolled through my phone for an hour. | J’ai fait défiler mon téléphone pendant une heure.
+
+@ swipe
+t: numerique
+tr: balayer, glisser (le doigt)
+d-fr: Faire glisser le doigt sur un écran ; « swipe right » : dire oui, sur une appli de rencontre.
+d-en: To move your finger across a screen; “swipe right”: to say yes on a dating app.
+x: Swipe left to delete the message. | Fais glisser vers la gauche pour supprimer le message.
+
+@ like
+t: numerique
+tr: liker, aimer ; un j’aime, un like
+d-fr: Approuver une publication d’un clic.
+d-en: To show you approve of a post by clicking.
+x: She liked my photo but didn’t reply. | Elle a liké ma photo mais elle n’a pas répondu.
+
+@ story
+t: numerique
+tr: une story
+d-fr: Une publication qui disparaît au bout de vingt-quatre heures.
+d-en: A post that disappears after twenty-four hours.
+x: Did you see my story from the concert? | Tu as vu ma story du concert ?
+
+@ unfollow
+t: numerique
+tr: se désabonner de, ne plus suivre
+d-fr: Cesser de suivre un compte.
+d-en: To stop following an account.
+x: I unfollowed him after his rant. | Je me suis désabonné après son coup de gueule.
+v: follower
+
+@ block
+t: numerique
+tr: bloquer
+d-fr: Empêcher un compte de nous contacter ou de voir nos publications.
+d-en: To stop an account from contacting you or seeing your posts.
+x: If he keeps messaging you, just block him. | S’il continue à t’écrire, bloque-le.
+
+@ mute
+t: numerique
+tr: mettre en sourdine, masquer ; couper le micro
+d-fr: Ne plus voir les publications de quelqu’un sans se désabonner ; couper le son ou le micro.
+d-en: To hide someone’s posts without unfollowing; to turn off sound or a microphone.
+x: I muted the group chat for the weekend. | J’ai mis la conversation de groupe en sourdine pour le week-end.
+v: expressions:youre_on_mute
+
+@ username
+t: numerique
+tr: un nom d’utilisateur, un identifiant, un pseudo
+d-fr: Le nom choisi pour un compte en ligne.
+d-en: The name you choose for an online account.
+x: That username is already taken. | Ce pseudo est déjà pris.
+
+@ profile_picture
+w: profile picture
+t: numerique
+tr: une photo de profil
+d-fr: L’image qui représente un compte.
+d-en: The picture that represents an account.
+n-fr: Abrégé « pfp » ou « profile pic ».
+n-en: Often “pfp” or “profile pic”.
+x: I changed my profile picture. | J’ai changé ma photo de profil.
+
+@ clickbait
+t: numerique
+tr: un piège à clics, du putaclic
+d-fr: Un titre racoleur conçu pour faire cliquer.
+d-en: A misleading headline designed to make you click.
+x: “You won’t believe what happened next” — pure clickbait. | « Vous n’allez pas croire la suite » : du putaclic pur.
+
+@ paywall
+t: numerique
+tr: un accès payant, un mur payant
+d-fr: Le blocage d’un contenu en ligne réservé aux abonnés.
+d-en: A system that blocks online content unless you pay.
+x: The article is behind a paywall. | L’article est réservé aux abonnés.
+v: subscription
+
+@ smartwatch
+t: numerique
+tr: une montre connectée
+d-fr: Une montre qui affiche des notifications et mesure l’activité.
+d-en: A watch that shows notifications and tracks activity.
+x: My smartwatch says I’ve walked ten thousand steps. | Ma montre connectée dit que j’ai fait dix mille pas.
+
+@ earbuds
+t: numerique
+tr: des écouteurs (sans fil)
+d-fr: De petits écouteurs qui se placent dans l’oreille.
+d-en: Small headphones that fit inside your ears.
+x: I lost one of my earbuds on the train. | J’ai perdu un de mes écouteurs dans le train.
+
+@ smart_speaker
+w: smart speaker
+t: numerique
+tr: une enceinte connectée
+d-fr: Une enceinte qu’on commande à la voix.
+d-en: A speaker you control with your voice.
+x: The smart speaker turned the lights off. | L’enceinte connectée a éteint les lumières.
+
+@ factory_reset
+w: factory reset
+t: numerique
+tr: une réinitialisation (aux paramètres d’usine)
+d-fr: La remise d’un appareil dans son état d’origine, en effaçant tout.
+d-en: Returning a device to its original settings, deleting everything.
+x: Back everything up before you do a factory reset. | Sauvegarde tout avant de réinitialiser l’appareil.
+v: expressions:back_up
+
+@ sync
+t: numerique
+tr: synchroniser
+d-fr: Mettre à jour les mêmes données sur plusieurs appareils.
+d-en: To make the same data match on several devices.
+x: My notes sync between my phone and laptop. | Mes notes se synchronisent entre mon téléphone et mon portable.
+
+@ airplane_mode
+w: aeroplane mode
+t: numerique
+tr: le mode avion
+d-fr: Le réglage qui coupe toutes les connexions sans fil.
+d-en: A setting that turns off all wireless connections.
+n-fr: Américain : « airplane mode ».
+n-en: American: “airplane mode”.
+x: Put your phone on aeroplane mode, please. | Mettez votre téléphone en mode avion, s’il vous plaît.
+al: airplane mode
+
+@ catfish
+t: numerique
+tr: un faux profil ; tromper avec un faux profil
+d-fr: Une personne qui se fait passer pour une autre en ligne, souvent pour séduire ou escroquer.
+d-en: Someone who uses a fake identity online, often to start a relationship or scam people.
+x: He was catfished by someone using a model’s photos. | Il s’est fait avoir par un faux profil qui utilisait des photos de mannequin.
+v: scam
+
+@ sharenting
+t: numerique
+tr: le partage excessif de photos de ses enfants
+mq: neo
+d-fr: L’habitude des parents de publier en ligne beaucoup de photos et d’informations sur leurs enfants.
+d-en: Parents posting lots of photos and information about their children online.
+x: Experts warn about the risks of sharenting. | Les experts mettent en garde contre la surexposition des enfants en ligne.
+
+@ parasocial
+t: numerique
+tr: parasocial (relation à sens unique avec une célébrité)
+d-fr: Se dit d’un lien affectif à sens unique avec une personne qu’on suit en ligne mais qui ne nous connaît pas.
+d-en: Describes a one-sided emotional bond with someone you follow online who doesn’t know you.
+x: Fans can develop parasocial relationships with streamers. | Les fans peuvent nouer des relations à sens unique avec des streamers.
+
+@ enshittification
+t: numerique
+tr: l’emmerdification, la dégradation d’une plateforme
+mq: tfam, neo
+d-fr: La dégradation progressive d’une plateforme en ligne qui privilégie ses profits au détriment des utilisateurs (mot de Cory Doctorow, 2022).
+d-en: The gradual decline of an online platform as it puts profits before users (coined by Cory Doctorow, 2022).
+x: More ads, fewer features — classic enshittification. | Plus de pubs, moins de fonctions : la dégradation classique d’une plateforme.
+
+@ e_reader
+w: e-reader
+t: numerique
+tr: une liseuse
+d-fr: Un appareil pour lire des livres numériques.
+d-en: A device for reading e-books.
+x: I take my e-reader on holiday instead of five books. | J’emporte ma liseuse en vacances au lieu de cinq livres.
+
+@ chatbot_everyday
+w: AI chatbot
+t: numerique
+tr: un agent conversationnel, un chatbot d’IA
+d-fr: Un programme d’intelligence artificielle avec lequel on discute par écrit.
+d-en: An artificial intelligence program you talk to in writing.
+x: I asked an AI chatbot to help me plan the trip. | J’ai demandé à un chatbot d’IA de m’aider à organiser le voyage.
+v: tech:chatbot
+
+# ————— Travail et études —————
+
+@ hot_desking
+w: hot-desking
+t: travail
+tr: le bureau partagé, le flex office
+d-fr: L’organisation où personne n’a de bureau attitré.
+d-en: A system where nobody has their own desk.
+x: Since we moved to hot-desking, I never find a seat. | Depuis qu’on est passés au flex office, je ne trouve jamais de place.
+v: open-plan_office
+
+@ coworking_space
+w: coworking space
+t: travail
+tr: un espace de coworking
+d-fr: Un lieu de travail partagé loué à la journée ou au mois.
+d-en: A shared workplace rented by the day or month.
+x: She rents a desk in a coworking space. | Elle loue un bureau dans un espace de coworking.
+
+@ onboarding
+t: travail
+tr: l’intégration, l’accueil (d’un nouvel employé)
+d-fr: Les étapes qui accueillent et forment un nouvel employé ou utilisateur.
+d-en: The process of welcoming and training a new employee or user.
+x: The onboarding lasts two weeks. | L’intégration dure deux semaines.
+
+@ performance_review
+w: performance review
+t: travail
+tr: un entretien annuel (d’évaluation)
+d-fr: L’entretien où le responsable évalue le travail d’un employé.
+d-en: A meeting where a manager assesses an employee’s work.
+x: I’ve got my performance review on Friday. | J’ai mon entretien annuel vendredi.
+
+@ promotion
+t: travail
+tr: une promotion
+d-fr: Le passage à un poste plus élevé.
+d-en: A move to a more senior job.
+a-fr: « promotion » désigne aussi une offre commerciale ; mais « une promo » de l’école se dit « a year group », « a class ».
+a-en: French « promo » can also mean a school year group.
+x: She got a promotion after only a year. | Elle a eu une promotion au bout d’un an seulement.
+
+@ notice_period
+w: notice period
+t: travail
+tr: le préavis
+d-fr: Le délai entre la démission ou le licenciement et le départ.
+d-en: The time between resigning or being dismissed and leaving.
+x: I have a one-month notice period. | J’ai un préavis d’un mois.
+v: resign
+
+@ zero_hours_contract
+w: zero-hours contract
+t: travail
+tr: un contrat zéro heure
+mq: gb
+d-fr: Un contrat sans nombre d’heures garanti (Royaume-Uni).
+d-en: A contract with no guaranteed hours of work (UK).
+x: Many delivery riders are on zero-hours contracts. | Beaucoup de livreurs sont en contrat zéro heure.
+
+@ gig_economy
+w: gig economy
+t: travail
+tr: l’économie des petits boulots, l’ubérisation
+d-fr: Le travail payé à la tâche, souvent par des applis (livraison, VTC).
+d-en: Work paid by the task, often through apps (delivery, ride-hailing).
+x: The gig economy offers flexibility but little security. | L’économie des petits boulots offre de la souplesse mais peu de sécurité.
+v: side_hustle
+
+@ freelancer
+t: travail
+tr: un ou une freelance, un travailleur indépendant
+d-fr: Une personne qui travaille pour plusieurs clients sans être salariée.
+d-en: Someone who works for different clients without being an employee.
+x: As a freelancer, I choose my own hours. | En freelance, je choisis mes horaires.
+v: self-employed
+
+@ commute
+t: travail
+tr: le trajet domicile-travail ; faire la navette
+d-fr: Le trajet quotidien entre la maison et le travail.
+d-en: The daily journey between home and work.
+x: My commute takes an hour each way. | Mon trajet prend une heure dans chaque sens.
+
+@ flexitime
+t: travail
+tr: les horaires flexibles, les horaires à la carte
+mq: gb
+d-fr: Un système où l’on choisit ses heures d’arrivée et de départ.
+d-en: A system where you choose when you start and finish work.
+n-fr: Américain : « flextime ».
+n-en: American: “flextime”.
+x: With flexitime, I can pick up the kids at four. | Avec les horaires flexibles, je peux récupérer les enfants à seize heures.
+
+@ out_of_office
+w: out of office
+t: travail
+tr: absent du bureau ; le message d’absence
+d-fr: L’état d’absence, et la réponse automatique qui le signale.
+d-en: Being away from work, and the automatic email reply that says so.
+x: Don’t forget to set your out-of-office before your holiday. | N’oublie pas de mettre ton message d’absence avant tes vacances.
+v: argot:OOO
+
+@ laid_off
+w: be laid off
+t: travail
+tr: être licencié (économique)
+d-fr: Perdre son emploi pour des raisons économiques.
+d-en: To lose your job because the company needs fewer workers.
+x: Two hundred staff were laid off last month. | Deux cents employés ont été licenciés le mois dernier.
+v: redundant
+
+@ job_hunting
+w: job hunting
+t: travail
+tr: la recherche d’emploi
+d-fr: Le fait de chercher du travail.
+d-en: Looking for a job.
+x: Job hunting is exhausting. | Chercher du travail, c’est épuisant.
+
+@ networking
+t: travail
+tr: le réseautage
+d-fr: Le fait de se créer un réseau de contacts professionnels.
+d-en: Meeting people to build professional contacts.
+x: Conferences are great for networking. | Les conférences sont idéales pour se faire un réseau.
+
+@ upskill
+t: travail
+tr: se perfectionner, monter en compétences
+d-fr: Apprendre de nouvelles compétences pour son métier.
+d-en: To learn new skills for your job.
+x: The company pays for staff to upskill in data analysis. | L’entreprise paie des formations en analyse de données à ses salariés.
+
+@ payslip
+t: travail
+tr: une fiche de paie, un bulletin de salaire
+mq: gb
+d-fr: Le document qui détaille le salaire versé.
+d-en: A document showing how much you have been paid.
+n-fr: Américain : « pay stub ».
+n-en: American: “pay stub”.
+x: Check your payslip for errors. | Vérifie qu’il n’y a pas d’erreur sur ta fiche de paie.
+v: salary
+
+@ overtime
+t: travail
+tr: les heures supplémentaires
+d-fr: Le temps travaillé au-delà des heures normales.
+d-en: Time worked beyond your normal hours.
+x: I did ten hours of overtime this week. | J’ai fait dix heures sup cette semaine.
+
+@ minimum_wage
+w: minimum wage
+t: travail
+tr: le salaire minimum, le SMIC
+d-fr: Le salaire le plus bas autorisé par la loi.
+d-en: The lowest pay allowed by law.
+n-fr: Au Royaume-Uni, le minimum légal pour les plus de 21 ans s’appelle « National Living Wage ».
+n-en: In the UK, the legal minimum for over-21s is called the “National Living Wage”.
+x: The minimum wage went up in April. | Le salaire minimum a augmenté en avril.
+
+@ union
+t: travail
+tr: un syndicat
+d-fr: Une organisation qui défend les droits des salariés.
+d-en: An organisation that protects workers’ rights.
+a-fr: ≠ une union (mariage), qui se dit aussi « union » mais dans un contexte formel.
+a-en: French « syndicat » is a trade union.
+x: The union has called a strike. | Le syndicat a appelé à la grève.
+v: strike
+
+@ hr
+w: HR
+t: travail
+tr: les RH, les ressources humaines
+mq: abr
+d-fr: « Human resources » : le service du personnel.
+d-en: Human resources: the department that deals with staff.
+x: Send your sick note to HR. | Envoie ton arrêt maladie aux RH.
+
+@ line_manager
+w: line manager
+t: travail
+tr: le ou la responsable direct(e), le n+1
+mq: gb
+d-fr: La personne dont on dépend directement au travail.
+d-en: The person directly responsible for you at work.
+x: Ask your line manager about training. | Demande à ta responsable directe pour la formation.
+v: manager
+
+@ touch_base
+w: touch base
+t: travail
+tr: faire un point, prendre des nouvelles
+mq: fam
+d-fr: Reprendre contact brièvement pour faire le point (jargon de bureau).
+d-en: To briefly contact someone to discuss progress (office jargon).
+x: Let’s touch base on Monday. | Faisons un point lundi.
+v: circle_back
+
+@ circle_back
+w: circle back
+t: travail
+tr: revenir sur un sujet, en reparler
+mq: fam
+d-fr: Revenir plus tard sur un sujet (jargon de bureau, parfois moqué).
+d-en: To return to a subject later (office jargon, sometimes mocked).
+x: Can we circle back to the budget after lunch? | On peut revenir sur le budget après le déjeuner ?
+v: touch_base
+
+@ loop_in
+w: loop in
+t: travail
+tr: mettre dans la boucle, mettre en copie
+mq: fam
+d-fr: Informer quelqu’un, l’inclure dans une discussion.
+d-en: To include someone in a discussion so they are informed.
+x: I’ll loop in the design team. | Je mets l’équipe design dans la boucle.
+
+@ to_do_list
+w: to-do list
+t: travail
+tr: une liste de choses à faire, une liste de tâches
+d-fr: La liste de ce qu’on a à faire.
+d-en: A list of things you need to do.
+x: My to-do list keeps getting longer. | Ma liste de choses à faire ne fait que s’allonger.
+
+@ multitask
+t: travail
+tr: faire plusieurs choses à la fois
+d-fr: Mener plusieurs tâches en même temps.
+d-en: To do several things at the same time.
+x: I can’t multitask during video calls. | Je n’arrive pas à faire plusieurs choses à la fois pendant les visios.
+
+@ brainstorm
+t: travail
+tr: un remue-méninges ; réfléchir ensemble
+d-fr: Une séance où l’on lance librement des idées.
+d-en: A session where people suggest ideas freely.
+x: Let’s brainstorm some names for the app. | Réfléchissons ensemble à des noms pour l’appli.
+
+@ student_loan
+w: student loan
+t: travail
+tr: un prêt étudiant
+d-fr: Un emprunt pour payer ses études.
+d-en: Money borrowed to pay for university.
+x: I’m still paying off my student loan. | Je rembourse encore mon prêt étudiant.
+v: tuition_fees
+
+@ dissertation
+t: travail
+tr: un mémoire (universitaire)
+d-fr: Le long travail écrit de fin d’études.
+d-en: A long piece of writing at the end of a degree.
+a-fr: ≠ une dissertation scolaire, qui se dit « essay ».
+a-en: A French « dissertation » is a school essay.
+x: I’m writing my dissertation on urban farming. | J’écris mon mémoire sur l’agriculture urbaine.
+
+@ remote_job
+w: fully remote
+t: travail
+tr: en télétravail total, 100 % à distance
+d-fr: Se dit d’un poste qu’on exerce entièrement à distance.
+d-en: Describes a job done entirely from home or anywhere.
+x: The job is fully remote, so I could live anywhere. | Le poste est 100 % à distance, je pourrais vivre n’importe où.
+v: remote_working
+
+# ————— Écologie et énergie —————
+
+@ carbon_neutral
+w: carbon neutral
+t: ecologie
+tr: neutre en carbone
+d-fr: Qui compense autant de carbone qu’il en émet.
+d-en: Balancing the carbon you produce with the carbon you remove.
+x: The company claims to be carbon neutral by 2030. | L’entreprise affirme qu’elle sera neutre en carbone d’ici 2030.
+v: net_zero
+
+@ carbon_offset
+w: carbon offsetting
+t: ecologie
+tr: la compensation carbone
+d-fr: Le financement de projets écologiques pour compenser ses émissions.
+d-en: Paying for green projects to make up for your emissions.
+x: Carbon offsetting doesn’t replace flying less. | La compensation carbone ne remplace pas le fait de prendre moins l’avion.
+
+@ flight_shame
+w: flight shame
+t: ecologie
+tr: la honte de prendre l’avion
+mq: neo
+d-fr: Le malaise de prendre l’avion à cause de son impact sur le climat (de l’allemand « Flugscham », d’origine suédoise).
+d-en: Feeling guilty about flying because of its climate impact (from Swedish “flygskam”).
+x: Flight shame made her take the train to Rome. | La honte de prendre l’avion l’a poussée à aller à Rome en train.
+
+@ rewilding
+t: ecologie
+tr: le réensauvagement
+d-fr: Le fait de laisser la nature reprendre ses droits, en réintroduisant des espèces.
+d-en: Letting nature recover, often by reintroducing species.
+x: Beavers are part of the rewilding project. | Les castors font partie du projet de réensauvagement.
+
+@ compost
+t: ecologie
+tr: le compost ; composter
+d-fr: Un engrais fait de déchets organiques décomposés.
+d-en: Rotted food and plant waste used to feed soil.
+x: We compost all our vegetable peelings. | On composte toutes nos épluchures.
+
+@ upcycling
+t: ecologie
+tr: le surcyclage, l’upcycling
+d-fr: La transformation d’objets usagés en objets de plus grande valeur.
+d-en: Turning old things into something better.
+x: She makes bags from old sails — upcycling at its best. | Elle fabrique des sacs avec de vieilles voiles : du surcyclage parfait.
+v: recycle
+
+@ fast_fashion
+w: fast fashion
+t: ecologie
+tr: la mode éphémère, la fast fashion
+d-fr: Les vêtements bon marché produits vite et en masse.
+d-en: Cheap clothes produced quickly in large amounts.
+x: Fast fashion creates huge amounts of waste. | La mode éphémère crée énormément de déchets.
+v: second-hand
+
+@ microplastics
+t: ecologie
+tr: les microplastiques
+d-fr: De minuscules particules de plastique présentes dans l’environnement.
+d-en: Tiny pieces of plastic found in the environment.
+x: Microplastics have been found in rain. | On a trouvé des microplastiques dans la pluie.
+v: single-use_plastic
+
+@ refill
+t: ecologie
+tr: une recharge ; remplir à nouveau
+d-fr: Le fait de remplir de nouveau un contenant, plutôt que d’en acheter un neuf.
+d-en: Filling a container again instead of buying a new one.
+x: There’s a refill shop for shampoo and pasta. | Il y a un magasin de vrac pour le shampoing et les pâtes.
+
+@ zero_waste
+w: zero waste
+t: ecologie
+tr: le zéro déchet
+d-fr: Un mode de vie qui cherche à ne produire aucun déchet.
+d-en: A lifestyle that tries to produce no rubbish.
+x: Going zero waste is harder than it looks. | Passer au zéro déchet est plus difficile qu’il n’y paraît.
+
+@ flash_flood
+w: flash flood
+t: ecologie
+tr: une crue soudaine, une crue éclair
+d-fr: Une inondation brutale après de fortes pluies.
+d-en: A sudden flood after heavy rain.
+x: Flash floods hit the village overnight. | Des crues soudaines ont frappé le village pendant la nuit.
+v: flood
+
+@ sea_level_rise
+w: sea level rise
+t: ecologie
+tr: la montée du niveau de la mer
+d-fr: L’élévation du niveau des océans due au réchauffement.
+d-en: The rise in ocean levels caused by global warming.
+x: Sea level rise threatens coastal towns. | La montée du niveau de la mer menace les villes côtières.
+
+@ deforestation
+t: ecologie
+tr: la déforestation
+d-fr: La destruction des forêts.
+d-en: The cutting down of forests.
+x: Deforestation in the Amazon slowed last year. | La déforestation en Amazonie a ralenti l’an dernier.
+
+@ smart_meter
+w: smart meter
+t: ecologie
+tr: un compteur intelligent, un compteur communicant
+d-fr: Un compteur qui transmet automatiquement la consommation d’énergie.
+d-en: A meter that automatically sends your energy use to the supplier.
+x: The smart meter shows how much the kettle costs. | Le compteur communicant montre combien coûte la bouilloire.
+v: energy_bill
+
+@ ev
+w: EV
+t: ecologie
+tr: un VE, un véhicule électrique
+mq: abr
+d-fr: « Electric vehicle » : véhicule électrique.
+d-en: Electric vehicle.
+x: We’re thinking of getting an EV. | On pense acheter une voiture électrique.
+v: electric_car
+
+# ————— Société —————
+
+@ gentrification
+t: societe
+tr: la gentrification, l’embourgeoisement (d’un quartier)
+d-fr: L’arrivée d’habitants plus aisés dans un quartier populaire, qui fait monter les prix.
+d-en: Wealthier people moving into a poorer area, pushing prices up.
+x: Gentrification has pushed many families out of the area. | La gentrification a chassé beaucoup de familles du quartier.
+v: housing_crisis
+
+@ homelessness
+t: societe
+tr: le sans-abrisme, les personnes sans domicile
+d-fr: Le fait de ne pas avoir de logement.
+d-en: The state of having no home.
+x: Homelessness has risen in most big cities. | Le nombre de sans-abri a augmenté dans la plupart des grandes villes.
+
+@ benefits
+t: societe
+tr: les aides sociales, les allocations
+mq: gb
+d-fr: L’argent versé par l’État aux personnes qui en ont besoin.
+d-en: Money paid by the government to people who need help.
+a-fr: ≠ les bénéfices d’une entreprise, qui se disent « profits ».
+a-en: French « bénéfices » are a company’s profits.
+x: He’s been on benefits since the accident. | Il touche des aides depuis l’accident.
+
+@ pension
+t: societe
+tr: une retraite (la pension)
+d-fr: L’argent versé chaque mois aux retraités.
+d-en: Money paid regularly to retired people.
+a-fr: ≠ une pension (hôtel), qui se dit « guest house » ; « pension alimentaire » : « maintenance ».
+a-en: French « pension » can also mean a guest house.
+x: The pension age is going up. | L’âge de la retraite recule.
+
+@ protest
+t: societe
+tr: une manifestation ; manifester, protester
+d-fr: Une action publique pour s’opposer à quelque chose.
+d-en: A public action against something.
+x: Thousands joined the climate protest. | Des milliers de personnes ont rejoint la manifestation pour le climat.
+v: demonstration
+
+@ petition
+t: societe
+tr: une pétition
+d-fr: Une demande signée par de nombreuses personnes.
+d-en: A written request signed by many people.
+x: The petition got a million signatures. | La pétition a recueilli un million de signatures.
+
+@ referendum
+t: societe
+tr: un référendum
+d-fr: Un vote où les citoyens répondent à une question précise.
+d-en: A vote in which people answer one specific question.
+x: Scotland held an independence referendum in 2014. | L’Écosse a organisé un référendum sur l’indépendance en 2014.
+v: brexit
+
+@ polling_station
+w: polling station
+t: societe
+tr: un bureau de vote
+d-fr: Le lieu où l’on va voter.
+d-en: The place where people go to vote.
+x: The polling station opens at seven. | Le bureau de vote ouvre à sept heures.
+v: election
+
+@ hate_speech
+w: hate speech
+t: societe
+tr: les discours de haine
+d-fr: Les propos qui attaquent un groupe pour son origine, sa religion, son genre…
+d-en: Speech that attacks a group because of race, religion, gender, etc.
+x: The platform removes hate speech. | La plateforme supprime les discours de haine.
+
+@ cancel_culture
+w: cancel culture
+t: societe
+tr: la culture de l’annulation, la cancel culture
+d-fr: Le fait de boycotter publiquement une personne après des propos ou actes jugés inacceptables.
+d-en: Publicly rejecting someone after things they said or did.
+x: Some celebrities complain about cancel culture. | Certaines célébrités se plaignent de la culture de l’annulation.
+
+@ woke
+t: societe
+tr: woke, éveillé (aux injustices)
+mq: fam
+d-fr: À l’origine, attentif aux injustices sociales et raciales ; aujourd’hui souvent employé de façon péjorative.
+d-en: Originally, alert to social and racial injustice; now often used negatively.
+n-fr: Mot très politisé : son sens dépend de qui l’emploie.
+n-en: A highly political word; its meaning depends on who uses it.
+x: The word “woke” has become a political insult. | Le mot « woke » est devenu une insulte politique.
+
+@ culture_war
+w: culture war
+t: societe
+tr: une guerre culturelle
+d-fr: Un conflit politique autour de valeurs et de questions de société.
+d-en: A political conflict over values and social issues.
+x: Statues have become part of the culture war. | Les statues sont devenues un enjeu de guerre culturelle.
+
+@ polarisation
+t: societe
+tr: la polarisation
+d-fr: La division d’une société en camps opposés.
+d-en: The division of a society into opposing groups.
+x: Social media may increase political polarisation. | Les réseaux sociaux renforcent peut-être la polarisation politique.
+v: echo_chamber
+
+@ echo_chamber
+w: echo chamber
+t: societe
+tr: une chambre d’écho, une bulle de filtres
+d-fr: Un milieu (souvent en ligne) où l’on n’entend que des opinions semblables aux siennes.
+d-en: A space, often online, where you only hear opinions like your own.
+x: Your feed is an echo chamber. | Ton fil d’actu est une bulle où tout le monde pense comme toi.
+v: polarisation
+
+@ whistleblower
+t: societe
+tr: un lanceur ou une lanceuse d’alerte
+d-fr: Une personne qui révèle des pratiques illégales dans son organisation.
+d-en: A person who reveals wrongdoing inside an organisation.
+x: The whistleblower leaked documents to the press. | La lanceuse d’alerte a transmis des documents à la presse.
+
+@ accessibility
+t: societe
+tr: l’accessibilité
+d-fr: Le fait d’être utilisable par tous, y compris les personnes handicapées.
+d-en: Being usable by everyone, including disabled people.
+x: The new station has much better accessibility. | La nouvelle gare est bien plus accessible.
+
+@ consent
+t: societe
+tr: le consentement
+d-fr: L’accord libre et éclairé d’une personne.
+d-en: Freely given agreement.
+x: Apps must ask for your consent before collecting data. | Les applis doivent demander ton consentement avant de collecter des données.
+
+@ loneliness
+t: societe
+tr: la solitude
+d-fr: Le sentiment d’être seul ; le Royaume-Uni a créé un ministère de la Solitude en 2018.
+d-en: The feeling of being alone; the UK appointed a minister for loneliness in 2018.
+x: Loneliness affects young people as well as the elderly. | La solitude touche les jeunes autant que les personnes âgées.
+v: lonely
+
+@ ageing_population
+w: ageing population
+t: societe
+tr: le vieillissement de la population
+d-fr: L’augmentation de la part des personnes âgées dans une population.
+d-en: A rise in the proportion of older people.
+x: An ageing population puts pressure on care homes. | Le vieillissement de la population met les maisons de retraite sous pression.
+
+@ carer
+t: societe
+tr: un aidant, une aidante ; un ou une aide-soignant(e)
+mq: gb
+d-fr: Une personne qui s’occupe d’un proche malade ou âgé, ou dont c’est le métier.
+d-en: Someone who looks after a sick or elderly person, as family or as a job.
+n-fr: Américain : « caregiver ».
+n-en: American: “caregiver”.
+x: She’s a full-time carer for her mother. | Elle s’occupe de sa mère à plein temps.
+
+@ nhs
+w: NHS
+t: societe
+tr: le NHS, le service de santé public britannique
+mq: abr, gb
+d-fr: « National Health Service » : le système de santé public du Royaume-Uni, gratuit au moment des soins.
+d-en: The UK’s public health service, free at the point of use.
+x: The NHS is under huge pressure this winter. | Le NHS est sous très forte pression cet hiver.
+v: gp
+
+@ asylum_seeker
+w: asylum seeker
+t: societe
+tr: un demandeur ou une demandeuse d’asile
+d-fr: Une personne qui demande la protection d’un autre pays.
+d-en: Someone asking another country for protection.
+x: The asylum seekers are waiting for a decision. | Les demandeurs d’asile attendent une décision.
+v: refugee
+
+@ gen_z
+w: Gen Z
+t: societe
+tr: la génération Z
+mq: abr
+d-fr: Les personnes nées entre la fin des années 1990 et le début des années 2010.
+d-en: People born between the late 1990s and the early 2010s.
+n-fr: Avant eux, les « millennials » (génération Y) ; après, la « Gen Alpha ».
+n-en: Before them, millennials; after them, Gen Alpha.
+x: Gen Z grew up with smartphones. | La génération Z a grandi avec les smartphones.
+v: millennial
+
+@ millennial
+t: societe
+tr: un ou une millennial, la génération Y
+d-fr: Une personne née entre le début des années 1980 et la fin des années 1990.
+d-en: Someone born between the early 1980s and the late 1990s.
+x: Millennials struggle to buy their first home. | Les millennials ont du mal à acheter leur premier logement.
+v: gen_z
+
+@ boomer
+t: societe
+tr: un boomer, un baby-boomer
+mq: fam
+d-fr: Une personne née après la Seconde Guerre mondiale ; par moquerie, quelqu’un de dépassé (« OK boomer »).
+d-en: Someone born after the Second World War; mockingly, someone out of touch (“OK boomer”).
+x: My dad’s a total boomer about technology. | Mon père est un vrai boomer avec la technologie.
+
+@ nepo_baby
+w: nepo baby
+t: societe
+tr: un « fils ou fille de », un enfant de la balle
+mq: fam, pej, neo
+d-fr: Une personne célèbre dont la carrière doit beaucoup à des parents connus.
+d-en: A famous person whose career owes a lot to famous parents.
+x: Everyone calls her a nepo baby, but she can really act. | Tout le monde dit qu’elle est « fille de », mais elle joue vraiment bien.
+
+# ————— Santé et bien-être —————
+
+@ waiting_list
+w: waiting list
+t: sante
+tr: une liste d’attente
+d-fr: La liste des personnes qui attendent un rendez-vous ou une opération.
+d-en: A list of people waiting for an appointment or treatment.
+x: I’m on a waiting list for physio. | Je suis sur liste d’attente pour la kiné.
+
+@ check_up
+w: check-up
+t: sante
+tr: un bilan de santé, une visite de contrôle
+d-fr: Un examen médical de routine.
+d-en: A routine medical or dental examination.
+x: I’ve got a dental check-up tomorrow. | J’ai un contrôle chez le dentiste demain.
+
+@ blood_test
+w: blood test
+t: sante
+tr: une prise de sang, une analyse de sang
+d-fr: Un prélèvement de sang pour analyse.
+d-en: Taking blood to be tested.
+x: The nurse will do a blood test. | L’infirmière va faire une prise de sang.
+
+@ vaccine
+t: sante
+tr: un vaccin
+d-fr: Un produit qui protège contre une maladie.
+d-en: A substance that protects against a disease.
+x: Have you had your flu vaccine? | Tu as fait ton vaccin contre la grippe ?
+v: jab
+
+@ side_effect
+w: side effect
+t: sante
+tr: un effet secondaire
+d-fr: Un effet non voulu d’un médicament.
+d-en: An unwanted effect of a medicine.
+x: Drowsiness is a common side effect. | La somnolence est un effet secondaire fréquent.
+
+@ symptom
+t: sante
+tr: un symptôme
+d-fr: Un signe de maladie.
+d-en: A sign of an illness.
+x: What are your symptoms? | Quels sont vos symptômes ?
+
+@ cough
+t: sante
+tr: une toux ; tousser
+d-fr: Le fait de tousser.
+d-en: Pushing air out of your throat with a sudden noise.
+x: I’ve had a cough for a week. | Je tousse depuis une semaine.
+
+@ sore_throat
+w: sore throat
+t: sante
+tr: un mal de gorge
+d-fr: Une douleur dans la gorge.
+d-en: A painful throat.
+x: I’ve got a sore throat. | J’ai mal à la gorge.
+
+@ temperature_fever
+w: temperature
+t: sante
+tr: la fièvre ; la température
+d-fr: « Have a temperature » : avoir de la fièvre.
+d-en: “Have a temperature”: to have a fever.
+a-fr: « J’ai de la fièvre » se dit « I’ve got a temperature » plutôt que « I have a fever » en anglais britannique courant.
+a-en: British English often says “a temperature” for a fever.
+x: She’s got a temperature, so she’s staying home. | Elle a de la fièvre, elle reste à la maison.
+
+@ hay_fever
+w: hay fever
+t: sante
+tr: le rhume des foins
+d-fr: L’allergie au pollen.
+d-en: An allergy to pollen.
+x: My hay fever is terrible in June. | Mon rhume des foins est terrible en juin.
+v: allergy
+
+@ sprain
+t: sante
+tr: une entorse ; se fouler
+d-fr: Une blessure d’une articulation.
+d-en: An injury to a joint.
+x: I sprained my ankle playing football. | Je me suis fait une entorse à la cheville au foot.
+
+@ plaster
+t: sante
+tr: un pansement (adhésif) ; un plâtre
+mq: gb
+d-fr: Un pansement adhésif ; « plaster cast » : un plâtre.
+d-en: A small sticky bandage; “plaster cast”: a hard cover for a broken bone.
+n-fr: Américain : « Band-Aid » (marque devenue nom commun).
+n-en: American: “Band-Aid”.
+x: Have you got a plaster? I’ve cut my finger. | Tu as un pansement ? Je me suis coupé le doigt.
+
+@ long_covid
+w: long COVID
+t: sante
+tr: le COVID long
+d-fr: Les symptômes qui persistent des mois après une infection au COVID-19.
+d-en: Symptoms that continue for months after COVID-19.
+x: She’s still tired because of long COVID. | Elle est encore fatiguée à cause d’un COVID long.
+
+@ gut_health
+w: gut health
+t: sante
+tr: la santé intestinale
+d-fr: Le bon état de l’intestin et de son microbiote.
+d-en: The health of your digestive system and its bacteria.
+x: Yoghurt is supposed to be good for gut health. | Le yaourt serait bon pour la santé intestinale.
+
+@ meal_prep
+w: meal prep
+t: sante
+tr: la préparation des repas à l’avance, le batch cooking
+d-fr: Le fait de cuisiner à l’avance les repas de la semaine.
+d-en: Cooking meals for the week in advance.
+x: I do my meal prep on Sunday. | Je prépare mes repas de la semaine le dimanche.
+
+@ sick_note
+w: sick note
+t: sante
+tr: un arrêt maladie, un certificat médical
+mq: gb
+d-fr: Le document du médecin qui justifie une absence pour maladie.
+d-en: A note from a doctor saying you are too ill to work.
+n-fr: Le terme officiel est « fit note ».
+n-en: The official term is “fit note”.
+x: You need a sick note after a week off. | Il faut un arrêt maladie au-delà d’une semaine d’absence.
+v: sick_leave
+
+@ ambulance
+t: sante
+tr: une ambulance
+d-fr: Le véhicule qui transporte les malades et blessés.
+d-en: A vehicle that takes sick or injured people to hospital.
+n-fr: Au Royaume-Uni, le numéro d’urgence est le 999 ; le 112 marche aussi.
+n-en: In the UK, the emergency number is 999 (112 also works).
+x: Call an ambulance! | Appelez une ambulance !
+v: a-and-e
+
+@ screen_fatigue
+w: screen fatigue
+t: sante
+tr: la fatigue visuelle, la fatigue des écrans
+d-fr: La fatigue des yeux et de l’esprit après trop de temps devant les écrans.
+d-en: Tiredness of the eyes and mind after too much screen time.
+x: After eight hours of video calls, I get screen fatigue. | Après huit heures de visio, j’ai les yeux et la tête fatigués.
+v: screen_time
+
+@ wellness
+t: sante
+tr: le bien-être
+d-fr: Le bien-être, souvent comme secteur commercial (yoga, retraites, compléments).
+d-en: Health and wellbeing, often as an industry.
+x: The wellness industry is worth billions. | Le secteur du bien-être pèse des milliards.
+v: wellbeing
+
+# ————— Argent et consommation —————
+
+@ overdraft
+t: argent
+tr: un découvert
+d-fr: Le fait d’avoir un compte bancaire en négatif.
+d-en: Having spent more money than is in your bank account.
+x: I’m in my overdraft until payday. | Je suis à découvert jusqu’au jour de paie.
+
+@ interest_rate
+w: interest rate
+t: argent
+tr: un taux d’intérêt
+d-fr: Le pourcentage payé sur un prêt ou gagné sur une épargne.
+d-en: The percentage paid on a loan or earned on savings.
+x: Interest rates went up again. | Les taux d’intérêt ont encore augmenté.
+v: mortgage
+
+@ loan
+t: argent
+tr: un prêt, un emprunt
+d-fr: Une somme prêtée qu’il faut rembourser.
+d-en: Money borrowed that must be paid back.
+x: We took out a loan to buy the car. | On a fait un prêt pour acheter la voiture.
+
+@ credit_card
+w: credit card
+t: argent
+tr: une carte de crédit
+d-fr: Une carte qui permet de payer à crédit.
+d-en: A card that lets you buy now and pay later.
+a-fr: En français, « carte bancaire » ou « carte de crédit » désigne souvent la carte de débit ; en anglais, distinguer « debit card » et « credit card ».
+a-en: French « carte bancaire » is usually a debit card.
+x: Can I pay by credit card? | Je peux payer par carte de crédit ?
+v: debit_card
+
+@ debit_card
+w: debit card
+t: argent
+tr: une carte bancaire, une carte de débit
+d-fr: Une carte qui prélève l’argent directement sur le compte.
+d-en: A card that takes money directly from your account.
+x: I only use my debit card. | Je n’utilise que ma carte bancaire.
+v: credit_card
+
+@ cashback
+t: argent
+tr: le remboursement (de pourcentage), le cashback ; retrait d’espèces en caisse
+d-fr: Une partie du prix rendue après un achat ; au Royaume-Uni, retirer des espèces à la caisse d’un magasin.
+d-en: Money given back after a purchase; in the UK, cash taken out at a shop till.
+x: Do you want any cashback? | Vous voulez retirer des espèces ?
+
+@ direct_debit
+w: direct debit
+t: argent
+tr: un prélèvement automatique
+mq: gb
+d-fr: Un paiement prélevé automatiquement chaque mois.
+d-en: An automatic regular payment from your bank account.
+x: I pay my phone bill by direct debit. | Je paie mon forfait par prélèvement automatique.
+
+@ bank_transfer
+w: bank transfer
+t: argent
+tr: un virement (bancaire)
+d-fr: Un envoi d’argent d’un compte à un autre.
+d-en: Sending money from one account to another.
+x: I’ll pay you back by bank transfer. | Je te rembourse par virement.
+
+@ shrinkflation
+t: argent
+tr: la réduflation
+mq: neo
+d-fr: La baisse de la quantité d’un produit pour le même prix.
+d-en: When a product gets smaller but the price stays the same.
+x: The chocolate bar is smaller — shrinkflation again. | La tablette de chocolat est plus petite : encore la réduflation.
+v: inflation
+
+@ price_cap
+w: price cap
+t: argent
+tr: un plafonnement des prix, un bouclier tarifaire
+d-fr: Une limite légale au prix d’un produit, comme l’énergie.
+d-en: A legal limit on the price of something, such as energy.
+x: The energy price cap changes every three months. | Le plafond des prix de l’énergie change tous les trois mois.
+v: energy_bill
+
+@ deposit
+t: argent
+tr: un acompte ; une caution ; un apport
+d-fr: Une somme versée d’avance (acompte, caution de location, apport pour un prêt).
+d-en: Money paid in advance (down payment, rental deposit).
+x: We lost our deposit because of the stain on the carpet. | On a perdu notre caution à cause de la tache sur la moquette.
+v: rent
+
+@ splurge
+t: argent
+tr: faire une folie, claquer de l’argent
+mq: fam
+d-fr: Dépenser beaucoup d’un coup pour se faire plaisir.
+d-en: To spend a lot of money on something you enjoy.
+x: I splurged on a new coat. | J’ai fait une folie en m’achetant un nouveau manteau.
+
+@ impulse_buy
+w: impulse buy
+t: argent
+tr: un achat compulsif, un achat sur un coup de tête
+d-fr: Un achat fait sans l’avoir prévu.
+d-en: Something you buy without planning to.
+x: The air fryer was an impulse buy. | La friteuse sans huile, c’était un achat sur un coup de tête.
+
+@ haggle
+t: argent
+tr: marchander
+d-fr: Discuter un prix pour le faire baisser.
+d-en: To argue about a price to make it lower.
+x: You can haggle at the market. | On peut marchander au marché.
+
+@ voucher
+t: argent
+tr: un bon d’achat, un code promo, un chèque cadeau
+d-fr: Un bon qui donne droit à une réduction ou à un produit.
+d-en: A piece of paper or code that gives a discount or a product.
+x: I’ve got a voucher for 20% off. | J’ai un bon de réduction de 20 %.
+v: discount
+
+@ loyalty_card
+w: loyalty card
+t: argent
+tr: une carte de fidélité
+d-fr: Une carte de magasin qui donne des points ou des réductions.
+d-en: A shop card that gives you points or discounts.
+x: Do you have a loyalty card? | Vous avez la carte de fidélité ?
+
+@ out_of_stock
+w: out of stock
+t: argent
+tr: en rupture de stock
+d-fr: Qui n’est plus disponible à la vente.
+d-en: Not available because all have been sold.
+x: My size is out of stock online. | Ma taille est en rupture de stock en ligne.
+
+@ return_policy
+w: returns policy
+t: argent
+tr: la politique de retour, les conditions de retour
+mq: gb
+d-fr: Les règles pour rendre un article et être remboursé.
+d-en: The rules for taking something back for a refund.
+x: Check the returns policy before you buy. | Vérifie les conditions de retour avant d’acheter.
+v: refund
+
+@ red_flag
+w: red flag
+t: famille
+tr: un signal d’alarme, un mauvais signe
+mq: fam
+d-fr: Un signe inquiétant, surtout chez un partenaire ou dans une relation.
+d-en: A warning sign, especially in a partner or relationship.
+x: He was rude to the waiter — massive red flag. | Il a été impoli avec le serveur : très mauvais signe.
+v: green_flag
+
+@ green_flag
+w: green flag
+t: famille
+tr: un bon signe, une qualité rassurante
+mq: fam, neo
+d-fr: Un signe positif chez quelqu’un (le contraire du « red flag »).
+d-en: A positive sign in someone (the opposite of a “red flag”).
+x: He remembered my friends’ names — green flag. | Il a retenu les prénoms de mes amis : bon signe.
+v: red_flag
+
+@ dating_app
+w: dating app
+t: famille
+tr: une appli de rencontre
+d-fr: Une application pour faire des rencontres amoureuses.
+d-en: An app for meeting romantic partners.
+x: They met on a dating app. | Ils se sont rencontrés sur une appli de rencontre.
+v: swipe
+
+@ boundaries
+t: famille
+tr: des limites (personnelles)
+d-fr: Les limites qu’on fixe dans ses relations pour se protéger.
+d-en: Limits you set in relationships to protect yourself.
+x: It’s healthy to set boundaries with your family. | C’est sain de poser des limites avec sa famille.
+
+@ gaslighting
+t: famille
+tr: la manipulation mentale, le détournement cognitif
+d-fr: Une manipulation qui pousse quelqu’un à douter de sa mémoire ou de sa perception. Mot de l’année 2022 du dictionnaire Merriam-Webster.
+d-en: Manipulating someone into doubting their memory or perception. Merriam-Webster’s word of the year 2022.
+x: Telling her she imagined the argument is gaslighting. | Lui dire qu’elle a imaginé la dispute, c’est de la manipulation mentale.
+
+@ toxic
+t: famille
+tr: toxique
+d-fr: Se dit d’une personne ou d’une relation nocive.
+d-en: Describes a harmful person or relationship.
+x: She finally left that toxic relationship. | Elle a enfin quitté cette relation toxique.

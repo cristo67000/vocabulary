@@ -1,0 +1,157 @@
+# lot 131 — sens restés sans exemple après le retrait de leurs citations : copper, parallel, radiation, panic, trigger, snake, twist, prisoner, jam, tweet, beam, rage, pose, chick, penny, slam, borrow… (sens vulgaires, sexuels, injurieux, violents, archaïques ou obscurs écartés)
+e816305ef2 ✗
+0c55804d15 ✗
+7372bf46d4 ✗
+860b1f0845 ✗
+0fcde3357f = She dyed her hair a deep ⟦copper⟧. | Elle s’est teint les cheveux d’un cuivre profond.
+b3359fb00e ✗
+835e0b5af7 = Draw two ⟦parallels⟧ ten centimetres apart. | Tracez deux parallèles distantes de dix centimètres.
+f6e77aadd3 ✗
+4763a07ead ✗
+1aacfec446 = Workers wear badges that measure ⟦radiation⟧. | Les employés portent des badges qui mesurent les rayonnements.
+a60ace2bb8 = That’s rather a ⟦bold⟧ question to ask your boss! | C’est une question plutôt culottée à poser à son patron !
+700913c9b0 ✗
+1337ef1f9b ✗
+2b5e3d8954 ✗
+a753ea8dbd ✗
+01f494b6fb ✗
+484f6be7ac = There was ⟦panic⟧ in the streets when the power went out. | La panique gagna les rues quand le courant fut coupé.
+09b92083e2 ✗
+a58faa873b ✗
+1ee76d1f26 = The sailors stored the ⟦powder⟧ well away from the galley fire. | Les marins rangeaient la poudre loin du feu de la cambuse.
+1adce41848 ✗
+30902d1f11 = Loud bangs can ⟦trigger⟧ him because of what he went through in the army. | Les détonations peuvent le replonger dans ce qu’il a vécu à l’armée.
+7e65ffd859 ✗
+8230bd3117 ✗
+01e2f5240c ✗
+94ee15c600 ✗
+544943be58 ✗
+783f6e54f9 ✗
+fbf3788010 ✗
+9fd79ed216 ✗
+43600ab2bd ✗
+e85b5c6f17 ✗
+7cb5d1abb6 = The coach’s idea of ⟦discipline⟧ was fifty extra press-ups. | Pour l’entraîneur, une sanction, c’était cinquante pompes de plus.
+0e2926bdad ✗
+119ec84ff0 ✗
+6b2f021dee = Don’t trust him — he’s a ⟦snake⟧. | Ne lui fais pas confiance, c’est un faux jeton.
+565654f142 ✗
+e06f33ead2 = Hundreds of drivers turned up for the Sunday night ⟦cruise⟧. | Des centaines de conducteurs sont venus au rassemblement automobile du dimanche soir.
+e45094f26a = We were saddened by the ⟦departure⟧ of our dear friend. | Nous avons été attristés par la disparition de notre cher ami.
+ccfae86b43 = My grandparents learned to do the ⟦twist⟧ in 1962. | Mes grands-parents ont appris à danser le twist en 1962.
+25c0757c1e ✗
+288cf89e0d = The kids kept ⟦ducking⟧ under the waves. | Les enfants n’arrêtaient pas de plonger sous les vagues.
+4ec60ef4d4 ✗
+538f16d6a4 ✗
+0b07ca5c29 ✗
+97399ff369 ✗
+8a3d86b0c8 ✗
+7d8219b7ea ✗
+dbeb4592da = He’s lost so much weight that he ⟦swims⟧ in his old suits. | Il a tellement maigri qu’il flotte dans ses anciens costumes.
+3eb557e67f ✗
+d0f0506111 ✗
+cdf8b0188d ✗
+bee48a4d67 = She felt like a ⟦prisoner⟧ in her own home. | Elle se sentait prisonnière dans sa propre maison.
+97f121d367 ✗
+044fe4c782 ✗
+42a9d3b15b ✗
+8166600ef3 = He’s really ⟦coining⟧ it with his new app. | Il se fait un paquet de fric avec sa nouvelle appli.
+6e32268ac1 = The police arrested a ⟦dealer⟧ outside the station. | La police a arrêté un dealer devant la gare.
+4832e2c942 ✗
+1c1688fdf3 ✗
+74a1d540a2 = The deer left ⟦traces⟧ in the fresh snow. | Le chevreuil a laissé des traces dans la neige fraîche.
+9ddb16aaf1 ✗
+8154d6c276 ✗
+5cac79502d ✗
+d162623964 ✗
+4acd809dc0 ✗
+954870c9f7 ✗
+609e08e3ef ✗
+64fee28851 ✗
+27a780e581 = Can you give me a hand? I’m in a bit of a ⟦jam⟧. | Tu peux me donner un coup de main ? Je suis un peu dans le pétrin.
+ada0e7371b ✗
+1a3d8a9137 ✗
+4739164b3b = Thanks for the flowers — you’re a ⟦treasure⟧. | Merci pour les fleurs, tu es un amour.
+ea32fe9af0 = Her ⟦tweet⟧ on Bluesky got thousands of likes. | Son message sur Bluesky a récolté des milliers de « j’aime ».
+b1ef3f38b3 = He ⟦tweeted⟧ the news on Mastodon before anyone else. | Il a annoncé la nouvelle sur Mastodon avant tout le monde.
+56084385f3 ✗
+560fdcce63 ✗
+7d76950c15 ✗
+be2933c2f1 ✗
+9cf1fb5c18 ✗
+60cda08179 = He ⟦burst⟧ the balloon with a pin. | Il a fait éclater le ballon avec une épingle.
+186bcb5e0d ✗
+423e7c78b0 ✗
+32bf55279e = The ⟦beam⟧ of the old scales tipped to the left. | Le fléau de la vieille balance pencha vers la gauche.
+1e7fe68d20 ✗
+14d4a1f06b ✗
+723d54d51c ✗
+5cd33ef19b ✗
+324dd21e01 ✗
+dfa5482a86 ✗
+d1d58f2d3b ✗
+3c89567ebf ✗
+e1c427cc24 ✗
+c2cf47787f ✗
+2c37717ae0 ✗
+9936ebf972 ✗
+3b91c40af6 = He ⟦raged⟧ at the referee for the rest of the match. | Il a pesté contre l’arbitre pendant tout le reste du match.
+5383c3f4e7 = We ⟦raged⟧ until sunrise at the festival. | Au festival, nous avons fait la fête jusqu’au lever du soleil.
+4a24f0f7f9 ✗
+6e333e34d9 = Hold that ⟦pose⟧ — I’m taking the photo! | Garde la pose, je prends la photo !
+bcf51c68a3 ✗
+0d6ab374c7 ✗
+c9064b14b8 ✗
+5e8aa41b2d ✗
+52edbd4f1a ✗
+22d27e558e = The hen was followed by six fluffy ⟦chicks⟧. | La poule était suivie de six poussins duveteux.
+efbf4eea68 ✗
+b54d75c6a8 ✗
+6be42d18b5 ✗
+f7631a0630 ✗
+3cc9a149d0 ✗
+12b34182dc = The total came to $4.99, so I got a ⟦penny⟧ in change. | Le total était de 4,99 dollars, alors on m’a rendu une pièce d’un cent.
+acd105a6bd ✗
+0c8893db47 ✗
+336fbcc481 ✗
+c58614bb21 ✗
+0c6e3eed55 ✗
+e89f0da0c6 = The film got a ⟦savage⟧ review in the paper. | Le film a été éreinté dans le journal.
+a0ada65a27 ✗
+7699c5dd5b ✗
+816f5e2a9e ✗
+47cf41c414 ✗
+35d9541d0b ✗
+6c9663a839 ✗
+9aa392f3db = The door shut with a ⟦slam⟧. | La porte se referma en claquant.
+0dbcce8903 ✗
+7a0ec0cb1c = English ⟦borrowed⟧ the word “café” from French. | L’anglais a emprunté le mot « café » au français.
+f3d0a7d1dd ✗
+a7053f8092 ✗
+290de558a6 ✗
+f898b4292a ✗
+fcd66262b1 ✗
+e61e5365e8 ✗
+922ad53d40 ✗
+b984686762 ✗
+37c92db8e7 ✗
+c90f7ea9d0 = Press down with the ⟦heel⟧ of your hand to knead the dough. | Appuyez avec le bas de la paume pour pétrir la pâte.
+edfd638ee6 ✗
+5a191c804d ✗
+a9f71fa923 ✗
+b4beef742f ✗
+cfbd234583 ✗
+62fb833ca2 ✗
+22bc23c880 ✗
+768965069e ✗
+455a3d8c1a ✗
+fecc7bac40 ✗
+75aa98bdbc = She ⟦stabbed⟧ the potato with a fork to see if it was cooked. | Elle piqua la pomme de terre avec une fourchette pour voir si elle était cuite.
+ee0a09879f ✗
+8cba66bb33 ✗
+3928ae0731 ✗
+4b6a22e595 ✗
+897c4b8b8a ✗
+2f685cbf43 ✗
+2c998b2c7d ✗
+1e368e51a4 ✗

@@ -1,0 +1,863 @@
+# Le vocabulaire du quotidien, par thèmes, deuxième série (version 1.1).
+# Vedettes anglaises (orthographe britannique), équivalents français avec
+# leur article : « un », « une » disent le genre.
+# Rédigé pour Vocabulary.
+module: actuel
+
+# ————— À la maison —————
+
+@ flat_pack
+w: flat-pack furniture
+t: maison
+tr: des meubles en kit
+x: It took us three hours to build the flat-pack wardrobe. | On a mis trois heures à monter l’armoire en kit.
+v: furniture
+
+@ boiler
+t: maison
+tr: une chaudière
+x: The boiler broke down in the middle of winter. | La chaudière est tombée en panne en plein hiver.
+v: heating
+
+@ radiator
+t: maison
+tr: un radiateur
+x: Put your wet socks on the radiator. | Mets tes chaussettes mouillées sur le radiateur.
+
+@ thermostat
+t: maison
+tr: un thermostat
+x: Turn the thermostat down to nineteen degrees. | Baisse le thermostat à dix-neuf degrés.
+
+@ kettle
+t: maison
+tr: une bouilloire
+n-fr: Objet indispensable dans une cuisine britannique : « put the kettle on » = « je fais du thé ».
+n-en: « Put the kettle on » is the classic British way of offering tea.
+x: I’ll put the kettle on. | Je mets l’eau à chauffer pour le thé.
+
+@ toaster
+t: maison
+tr: un grille-pain
+x: The toaster set off the smoke alarm again. | Le grille-pain a encore déclenché le détecteur de fumée.
+
+@ microwave
+t: maison
+tr: un micro-ondes
+x: Heat it up in the microwave for two minutes. | Fais-le réchauffer deux minutes au micro-ondes.
+
+@ air_fryer
+w: air fryer
+t: cuisine
+tr: une friteuse sans huile
+x: Everyone seems to have an air fryer now. | Tout le monde semble avoir une friteuse sans huile maintenant.
+
+@ mould
+t: maison
+tr: de la moisissure
+n-fr: Américain : « mold ».
+n-en: American: “mold”.
+x: There’s mould on the bathroom ceiling. | Il y a de la moisissure au plafond de la salle de bains.
+v: damp
+
+@ damp
+t: maison
+tr: humide ; l’humidité
+x: The flat is cold and damp. | L’appartement est froid et humide.
+v: mould
+
+@ leak
+t: maison
+tr: une fuite ; fuir
+x: There’s a leak under the sink. | Il y a une fuite sous l’évier.
+
+@ plumber
+t: maison
+tr: un plombier, une plombière
+x: We need to call a plumber. | Il faut appeler un plombier.
+
+@ electrician
+t: maison
+tr: un ou une électricien(ne)
+x: The electrician is coming to fix the socket. | L’électricien vient réparer la prise.
+
+@ decorate
+t: maison
+tr: refaire la déco, repeindre, retapisser
+a-fr: « decorate » désigne surtout les travaux de peinture et de papier peint, pas seulement la décoration.
+a-en: « Décorer » is mostly about ornaments; “decorate” often means painting and wallpapering.
+x: We’re decorating the spare room. | On refait la peinture de la chambre d’amis.
+
+@ lodger
+t: maison
+tr: un ou une locataire (chez l’habitant), un colocataire qui loue une chambre
+mq: gb
+x: They rent their spare room to a lodger. | Ils louent leur chambre d’amis à un locataire.
+
+@ studio_flat
+w: studio flat
+t: maison
+tr: un studio
+mq: gb
+n-fr: Américain : « studio apartment ».
+n-en: American: “studio apartment”.
+x: She lives in a tiny studio flat in Camden. | Elle vit dans un minuscule studio à Camden.
+
+@ letting_agent
+w: letting agent
+t: maison
+tr: une agence de location, un gestionnaire locatif
+mq: gb
+x: The letting agent charged us a fee. | L’agence de location nous a fait payer des frais.
+v: estate_agent
+
+@ bills_included
+w: bills included
+t: maison
+tr: charges comprises
+x: The rent is £900 a month, bills included. | Le loyer est de 900 livres par mois, charges comprises.
+v: rent
+
+@ doorbell
+t: maison
+tr: une sonnette
+x: The video doorbell sends a notification to my phone. | La sonnette vidéo envoie une notification sur mon téléphone.
+
+@ spare_room
+w: spare room
+t: maison
+tr: une chambre d’amis
+x: You can sleep in the spare room. | Tu peux dormir dans la chambre d’amis.
+
+# ————— Cuisine et repas —————
+
+@ brunch
+t: cuisine
+tr: un brunch
+x: Let’s meet for brunch on Sunday. | Retrouvons-nous pour un brunch dimanche.
+
+@ street_food
+w: street food
+t: cuisine
+tr: la cuisine de rue, la street food
+x: The market has great street food. | Le marché propose de la très bonne cuisine de rue.
+
+@ oat_milk
+w: oat milk
+t: cuisine
+tr: du lait d’avoine
+x: Can I have a latte with oat milk? | Je pourrais avoir un latte au lait d’avoine ?
+v: plant-based
+
+@ meal_deal
+w: meal deal
+t: cuisine
+tr: une formule (sandwich, boisson, en-cas)
+mq: gb
+n-fr: Institution britannique : sandwich + en-cas + boisson à prix fixe, au supermarché.
+n-en: A British supermarket lunch offer: sandwich, snack and drink.
+x: I just grabbed a meal deal for lunch. | J’ai juste pris une formule au supermarché pour le déjeuner.
+
+@ ready_meal
+w: ready meal
+t: cuisine
+tr: un plat préparé, un plat cuisiné
+mq: gb
+x: I was too tired to cook, so I had a ready meal. | J’étais trop fatigué pour cuisiner, alors j’ai pris un plat préparé.
+
+@ leftovers
+t: cuisine
+tr: les restes
+x: We had the leftovers for lunch the next day. | On a mangé les restes le lendemain midi.
+v: food_waste
+
+@ batch_cooking
+w: batch cooking
+t: cuisine
+tr: le batch cooking, la cuisine en grande quantité
+x: Batch cooking on Sunday saves me time all week. | Cuisiner en grande quantité le dimanche me fait gagner du temps toute la semaine.
+v: meal_prep
+
+@ slow_cooker
+w: slow cooker
+t: cuisine
+tr: une mijoteuse
+x: The stew has been in the slow cooker all day. | Le ragoût mijote dans la mijoteuse depuis ce matin.
+
+@ vegetarian
+t: cuisine
+tr: végétarien, végétarienne
+x: Is there a vegetarian option? | Il y a une option végétarienne ?
+v: vegan
+
+@ spicy
+t: cuisine
+tr: épicé, relevé, piquant
+x: Is the curry very spicy? | Le curry est très épicé ?
+
+@ sour
+t: cuisine
+tr: acide, aigre
+x: These sweets are really sour. | Ces bonbons sont vraiment acides.
+
+@ bitter
+t: cuisine
+tr: amer
+x: The coffee is a bit bitter. | Le café est un peu amer.
+
+@ savoury
+t: cuisine
+tr: salé (par opposition à sucré)
+a-fr: Pour dire « salé » au sens de « pas sucré », on dit « savoury » ; « salty » veut dire « trop salé ».
+a-en: “Savoury” means not sweet; “salty” means containing a lot of salt.
+x: Do you prefer sweet or savoury pancakes? | Tu préfères les crêpes sucrées ou salées ?
+
+@ pint
+t: cuisine
+tr: une pinte, un demi (de bière)
+mq: gb
+n-fr: Une pinte britannique fait 568 ml ; « half a pint » : un demi.
+n-en: A British pint is 568 ml.
+x: Fancy a pint after work? | On va boire une bière après le boulot ?
+
+@ pub
+t: cuisine
+tr: un pub, un bar
+x: We had Sunday lunch at the pub. | On a déjeuné au pub dimanche.
+v: argot:the_local
+
+@ full_english
+w: full English breakfast
+t: cuisine
+tr: un petit-déjeuner anglais complet
+mq: gb
+n-fr: Œufs, bacon, saucisses, haricots blancs à la tomate, champignons, tomate, toasts.
+n-en: Eggs, bacon, sausages, beans, mushrooms, tomato and toast.
+x: The hotel serves a full English breakfast. | L’hôtel sert un petit-déjeuner anglais complet.
+al: full English
+
+@ portion
+t: cuisine
+tr: une portion, une part
+x: The portions here are huge. | Les portions sont énormes ici.
+
+@ allergy_free
+w: dairy-free
+t: cuisine
+tr: sans lactose, sans produits laitiers
+x: Do you have any dairy-free desserts? | Vous avez des desserts sans produits laitiers ?
+v: gluten-free
+
+# ————— Vêtements —————
+
+@ vintage
+t: vetements
+tr: vintage, d’époque, ancien
+x: She buys all her clothes in vintage shops. | Elle achète tous ses vêtements dans des boutiques vintage.
+v: second-hand
+
+@ outfit
+t: vetements
+tr: une tenue
+x: I love your outfit! | J’adore ta tenue !
+
+@ trend
+t: vetements
+tr: une tendance
+x: Wide-leg trousers are the big trend this year. | Les pantalons larges sont la grande tendance de l’année.
+
+@ oversized
+t: vetements
+tr: oversize, ample
+x: She’s wearing an oversized jumper. | Elle porte un pull oversize.
+
+@ activewear
+t: vetements
+tr: les vêtements de sport, la tenue de sport
+x: More people wear activewear all day. | De plus en plus de gens portent des vêtements de sport toute la journée.
+
+@ dress_code
+w: dress code
+t: vetements
+tr: le code vestimentaire, la tenue exigée
+x: What’s the dress code for the wedding? | Quelle est la tenue exigée pour le mariage ?
+
+@ smart_casual
+w: smart casual
+t: vetements
+tr: tenue de ville décontractée, chic décontracté
+x: The invitation says “smart casual”. | L’invitation précise « chic décontracté ».
+
+@ sneakers_us
+w: sneakers
+t: vetements
+tr: des baskets
+mq: us
+n-fr: Britannique : « trainers ».
+n-en: British: “trainers”.
+x: He wore white sneakers with his suit. | Il portait des baskets blanches avec son costume.
+v: trainers
+
+@ capsule_wardrobe
+w: capsule wardrobe
+t: vetements
+tr: une garde-robe capsule
+x: My capsule wardrobe has thirty pieces. | Ma garde-robe capsule compte trente pièces.
+
+@ zip
+t: vetements
+tr: une fermeture éclair, un zip
+mq: gb
+n-fr: Américain : « zipper ».
+n-en: American: “zipper”.
+x: The zip on my coat is broken. | La fermeture éclair de mon manteau est cassée.
+
+@ button
+t: vetements
+tr: un bouton
+x: I’ve lost a button from my shirt. | J’ai perdu un bouton de ma chemise.
+
+@ sleeve
+t: vetements
+tr: une manche
+x: Roll up your sleeves. | Remonte tes manches.
+
+# ————— Le corps —————
+
+@ wrist
+t: corps
+tr: un poignet
+x: I broke my wrist skiing. | Je me suis cassé le poignet au ski.
+
+@ hip
+t: corps
+tr: une hanche
+x: My grandmother had a hip operation. | Ma grand-mère s’est fait opérer de la hanche.
+
+@ thumb
+t: corps
+tr: un pouce
+x: She gave me a thumbs up. | Elle m’a fait un pouce levé.
+
+@ eyebrow
+t: corps
+tr: un sourcil
+x: He raised an eyebrow. | Il a haussé un sourcil.
+
+@ lip
+t: corps
+tr: une lèvre
+x: My lips are dry. | J’ai les lèvres sèches.
+
+@ chin
+t: corps
+tr: un menton
+x: He has a scar on his chin. | Il a une cicatrice au menton.
+
+@ cheek
+t: corps
+tr: une joue ; du culot
+x: She kissed him on the cheek. | Elle l’a embrassé sur la joue.
+v: argot:cheeky
+
+@ forehead
+t: corps
+tr: un front
+x: Feel his forehead — he’s burning. | Touche son front, il est brûlant.
+
+@ lungs
+w: lung
+t: corps
+tr: un poumon
+x: Smoking damages your lungs. | Fumer abîme les poumons.
+
+@ bone
+t: corps
+tr: un os
+x: There are 206 bones in the human body. | Le corps humain compte 206 os.
+
+@ muscle
+t: corps
+tr: un muscle
+x: My muscles ache after the gym. | J’ai des courbatures après la salle.
+
+@ blood
+t: corps
+tr: le sang
+x: She gives blood twice a year. | Elle donne son sang deux fois par an.
+
+# ————— Famille et relations —————
+
+@ stepdad
+t: famille
+tr: un beau-père (conjoint de la mère)
+mq: fam
+a-fr: « Beau-père » a deux sens en français : le conjoint de sa mère (« stepfather ») et le père de son conjoint (« father-in-law »).
+a-en: French « beau-père » means both stepfather and father-in-law.
+x: I get on really well with my stepdad. | Je m’entends très bien avec mon beau-père.
+v: stepmother, in-laws
+
+@ godparent
+t: famille
+tr: un parrain, une marraine
+x: She asked me to be her son’s godparent. | Elle m’a demandé d’être le parrain de son fils.
+
+@ engaged_family
+w: get engaged
+t: famille
+tr: se fiancer
+x: They got engaged on the beach at sunset. | Ils se sont fiancés sur la plage au coucher du soleil.
+v: get_married, expressions:engaged
+
+@ divorce
+t: famille
+tr: un divorce ; divorcer
+x: Her parents got divorced when she was ten. | Ses parents ont divorcé quand elle avait dix ans.
+
+@ widow
+t: famille
+tr: une veuve
+n-fr: Un veuf : « a widower ».
+n-en: The male form is “widower”.
+x: She’s been a widow for five years. | Elle est veuve depuis cinq ans.
+
+@ blended_family
+w: blended family
+t: famille
+tr: une famille recomposée
+x: We’re a blended family with five kids. | Nous sommes une famille recomposée avec cinq enfants.
+
+@ co_parenting
+w: co-parenting
+t: famille
+tr: la coparentalité
+x: After the divorce, they managed co-parenting well. | Après le divorce, ils ont bien géré la coparentalité.
+
+@ first_date
+w: first date
+t: famille
+tr: un premier rendez-vous
+x: Where did you go on your first date? | Vous êtes allés où pour votre premier rendez-vous ?
+v: date
+
+@ long_distance
+w: long-distance relationship
+t: famille
+tr: une relation à distance
+x: Long-distance relationships are hard. | Les relations à distance, c’est difficile.
+
+@ empty_nest
+w: empty nester
+t: famille
+tr: un parent dont les enfants ont quitté la maison
+x: Now that the kids have left, we’re empty nesters. | Maintenant que les enfants sont partis, la maison est bien vide.
+
+@ pet
+t: famille
+tr: un animal de compagnie
+x: Do you have any pets? | Tu as des animaux de compagnie ?
+
+# ————— Le temps qui passe —————
+
+@ in_a_bit
+w: in a bit
+t: temps
+tr: tout à l’heure, dans un moment
+mq: fam
+x: I’ll call you in a bit. | Je t’appelle tout à l’heure.
+v: soon
+
+@ ages
+t: temps
+tr: une éternité, des lustres
+mq: fam
+x: I haven’t seen her for ages. | Ça fait une éternité que je ne l’ai pas vue.
+
+@ last_minute
+w: last-minute
+t: temps
+tr: de dernière minute
+x: We booked a last-minute holiday. | On a réservé des vacances de dernière minute.
+
+@ on_time
+w: on time
+t: temps
+tr: à l’heure
+a-fr: « on time » : à l’heure prévue ; « in time » : à temps, assez tôt.
+a-en: “On time” means at the planned time; “in time” means early enough.
+x: The train was on time for once. | Pour une fois, le train était à l’heure.
+v: in_time
+
+@ in_time
+w: in time
+t: temps
+tr: à temps
+x: We got to the airport just in time. | On est arrivés à l’aéroport juste à temps.
+v: on_time
+
+@ clocks_go_forward
+w: the clocks go forward
+t: temps
+tr: on passe à l’heure d’été
+mq: gb
+n-fr: Et en automne : « the clocks go back » (on passe à l’heure d’hiver).
+n-en: In autumn, “the clocks go back”.
+x: The clocks go forward this weekend, so we lose an hour. | On passe à l’heure d’été ce week-end : on perd une heure.
+
+@ midnight
+t: temps
+tr: minuit
+x: The shop is open until midnight. | Le magasin est ouvert jusqu’à minuit.
+
+@ noon
+t: temps
+tr: midi
+x: Check-out is at noon. | Il faut libérer la chambre à midi.
+
+@ decade
+t: temps
+tr: une décennie
+x: Prices have doubled in a decade. | Les prix ont doublé en dix ans.
+
+# ————— Météo et nature —————
+
+@ humid
+t: meteo
+tr: humide, lourd
+x: It’s really humid today. | Il fait vraiment lourd aujourd’hui.
+
+@ freezing
+t: meteo
+tr: glacial ; il gèle
+x: It’s freezing outside! | Il fait un froid glacial dehors !
+
+@ chilly
+t: meteo
+tr: frais, frisquet
+x: It’s a bit chilly this morning. | Il fait un peu frisquet ce matin.
+
+@ mild
+t: meteo
+tr: doux
+x: It’s been a mild winter. | L’hiver a été doux.
+
+@ overcast
+t: meteo
+tr: couvert
+x: The sky is overcast. | Le ciel est couvert.
+
+@ sleet
+t: meteo
+tr: de la neige fondue
+x: The rain turned to sleet. | La pluie s’est transformée en neige fondue.
+
+@ hail
+t: meteo
+tr: la grêle
+x: The hail damaged the cars. | La grêle a abîmé les voitures.
+
+@ frost
+t: meteo
+tr: le gel, le givre
+x: There was frost on the windscreen. | Il y avait du givre sur le pare-brise.
+
+@ boiling
+t: meteo
+tr: (il fait) une chaleur étouffante, une fournaise
+mq: fam
+x: It’s boiling in here — can we open a window? | On étouffe ici, on peut ouvrir une fenêtre ?
+
+@ spitting
+w: it’s spitting
+t: meteo
+tr: il pleuviote, il crachine
+mq: fam, gb
+x: It’s only spitting — we don’t need an umbrella. | Il pleuviote à peine, pas besoin de parapluie.
+v: drizzle
+
+# ————— Transports et ville —————
+
+@ bus_lane
+w: bus lane
+t: mobilite
+tr: une voie de bus
+x: You can get fined for driving in the bus lane. | On peut avoir une amende si on roule dans la voie de bus.
+
+@ cycle_lane
+w: cycle lane
+t: mobilite
+tr: une piste cyclable
+x: The new cycle lane goes all the way to the station. | La nouvelle piste cyclable va jusqu’à la gare.
+v: bike
+
+@ speed_camera
+w: speed camera
+t: mobilite
+tr: un radar (de vitesse)
+x: Slow down, there’s a speed camera. | Ralentis, il y a un radar.
+
+@ congestion_charge
+w: congestion charge
+t: mobilite
+tr: le péage urbain
+mq: gb
+x: You have to pay the congestion charge to drive into central London. | Il faut payer le péage urbain pour entrer en voiture dans le centre de Londres.
+v: low-emission_zone
+
+@ car_sharing
+w: car sharing
+t: mobilite
+tr: l’autopartage ; le covoiturage
+n-fr: Pour le covoiturage domicile-travail, on dit aussi « carpooling » (surtout américain) ou « lift sharing ».
+n-en: For sharing a ride to work, also “carpooling” or “lift sharing”.
+x: Car sharing is cheaper than owning a car in the city. | L’autopartage revient moins cher qu’avoir une voiture en ville.
+
+@ commuter
+t: mobilite
+tr: un ou une navetteur(se), quelqu’un qui fait la navette
+x: The train was full of commuters. | Le train était plein de gens qui allaient travailler.
+v: commute
+
+@ season_ticket
+w: season ticket
+t: mobilite
+tr: un abonnement (de transport)
+mq: gb
+x: My annual season ticket costs a fortune. | Mon abonnement annuel coûte une fortune.
+
+@ railcard
+t: mobilite
+tr: une carte de réduction (train)
+mq: gb
+x: With a railcard you get a third off. | Avec une carte de réduction, on a un tiers de remise.
+
+@ parking_ticket
+w: parking ticket
+t: mobilite
+tr: une contravention, un PV de stationnement
+x: I got a parking ticket outside the dentist’s. | J’ai pris un PV devant chez le dentiste.
+
+@ breakdown
+t: mobilite
+tr: une panne (de voiture)
+x: We had a breakdown on the motorway. | On est tombés en panne sur l’autoroute.
+v: expressions:break_down
+
+@ flat_tyre
+w: flat tyre
+t: mobilite
+tr: un pneu crevé, une crevaison
+n-fr: Américain : « flat tire ».
+n-en: American: “flat tire”.
+x: I had a flat tyre on the way to work. | J’ai crevé en allant au travail.
+
+@ sat_nav
+w: satnav
+t: mobilite
+tr: un GPS
+mq: gb
+x: The satnav sent us down a farm track. | Le GPS nous a envoyés sur un chemin de terre.
+al: sat nav
+
+@ diversion
+t: mobilite
+tr: une déviation
+mq: gb
+n-fr: Américain : « detour ».
+n-en: American: “detour”.
+x: Follow the diversion signs. | Suivez les panneaux de déviation.
+
+@ roadworks
+t: mobilite
+tr: des travaux (sur la route)
+x: There are roadworks on the high street. | Il y a des travaux dans la rue principale.
+
+# ————— Loisirs et sport —————
+
+@ hiking
+t: loisirs
+tr: la randonnée
+x: We went hiking in the Lake District. | On a fait de la randonnée dans le Lake District.
+v: walking
+
+@ camping
+t: loisirs
+tr: le camping
+x: We’re going camping in Wales. | On part camper au pays de Galles.
+
+@ cycling
+t: loisirs
+tr: le vélo, le cyclisme
+x: Cycling to work keeps me fit. | Aller au travail à vélo me garde en forme.
+
+@ yoga
+t: loisirs
+tr: le yoga
+x: I do yoga before work. | Je fais du yoga avant le travail.
+
+@ padel
+t: loisirs
+tr: le padel
+x: Padel is the fastest-growing sport in Europe. | Le padel est le sport qui progresse le plus vite en Europe.
+
+@ escape_room
+w: escape room
+t: loisirs
+tr: un escape game, un jeu d’évasion
+a-fr: « escape game » est une expression française ; en anglais, on dit « escape room ».
+a-en: French says « escape game »; English says “escape room”.
+x: We got out of the escape room with two minutes left. | On est sortis de l’escape game à deux minutes de la fin.
+
+@ pub_quiz
+w: pub quiz
+t: loisirs
+tr: un quiz au pub
+mq: gb
+x: Our team won the pub quiz last night. | Notre équipe a gagné le quiz du pub hier soir.
+
+@ karaoke
+t: loisirs
+tr: le karaoké
+x: She always sings the same song at karaoke. | Elle chante toujours la même chanson au karaoké.
+
+@ festival
+t: loisirs
+tr: un festival
+x: We’re going to a music festival this summer. | On va à un festival de musique cet été.
+
+@ playlist
+t: loisirs
+tr: une playlist, une liste de lecture
+x: I made a playlist for the road trip. | J’ai fait une playlist pour le road trip.
+
+@ gaming
+t: loisirs
+tr: les jeux vidéo, le gaming
+x: He spends his weekends gaming. | Il passe ses week-ends à jouer aux jeux vidéo.
+v: video_game
+
+@ esports
+t: loisirs
+tr: l’e-sport
+x: Esports tournaments fill entire stadiums. | Les tournois d’e-sport remplissent des stades entiers.
+
+@ audiobook
+t: loisirs
+tr: un livre audio
+x: I listen to audiobooks on my commute. | J’écoute des livres audio pendant mes trajets.
+
+@ book_club
+w: book club
+t: loisirs
+tr: un club de lecture
+x: My book club meets once a month. | Mon club de lecture se réunit une fois par mois.
+
+@ crossword
+t: loisirs
+tr: des mots croisés
+x: My dad does the crossword every morning. | Mon père fait les mots croisés tous les matins.
+
+@ staycation
+t: loisirs
+tr: des vacances à la maison, des vacances dans son pays
+mq: neo
+x: We had a staycation in Cornwall this year. | Cette année, on a passé nos vacances en Cornouailles, sans partir à l’étranger.
+
+@ city_break
+w: city break
+t: loisirs
+tr: un week-end dans une ville, un court séjour urbain
+mq: gb
+x: We’re off on a city break to Lisbon. | On part quelques jours à Lisbonne.
+
+@ bucket_list
+w: bucket list
+t: loisirs
+tr: la liste des choses à faire avant de mourir
+x: Seeing the northern lights is on my bucket list. | Voir les aurores boréales fait partie des choses que je veux faire dans ma vie.
+
+# ————— Émotions et caractère —————
+
+@ anxious
+t: emotions
+tr: anxieux, angoissé
+x: I get anxious before exams. | Je suis angoissé avant les examens.
+v: worried
+
+@ overwhelmed
+t: emotions
+tr: débordé, submergé, dépassé
+x: I feel overwhelmed by all this work. | Je me sens submergé par tout ce travail.
+
+@ frustrated
+t: emotions
+tr: agacé, découragé, frustré
+x: I’m frustrated that nothing has changed. | Ça m’agace que rien n’ait changé.
+
+@ nervous
+t: emotions
+tr: nerveux, anxieux, qui a le trac
+a-fr: « nervous » veut surtout dire « qui a le trac, inquiet » ; « énervé » se dit « annoyed », « irritated ».
+a-en: French « nerveux » can mean jumpy; « énervé » means annoyed.
+x: I’m nervous about the interview. | J’ai le trac pour l’entretien.
+
+@ calm
+t: emotions
+tr: calme
+x: She stayed calm during the crisis. | Elle est restée calme pendant la crise.
+
+@ cheerful
+t: emotions
+tr: gai, joyeux, de bonne humeur
+x: He’s always cheerful in the morning. | Il est toujours de bonne humeur le matin.
+
+@ moody
+t: emotions
+tr: lunatique, d’humeur changeante, grognon
+x: Teenagers can be very moody. | Les ados peuvent être très lunatiques.
+
+@ grumpy
+t: emotions
+tr: grincheux, ronchon
+x: He’s grumpy until he’s had his coffee. | Il est grincheux tant qu’il n’a pas bu son café.
+
+@ homesick
+t: emotions
+tr: qui a le mal du pays
+x: I was homesick during my first term abroad. | J’avais le mal du pays pendant mon premier trimestre à l’étranger.
+
+@ heartbroken
+t: emotions
+tr: qui a le cœur brisé
+x: She was heartbroken when her dog died. | Elle a eu le cœur brisé quand son chien est mort.
+
+@ hopeful
+t: emotions
+tr: plein d’espoir, optimiste
+x: I’m hopeful we’ll find a solution. | J’ai bon espoir qu’on trouve une solution.
+
+@ stubborn
+t: emotions
+tr: têtu, obstiné
+x: He’s too stubborn to say sorry. | Il est trop têtu pour s’excuser.
+
+@ generous
+t: emotions
+tr: généreux
+x: That’s very generous of you. | C’est très généreux de ta part.
+
+@ selfish
+t: emotions
+tr: égoïste
+x: Don’t be so selfish — share it. | Ne sois pas si égoïste, partage.
+
+@ open_minded
+w: open-minded
+t: emotions
+tr: ouvert d’esprit
+x: My grandparents are surprisingly open-minded. | Mes grands-parents sont étonnamment ouverts d’esprit.
+
+@ thoughtful
+t: emotions
+tr: attentionné, prévenant ; pensif
+x: What a thoughtful present! | Quel cadeau attentionné !

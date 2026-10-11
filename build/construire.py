@@ -68,6 +68,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 import alignement
+import citations as citations_traduites
 import commun
 import corpus
 import croisees
@@ -112,6 +113,12 @@ CITATION_MAX = 200
 # Un nom propre n'entre que s'il est d'usage courant : « London », « Londres »,
 # « Allemagne » oui ; les milliers de localités du Wiktionnaire non.
 ZIPF_NOM_PROPRE = 3.0
+
+# Une graphie britannique ne prend la vedette que si elle n'est pas beaucoup
+# plus rare que l'américaine (écart de fréquence zipf) : colour/color passent,
+# dat/that ou ould/old non.
+ECART_DE_FREQUENCE_GB = 1.5
+ZIPF_GB_COURANT = 3.0
 
 BUDGET_NOYAU = 32 * 1024 * 1024
 BUDGET_COMPLET = 160 * 1024 * 1024
@@ -476,10 +483,40 @@ def orthographe_britannique(dictionnaires, variantes, index_formes, index_graphi
     carte = {}
     cles_us_gb = {}
     deplacees = fusionnees = 0
+    # Garde-fou : une vraie graphie britannique est à peu près aussi courante
+    # que l'américaine (colour/color, centre/center). Une graphie bien plus
+    # rare est une prononciation notée (« dat » pour that, « ould » pour old) :
+    # la mettre en vedette ferait disparaître le mot courant.
+    try:
+        from wordfreq import zipf_frequency
+    except ImportError:
+        zipf_frequency = None
+    ecartees = []
+    # Le Wiktionnaire note parfois la paire à l'envers (« civilize » → civilise) :
+    # on retient toute graphie qui figure dans une paire, dans un sens ou l'autre.
+    graphies_en_paire = ({commun.cle(g) for g in variantes}
+                         | {commun.cle(g) for _, g in variantes.values()})
     for britannique, (sens, americaine) in variantes.items():
         if sens != "gb" or britannique == americaine:
             continue
         if americaine not in anglais:
+            continue
+        # Le garde-fou ne vaut que pour un mot courant : entre deux mots rares
+        # (atomize, canonise), l'écart de fréquence ne dit rien.
+        if zipf_frequency and zipf_frequency(americaine, "en") >= ZIPF_GB_COURANT and (
+                zipf_frequency(americaine, "en")
+                - zipf_frequency(britannique, "en")) > ECART_DE_FREQUENCE_GB:
+            ecartees.append(britannique)
+            continue
+        # « tanks » est le pluriel de tank, pas une graphie de thanks ; mais
+        # « counselling » et « counseling » mènent tous deux à counsel, et
+        # « civilised » mène à civilise, elle-même une graphie en paire.
+        cle_us = commun.cle(americaine)
+        famille_us = index_formes.get(cle_us, set()) | {cle_us}
+        autres_lemmes = {l for l in index_formes.get(commun.cle(britannique), set()) - famille_us
+                         if l not in graphies_en_paire}
+        if autres_lemmes and britannique not in anglais:
+            ecartees.append(britannique)
             continue
         carte[americaine] = britannique
         entree_us = anglais[americaine]
@@ -538,7 +575,7 @@ def orthographe_britannique(dictionnaires, variantes, index_formes, index_graphi
                         nouvelles.append(t2)
                 bloc[1] = nouvelles
     journal.update({"deplacees": deplacees, "fusionnees": fusionnees,
-                    "traductions": remplacees})
+                    "traductions": remplacees, "ecartees": ecartees})
     return carte
 
 
@@ -658,7 +695,13 @@ def ecrire_vivier(dossier, vivier):
 SANS_PHRASES = {"sens": {}, "libres": []}
 
 
-def entree_ecrite(entree, rang_de_bande, attribution, voisins, citations_max):
+# Les exemples anglais repris à la main — traduits, remplacés quand ils
+# étaient anciens, ajoutés aux sens qui n'en avaient pas (voir citations.py).
+# Chargés une fois par main().
+EXEMPLES_REPRIS = {}
+
+
+def entree_ecrite(entree, rang_de_bande, attribution, voisins, citations_max, langue):
     """Une entrée dans sa forme définitive. Le rang du sens dans la liste
     aplatie fait le lien avec `phrases.attribuer_aux_sens` : les deux
     parcourent les lectures puis les sens dans le même ordre."""
@@ -669,6 +712,9 @@ def entree_ecrite(entree, rang_de_bande, attribution, voisins, citations_max):
         sens = []
         for bloc in lecture[4]:
             citations = bloc[2][:citations_max] if len(bloc) > 2 else []
+            if langue == "en":
+                citations = citations_traduites.reprendre(
+                    entree["mot"], bloc[0], citations, bool(par_sens.get(rang)), EXEMPLES_REPRIS)
             codes = list(bloc[3]) if len(bloc) > 3 else []
             crues = bloc[4] if len(bloc) > 4 else 0
             ecrit = [bloc[0], bloc[1], citations, par_sens.get(rang, []), codes]
@@ -721,7 +767,7 @@ def ecrire_paquet(dossier, langue, selection, positions, phrases_, voisins,
             "l": langue,
             "e": [entree_ecrite(e, bande(positions[e["mot"]]),
                                 phrases_.get(e["mot"], SANS_PHRASES),
-                                voisins.get(e["mot"], []), citations_max)
+                                voisins.get(e["mot"], []), citations_max, langue)
                   for e in tranche],
         }
         texte = json.dumps(contenu, ensure_ascii=False, separators=(",", ":"))
@@ -790,6 +836,9 @@ def main():
     debut = time.time()
     if not (SOURCES / "eng-fra.tei").exists():
         raise SystemExit("Sources absentes. Lance d'abord : python build/telecharger.py")
+
+    EXEMPLES_REPRIS.update(citations_traduites.charger())
+    print(f"Exemples anglais repris à la main : {len(EXEMPLES_REPRIS)}\n")
 
     print("Lecture des dictionnaires TEI")
     dictionnaires, index_formes, index_graphies, moutures = {}, {}, {}, {}
@@ -871,6 +920,9 @@ def main():
     print(f"  {journal_gb['deplacees']} vedettes passées sous leur graphie britannique, "
           f"{journal_gb['fusionnees']} fusionnées, {journal_gb['traductions']} traductions "
           f"françaises mises à l'anglais britannique")
+    if journal_gb["ecartees"]:
+        print(f"  {len(journal_gb['ecartees'])} graphies écartées, bien plus rares que "
+              f"la vedette : {', '.join(sorted(journal_gb['ecartees']))}")
 
     print("\nLecture du corpus Tatoeba")
     paires_alignees, anglaises, francaises = corpus.paires()

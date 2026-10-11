@@ -1,0 +1,201 @@
+# lot 025 — English, county, couple, dead, happen, hold, industry, inside, online, player, private, return, sense, star, test, view, British, break, event, hour, member, middle, present, result
+aa24e0319b Les caractéristiques sont toutes correctes, mais l’anglais des instructions n’est pas aussi clair qu’il devrait l’être.
+44f748cb64 ✗
+de416515b9 Comment dit-on « à peu près » en anglais ?
+04184957f7 L’anglais est parlé ici comme langue non officielle et langue véhiculaire.
+41f70d2821 = I’ve got double ⟦English⟧ on Monday morning. | J’ai deux heures d’anglais le lundi matin.
+a3f59db506 Il ne peut pas venir ; il est en détention au comté pour coups et blessures aggravés.
+bce66f6d1b Bon, messieurs, vous êtes déjà allés tous les deux à la prison du comté, j’en suis sûr. Voilà.
+57890be6ac La première des principautés des Pays-Bas à prendre une forme nette fut le comté de Flandre.
+666cc50681 Deux policiers sont apparus à la porte.
+b6c926daa8 […] deux tables ; l’une portait de quoi préparer le souper, tandis que sur l’autre […]
+6c32b21596 Faire échanger des vœux à un couple adoré (Jim et Pam, Cory et Topanga) était autrefois un moyen infaillible de doper l’audience télé.
+8ffc9a159c Quand nous sommes remontés à bord après deux ou trois heures à terre […]
+763e5bd51b Deux boules de billard couvertes de boue et de saleté, deux chapeaux cabossés, une bouteille de champagne […]
+3e4b5c0c2e = Each zinc–copper ⟦couple⟧ produces a small voltage. | Chaque couple zinc-cuivre produit une petite tension.
+a9da2ee390 = Two equal and opposite forces form a ⟦couple⟧ that makes the wheel turn. | Deux forces égales et opposées forment un couple qui fait tourner la roue.
+eddd53c4a0 ✗
+1bca970035 En passant devant la laiterie de montagne abandonnée, nous avons dû croiser la piste fraîche d’un lièvre, car les chiens se sont agités dans leurs couples.
+21e3f9823c Maintenant, le chef de train va atteler les wagons.
+e1b1131b7c J’ai couplé notre système au leur.
+a956422351 Je vais rendre un très bon office : assister l’archevêque dans la dégradation d’un pasteur qui marie tous nos mendiants
+1920ba7e3c Lors de leur nuit de noces, ils se sont unis neuf fois.
+4a86a1be96 Elle fit construire par le brillant inventeur et artisan Dédale une vache artificielle, dans laquelle elle se cacha pour amener le taureau à s’accoupler avec elle […]
+1442f7c5d8 ✗
+89aea25721 ✗
+011a60daa5 Les morts sont toujours avec nous, dans nos cœurs.
+0c5139360a Un commerçant du centre-ville a été abattu hier soir.
+526a8b602b Était-il possible d’exister sur un monde mort ?
+b3528b9774 Voici la substance d’où toute chose tire son énergie, le brillant Esprit du Globe, sans lequel il ne peut vivre, mais doit devenir froid et mort comme la lune morte.
+39d10a7a0c au cœur de la nuit
+7fa755a884 au cœur de l’hiver
+b2ef548401 Laisse-moi te raconter comment c’est arrivé.
+3763f7bfc2 Prends un parapluie au cas où il pleuvrait.
+a7c5a46dff Tu n’aurais pas un parapluie, par hasard ?
+a7235d283b « Sur mon âme ! je crois qu’il m’est arrivé quelque chose de mauvais », murmura-t-il ; il ouvrit d’un coup sa fenêtre et regarda dehors, à demi rêveur, vers le cimetière et le parc au-delà […]
+480efb350a Tiens le crayon comme ça.
+df79c74c3d Le général ordonna au colonel de tenir sa position coûte que coûte.
+dbed615256 Tiens-moi mon manteau.
+90cf259696 Il n’a ni assez de jugement ni assez de maîtrise de soi pour tenir sa langue.
+d03488685b ✗
+1f233a8baf = The club ⟦holds⟧ a meeting every first Monday of the month. | Le club tient une réunion le premier lundi de chaque mois.
+7f9d29a882 = ⟦Hold⟧ on — don’t send that email yet! | Attends, n’envoie pas encore ce mail !
+e55560dc82 = The suitcases are loaded into the ⟦hold⟧ before take-off. | Les valises sont chargées en soute avant le décollage.
+ea1a3e7c9b Tiens fermement le guidon.
+88f3e56580 Je peux prendre le bébé un moment ?
+766bab743a Au fil des ans, leur assiduité et leur sens des affaires les ont enrichis.
+fd2b7177c5 La ligne s’arrête à Narvik. Il y a huit ans, toute la ville était en ruines, mais le labeur du peuple norvégien l’a entièrement reconstruite.
+e8998f9225 = The region lost much of its ⟦industry⟧ in the 1980s. | La région a perdu une grande partie de son industrie dans les années 1980.
+2d0d3c6118 La sidérurgie utilise depuis longtemps des hauts fourneaux pour fondre le fer.
+f6c93e6a82 Les secteurs du logiciel et du tourisme continuent de croître, tandis que la sidérurgie reste en difficulté.
+594b30ea08 L’intérieur du bâtiment a été largement restauré.
+0c2c02e3ca = The ⟦inside⟧ of the box was lined with velvet. | L’intérieur de la boîte était tapissé de velours.
+2e7efea49b Sur une autoroute, il ne faut jamais dépasser un autre véhicule par l’intérieur.
+cdd8a57579 La voiture de devant a élargi dans le virage, alors je me suis faufilé à la corde pour prendre la tête.
+7e4b229756 La surface intérieure de la tasse n’est pas peinte.
+cd59537868 Toutes les places côté fenêtre étaient prises, alors elle a pris une place côté couloir.
+c525dd28d6 À cause du virage plus serré, il est plus difficile de courir dans un couloir intérieur.
+5931643e2c Le journaliste avait reçu des informations de l’intérieur sur le rachat à venir.
+da8b98dd90 Le vol a été préparé par l’agent de sécurité : c’était un coup monté de l’intérieur.
+e4d3d5ae4b J’ai ouvert le livre et j’ai trouvé un mot caché à l’intérieur.
+9c758fb387 Il s’est mis à pleuvoir, alors je suis rentré.
+74d58db1ac Il neigeait, alors les enfants sont restés à l’intérieur.
+8c99f24846 À l’intérieur, le plafond, les poutres, les murs et l’escalier sont en douglas et en pin d’origine locale […]
+eb54d712c7 J’ai nettoyé la vitre côté intérieur.
+6a982e034e Il a glissé la lettre dans l’enveloppe.
+90eff3d0f2 Il était dans l’embrasure de la porte.
+6035460bd2 Elle est entrée dans la maison.
+aac77e4005 Le travail a été terminé en moins de deux semaines.
+fe0384e9b1 Ce modem est-il connecté ?
+1bd2e51589 Je serai en ligne ce soir, donc je pourrai répondre à ton mail.
+0ae3724e69 Je préfère lire les journaux en ligne.
+df50e12b03 Le monde en ligne était censé être un système ouvert, mais il est devenu dominé par d’énormes entreprises.
+3b70f15948 ✗
+9df738468d Il joue pour l’équipe d’Australie.
+1f0677a176 = The ⟦players⟧ took a bow at the end of the play. | Les comédiens ont salué à la fin de la pièce.
+428b8d3eca C’est un joueur passionné de Minecraft.
+c84bb83aae = He was a heavy ⟦player⟧ and lost his house at the casino. | C’était un gros joueur, et il a perdu sa maison au casino.
+3fe223a07f Ton lecteur de CD est cassé, ou c’est juste ce disque qui est abîmé ?
+1e92e6e80c Les pianos mécaniques électriques utilisaient soit une pompe rotative à quatre lobes entraînée par courroie par un moteur électrique, soit un moteur électrique autonome et …
+582081002b « Traité technique du mécanisme des pianos mécaniques » contient une description détaillée des différents types de pianolas intégrés et externes : manuels, pneumatiques, automatiques, mécaniques et électriques
+9145cbdd6a Dans certains pays, les soins de santé sont assurés à la fois par l’État et par des entreprises privées.
+d20d862fb6 On peut aller dans un endroit plus tranquille ?
+831826b911 Je l’invitai à prendre le petit-déjeuner avec moi ; il accepta l’invitation et me dit qu’il me parlerait de lui quand nous serions dans un endroit plus discret.
+15e83109b2 Ce livre est son journal intime.
+86b2c41e1e C’était une chose très intime, estimaient-ils, à ne pas étaler à tort et à travers.
+0a5839c1d4 L’identité des bénéficiaires du trust est confidentielle.
+fc5034d6aa Le point clé de l’article d’origine était que la relation avec la femme, prénommée « Colette », avait été révélée parce qu’Aupetit avait envoyé par erreur à sa secrétaire une lettre privée qui lui était destinée.
+46556577d9 = He joined the army as a ⟦private⟧ at eighteen. | Il s’est engagé comme simple soldat à dix-huit ans.
+476d682bda Comme on déplace déjà des patients avec les limites que nous avons fixées en 1982 sur le plafonnement de Medicare, on s’aperçoit que les établissements privés prennent le relais, […]
+f6f25f4058 ✗
+da2f830d27 Les oiseaux partent vers le nord pour l’été, mais ils reviennent ici en hiver.
+1f230b2b8d « Je suis passé et je reviendrai », déclara le général MacArthur lors de son discours à Terowie à propos des Philippines assiégées.
+5d00e8dd88 Tu dois rendre le livre de la bibliothèque dans un délai d’un mois.
+c8f61e9330 = She ⟦returned⟧ his serve straight down the line. | Elle a renvoyé son service le long de la ligne.
+f532ce0771 Pour en revenir à mon histoire […]
+6afd1d6d4c ✗
+da5d581d60 ✗
+33dd13e476 Je veux que la maison soit impeccable à mon retour.
+9a46e50438 J’eus l’occasion […] de faire un assez long voyage d’affaires à Chicago, et à mon retour […] je trouvai Farrar qui m’attendait à la gare.
+e1090aec49 Cela a rapporté 5 %.
+5b9b8ba812 = The fund offers a good ⟦return⟧ on your savings. | Le fonds offre un bon rendement à votre épargne.
+94dbf0cde0 Vous voulez un aller simple ou un aller-retour ?
+24d94a1d5c La plupart des retours de produits aux grands distributeurs américains (qu’ils viennent directement des clients ou d’invendus) sont repris par les fournisseurs d’origine pour être retravaillés ou éliminés.
+34cf06f8e5 = Dogs have a much sharper ⟦sense⟧ of smell than humans. | Les chiens ont un odorat bien plus fin que les humains.
+af16437673 ✗
+f6f7ea24ed un sentiment de sécurité
+b4756b415d Un petit éclair, une allusion mystique ; […]
+fb264a6a41 Le bon sens veut qu’on ne mette pas d’objets métalliques au micro-ondes.
+eb441c9c9b = At least she had the ⟦sense⟧ to call for help. | Elle a au moins eu le bon sens d’appeler à l’aide.
+69f152d32b = This word has three different ⟦senses⟧ in the dictionary. | Ce mot a trois sens différents dans le dictionnaire.
+b1d593ac36 = Bats ⟦sense⟧ their prey using sound. | Les chauves-souris repèrent leurs proies grâce au son.
+a00a45ec3b Elle a tout de suite senti son mépris.
+0c35acf4d4 […] sur qui […] / L’Honneur prodigue avait fait pleuvoir toutes ses étoiles, […]
+adba860e6f = The hotel has four ⟦stars⟧. | L’hôtel a quatre étoiles.
+51b980b6e1 De nombreuses stars d’Hollywood ont assisté à la soirée de lancement.
+a8107d637c = She drew a five-pointed ⟦star⟧ on the card. | Elle a dessiné une étoile à cinq branches sur la carte.
+7389c8db19 Elle a joué le premier rôle dans des dizaines de films muets.
+0574d197c6 J’étais submergé d’invitations ; […] je me sentais en effet comme doit se sentir un grand acteur quand il part « en vedette » en tournée en province.
+1566d8e492 La série a pour vedette Calista Flockhart dans le rôle d’une avocate de haut vol.
+1e73d3b738 ✗
+d0abf25b3d ✗
+3b21f8a7f8 ✗
+10a40bc24b L’ascension de la montagne a mis notre endurance à l’épreuve.
+600c5ed1e5 = The teacher will ⟦test⟧ us on irregular verbs on Friday. | Le prof va nous interroger sur les verbes irréguliers vendredi.
+5f46f5f596 ✗
+b05ae974f7 éprouver la solidité d’un principe
+b6be32022d vérifier la validité d’un argument
+38073a1a9d Il a changé de place pour avoir une vue complète de la scène.
+04d475fc28 Les objets proches de notre vue paraissent volontiers plus grands que des objets de plus grande taille plus éloignés.
+7190784634 S’il y a des lapins dans ce parc, ils restent soigneusement hors de notre vue.
+5a737ebcfa = The coast came into ⟦view⟧ as the fog lifted. | La côte est apparue quand le brouillard s’est levé.
+dff069dce9 Mon appartement donne sur une casse auto.
+56069be0b0 la vue depuis une fenêtre
+4b2142d4db Cette vidéo a fait un million de vues.
+e6ed1aa899 Son autre chanson, « Nepal Haseko », est devenue un hymne pendant les manifestations de l’an dernier et compte déjà plus de 10 millions de vues sur YouTube.
+a09be2f5c0 Ta vision de l’évolution repose sur des doctrines religieuses, pas sur des découvertes scientifiques.
+187384ac78 Il y a eu peu de sondages sur l’opinion des consommateurs à propos des aliments génétiquement édités, parce qu’ils sont encore très récents.
+9ab3f99815 La vidéo a été vue par des millions de personnes.
+4dd0c694bc Je considère cela comme un grave abus de confiance.
+361e9facb7 = The ⟦British⟧ love talking about the weather. | Les Britanniques adorent parler de la météo.
+26fbf09dd0 = In ⟦British⟧, you say “flat”, not “apartment”. | En anglais britannique, on dit « flat », pas « apartment ».
+9d881366dc = She has a strong ⟦British⟧ accent. | Elle a un fort accent britannique.
+9b8e6e0403 = Welsh descends from the ancient ⟦British⟧ language. | Le gallois descend de l’ancienne langue brittonique.
+bed6d7d110 Si le vase tombe par terre, il risque de se casser.
+b29c6f33bc Pour porter secours à la victime de l’accident, il va briser la vitre de la voiture.
+4d81a80e41 Tu peux me faire la monnaie sur un billet de cent dollars ?
+fc47c7c060 Le grossiste a fractionné les conteneurs en palettes et en cartons pour les détaillants locaux.
+1fd6ed95fa Je ne veux pas entamer mon billet de cent dollars.
+beaf0f01c1 La mort de son enfant a brisé Angela.
+6dbb05108a Les interrogateurs ont employé de nombreuses formes de torture pour briser les prisonniers de guerre.
+8676bea3d8 Le colonel : Vous voyez, messieurs ? On peut dresser n’importe quel cheval.
+52391c34ab Il faut dresser un éléphant avant de pouvoir l’utiliser comme bête de somme.
+3c72839a80 ✗
+2ed049a66d Le fémur présente une fracture nette, il devrait donc bien se consolider.
+d2cdbfbf0f Le soleil est apparu dans une trouée des nuages.
+4024dd9d69 Il a attendu plusieurs minutes une accalmie dans la circulation pour traverser la route.
+f986997725 Faisons une pause de cinq minutes.
+d39330bf9d Je crois qu’on a besoin de faire une pause.
+014ac7a2b7 Mais ils se sont légèrement améliorés après la pause, Didier Drogba touchant le poteau.
+11b5215834 coup de chance, coup de malchance
+c46a884ba1 c’est la vie
+b7ff4b1bb2 En cas de vent fort…
+9305b3b2be les événements de sa jeunesse
+66cd889e1c = In relativity, two observers may disagree on when an ⟦event⟧ happened. | En relativité, deux observateurs peuvent ne pas s’accorder sur le moment où un événement s’est produit.
+e43dfd958f = The patient had a cardiac ⟦event⟧ last year. | Le patient a fait un accident cardiaque l’an dernier.
+0584c1f92a Je suis allé à un événement à San Francisco la semaine dernière.
+9d3e14ad38 Où aura lieu l’événement ?
+d6d0bd13b8 En fin de compte, il avait de toute façon ce qu’il me fallait.
+55169a1f86 ✗
+e4b2571f90 Il y a un bus à l’heure vingt.
+04709daffd J’ai passé une heure à déjeuner.
+0120253cd3 L’heure tourne et je dois rentrer.
+99a8c7adce = The monks gather in the chapel for the ⟦hours⟧ of prayer. | Les moines se réunissent à la chapelle pour les heures de prière.
+6fc0a1eecb Ne rentre plus jamais à une heure pareille.
+e18d56e86b C’est le bon moment pour te montrer la tombe de Milly Erne.
+dcab58966e ✗
+6600694883 Les poutres en I devaient devenir des éléments structurels d’une passerelle piétonne.
+e1bfee4709 Ce membre s’interdigite et passe latéralement au membre gréseux inférieur de la formation de Pocahontas, d’âge pennsylvanien inférieur
+5f8ca2020e Le milieu d’un cercle est le point situé à la même distance de tous les points du cercle.
+d49f34b941 Je me suis réveillé au milieu de la nuit.
+e8165b8584 Au milieu du marathon, David s’est effondré de fatigue.
+d4500d6495 Si j’ai un régime et que je m’y tiens, il m’est facile de surveiller mon tour de taille.
+3a5ef344d7 deuxième prénom, moyen anglais, Moyen Âge
+594bbb5f90 = Our seats are in the ⟦middle⟧ row. | Nos places sont au rang du milieu.
+4440c2598f Cette pratique barbare perdure jusqu’à nos jours.
+f035b70736 Le responsable actuel est là depuis plus longtemps que le précédent.
+80021f4c48 Plusieurs personnes étaient présentes quand l’événement s’est produit.
+29f617d476 En tant que chef de groupe, Jason est toujours présent en cours.
+978b25b45f ✗
+331ef2e963 ✗
+77100ccdf7 ✗
+cd7548f67a = Forget the past and live in the ⟦present⟧. | Oublie le passé et vis le présent.
+ce50c6cef3 présenter un envoyé au roi
+bd212f4a00 Remarque : l’équipe à l’attaque doit présenter une formation réglementaire avant et après un changement de position.
+8f0f70ae60 = The students will ⟦present⟧ their projects on Friday. | Les étudiants présenteront leurs projets vendredi.
+121fade39c Avec ta tenue miteuse, tu ne présentes pas bien pour un poste d’associé en banque d’affaires !
+7bb287d661 Dans le diocèse de Gloucester, en 1548, deux habitants de Slimbridge furent déférés pour avoir dit que l’huile sainte « n’avait aucune vertu, sinon pour graisser les moutons ».
+67154283b8 = Most accidents ⟦result⟧ from tiredness. | La plupart des accidents sont dus à la fatigue.
+eb48935290 Cette mesure aboutira au bien ou au mal.
+dabcbf6e52 ✗
+51e70d5315 le résultat d’une ligne de conduite ; le résultat d’une opération mathématique

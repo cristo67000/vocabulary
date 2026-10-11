@@ -1,0 +1,201 @@
+# lot 053 — detail, favourite, item, parent, programme, describe, el, identify, suppose, arrest, attend, deliver, tip, hide, manage, print, weapon, burn, conduct, destroy, tie, contain, document, employee, operate, colour, earn, occur, argue
+d36b435942 Remarquez ce détail délicat dans le coin inférieur gauche.
+4f332f945b Nous avons laissé passer plusieurs détails importants dans le contrat.
+43e3f32bb2 Cette eau-forte fourmille de détails délicats.
+f27da4b9c5 Je ne m’occupe pas des détails de la comptabilité.
+4ce6eea5da La sécurité au travail n’est pas un simple détail.
+fda92d7dbd L’agent qui l’a arrêté a demandé ses coordonnées au suspect.
+44fc807ce2 Souvent, des membres du petit détachement de police envoyé sur place s’y joignaient.
+e3aab32234 Le souci du détail était, disait-on, l’un des secrets de la réussite de Gerrard comme joueur.
+a60cd0ebb8 Je te détaillerai la procédure exacte plus tard.
+7e842a94ed Il faut faire nettoyer le monospace à fond.
+d344b5f35e C’est mon jour préféré !
+c7c9579892 J’ai vu un film hilarant avec tous mes humoristes préférés.
+e97da3cf73 = This is my ⟦favourite⟧ café in town. | C’est mon café préféré en ville.
+e85e261c82 Le chouchou de la maîtresse passait toujours en premier.
+4f6e9136c0 = He was the king’s ⟦favourite⟧ and grew very powerful. | Il était le favori du roi et devint très puissant.
+64ec409939 Tu étais mon favori pour gagner le concours d’orthographe.
+578621a9f1 C’est la favorite : elle sera probablement élue.
+9df90e21af ✗
+fc4bf5e8b4 Les pinces à épiler sont très pratiques pour manipuler de petits objets.
+4d61e51890 Le premier point à l’ordre du jour est le budget du pique-nique de l’an prochain.
+6926a002c9 En réponse au premier point, nous nions toute faute.
+8b651c1e66 les articles d’une facture
+5cc05a37e2 L’examen comporte 100 questions, chacune avec une bonne réponse et trois distracteurs.
+2743785a1e Après la mort de ses deux parents dans un incendie de forêt, Sonia a été adoptée par sa tante et son oncle.
+4ef339bc98 Le NHS est naturellement favorable à la vaccination et rassure les parents : leurs bébés supportent facilement ces piqûres.
+69f105bf66 = Necessity is the ⟦parent⟧ of invention. | La nécessité est mère de l’invention.
+d069be20c4 ✗
+910a18d9d7 Notre programme du cours d’aujourd’hui comprend natation et jogging.
+0791331119 se mettre au diapason
+87881cdbaa Le programme comprenait des publicités pour des restaurants et la liste de tous ceux qui avaient participé à la pièce.
+6ea83e04df L’émission de ce soir était animée par Johnny Carson.
+d87f6c3aa4 Le programme fonctionne sous Linux et sous Microsoft Windows.
+3476bc3190 le Toronto Sun, un tabloïd quotidien dont la ligne éditoriale ressemble à peu près à celle du National Enquirer américain ou du News of the World britannique
+f4a2c0b18c Il a programmé l’enregistreur pour enregistrer son émission préférée.
+0d57432107 Mary va organiser le programme des festivités de mardi.
+80c9bf1101 J’ai programmé un petit jeu pour faire une démonstration.
+61312face2 Le sentiment est difficile à décrire, mais pas désagréable.
+936d7d2f9c Plusieurs témoins disent avoir vu des lumières dans le ciel cette nuit-là.
+3c3a29f483 décrire un cercle au compas ; une torche agitée au-dessus de la tête de façon à décrire un cercle
+83c252c58f Son corps était recroquevillé et penché vers eux, et décrivait un mouvement ondulatoire comme celui d’un ver qui se tord.
+6b2ce353c1 La fonction décrit une surface très complexe.
+160eb7c91e = “Hello” is spelled with a double ⟦el⟧. | « Hello » s’écrit avec deux l.
+f643c3b49e Il a été difficile d’identifier le voleur à l’étalage, car les enregistrements de vidéosurveillance n’offraient pas d’image nette.
+79a6885219 Le nom officiel d’un ressortissant inscrit au registre domiciliaire est établi par la carte nationale d’identité.
+bd4a92c899 Cash perdure parce que ses chansons les plus connues — dont « I Walk the Line » et « Ring of Fire » — tissent des récits profondément personnels auxquels des auditeurs de tous horizons s’identifient sans effort.
+fcfd89c84d Or l’immense majorité d’entre nous s’identifie au second groupe, celui qui croit qu’il faut se fier à la sagesse du peuple plutôt que de lui retirer le pouvoir pour le concentrer entre d’autres mains.
+1859a8fb26 L’Associated Press ne révélera pas l’identité du suspect, car il est mineur.
+28970c65f0 Je suppose que nous sommes tous d’accord pour dire que c’est la meilleure solution.
+43dba221a9 Je ne serai pas de retour avant midi, j’imagine.
+e2ed760fea Supposons que A implique B et que B implique C. Alors A implique C.
+25e702044b = I ⟦suppose⟧ you’re right. | Je suppose que tu as raison.
+7e0dda56d2 = Don’t ⟦suppose⟧ this is going to be easy. | Ne crois pas que ce sera facile.
+9732c0e3b3 ✗
+50ba339ccd La police d’État a procédé au total à 15 arrestations liées à la drogue dans la ville.
+19ec3df8e2 arrêt cardiaque, arrêt respiratoire
+8ca07291f0 ✗
+df874c1b91 La police a arrêté un suspect dans l’enquête sur le meurtre.
+f44b3d81fe Le navire marchand suspect a été saisi par les douaniers.
+afcff98c5c = Doctors managed to ⟦arrest⟧ the spread of the infection. | Les médecins ont réussi à enrayer la propagation de l’infection.
+ee2ea76bf8 ✗
+dcd9323508 ✗
+179ff442a0 Les enfants doivent aller à l’école primaire.
+59c3fd6ff0 J’allais à une école à classe unique à côté du palais, où j’étudiais l’anglais, le xhosa, l’histoire et la géographie.
+95d40c519a Vers 0 h 15, les agents de patrouille Tremblay et Mathieu se sont rendus au domicile de l’appelant.
+090fdb79d8 « Où vas-tu, s’exclama-t-il, à cette heure ? Ne ferais-tu pas mieux d’assister aux vêpres ? »
+60837a2525 = The nurse ⟦attended⟧ to the injured hiker. | L’infirmière s’est occupée du randonneur blessé.
+51e1a4004c ✗
+f756a63229 L’otage fut délivrée de ses ravisseurs et ainsi préservée de tout danger.
+3b17bb6696 le médecin a mis l’enfant au monde
+905e013252 elle a accouché d’un petit garçon hier
+132c0a0a6d M. Cooke avait fait construire à Far Harbor un sloop dont l’achèvement avait été retardé, et qui venait tout juste d’être livré.
+1dfbd42450 livrer le voleur à la police
+75086bd355 = The kidnappers ⟦delivered⟧ the hostages to the Red Cross. | Les ravisseurs ont remis les otages à la Croix-Rouge.
+1631557849 = She ⟦delivered⟧ twins at the weekend. | Elle a accouché de jumeaux ce week-end.
+7a310bf2de le bout du nez
+fb87d129ea L’actuelle ville de Ji’an, à la pointe sud de la province du Jilin, fut la seconde capitale (3-427 apr. J.-C.) du royaume de Goguryeo à sa période intermédiaire.
+68b57ac0c6 = He got a ⟦tip⟧ that the shares would rise. | On lui a donné le tuyau que les actions allaient monter.
+70903119e1 un embout de parapluie, de chaussure, de bec de gaz, etc.
+9f4816cd6e ✗
+a27dee2cbe Il cache ses magazines sous le lit.
+34594337de Le père cacha le cadeau derrière son dos.
+b7a62d4dc8 On a trouvé les voleurs cachés dans un bâtiment abandonné.
+b41df652d0 Tu peux courir, mais tu ne peux pas te cacher !
+02ccac8c7f = The drum is made from goat ⟦hide⟧. | Le tambour est fait en peau de chèvre.
+5d760cc1d5 Un sentier forestier et des affûts d’observation de la faune se trouvent à trois kilomètres au nord-est. On peut y observer discrètement lièvres variables, cerfs, oies sauvages, hérons et canards.
+1bcd1ac093 sauver sa peau
+85e763cc65 mieux vaut qu’il fasse attention à sa peau
+23464e3457 ✗
+1b1b550c11 Bien que Jack soit novice, il dirige son équipe avec grand succès.
+b7f1b6da75 Le gouvernement a très mal géré l’inflation.
+ac587b570b ✗
+fd915466fa ✗
+4ec8fb7f60 Il a réussi à grimper au sommet de la tour.
+37a33f4f4c C’est un travail difficile, mais je me débrouillerai.
+314ab08238 ✗
+526cfb95a8 Imprime le brouillon en double interligne pour qu’on puisse noter les modifications entre les lignes.
+d75eb48548 Les circuits sont imprimés sur la surface du semi-conducteur.
+4ec8bbaf55 Écrivez votre nom en capitales ici et signez en dessous.
+698e1874ec Je ne suis qu’en CE1, alors je ne sais écrire qu’en script.
+f8a4ea6fff La télé et Internet n’ont pas tué la presse écrite.
+ab4be8b904 Trois citations sont requises pour chaque sens, dont une sur papier.
+42ce7dccde Avec un crayon de cire, la fillette a fait une empreinte de la feuille placée sous la page.
+6e37146c10 Une vieille gravure a été découverte il y a quelque temps dans une arche de la gare de marchandises de Waterloo Dock, à Liverpool, où elle servait de support pour remplir des feuilles de présence.
+2e31c01f2d Écrivez en caractères d’imprimerie, en majuscules.
+ba07b1a4b6 Les caractères sont trop petits pour que je puisse lire.
+0e7ce04e49 Le bâton qui sert aujourd’hui surtout au golf était autrefois une arme courante.
+e06a03eb6c L’argent est l’arme principale des oligarques modernes.
+83aeef847a Les longues remises en jeu de Rory Delap sont une arme bien connue des adversaires des Potters, mais cela ne les rend pas plus faciles à défendre.
+4b8da942a6 Nous avons joué au concert de sortie d’album d’Endless Heights plus tôt cette année, et pendant leur set, Christian, d’Endless Heights, a fait un pneumothorax, mais il a fini le set comme un vrai guerrier.
+d60dfe239f Je l’adore dans Parade de printemps et Le Chant du Missouri, mais ma prestation préférée, c’est son concert au Carnegie Hall [de New York]. C’est une vraie bête de scène.
+6f6f746c7b Elle a été brûlée au deuxième degré en tombant dans le feu de joie.
+faeb6533ab Il s’est brûlé la main avec de l’acide.
+dfad3ffd00 Le piquant de ces piments habanero est exquis.
+27365ac8ce La brûlure dans mes yeux venait de cette lumière vive.
+feb8610d0f Ils procèdent à un brûlage contrôlé des champs.
+d32ce43ce1 Nous sommes allés sur le site de l’incendie pour examiner les indices.
+580994e65b ✗
+bfcbc9e111 = Ooh, that was a sick ⟦burn⟧! | Ouh, ça, c’était une sacrée vanne !
+56d207ef2e Le bois ne brûlera pas bien parce qu’il est mouillé.
+ff8a61d8bb Il regardait la maison brûler.
+5c23ba6561 Le gril était trop chaud et le steak a brûlé.
+3048ae933c Le front de l’enfant était brûlant de fièvre. Ses joues brûlaient de honte.
+46bdb73c81 ✗
+fa947fbdac = They ⟦burned⟧ the dead leaves in the garden. | Ils ont brûlé les feuilles mortes dans le jardin.
+e7bf83acaa = I ⟦burned⟧ out the motor by running it too long. | J’ai grillé le moteur en le faisant tourner trop longtemps.
+553fa8102e la conduite de l’État, l’administration de ses affaires, sa politique et ses lois sont bien plus incertaines
+fa0f7a4617 = The general was criticised for his ⟦conduct⟧ of the war. | Le général fut critiqué pour sa conduite de la guerre.
+0aeef35999 La bonne conduite sera récompensée, et de même la mauvaise conduite sera punie.
+63911cfe25 Toutes ces difficultés furent aggravées par le comportement de Shrewsbury.
+920682841e La conduite des armées est l’art du prince.
+bacf16b3c9 ✗
+215a0a025b Il s’est bien conduit.
+42af0b5e32 Le premier prospecteur mondial de gisements pétroliers en eaux profondes a remporté un contrat pour mener une étude du golfe du Lion afin de cartographier les réserves de sable.
+03c6c6eda4 ✗
+6dca207d81 = A guide ⟦conducted⟧ us around the castle. | Un guide nous a fait visiter le château.
+a8f0f1376e Le séisme a détruit plusieurs ensembles d’immeubles.
+686c238d46 Le krav est un art martial de dernier recours qui ne fait pas de quartier et se concentre uniquement sur le fait de désarmer, de neutraliser et, si nécessaire, d’anéantir l’adversaire.
+e41c34ead8 La loi impose d’abattre un chien enragé.
+35682e0a13 Le tabac détruit la finesse naturelle du palais.
+b64fe75dbe Son divorce l’a anéantie : elle a fait une dépression nerveuse et a été gravement déprimée pendant plus d’un an.
+dc95687029 D’autres filles du foyer d’accueil ne demandent qu’à la démolir et à la faire renvoyer. C’est une situation difficile.
+c990b601bd = He wore a blue ⟦tie⟧ to the interview. | Il portait une cravate bleue pour l’entretien.
+91e7043def = A ⟦tie⟧ joins the two notes into one long note. | Une liaison relie les deux notes en une seule note longue.
+366bb5dcd3 chaussures Oxford ; chaussures Derby
+9e7353c235 […] la pointe de sa bottine roux faillit effleurer celle de sa chaussure Oxford.
+6157c6539d les liens sacrés de l’amitié ou du devoir
+9f5cbdafc6 les liens de l’allégeance ; les liens qui unissent
+bff24e3904 Attache-le à l’arbre.
+6dc7ae8bc9 = She ⟦tied⟧ the boat to the jetty. | Elle a amarré le bateau à la jetée.
+2781723b85 Fais-moi un nœud avec cette corde, s’il te plaît.
+9e1798ef5b Attache la corde à cet arbre.
+34c53e4f78 Fais-moi un nœud dans cette corde, s’il te plaît.
+a6e3bc09a8 La boîte marron contient trois piles de livres.
+31484d3982 un vaporisateur contenant de l’eau.
+2172e13c03 La plupart des plats qu’ils proposent contiennent de la viande.
+bb67fd9ac3 Le manganisme est connu depuis le XIXe siècle, quand des mineurs exposés à des minerais contenant du manganèse, un métal argenté, se mirent à tituber, à bredouiller et à se comporter comme des personnes ivres.
+47f154dbbf Je suis tellement excité que j’ai du mal à me contenir !
+ef5fdb0566 ✗
+95d739f5d7 = Bring all your identity ⟦documents⟧ to the appointment. | Apportez toutes vos pièces d’identité au rendez-vous.
+6af48ee2f6 Si un morceau de nourriture tombait de l’assiette, un document de l’époque conseillait de le ramasser, de faire le signe de croix dessus, de bien l’assaisonner, puis de le manger.
+f86346a039 Cette exception, c’est la balise HTML <IMG>, qui transclut une image dans le contexte du document. L’image elle-même n’est ni incorporée au document ni copiée : elle est transcluse.
+10287b223c Il a consigné chaque étape du processus au fur et à mesure, ce qui s’est avéré utile lors de l’enquête.
+354084d9e1 La relation entre la mémoire vécue et l’histoire documentée est toujours un dialogue complexe, chacune informant, et désinformant, l’autre.
+a88ba25813 Un navire doit être muni de ses papiers conformément aux prescriptions de la loi.
+1dcbfa01c2 Un moyen d’encourager vos salariés à travailler plus dur est de leur offrir des primes.
+4d176da6ec La police savait de l’intérieur comment le gang opérait.
+12861fba3a Quelqu’un pourrait-il m’expliquer comment se déroule cette réunion ?
+d497a2b5ca Le chirurgien a dû l’opérer du cœur.
+37c77d8178 On m’opère demain.
+e3dd2c42eb Le médicament agit en facilitant le neurotransmetteur inhibiteur acide gamma-aminobutyrique (GABA), ce qui bloque la potentialisation à long terme neuronale.
+3af63c1c17 ✗
+32dc370db8 Les humains et les oiseaux perçoivent la couleur.
+40f1a18fe2 La couleur de peau a été une question sensible dans de nombreuses sociétés.
+cdf4869ee9 De quelle couleur sont les yeux de ton copain ?
+f967de33e1 On devrait peindre le mur d’une autre couleur.
+8433690fb5 La télévision et le cinéma en couleur furent considérés comme un grand progrès par rapport au noir et blanc.
+033e9e5f86 On pourrait peindre les murs en rouge.
+a6ac68de59 Mon enfant de maternelle adore colorier.
+6e835589f3 Son visage rougit quand elle comprit son erreur.
+b75c0992ef Cette interprétation colore certainement ma perception du livre.
+02a68c4c3a Ils ont tenté de faire passer l’agitation sociale pour une affaire purement locale.
+98461528dc Il gagne sept millions de dollars par an comme PDG. Mon compte bancaire ne rapporte qu’un pour cent d’intérêts.
+ed468b484d Elle touche plus de quarante mille dollars par an de revenus passifs grâce aux placements de ses parents — c’est ce qu’elle reçoit avant même de sortir du lit ou de lever le petit doigt.
+574ec419f1 Maintenant que tu gagnes ta vie, tu peux commencer à me payer un loyer.
+6b597ea659 Mon dépôt à terme me rapporte six pour cent !
+eb0130e91e À cette époque, tout leur travail long, pénible et dangereux dans les mines leur rapportait à peine de quoi manger !
+b1a53f5fb8 Par leur travail acharné et leur dévouement, ils ont gagné le respect et une place à la table.
+309246c6fc Tu peux prendre les s’mores : tu les as mérités en déneigeant si bien l’allée.
+cc83fd0095 Le décollage aura lieu dans exactement douze secondes.
+b926faf508 J’écrirai si l’occasion se présente.
+eeddb3a088 Il lui vint à l’idée de me parler du problème.
+00efccdefe Un petit incident de mes années d’école me revient en mémoire comme amusant.
+4da5bd2642 Le monofluoroacétate est présent dans toutes les parties de Dichapetalum cymosum et est responsable de ses effets toxiques.
+d5725b2ca6 Il a aussi plaidé pour des méthodes plus fermes contre la Chine.
+e1fdc24d05 Les deux garçons se sont disputés à cause d’un désaccord sur le projet de sciences.
+7cb771af08 Kate Merrill : On ne se disputait pas. On parlait… fort.
+8454c44c47 La nouvelle hausse de la criminalité plaide pour des peines de prison encore plus sévères, selon certains.
+d87f1611aa Yusuf Bangura soutient que la thèse de la contractocratie relève simplement de ce qu’il appelle l’explication de la « troisième option ».
+1db4b755d0 Il a défendu son point de vue.
+1d7656daf3 Il soutenait que l’Amérique devait cesser d’escorter les convois du prêt-bail parce qu’elle avait besoin de ces fournitures pour renforcer sa propre armée.

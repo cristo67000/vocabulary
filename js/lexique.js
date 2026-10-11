@@ -270,6 +270,67 @@
     return null;
   }
 
+  /* La vedette derrière une graphie, telle qu'un lecteur la reconnaîtrait.
+   *
+   * `resoudre()` ne connaît que les vedettes et les formes fléchies de
+   * l'index ; c'est ce qu'il faut pour un doublon dans « Mes mots » ou une
+   * liste d'exercices, où une approximation serait une erreur. En lisant, on
+   * attend davantage : « don't » mène à *do*, « I'm » à *I*, « person's » à
+   * *person*, « allotted » à *allot*, même quand l'index des formes ne les a
+   * pas. Ces mots-là restaient du texte mort, et ce sont les plus fréquents
+   * d'une phrase anglaise. (Mesure faite sur 360 fiches : 3,6 % des mots
+   * anglais n'étaient pas cliquables, dont un tiers de contractions.)
+   *
+   * Le s long des citations anciennes (« diſtance ») se lit comme un s. */
+  const CONTRACTIONS_EN = {
+    "can't": 'can', "won't": 'will', "shan't": 'shall', "ain't": 'be',
+    gonna: 'go', wanna: 'want', gotta: 'get', kinda: 'kind', sorta: 'sort',
+    dunno: 'know', lemme: 'let', gimme: 'give', "y'all": 'you', innit: 'be',
+  };
+  const SUFFIXES_CONTRACTES = /^(.{1,})'(s|re|ve|ll|d|m)$/i;
+
+  /* Les terminaisons régulières. Chaque règle propose une base ; la première
+   * qui est une vedette gagne, d'où l'ordre : le pluriel avant tout (« dies »
+   * est *die*, pas *dy*), le « e » final avant la base nue (« hoped » est
+   * *hope*, pas *hop* ; « filled » essaie *fille*, puis *fill*), la consonne
+   * doublée en dernier (« allotted » → *allot*). */
+  const TERMINAISONS_EN = [
+    [/([^s'])s$/, '$1'], [/s'$/, ''], [/(s|x|z|ch|sh|o)es$/, '$1'], [/ies$/, 'y'],
+    [/ves$/, 'f'], [/ves$/, 'fe'],
+    [/(ed|ing|er|est)$/, 'e'], [/(ed|ing|er|est)$/, ''],
+    [/([b-df-hj-np-tv-z])\1(ed|ing|er|est)$/, '$1'],
+    [/ied$/, 'y'], [/ier$/, 'y'], [/iest$/, 'y'],
+    [/ers$/, 'e'], [/ers$/, ''], [/([b-df-hj-np-tv-z])\1ers$/, '$1'],
+    [/ily$/, 'y'], [/ically$/, 'ic'], [/ally$/, 'al'], [/ly$/, 'le'], [/ly$/, ''],
+  ];
+
+  function resoudreEnLisant(graphie, langue) {
+    const direct = resoudre(graphie, langue);
+    if (direct) return direct;
+    let g = graphie.replace(/’/g, "'");
+    if (g.indexOf('ſ') !== -1) {
+      g = g.replace(/ſ/g, 's');
+      const lu = resoudre(g, langue);
+      if (lu) return lu;
+    }
+    if (langue !== 'en') return null;
+
+    const minuscule = g.toLowerCase();
+    if (CONTRACTIONS_EN[minuscule]) return resoudre(CONTRACTIONS_EN[minuscule], 'en');
+    if (/n't$/i.test(g) && g.length > 4) return resoudre(g.slice(0, -3), 'en');
+    const contracte = SUFFIXES_CONTRACTES.exec(g);
+    if (contracte) return resoudre(contracte[1], 'en');
+
+    for (const [motif, remplacement] of TERMINAISONS_EN) {
+      if (!motif.test(minuscule)) continue;
+      const base = minuscule.replace(motif, remplacement);
+      if (base.length < 3 || base === minuscule) continue;
+      const trouve = resoudre(base, 'en');
+      if (trouve) return trouve;
+    }
+    return null;
+  }
+
   /* Plusieurs vedettes partagent souvent une clé : « May » le mois et « may »
    * le verbe, « été » la saison et « été » le participe. Prendre la première
    * venue ouvrait la fiche du mois quand on avait cliqué sur le verbe — la
@@ -734,6 +795,7 @@
     chercher,
     vedette,
     resoudre,
+    resoudreEnLisant,
     ouvrir,
     phrases,
     entreesAuHasard,

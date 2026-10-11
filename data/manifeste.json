@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "construit": "2026-10-01",
+  "construit": "2026-10-10",
   "moutures": {
     "en": "2025.11.21",
     "fr": "2025.11.21"
@@ -20,7 +20,7 @@
       "wikdict": 68331,
       "neuves": 3855,
       "sens_traduits": 10682,
-      "sens_sans_traduction": 22654
+      "sens_sans_traduction": 22619
     },
     "fr": {
       "wikdict": 119470,
@@ -32,27 +32,27 @@
   "paquets": {
     "noyau": {
       "entrees": {
-        "en": 17026,
+        "en": 17337,
         "fr": 18097
       },
       "traduites": {
-        "en": 15445,
+        "en": 15743,
         "fr": 17250
       },
       "expressions": {
-        "en": 6574,
+        "en": 6751,
         "fr": 6585
       },
       "expressions_traduites": {
-        "en": 4993,
+        "en": 5157,
         "fr": 5738
       },
       "expressions_sans_equivalent": {
-        "en": 1581,
+        "en": 1594,
         "fr": 847
       },
-      "phrases": 55208,
-      "octets": 28875665,
+      "phrases": 55352,
+      "octets": 30267293,
       "fichiers": [
         "noyau/en.idx",
         "noyau/en-000.json",
@@ -74,6 +74,7 @@
         "noyau/en-016.json",
         "noyau/en-017.json",
         "noyau/en-018.json",
+        "noyau/en-019.json",
         "noyau/formes-en.idx",
         "noyau/fr.idx",
         "noyau/fr-000.json",
@@ -166,27 +167,27 @@
     },
     "complet": {
       "entrees": {
-        "en": 83553,
+        "en": 83554,
         "fr": 117796
       },
       "traduites": {
-        "en": 75932,
+        "en": 75933,
         "fr": 113151
       },
       "expressions": {
-        "en": 14399,
-        "fr": 13180
+        "en": 14400,
+        "fr": 13179
       },
       "expressions_traduites": {
-        "en": 6778,
-        "fr": 8535
+        "en": 6779,
+        "fr": 8534
       },
       "expressions_sans_equivalent": {
         "en": 7621,
         "fr": 4645
       },
-      "phrases": 80237,
-      "octets": 112389124,
+      "phrases": 80169,
+      "octets": 114165079,
       "fichiers": [
         "complet/en.idx",
         "complet/en-000.json",
@@ -511,5 +512,5 @@
       ]
     }
   },
-  "mouture": "2026-10-01-418356ab20"
+  "mouture": "2026-10-10-e6e8a876e3"
 }

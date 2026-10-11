@@ -55,8 +55,7 @@
 
   /* Un mot du texte : cliquable s'il mène quelque part, en gras s'il est celui
    * qu'on illustre, les deux à la fois le cas échéant. */
-  function jeton(graphie, langue, estCible) {
-    const trouve = Lexique.resoudre(graphie, langue);
+  function jeton(graphie, trouve, langue, estCible) {
     if (!trouve) {
       return estCible ? element('b', 'cible', graphie)
                       : document.createTextNode(graphie);
@@ -68,6 +67,38 @@
     noeud.setAttribute('role', 'button');
     noeud.setAttribute('tabindex', '0');
     return noeud;
+  }
+
+  /* L'élision française : « l'homme », « qu'il », « jusqu'au ». Le découpage
+   * garde l'apostrophe dans le mot — c'est ce qu'il faut à « aujourd'hui »,
+   * qui est une vedette et qu'on essaie d'abord —, si bien que « l'homme »
+   * restait muet entier. On détache donc l'élidé, et le mot qui suit devient
+   * cliquable seul. */
+  const ELISION = /^(jusqu|lorsqu|puisqu|quoiqu|presqu|qu|[cdjlmnst])['’](?=\p{L})/iu;
+
+  /* Pose un mot dans le fragment, en le découpant au besoin : un mot composé
+   * que le dictionnaire ne connaît pas (« cloud-based ») se lit encore par ses
+   * parties, qui, elles, y sont. */
+  function deposer(fragment, graphie, langue, estCible) {
+    const trouve = Lexique.resoudreEnLisant(graphie, langue);
+    if (trouve) {
+      fragment.appendChild(jeton(graphie, trouve, langue, estCible));
+      return;
+    }
+    const elision = langue === 'fr' ? ELISION.exec(graphie) : null;
+    if (elision) {
+      fragment.appendChild(jeton(elision[0], null, langue, estCible));
+      deposer(fragment, graphie.slice(elision[0].length), langue, estCible);
+      return;
+    }
+    if (graphie.indexOf('-') > 0) {
+      for (const morceau of graphie.split(/(-)/)) {
+        if (morceau === '-') fragment.appendChild(jeton(morceau, null, langue, estCible));
+        else if (morceau) deposer(fragment, morceau, langue, estCible);
+      }
+      return;
+    }
+    fragment.appendChild(jeton(graphie, null, langue, estCible));
   }
 
   /* Rend le texte, mot par mot.
@@ -100,13 +131,26 @@
         const k = Lexique.cle(trouve[0]);
         estCible = !!k && (k === cible || Lexique.lemmes(langue, k).indexOf(cible) !== -1);
       }
-      fragment.appendChild(jeton(trouve[0], langue, estCible));
+      deposer(fragment, trouve[0], langue, estCible);
       position = fin;
     }
     if (position < texte.length) {
       fragment.appendChild(document.createTextNode(texte.slice(position)));
     }
     return fragment;
+  }
+
+  /* Une traduction, un synonyme : une locution qu'on lit d'un bloc. Si elle
+   * est elle-même une vedette (« police officer », « take off »), elle mène
+   * à sa fiche entière ; sinon, mot à mot, comme une phrase. */
+  function lier(texte, langue) {
+    const entier = /\s/.test(texte.trim()) ? Lexique.resoudre(texte.trim(), langue) : null;
+    if (entier) {
+      const fragment = document.createDocumentFragment();
+      fragment.appendChild(jeton(texte, entier, langue, false));
+      return fragment;
+    }
+    return tisser(texte, langue, {});
   }
 
   // ── Le cartouche ──────────────────────────────────────────────────────────
@@ -296,6 +340,6 @@
     document.addEventListener('scroll', fermer, true);
   }
 
-  racine.MotsVifs = { tisser, brancher, fermer };
+  racine.MotsVifs = { tisser, lier, brancher, fermer };
 
 })(window);

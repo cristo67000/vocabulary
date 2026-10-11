@@ -1,0 +1,201 @@
+# lot 032 — sign, simple, simply, staff, union, walk, December, bed, career, crazy, daily, daughter, die, difficult, figure, hospital, loss, modern, paper, popular, safe, version, voice, whose, writing, Australia, Internet, army, forget, goal, huge, listen
+fd0d495c22 = She ⟦signed⟧ to her deaf brother across the room. | Elle a parlé en signes à son frère sourd, à l’autre bout de la pièce.
+1f815ca54b Nous voilà engagés dans une grande œuvre, un traité sur nos fortifications fluviales, peut-être ? Mais depuis quand les officiers de l’armée s’offrent-ils le luxe de secrétaires dans cette modeste république ?
+b20cf4354d Le soliton le plus simple est la paroi de domaine, de codimension un, et le suivant est le vortex, de codimension deux, tandis que le soliton de codimension trois (quatre) est appelé monopôle (instanton).
+568f276e25 Faut-il te fier à la voix naïve de la Tradition ?
+1c1c62f47c = She has a ⟦simple⟧, honest way of speaking. | Elle a une façon de parler simple et franche.
+f71f170699 ✗
+6e6ec4f7d7 Le premier qui a cueilli une herbe pour se soigner avait du cran. Des simples. Faut faire attention.
+faa07130d0 = The monks grew ⟦simples⟧ such as sage and mint in the abbey garden. | Les moines cultivaient des simples comme la sauge et la menthe dans le jardin de l’abbaye.
+21f58fbfc0 Peter van Inwagen, par exemple, pense qu’il n’existe pas d’objets ordinaires, ni chaises, ni chemises, ni chaussures. Ici même, il n’y a que des simples — des atomes ou autre — disposés en forme de chaussure.
+85e71773c2 ✗
+adb9ac9d04 « Non », dit simplement Stephen.
+d613c9c0d6 Je posais simplement une question.
+89c623cd50 Au lieu de scanner une carte d’embarquement ou de tendre un passeport, il suffit de regarder une caméra pour être identifié.
+ff204b668b L’affaire était un meurtre. Elle comportait cependant une part de mystère qui intriguait les autorités. On avait retrouvé un turban et un pagne trempés de sang, ainsi qu’un bâton.
+df3a368d46 = The old shepherd leaned on his ⟦staff⟧. | Le vieux berger s’appuyait sur son bâton.
+ee27e564b8 = Write the notes on the ⟦staff⟧ in pencil. | Écris les notes sur la portée au crayon.
+cfa1b2e438 L’entreprise a embauché 10 nouveaux employés ce mois-ci.
+999fd138fa L’entreprise a recruté 1 600 salariés supplémentaires bien payés.
+ba0e681ddd = The watchmaker replaced the balance ⟦staff⟧. | L’horloger a remplacé l’axe de balancier.
+abf16f3803 le bâton d’un agent de police
+14bf87a559 = The bishop carried a golden ⟦staff⟧. | L’évêque portait une crosse dorée.
+f558ecb83b = The European ⟦Union⟧ has 27 member states. | L’Union européenne compte 27 États membres.
+7262e31d8c = The plumber tightened the ⟦union⟧ under the sink. | Le plombier a resserré le raccord sous l’évier.
+5d93a3a74c = The ⟦union⟧ of {1, 2} and {2, 3} is {1, 2, 3}. | La réunion de {1, 2} et {2, 3} est {1, 2, 3}.
+3562161905 = Their ⟦union⟧ was blessed in a small village church. | Leur union a été bénie dans une petite église de village.
+4dc7863389 Les unions sont utiles quand on doit suivre une valeur qui peut être représentée par différents types de données au cours de l’exécution du programme.
+30d3bd7d7a Marcher d’un bon pas une heure par jour, c’est se maintenir en forme.
+ec6fd2fc76 Si vous ne présentez pas un meilleur dossier, ce voleur va s’en tirer.
+d0dfa32aca Si tu laisses traîner ton portefeuille, il va disparaître.
+3685b397dc Je fais trois kilomètres à pied pour aller à l’école tous les jours.
+75ffbdb5a9 Le musée n’est pas loin d’ici : vous pouvez y aller à pied.
+b801ca39bd Je promène le chien tous les matins.
+13cb84eab2 Tu me raccompagnes à la maison ?
+e2a583bc62 Ceux qui veulent défiler à la parade cet automne doivent s’inscrire dès maintenant.
+05b935b7df Je fais une promenade tous les matins.
+30ee608b8c aller se promener
+2c8ced464f Le ministère des Démarches ridicules manque de moyens cette année.
+502a6fe8cb Il sembla alors au jeune homme qu’il remontait avec sa bien-aimée l’allée herbeuse de Heriotside, la maison toute proche.
+4668fcebdd Le lanceur a déjà accordé deux buts sur balles rien que dans cette manche.
+4e1c1baebc Il y a un bon bout de chemin à pied de chez moi à la bibliothèque.
+0decb2a9cd Le commissariat est à dix minutes à pied environ, tout droit, vous ne pouvez pas le rater.
+523411d16e des gens de tous âges et de tous horizons
+a83c11476b Tout est parti d’informations sur une épidémie de gentillesse par un froid matin de décembre 2012.
+c107ae4bbd Mon chat dort souvent sur mon lit.
+f49d84a9be Je garde un verre d’eau à côté de mon lit quand je dors.
+c56f7dd6ba En camping, il se fait généralement un lit pour la nuit avec du foin et une couverture.
+c841d5408f = The miners found a thick ⟦bed⟧ of coal. | Les mineurs ont découvert une épaisse couche de charbon.
+7bb5e1e5f4 Je trouve son lit trop mou.
+9897cdd956 Cet énorme lit en bois est trop lourd pour qu’on le porte aussi loin.
+a8cb0eaf02 ✗
+10af9426b3 la carrière militaire de Washington
+df4fbb99a8 Ce scandale pourrait ruiner sa carrière.
+2db58b714c = Her school ⟦career⟧ was full of prizes. | Sa scolarité a été jalonnée de prix.
+e00be33df9 La voiture dévala la route à toute allure, rata le virage et traversa une haie.
+15e08718a8 Cette seconde collision, frontale, à une vitesse d’impact de 228 km/h, fit dévier vers la gauche la remorque de conduite. Plusieurs des voitures qui suivaient se renversèrent et filèrent dans un champ voisin.
+949ed0f594 Ses idées étaient à la fois effrayantes et folles.
+75538890f8 ✗
+d6b4910e54 Quand elle monte sur la moto, elle devient folle.
+29146ce0dc Il est devenu fou de joie quand il a gagné.
+3e3d8b0915 La course de tacots la plus folle et la plus extraordinaire de la planète : plus de 16 000 km de Prague à la Sibérie.
+ea4abcf8d1 Pourquoi est-elle si folle de lui ?
+f41f5f1c37 Allez, buvez, bande d’abrutis ! Éclatez-vous ! C’est notre soirée, bande de fous ! Chloé, t’es où ?
+1f601aa509 Cela dit, toute sa soirée avait été un grand n’importe quoi, et elle ne savait plus quoi faire.
+4d9c99d930 Il suit une routine quotidienne stricte.
+c0a500e8e5 Le quotidien arrive chaque matin.
+14e11d58a1 = She works for a national ⟦daily⟧ in London. | Elle travaille pour un quotidien national à Londres.
+cf214df184 Je ne laisse pas ces expériences perturber ma concentration au quotidien ni mes responsabilités envers ma famille.
+e460704244 Le nouveau film Disney fait des chiffres incroyables dans les relevés d’entrées quotidiens.
+7942e9ed04 J’ai déjà un fils, alors j’aimerais avoir une fille.
+f97051d845 Ils ont découvert que Weller avait deux filles et une belle-fille dans le même cimetière.
+cf4819dec2 Fille d’Ève, venue du lointain pays de Spare Oom, où règne un été éternel autour de la cité lumineuse de War Drobe, que diriez-vous de venir prendre le thé avec moi ?
+a3ac603cc6 Selon le schéma habituel, la fille argument d’un nœud reçoit l’indice n0 et se place à gauche, et la fille foncteur, l’indice n1, se place à droite.
+eeba54505a L’homme meurt : et il n’est point d’espoir dans la poussière : […]
+ca03903b11 = My grandfather ⟦died⟧ peacefully in his sleep last year. | Mon grand-père est mort paisiblement dans son sommeil l’an dernier.
+ff36d961ad ✗
+8602ec2a8e = I nearly ⟦died⟧ of embarrassment when my phone rang during the concert. | J’ai failli mourir de honte quand mon téléphone a sonné pendant le concert.
+3e65d6af26 Il est mort du paludisme.
+4180a1e753 En 1971 ou 72, Carolyn Weimer, la sœur de maman, est morte d’un cancer du sein.
+4a6e57e438 Il est mort d’une insuffisance cardiaque.
+bacad0d9d7 Ou bien ils mourront tous de la peste. Même si la plupart des candidats succombent […]
+10c81d9614 = Roll the ⟦die⟧ and move your counter. | Lance le dé et avance ton pion.
+f53ecdb3c0 Le nombre de puces par plaquette est en gros la surface de la plaquette divisée par celle d’une puce.
+929f7be43b ✗
+00f0882a63 = The ⟦die⟧ is cast: there’s no going back now. | Les dés sont jetés : impossible de faire marche arrière.
+015692c143 S’ils font des difficultés, offrez-leur davantage.
+a52d48622a Toutefois, les conditions météorologiques difficiles garantiront au Yunnan de l’eau douce en abondance.
+91bbbe9968 Arrête de faire des histoires et mange ton brocoli : tu sais que c’est bon pour toi.
+9e454eb673 ✗
+8bcdb5da96 une figure en bronze ; une figure taillée dans le marbre
+ee3c91a3c9 = The old coin bears the ⟦figure⟧ of a sailing ship. | La vieille pièce porte la figure d’un voilier.
+90a0d53adf Elle portait habilement une robe noire transparente aux ornements dorés qui mettait parfaitement sa silhouette en valeur.
+a580cad7d7 L’origine du corset se perd dans l’Antiquité la plus reculée. Les silhouettes des anciennes Égyptiennes montrent clairement une taille artificielle, obtenue par une sorte de corset.
+061fdef257 = Write the amount in words and in ⟦figures⟧. | Écrivez la somme en lettres et en chiffres.
+ec98417247 une figure géométrique, une figure plane, une figure solide
+bc5ff525bc L’arc de cercle peut être très petit ; mais, cela donné, on peut construire la figure entière.
+46f195ae82 = Gandhi became a ⟦figure⟧ of peaceful resistance. | Gandhi est devenu une figure de la résistance pacifique.
+4758ecbae2 Je n’arrive pas à savoir s’il dit la vérité ou s’il ment.
+6afd8db1c1 On peut s’attendre à être en déficit cette année.
+9b088d0e9e Je sais que tu me prends pour un plouc de gauche, pas vrai ?
+aac804c80f Pas étonnant que quelqu’un comme lui soit contrarié par la situation.
+f5aa38a2f3 ✗
+715df60f1a Heureusement, une ambulance est arrivée vite et il a été transporté d’urgence à l’hôpital.
+de760a59e6 Heureusement, une ambulance est arrivée vite et il a été conduit d’urgence à l’hôpital.
+3e1d07f952 L’hospice des enfants trouvés recueillait les enfants abandonnés et les instruisait.
+edb2e78b10 ✗
+8fdc778331 perte d’un membre ; perte de poids ; perte des fonctions cognitives ; perte d’appétit.
+b5f84c3ebf Les gens sont moins enclins à prendre un risque pour réaliser un gain que pour éviter une perte.
+7b851791ad Le match s’est soldé par leur première défaite de la saison.
+491b935f34 La bataille fut gagnée, mais les pertes furent lourdes.
+c40effb5f3 Nous pleurons sa disparition.
+66b6465ad3 Le sentiment de perte de sa fille a fini par la mener à la dépression.
+61e0609bde En fait, il avait créé les conditions de la grande horreur des temps modernes.
+fb89a2c3ca Notre jeu interactif en ligne est une approche moderne pour sensibiliser aux maladies des gencives. Bien qu’il ait été construit au XVIIe siècle, le bâtiment a toujours un air très moderne.
+d52d002cb3 = She teaches ⟦modern⟧ history at the university. | Elle enseigne l’histoire contemporaine à l’université.
+ac955f3d7c Dessine sur le papier ! Pas sur les murs !
+001a94337d La papeterie au sud de la ville fabrique diverses qualités de papier et emploie des centaines de personnes.
+5cfeb31447 Je ne peux pas sortir ce soir. J’ai un devoir à rendre demain, et je dois le finir ce soir.
+69cef5a840 Leur équipe a publié un article dans la principale revue de leur domaine, et son large retentissement a rehaussé la réputation de leur département universitaire.
+58fd2692d6 = The maths ⟦paper⟧ was harder than last year’s. | L’épreuve de maths était plus difficile que celle de l’an dernier.
+377d3b287c ✗
+f3a0b3ad30 Elle suit quatre cours ce semestre : deux de psychologie et deux de sociologie.
+1ae7f41f10 = We use ⟦paper⟧ bags instead of plastic ones. | Nous utilisons des sacs en papier au lieu de sacs en plastique.
+b41c0e8b5d Loi sur les limiteurs de vitesse : un tigre de papier
+385b686720 Il concluait que l’Australie n’était « même pas un tigre de papier, tout au plus un chat de papier »
+060b407b31 Notre moteur n’existe pas que sur le papier… ce sont de vrais moteurs, en production aujourd’hui
+94f99edddd « Nous devons pouvoir démontrer que ce n’est pas un moteur sur le papier mais un vrai moteur », et que les travaux de développement ont « écarté tous les risques ».
+cbc12e54fb Dans la mémoire populaire, Luther était devenu un saint, et son portrait, accroché au mur du salon, pouvait préserver les maisons de l’incendie.
+e482fe86ab Cette pittoresque ville rurale du nord du Laos est depuis longtemps une étape prisée des routards.
+a76f5c2b89 Ils se sont peut-être séparés il y a 24 ans, mais les Smiths restent plus populaires que jamais, et pas seulement chez ceux qui les ont connus à l’époque.
+f9e9a89811 ✗
+396376d82b Ici, dans la cabane, vous serez à l’abri de la tempête.
+863de97cb1 Cette baie se mange sans danger.
+647e0837b1 Sans doute « l’outil » le plus sûr et le plus simple pour vous décoller du canapé et suivre le programme d’exercice de votre choix.
+30851c32e3 Il faut trouver un endroit sûr où nous cacher jusqu’à ce que tout soit fini.
+1a6b3b69e3 Le lanceur a tenté de retirer le coureur en première base, mais il était sauf.
+ffd07a150f Les documents sont en sécurité dans l’armoire.
+32360a0cf6 ✗
+30fd7c1dd7 ✗
+b278c476c6 L’autre pièce était une cuisine, avec une cheminée ouverte, un garde-manger, un buffet et un évier en fer-blanc, avec un robinet relié à la citerne extérieure.
+84b0706149 Ce n’est que dans la version King James de la Bible.
+7a3bb7934e Il a donné une autre version de l’affaire.
+8ca43c734f Arrête de répéter ce que je dis avec cette voix idiote.
+6bd035c2be La voix humaine est le plus vieil instrument de musique de l’histoire.
+7ec7c4e12a = The old cello has a warm, rich ⟦voice⟧. | Le vieux violoncelle a une voix chaude et riche.
+5f578f75f5 ✗
+0596e8bb2c = Young people want a ⟦voice⟧ in decisions that affect them. | Les jeunes veulent avoir voix au chapitre dans les décisions qui les concernent.
+55dd08c81d = The new law gives tenants a stronger ⟦voice⟧. | La nouvelle loi donne plus de poids à la parole des locataires.
+1da25b1c40 L’inclusion de voix transgenres bouscule encore davantage l’homonormalisation du sexe et de l’identité manifeste dans le cinéma LGBTQ grand public.
+420be2c08c une voix puissante du Parlement.
+b3ae0114ff = In “The cake was eaten”, the verb is in the passive ⟦voice⟧. | Dans « Le gâteau a été mangé », le verbe est à la voix passive.
+fe51419a6b ✗
+71cf2e1de5 Il exprimait les sentiments de la nation.
+6bb5dc0c09 Que de fois il exprimait son amour de l’Angleterre, son admiration pour son Parlement, sa fierté de son histoire.
+b1adc48c63 harmoniser les tuyaux d’un orgue
+3c00e63e46 [L]es agneaux sont joyeux / Fouillant du museau la mamelle de leur mère, et l’oiseau / Fait chanter son cœur dans l’éclat des fleurs : […]
+d8dc8943f5 ✗
+86745ec634 On devrait acheter une maison. ~ Avec l’argent de qui ?
+83e41e7baa Dans l’intérêt de qui agissez-vous ?
+b2e251aee5 Voici l’homme dont le chien a causé l’accident.
+08c3fa6838 Venus, dont la sœur est Serena, a remporté le dernier championnat.
+365b5d03a1 Nous avons vu plusieurs maisons dont les toits s’effondraient.
+0a38be680f Plusieurs personnes ont perdu leur valise. À qui sont celles que vous avez retrouvées ?
+1b531e20c5 Il a demandé à qui était le parapluie.
+2043472e5c Cette voiture bloque le passage, mais M. Smith, à qui elle appartient, sera là sous peu.
+9049f0ad9b = I found a phone on the bench — do you know ⟦whose⟧ it is? | J’ai trouvé un téléphone sur le banc : tu sais à qui il est ?
+ea51b78789 L’écriture est apparue dans les deux sociétés vers 3000 av. J.-C., surtout à des fins administratives en Égypte, et pour la comptabilité et le commerce à Sumer.
+e198a9565a = ⟦Writing⟧ was invented independently in several parts of the world. | L’écriture a été inventée indépendamment dans plusieurs régions du monde.
+dfb3f60690 Bravo, tu as écrit un texte intéressant.
+3423a6a8d6 Je n’arrive pas à lire ton écriture.
+834421b961 Pendant le Movember (le mois autrefois appelé novembre), des hommes du monde entier se laissent pousser la moustache (d’où le nom) tout en collectant des fonds pour la santé masculine. Le Movember est né en Australie en 2003.
+41199dcdfd Il part dix jours en Australie pour sa lune de miel.
+2782bbfe85 Voilà tout ce que je peux savoir avec certitude de ce côté de l’Australie…
+d5127faf9e Si vous pensez qu’Internet existait en 1970, je ne peux que supposer que le système éducatif a laissé au moins un enfant sur le bord du chemin.
+62966f2219 = The whole ⟦Internet⟧ seemed to be talking about the new film. | Tout Internet semblait parler du nouveau film.
+43c3d6623d On a envoyé l’armée réprimer le soulèvement.
+37449ce2f0 Une armée ne peut jamais être commandée ni contrôlée par des civils.
+6366663f14 L’armée s’est opposée à l’intervention du corps législatif.
+d57be3958d L’armée de terre a reçu une plus grande part de la hausse du budget cette année que la marine ou l’armée de l’air.
+b08a3080e4 J’ai oublié la plupart des choses que j’ai apprises à l’école.
+cd95e7f75a Tout le monde, jeunes et vieux, en rit aux éclats et l’oublie aussitôt.
+e460cb8b08 J’ai oublié d’acheter des fleurs à ma femme pour notre 14e anniversaire de mariage.
+5c9cad2de6 Prie donc Slid, et n’oublie pas Slid, et peut-être Slid n’oubliera-t-il pas de t’envoyer la Mort quand tu en auras le plus besoin.
+21bd738213 J’ai oublié mes clés de voiture dans le salon.
+fe7ab6676a Oublions simplement que je t’en ai jamais parlé.
+76d142a7c8 Il avait oublié qu’il avait déjà visité cette ville.
+b384472ee3 Mon objectif de toujours est de décrocher un rôle dans un film hollywoodien.
+c0fb47aa2c Son objectif est de devenir youtubeur.
+31fc3425cd Le ballon a roulé lentement dans le but.
+eaf6e19c50 Il a touché le but à dix-huit mètres.
+0e4003e619 encaisser un but
+064b4d5dcc L’ancien joueur de Forest, qui avait passé un test physique de dernière minute, sembla prendre appui sur Guy Moussi avant de reprendre de la tête au second poteau le coup franc de David Fox : son 22e but de la saison.
+3721e742bd = He ⟦goaled⟧ from a tight angle in the last minute. | Il a marqué un but sous un angle fermé à la dernière minute.
+b59b4e3d87 Mes deux parents sont de fervents défenseurs des droits des animaux.
+510aca3ad7 Une fois les enfants couchés, le couple s’est violemment disputé.
+c7c57573a3 Le prochain album du groupe va faire un carton.
+663a662216 Dans notre ligue, notre entraîneur est une star !
+4a26494ca9 Écoute le cri du guetteur sur le rempart.
+dd8daa786f Tu dois guetter le coup de pistolet du départ.
+f31020de79 Les enfants sages écoutent leurs parents.
+9794159c07 Écoute, si je t’ai crié dessus, c’est seulement parce que j’étais contrarié, d’accord ?

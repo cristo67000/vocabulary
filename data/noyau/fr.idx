@@ -20,7 +20,7 @@
 a	à	0	0	to, in, at	
 a aucun moment	à aucun moment	0	2	at no time	x
 a aucun prix	à aucun prix	0	2		x
-a bas	à bas	0	2	dahn with	x
+a bas	à bas	0	2	down with	x
 a bas bruit	à bas bruit	0	3	silently, clandestinely, noiselessly	x
 a bas prix	à bas prix	0	2		x
 a bas sa tete	à bas sa tête	0	2	off with someone's head	x
@@ -31,7 +31,7 @@ a bientot	à bientôt	0	2	see you soon	x
 a blanc	à blanc	0	2	dry	x
 a blanc estoc	à blanc estoc	0	3	without leaving any saplings	x
 a bloc	à bloc	0	3	flat out	x
-a bon chat, bon rat	à bon chat, bon rat	0	3	What doesn't kill you makes you stronger, two can play at d…	x
+a bon chat, bon rat	à bon chat, bon rat	0	3	two can play at that game, What doesn't kill you makes you …	x
 a bon compte	à bon compte	0	2	cheaply, at a good price, without paying too much	x
 a bon droit	à bon droit	0	2	with good reason, rightly, legitimately	x
 a bon marche	à bon marché	0	2	inexpensive, cheaply	x
@@ -52,8 +52,8 @@ a cause de	à cause de	0	2	because of	x
 a cause que	à cause que	0	2	because	x
 a ce jour	à ce jour	0	1	so far, to date, thus far	x
 a ce moment	à ce moment	0	1	time, moment, right now	x
-a ce moment-la	à ce moment-là	0	2	at dat point, at dat very moment, if dat is the case	x
-a ce point	à ce point	0	1	dat well	x
+a ce moment-la	à ce moment-là	0	2	in that case, at that point, at that very moment	x
+a ce point	à ce point	0	1	that well	x
 a ce point-la	à ce point-là	0	2		x
 a ce propos	à ce propos	0	2	about that, on this point, on this subject	x
 a ce qu'on dit	à ce qu’on dit	0	1	by all accounts, according to general opinion, d’apré	x
@@ -62,8 +62,8 @@ a ce sujet	à ce sujet	0	2	about that, on this point, on this subject	x
 a ce titre	à ce titre	0	2	as such	x
 a ceci pres que	à ceci près que	0	3	except that	x
 a cela pres que	à cela près que	0	2	except that	x
-a cet effet	à cet effet	0	2	for dis purpose	x
-a cet egard	à cet égard	0	3	in dat regard, in dis regard, regarding dis	x
+a cet effet	à cet effet	0	2	for this purpose	x
+a cet egard	à cet égard	0	3	in that regard, in this regard, regarding this	x
 a cet instant	à cet instant	0	2		x
 a cette heure	à cette heure	0	2	now, presently, immediately	x
 a chacun son gout	à chacun son goût	0	3	to each his own	x
@@ -87,7 +87,7 @@ a compte d'auteur	à compte d'auteur	0	2	at the author's expense	x
 a compter de	à compter de	0	3	as of	x
 a concurrence de	à concurrence de	0	3	up to	x
 a condition de	à condition de	0	3	subject to, under the condition of	x
-a condition que	à condition que	0	3	provided dat, providing dat	x
+a condition que	à condition que	0	3	provided that, providing that	x
 a consommer de preference avant	à consommer de préférence avant	0	3	best before	x
 a contre-courant	à contre-courant	0	2	counter to, against the grain	x
 a contre-jour	à contre-jour	0	1	backlit, in the dark, in darkness	x
@@ -98,11 +98,11 @@ a cote	à côté	0	1	next to, next door, by comparison	x
 a cote de	à côté de	0	1	besides, alongside, next to	x
 a cote de la plaque	à côté de la plaque	0	3	out of it, off the mark, beside the point	x
 a coucher dehors	à coucher dehors	0	3	mouthful	x
-a coup de	à coup de	0	1	thruff	x
+a coup de	à coup de	0	1	through	x
 a coup sur	à coup sûr	0	2	to be sure, without fail	x
 a couper au couteau	à couper au couteau	0	3	very dense, very thick, very heavy	x
 a couper le souffle	à couper le souffle	0	3	dramatic, breathtaking, jaw-dropping	x
-a coups de	à coups de	0	2	with, by way of, by means of	x
+a coups de	à coups de	0	2	with, through, by way of	x
 a court	à court	0	2	out of, short of	x
 a court de	à court de	0	2	out, short	x
 a court terme	à court terme	0	3	short-term, short-termist, in the short term	x
@@ -160,7 +160,7 @@ a fond de train	à fond de train	0	2	at full throttle, at full speed, hell-for-l
 a fond la caisse	à fond la caisse	0	3	balls to the wall, like a bat out of hell, pedal to the met…	x
 a fonds perdu	à fonds perdu	0	3	as a subsidy	x
 a force	à force	0	2	eventually, a lot, forcibly	x
-a force de	à force de	0	2	tanks to, with the help of	x
+a force de	à force de	0	2	thanks to, with the help of	x
 a froid	à froid	0	3	cold, without heat, unawares	x
 a gauche	à gauche	0	2	on the left, to left	x
 a geometrie variable	à géométrie variable	0	3	variable-geometry, discriminatory, unequal	x
@@ -182,7 +182,7 @@ a l'aide de	à l’aide de	0	2	with the aid of	x
 a l'air	à l'air	0	2	out, naked, uncovered	x
 a l'air libre	à l'air libre	0	2	in the open air, uncovered	x
 a l'americaine	à l’américaine	0	2	American style, à l’américaine	x
-a l'ancienne	à l’ancienne	0	2	ould school, ould style, à l’ancienne	x
+a l'ancienne	à l’ancienne	0	2	old school, old style, à l’ancienne	x
 a l'arrivee	à l’arrivée	0	2		x
 a l'article de la mort	à l’article de la mort	0	2	at death's door	x
 a l'attaque	à l'attaque	0	2	on offense, on the attack	x
@@ -195,7 +195,7 @@ a l'ecoute	à l'écoute	0	2	listening to, attentive to, in tune with	x
 a l'effet de	à l'effet de	0	2	in order to, for the purposes of	x
 a l'endroit	à l’endroit	0	2	at the place, right side up	x
 a l'endroit de	à l'endroit de	0	2	regarding, towards	x
-a l'epoque	à l’époque	0	2	at the time, back then, at dat time	x
+a l'epoque	à l’époque	0	2	at the time, at that time, back then	x
 a l'etranger	à l'étranger	0	2	abroad	x
 a l'etude	à l'étude	0	2	under study, under review, under consideration	x
 a l'europeenne	à l’européenne	0	2		x
@@ -207,7 +207,7 @@ a l'idee de	à l'idée de	0	2	at the thought of, at the idea of	x
 a l'image	à l’image	0	2		x
 a l'image de	à l’image de	0	2		x
 a l'impossible nul n'est tenu	à l’impossible nul n’est tenu	0	3	One can't do the impossible	x
-a l'instant	à l’instant	0	2	right now, dis instant	x
+a l'instant	à l’instant	0	2	right now, this instant	x
 a l'interieur	à l’intérieur	0	2	inside, indoors	x
 a l'interieur de	à l’intérieur de	0	2	in, within, inside	x
 a l'occasion	à l'occasion	0	2	occasionally, at times, on occasion	x
@@ -223,13 +223,13 @@ a la belle etoile	à la belle étoile	0	3	under the stars, out in the open	x
 a la bonne	à la bonne	0	1		x
 a la bonne femme	à la bonne femme	0	2	à la bonne femme	
 a la bonne heure	à la bonne heure	0	2	at the right time, timely, opportunely	x
-a la bonne votre	à la bonne vôtre	0	3	yer good health	x
+a la bonne votre	à la bonne vôtre	0	3	your good health	x
 a la botte de	à la botte de	0	3	under someone's thumb	x
 a la bulgare	à la bulgare	0	3	Bulgarian style	x
 a la carte	à la carte	0	2	à la carte, pick and mix	
 a la chaine	à la chaîne	0	3	assembly-line, mass, massively	x
 a la cle	à la clé	0	3	at stake	x
-a la con	à la con	0	2	farken	cx
+a la con	à la con	0	2	fucking	cx
 a la cool	à la cool	0	2		x
 a la coque	à la coque	0	3	soft-boiled, soft boiled, softboiled	x
 a la coupe	à la coupe	0	2		x
@@ -238,7 +238,7 @@ a la demande	à la demande	0	1	to order, on demand, on request	x
 a la derive	à la dérive	0	3	adrift	x
 a la diable	à la diable	0	3	à la diable, devilled	x
 a la difference de	à la différence de	0	2	unlike, as opposed to	x
-a la faveur de	à la faveur de	0	3	tanks to	x
+a la faveur de	à la faveur de	0	3	thanks to	x
 a la file	à la file	0	3	in a row	x
 a la fin	à la fin	0	1	in the end, come on	x
 a la fois	à la fois	0	1	both, at the same time	x
@@ -273,7 +273,7 @@ a la merci de	à la merci de	0	1	at the mercy of, at somebody's mercy	x
 a la mesure de	à la mesure de	0	2		x
 a la minute	à la minute	0	3	immediate, instant, instantly	x
 a la mode	à la mode	0	2	fashionable, in fashion, a la mode	x
-a la moitie de	à la moitié de	0	2	half-way thruff	x
+a la moitie de	à la moitié de	0	2	half-way through	x
 a la mords-moi-le-noeud	à la mords-moi-le-nœud	0	3	lousy, stupid	x
 a la mort	à la mort	0	1		x
 a la muette	à la muette	0	3	silently, discreetly, quietly	x
@@ -422,7 +422,7 @@ a poste	à poste	0	2	station	x
 a premiere vue	à première vue	0	2	at first glance	x
 a prendre ou a laisser	à prendre ou à laisser	0	2	take it or leave it	x
 a present	à présent	0	2	these days, nowadays, at present	x
-a present que	à présent que	0	2	now dat	x
+a present que	à présent que	0	2	now that	x
 a prix d'argent	à prix d'argent	0	2	against payment, for a fee, in exchange for money	x
 a prix d'or	à prix d'or	0	2	over the odds, very dearly	x
 a profit	à profit	0	3	at a profit	x
@@ -459,7 +459,7 @@ a sa maniere	à sa manière	0	2	in one's own way	x
 a sa sauce	à sa sauce	0	3	to one's liking, to one's taste	x
 a sang chaud	à sang chaud	0	3	warm-blooded	x
 a sang froid	à sang froid	0	3	cold-blooded	x
-a savoir	à savoir	0	1	namely, to wit, i.e.	x
+a savoir	à savoir	0	1	that is, namely, to wit	x
 a se damner	à se damner	0	3	to die for, stunningly, drop-dead	x
 a se rouler par terre	à se rouler par terre	0	3	hilarious, sidesplitting, hysterically funny	x
 a sec	à sec	0	3	broke	x
@@ -524,7 +524,7 @@ a toute	à toute	0	1	see you, laters	x
 a toute force	à toute force	0	2	by any means, no matter what, at all costs	x
 a toute heure	à toute heure	0	2	anytime, round the clock, at all times	x
 a toutes mains	à toutes mains	0	2		x
-a travers	à travers	0	2	across, thruff	x
+a travers	à travers	0	2	through, across	x
 a tres vite	à très vite	0	2	see you later, see you soon, laters	x
 a tu et a toi	à tu et à toi	0	1	on a first-name basis, on first name terms	x
 a un de ces quatre	à un de ces quatre	0	2	later, see you	x
@@ -548,7 +548,7 @@ a vomir	à vomir	0	3	disgusting, revolting, nauseating	x
 a votre avis	à votre avis	0	2	in your opinion	x
 a votre bon coeur	à votre bon cœur	0	2	spare some change	x
 a votre sante	à votre santé	0	2	cheers, chin chin	x
-a votre service	à votre service	0	2	at yer service	x
+a votre service	à votre service	0	2	at your service	x
 a vous	à vous	0	0	over	x
 a vous de jouer	à vous de jouer	0	2	it's your turn, it's your go	x
 a vous de voir	à vous de voir	0	1	it's up to you, it's your call, it's your choice	x
@@ -559,14 +559,14 @@ a vue de nez	à vue de nez	0	3	approximately, roughly	x
 aa	aa	0	2	aa	
 aaron	Aaron	0	2	Aaron	
 ab	ab	0	2	ab, Ab, Av	
-abaisser	abaisser	0	2	lower, let dahn, bring dahn	
-abaisser la garde	abaisser la garde	0	3	lower yer guard, drop yer guard	x
+abaisser	abaisser	0	2	lower, put down, let down	
+abaisser la garde	abaisser la garde	0	3	lower your guard, drop your guard	x
 abandon	abandon	0	1	surrender, neglect, abandonment	
 abandonne	abandonné	0	1	abandoned	
 abandonner	abandonner	0	1	give up, abandon, forsake	
 abat	abat	0	2	offal, giblets, variety meat	
 abattoir	abattoir	0	2	slaughterhouse, abattoir	
-abattre	abattre	0	2	fell, cut dahn, use up	
+abattre	abattre	0	2	fell, cut down, use up	
 abattre son jeu	abattre son jeu	0	3	to show one's hand, to show one's cards	x
 abattu	abattu	0	1	despondent, disheartened, shattered	
 abbaye	abbaye	0	2	abbey, abbacy	
@@ -578,7 +578,7 @@ abel	Abel	0	2	Abel
 abidjan	Abidjan	0	2	Abidjan	
 abime	abîme	0	2	gulf, abyss, chasm	
 abime de science	abîme de science	0	3	a fount of knowledge	x
-abimer	abîmer	0	2	plunge, fall dahn, damage	
+abimer	abîmer	0	2	plunge, fall down, damage	
 abolir	abolir	0	2	abolish, abrogate	
 abolition	abolition	0	2	abolition, abrogation	
 abondance	abondance	0	2	plenty, wealth, abundance	
@@ -603,7 +603,7 @@ absent	absent	0	1	away, absent, absentee
 absolu	absolu	0	1	complete, total, absolute	
 absolument	absolument	0	0	absolutely, definitely, surely	
 absorbe	absorbé	0	2	intent, absorbed	
-absorber	absorber	0	2	take, dhrink, consume	
+absorber	absorber	0	2	take, drink, consume	
 absorption	absorption	0	2	absorption, swallowing, taking	
 abstenir	abstenir	0	2	abstain, eschew	
 abstention	abstention	0	2	abstention, failure to act	
@@ -644,10 +644,10 @@ accessoire	accessoire	0	2	accessory, incidental, prop
 accident	accident	0	0	accident, misadventure, sign	
 accidentel	accidentel	0	2	accidental, fortuitous	
 accidentellement	accidentellement	0	2	accidentally, by chance, by accident	
-accompagne	accompagné	0	1	bechune	
+accompagne	accompagné	0	1	between	
 accompagnement	accompagnement	0	2	accompaniment, side dish	
 accompagner	accompagner	0	1	accompany, escort	
-accompli	accompli	0	2	accomplished, perfick	
+accompli	accompli	0	2	accomplished, perfect	
 accomplir	accomplir	0	1	keep, perform, achieve	
 accomplissement	accomplissement	0	2	achievement, accomplishment, acquittal	
 accord	accord	0	0	accord, agreement, chord	
@@ -749,7 +749,7 @@ adolphe	Adolphe	0	2	Adolf, Adolph
 adopte	adopté	0	1	adopted	
 adopter	adopter	0	1	adopt	
 adoption	adoption	0	1	adoption	
-adorable	adorable	0	2	adorable, loverly	
+adorable	adorable	0	2	lovely, adorable	
 adorer	adorer	0	0	worship, adore	
 adressage disperse	adressage dispersé	0	3	hash code, hash coding	
 adresse	adresse	0	0	address, ability, skill	
@@ -792,9 +792,9 @@ affrontement	affrontement	0	2	clash, confrontation
 affronter	affronter	0	1	deal, confront, stand up to	
 afghan	afghan	0	2	Afghan	
 afghanistan	Afghanistan	0	2	Afghanistan	
-afin	afin	0	0	to, so dat	
+afin	afin	0	0	to, so that	
 afin de	afin de	0	2	in order to	x
-afin que	afin que	0	2	so dat	x
+afin que	afin que	0	2	so that	x
 africain	africain	0	1	African	
 afrique	Afrique	0	0	Africa	
 afrique de l'est	Afrique de l’Est	0	2	East Africa	
@@ -803,7 +803,7 @@ afro	afro	0	2	afro
 after	after	0	2	after-party, afterparty	
 age	age	0	1	beam, draft-pole	
 age	âge	0	0	age	
-age	âgé	0	1	ould, aged	
+age	âgé	0	1	old, aged	
 age d'or	âge d’or	0	2	golden age	x
 age de pierre	âge de pierre	0	2	stone age, Stone Age	x
 age de raison	âge de raison	0	2	age of reason	
@@ -837,7 +837,7 @@ agriculteur	agriculteur	0	1	farmer, tiller, agriculturist
 agriculture	agriculture	0	1	agriculture, farming	
 agroalimentaire	agroalimentaire	0	2	agri-food, agro-food, food and agriculture	
 ah	ah	0	0	ah, aha	
-ah bon	ah bon	0	2	really, is dat so	x
+ah bon	ah bon	0	2	really, is that so	x
 aidant	aidant	0	2	carer, caregiver	
 aide	aide	0	0	help, benefit, aid	
 aide au depannage	aide au dépannage	0	3	troubleshooting	
@@ -961,7 +961,7 @@ aller plus vite que la musique	aller plus vite que la musique	1	2		x
 aller sans dire	aller sans dire	1	2	to go without saying	x
 aller savoir	aller savoir	1	2	who knows, go figure	x
 aller savoir pourquoi	aller savoir pourquoi	1	2	go figure	x
-aller se faire	aller se faire	1	1	to go fuck oneself	cx
+aller se faire	aller se faire	1	1		cx
 aller se faire enculer	aller se faire enculer	1	3	go screw oneself	x
 aller se faire foutre	aller se faire foutre	1	3	go screw oneself	cx
 aller se faire mettre	aller se faire mettre	1	2	go screw oneself	cx
@@ -978,7 +978,7 @@ allez	allez	1	0	go, come on, let's go
 allez savoir	allez savoir	1	2	who knows? go figure	x
 allez savoir pourquoi	allez savoir pourquoi	1	2	go figure	x
 allez voir la-bas si j'y suis	allez voir là-bas si j'y suis	1	2	get lost	x
-allez vous faire foutre	allez vous faire foutre	1	3	go fuck yourself	cx
+allez vous faire foutre	allez vous faire foutre	1	3		cx
 alliage	alliage	1	2	alloy	
 alliance	alliance	1	1	alliance, covenant, wedding ring	
 allie	allié	1	1	ally, allied	
@@ -1072,7 +1072,7 @@ amsterdam	Amsterdam	1	2	Amsterdam
 amusant	amusant	1	1	funny, amusing	
 amuser	amuser	1	1	entertain, amuse	
 amuser la galerie	amuser la galerie	1	3	to clown around, to entertain the audience	x
-an	an	1	0	-year-old, year ould, year	
+an	an	1	0	year old, -year-old, year	
 an de grace	an de grâce	1	2	year of are Lord	
 anal	anal	1	2	anal	
 analogie	analogie	1	2	analogy	
@@ -1086,7 +1086,7 @@ anatomie	anatomie	1	2	anatomy
 ancestral	ancestral	1	2	ancestral	
 ancetre	ancêtre	1	2	ancestor, forefather, ancestress	
 ancetres	ancêtres	1	2	ancestors	
-ancien	ancien	1	0	ould, ancient, long-standing	
+ancien	ancien	1	0	old, ancient, long-standing	
 ancien francais	ancien français	1	2	Old French	
 ancien monde	Ancien Monde	1	2	Old World	
 anciennement	anciennement	1	2	formerly	
@@ -1156,7 +1156,7 @@ anticiper	anticiper	1	2	anticipate
 anticrenelage	anticrènelage	1	3	antialiasing	
 anticrenelage	anticrénelage	1	3	anti-aliasing	
 antilles	Antilles	1	2	Antilles	
-antique	antique	1	1	ould, ancient, antique	
+antique	antique	1	1	old, ancient, antique	
 antiquite	antiquité	1	2	antiquity, ancientness, antique	
 antisemite	antisémite	1	2	anti-Semitic, anti-Semite	
 antisemitisme	antisémitisme	1	2	anti-Semitism, antisemitism	
@@ -1399,8 +1399,8 @@ assemblage	assemblage	1	2	gathering, assemblage, assembling
 assemble	assemblé	1	2	assembled	
 assemblee	assemblée	1	0	assembly	
 assembler	assembler	1	2	assemble, put together, bind	
-asseoir	asseoir	1	1	sit, sit dahn	
-assez	assez	1	0	enough, sufficiently, rather	
+asseoir	asseoir	1	1	sit, sit down	
+assez	assez	1	0	enough, sufficiently, pretty	
 assiege	assiégé	1	2	besieged	
 assiette	assiette	1	1	pitch, trim, plate	
 assigner	assigner	1	2	assign	
@@ -1481,7 +1481,7 @@ attentif	attentif	1	2	careful, alert, intent
 attention	attention	1	0	attention, heed, acuity	
 attention les yeux	attention les yeux	1	2	prepare to be amazed	x
 attentivement	attentivement	1	2	closely, carefully, intently	
-attenuer	atténuer	1	2	attenuate, extenuate, tone dahn	
+attenuer	atténuer	1	2	attenuate, extenuate, tone down	
 atterrir	atterrir	1	2	land, beach, alight	
 atterrir trop long	atterrir trop long	1	3	overshoot	x
 atterrissage	atterrissage	1	2	landing	
@@ -1551,7 +1551,7 @@ au depourvu	au dépourvu	1	3	off guard	x
 au dernier moment	au dernier moment	1	2		x
 au dernier point	au dernier point	1	2		x
 au detail	au détail	1	3	retail	x
-au detour de	au détour de	1	3	in the course of, leafing thruff, reading thruff	x
+au detour de	au détour de	1	3	in the course of, leafing through, reading through	x
 au detriment de	au détriment de	1	3	at the expense of, to the detriment of	x
 au diable	au diable	1	3	hell with	x
 au dire de	au dire de	1	1	according to	x
@@ -1562,12 +1562,12 @@ au feu	au feu	1	2	fire	x
 au fil de	au fil de	1	3	in the course of	x
 au fin fond	au fin fond	1	2	backwaters	x
 au final	au final	1	2	finally, eventually, after all	x
-au fond	au fond	1	2	deep dahn	x
+au fond	au fond	1	2	deep down	x
 au four	au four	1	3	in the oven, baked	x
 au galop	au galop	1	3	at a gallop, at a gallop, quickly	x
 au gout du jour	au goût du jour	1	3	in fashion	x
 au grand galop	au grand galop	1	3	at full gallop	x
-au grand jamais	au grand jamais	1	1	neva ever	x
+au grand jamais	au grand jamais	1	1	never ever	x
 au grand jour	au grand jour	1	2	in broad daylight, openly, out in the open	x
 au grand maximum	au grand maximum	1	3	at most, tops	x
 au grand soleil	au grand soleil	1	2	in the open, in broad daylight	x
@@ -1621,7 +1621,7 @@ au passage	au passage	1	2	by the way, in the process	x
 au pc	au PC	1	3	PDQ	x
 au peril de sa vie	au péril de sa vie	1	3	risking life and limb	x
 au petit bonheur	au petit bonheur	1	3	haphazardly, without planning	x
-au petit bonheur la chance	au petit bonheur la chance	1	3	anyhow, any ould how	x
+au petit bonheur la chance	au petit bonheur la chance	1	3	any old how, anyhow	x
 au petit matin	au petit matin	1	2	in the early morning, early in the morning, at dawn	x
 au petit pied	au petit pied	1	2	minor, petty, small-time	x
 au pied	au pied	1	2	to heel	x
@@ -1637,9 +1637,9 @@ au plus tot	au plus tôt	1	2	no sooner than, at the earliest, at the soonest	x
 au plus vite	au plus vite	1	2	ASAP	x
 au poil	au poil	1	3	perfect	x
 au point	au point	1	1	ready, functional	x
-au point de	au point de	1	1	so much dat	x
+au point de	au point de	1	1	so much that	x
 au point du jour	au point du jour	1	2		x
-au point que	au point que	1	1	to a point dat	x
+au point que	au point que	1	1	to a point that	x
 au possible	au possible	1	2	extremely	x
 au pouvoir	au pouvoir	1	2	in power	x
 au prealable	au préalable	1	3	before, beforehand	x
@@ -1669,7 +1669,7 @@ au sein du	au sein du	1	2		x
 au sens etroit	au sens étroit	1	3	sense	x
 au sens propre	au sens propre	1	2	literally	x
 au soir	au soir	1	2		x
-au sol	au sol	1	2	Get down, Lie low, Down	x
+au sol	au sol	1	2	Down, Get down, Lie low	x
 au soleil	au soleil	1	2		x
 au son de	au son de	1	0	to the sound of	x
 au sortir de	au sortir de	1	2	at the end of	x
@@ -1682,7 +1682,7 @@ au temps pour moi	au temps pour moi	1	1	my bad, silly me, I stand corrected	x
 au terme de	au terme de	1	2		x
 au total	au total	1	2	in total, in toto	x
 au travail	au travail	1	1	at work, to work	x
-au travers de	au travers de	1	2	with, by way of, by means of	x
+au travers de	au travers de	1	2	with, through, by way of	x
 au vent	au vent	1	3	windward, upwind	x
 au violon	au violon	1	3	behind bars	x
 au voisinage de	au voisinage de	1	3	in the neighbourhood of	x
@@ -1804,8 +1804,8 @@ av. j.-c.	av. J.-C.	2	3	BC	x
 av. n. e.	av. n. è.	2	3	BC	x
 aval	aval	2	2	downstream, approval, endorsement	
 avalanche	avalanche	2	2	avalanche	
-avaler	avaler	2	2	swallow, dahn	
-avaler de travers	avaler de travers	2	3	go dahn the wrong way	x
+avaler	avaler	2	2	swallow, down	
+avaler de travers	avaler de travers	2	3	go down the wrong way	x
 avaler la pilule	avaler la pilule	2	3	swallow a bitter pill	x
 avaler son extrait de naissance	avaler son extrait de naissance	2	3	To bite the dust, to buy the farm	x
 avaler tout rond	avaler tout rond	2	3	to swallow something whole, without chewing it	x
@@ -1891,7 +1891,7 @@ avoir de la chance	avoir de la chance	2	2	lucky	x
 avoir de la chatte	avoir de la chatte	2	3	Lucky	cx
 avoir de la classe	avoir de la classe	2	2	class, classy	x
 avoir de la conversation	avoir de la conversation	2	3	to talk easily	x
-avoir de la gueule	avoir de la gueule	2	3	to look nice, great	x
+avoir de la gueule	avoir de la gueule	2	3	great, to look nice	x
 avoir de la langue	avoir de la langue	2	2		x
 avoir de la merde dans les yeux	avoir de la merde dans les yeux	2	2		x
 avoir de la veine	avoir de la veine	2	3	have a lucky break, strike lucky	x
@@ -1909,7 +1909,7 @@ avoir du coeur au ventre	avoir du cœur au ventre	2	3	To have guts	x
 avoir du coffre	avoir du coffre	2	3	have a good pair/set of lungs, have a powerful voice, have …	x
 avoir du cul	avoir du cul	2	2		x
 avoir du culot	avoir du culot	2	3	have the audacity, have the nerve	x
-avoir du mal	avoir du mal	2	1	have a hard time, foind it hard, have trouble	x
+avoir du mal	avoir du mal	2	1	have a hard time, find it hard, have trouble	x
 avoir du monde au balcon	avoir du monde au balcon	2	3	to have big breasts	x
 avoir du nez	avoir du nez	2	3	jammy	x
 avoir du pain sur la planche	avoir du pain sur la planche	2	3	have a lot on one's plate	x
@@ -1965,7 +1965,7 @@ avoir le coeur bien accroche	avoir le cœur bien accroché	2	3	to have great com
 avoir le coeur brise	avoir le cœur brisé	2	3	be heartbroken	x
 avoir le coeur gros	avoir le cœur gros	2	2		x
 avoir le coeur sec	avoir le cœur sec	2	3	to have no heart	x
-avoir le coeur serre	avoir le cœur serré	2	3	to have a lump in yer throat	x
+avoir le coeur serre	avoir le cœur serré	2	3	to have a lump in your throat	x
 avoir le coeur sur la main	avoir le cœur sur la main	2	2	wear one's heart on one's sleeve	x
 avoir le cuir dur	avoir le cuir dur	2	3	thick-skinned	x
 avoir le cuir epais	avoir le cuir épais	2	3	be thick-skinned	x
@@ -1981,7 +1981,7 @@ avoir le gros cou	avoir le gros cou	2	3	haughty, boastful	x
 avoir le melon	avoir le melon	2	3	to be cocksure, to be full of oneself	x
 avoir le mot pour rire	avoir le mot pour rire	2	3	to make jokes, to make people laugh	x
 avoir le nez creux	avoir le nez creux	2	3	to have flair	x
-avoir le pied marin	avoir le pied marin	2	3	to have yer sea legs	x
+avoir le pied marin	avoir le pied marin	2	3	to have your sea legs	x
 avoir le respire court et le discours egare	avoir le respire court et le discours égaré	2	3	to be dying	x
 avoir le seum	avoir le seum	2	3	pissed off, to have got it in	x
 avoir le souffle coupe	avoir le souffle coupé	2	3	be breathless, be out of breath, be breath-taken	x
@@ -2087,7 +2087,7 @@ baiser	baiser	2	1	kiss, screw, make love
 baiser comme un lapin	baiser comme un lapin	2	3	to have sex quickly	cx
 baisse	baisse	2	1	fall, lowering	
 baisser	baisser	2	1	drop, lower, sink	
-baisser la garde	baisser la garde	2	3	lower yer guard, drop yer guard, let one's guard dahn	x
+baisser la garde	baisser la garde	2	3	lower your guard, drop your guard, let one's guard down	x
 baisser le rideau	baisser le rideau	2	3	to draw the curtains, to close down, to close up shop	x
 baisser les bras	baisser les bras	2	3	give up, say die	x
 baisser pavillon	baisser pavillon	2	3	strike one's flag	x
@@ -2121,7 +2121,7 @@ bancaire	bancaire	2	1	bank
 bande	bande	2	0	bandage, rim, strip	
 bande de	bande de	2	2	you	x
 bande de frequences banalisee	bande de fréquences banalisée	2	3	CB, citizen’s band	
-bande mere	bande mère	2	2	measter	
+bande mere	bande mère	2	2	master	
 bandeau	bandeau	2	2	headband, blindfold, streamer	
 bandit	bandit	2	2	outlaw, bandit	
 bang	bang	2	2	bong, bang	
@@ -2233,14 +2233,14 @@ bayer	bayer	2	2	gape
 bazar	bazar	2	2	bazaar, mess	
 bd	BD	2	1	comics, comic book, comic strip	
 beatrice	Béatrice	2	2	Beatrice	
-beau	beau	2	0	fine, beautiful, fair	
+beau	beau	2	0	pretty, fine, beautiful	
 beau comme le jour	beau comme le jour	2	2	very beautiful	x
 beau comme un coeur	beau comme un cœur	2	2	cute as a button, pretty as a picture	x
 beau comme un dieu	beau comme un dieu	2	2	like a Greek god	x
 beau cul belle gueule	beau cul belle gueule	2	3	nice ass nice face	x
 beau monde	beau monde	2	2	beau monde	
 beau temps	beau temps	2	2		x
-beaucoup	beaucoup	2	0	greatly, a lot, very much	
+beaucoup	beaucoup	2	0	a lot, very much, greatly	
 beaucoup de bruit pour rien	beaucoup de bruit pour rien	2	3	much ado about nothing	x
 beaulieu	Beaulieu	2	2	Beaulieu River, Beaulieu	
 beaumont	Beaumont	2	2	Beaumont	
@@ -2334,7 +2334,7 @@ bien en chair	bien en chair	2	3	brawny	x
 bien en cour	bien en cour	2	2	well-connected at court, in royal favour, well thought of	x
 bien en main	bien en main	2	2		x
 bien entendu	bien entendu	2	2	obviously, naturally, of course	x
-bien faire et laisser dire	bien faire et laisser dire	2	2	eat, dhrink and be merry	x
+bien faire et laisser dire	bien faire et laisser dire	2	2	eat, drink and be merry	x
 bien fait	bien fait	2	1	well done, serve someone right	x
 bien fait de sa personne	bien fait de sa personne	2	1	attractive, good-looking	x
 bien joue	bien joué	2	2	well done, well played	x
@@ -2345,8 +2345,8 @@ bien ne	bien né	2	3	highborn	x
 bien portant	bien portant	2	3	healthy, portly	x
 bien public	bien public	2	2	item of public property, public good	
 bien public mondial	bien public mondial	2	3	global public good, GPG	
-bien que	bien que	2	0	although, even though, despite dat	x
-bien recu	bien reçu	2	2	roger, roger dat, copy dat	x
+bien que	bien que	2	0	although, even though, despite that	x
+bien recu	bien reçu	2	2	roger, copy that, roger that	x
 bien sur	bien sûr	2	2	sure, certainly, naturally	x
 bien tasse	bien tassé	2	3	packed	x
 bien tente	bien tenté	2	3	synonym of bien essayé	x
@@ -2428,7 +2428,7 @@ blinde	blindé	2	2	armoured, armored, armored car
 bloc	bloc	2	1	block, mass, lump	
 blocage	blocage	2	2	lock, locking	
 blocus	blocus	2	2	blockade, study leave	
-blog	blog	2	1	blag	
+blog	blog	2	1	blog	
 blogueur	blogueur	2	2	blogger	
 blois	Blois	2	2	Blois	
 blond	blond	2	2	fair, blond, fair-haired	
@@ -2452,19 +2452,19 @@ body	body	2	2	body, bodysuit, romper
 boeuf	Boeuf	2	2	Boeuf River	
 boeuf	bœuf	2	2	steer, ox, bullock	
 bogue	bogue	2	3	chestnut, burr, bur	
-boire	boire	2	1	dhrink	
+boire	boire	2	1	drink	
 boire a sa soif	boire à sa soif	2	3	to drink one's fill	x
-boire comme un trou	boire comme un trou	2	3	dhrink like a fish	x
-boire comme une botte	boire comme une botte	2	3	dhrink like a fish	x
+boire comme un trou	boire comme un trou	2	3	drink like a fish	x
+boire comme une botte	boire comme une botte	2	3	drink like a fish	x
 boire la tasse	boire la tasse	2	3	to go under	x
-boire un coup	boire un coup	2	3	have a dhrink	x
+boire un coup	boire un coup	2	3	have a drink	x
 bois	bois	2	0	wood, timber, woodwind	
 bois de bout	bois de bout	2	2	wood engraving	
 bois de feu	bois de feu	2	2	wood of fire	
 bois de justice	bois de justice	2	2	traduction	
 bois mort	bois mort	2	2	dead wood, dead weight	
 boise	boisé	2	2	woody, wooded, timbered	
-boisson	boisson	2	1	dhrink, beverage	
+boisson	boisson	2	1	drink, beverage	
 boite	boîte	2	0	can, box, volta bracket	
 boite aux lettres	boite aux lettres	2	3	post box, mailbox, letterbox	
 boite aux lettres	boîte aux lettres	2	3	post box, mailbox, postbox	
@@ -2491,7 +2491,7 @@ bon chic bon genre	bon chic bon genre	2	3	posh, bourgeois, style	x
 bon comme le bon pain	bon comme le bon pain	2	3	kind, kindhearted	x
 bon comme le pain	bon comme le pain	2	3	kind, kindhearted	x
 bon cote	bon côté	2	2	right side, good side, bright side	
-bon coup	bon coup	2	2	coup, good lay, gurt lay	
+bon coup	bon coup	2	2	coup, good lay, great lay	
 bon courage	bon courage	2	3	go for it, keep going, take heart	x
 bon d'etat	bon d’État	2	2	State note	
 bon de travail	bon de travail	2	2	work order	
@@ -2522,7 +2522,7 @@ bon sang mais c'est bien sur	bon sang mais c’est bien sûr	2	3	but of course	x
 bon sens	bon sens	2	2	common sense	
 bon vent	bon vent	2	3	good riddance	x
 bon vieux	bon vieux	2	2	trusty	x
-bon vieux temps	bon vieux temps	2	2	good ould days	
+bon vieux temps	bon vieux temps	2	2	good old days	
 bon vouloir	bon vouloir	2	2	pleasure, goodwill	
 bon voyage	bon voyage	2	2	bon voyage, have a nice trip	
 bonaparte	Bonaparte	2	2	Bonaparte	
@@ -2586,7 +2586,7 @@ botanique	botanique	2	2	botanical, botany
 botte	botte	2	2	boot, bunch, bale	
 botte a botte	botte à botte	2	3	side by side	x
 bouc	bouc	2	2	billy goat, he-goat, goatee	
-bouc emissaire	bouc émissaire	2	3	scapegoat, whipping bhoy	x
+bouc emissaire	bouc émissaire	2	3	scapegoat, whipping boy	x
 bouche	bouche	2	0	mouth, entrance, rivermouth	
 bouche a oreille	bouche à oreille	2	3	word of mouth, word-of-mouth, WOMM	x
 bouche a oreille electronique	bouche à oreille électronique	2	3	viral marketing	x
@@ -2606,7 +2606,7 @@ bouddha	Bouddha	2	2	Buddha
 bouddhiste	bouddhiste	2	2	Buddhist	
 boue	boue	2	2	mud	
 bouffe	bouffe	2	1	grub	
-bouffer	bouffer	2	2	puff, eat, chow dahn	
+bouffer	bouffer	2	2	puff, eat, chow down	
 bouffer du lapin	bouffer du lapin	2	3	be stood up, get stood up	x
 bouffer la chatte	bouffer la chatte	2	3	dine at the Y, muff diving	cx
 bouffer le cul	bouffer le cul	2	3		cx
@@ -2664,7 +2664,7 @@ brancher	brancher	2	2	connect, turn on, switch on
 brandon	Brandon	2	2	Brandon	
 branler	branler	2	2	shake, stroke, not give a toss	
 branlette espagnole	branlette espagnole	2	3		x
-braquage	braquage	2	2	steering, deflexion, lock	
+braquage	braquage	2	2	steering, deflection, lock	
 braquer	braquer	2	2	aim, assault, criticise	
 bras	bras	2	0	guy, arm, brace	
 bras arme	bras armé	2	3	armed arm	x
@@ -2785,9 +2785,9 @@ c'est comment	c’est comment	3	1		x
 c'est dans la poche	c’est dans la poche	3	3	I nailed it, It's in the bag	x
 c'est de la merde	c'est de la merde	3	2		cx
 c'est dire	c'est dire	3	1	it goes to show	x
-c'est du beau	c’est du beau	3	2	that's just great, lovely, what a mess	x
+c'est du beau	c’est du beau	3	2	lovely, that's just great, what a mess	x
 c'est du gateau	c’est du gâteau	3	3	easy as pie, it’s a piece of cake	x
-c'est du propre	c'est du propre	3	2	That's fine, that's just great, lovely	x
+c'est du propre	c'est du propre	3	2	lovely, That's fine, that's just great	x
 c'est entendu	c’est entendu	3	2	Ok, Agreed, All right	x
 c'est kif-kif	c'est kif-kif	3	3	It's all the same, It's swings and roundabouts	x
 c'est l'intention qui compte	c'est l'intention qui compte	3	3	It's the thought that counts	x
@@ -2845,16 +2845,16 @@ ca alors	ça alors	3	1	well	x
 ca arrive	ça arrive	3	2	It happens, It's getting there	x
 ca baigne	ça baigne	3	3	how's it going	x
 ca comme	ça comme	3	0		x
-ca commence a bien faire	ça commence à bien faire	3	2	enough is enough, dis is getting ould	x
-ca et la	çà et là	3	3	hither and thither, 'ere and there, hither and yon	x
+ca commence a bien faire	ça commence à bien faire	3	2	enough is enough, this is getting old	x
+ca et la	çà et là	3	3	here and there, hither and thither, hither and yon	x
 ca fait	ça fait	3	0		x
 ca fait deux	ça fait deux	3	1		x
 ca gaze	ça gaze	3	3	How's things, how's things, how's tricks	x
-ca le fait	ça le fait	3	0	that'll do, dat does it	x
+ca le fait	ça le fait	3	0	that does it, that'll do	x
 ca m'en a tout l'air	ça m’en a tout l’air	3	2	it looks like it	x
 ca marche	ça marche	3	2	it works	x
 ca mord	ça mord	3	3	Fish on, something is biting, is something biting	x
-ca ne fait rien	ça ne fait rien	3	1	neva mind	x
+ca ne fait rien	ça ne fait rien	3	1	never mind	x
 ca ne mange pas de pain	ça ne mange pas de pain	3	3	it doesn't cost anything, it can't hurt	x
 ca par exemple	ça par exemple	3	2	well	x
 ca passe ou ca casse	ça passe ou ça casse	3	3	do or die, all or nothing, make or break	x
@@ -2862,7 +2862,7 @@ ca peut aller	ça peut aller	3	2	could be worse	x
 ca pique	ça pique	3	3	That stings, It stings	x
 ca roule	ça roule	3	3	ok, all right, no problem	x
 ca se plume	ça se plume	3	3	I'm doing fine	x
-ca suffit	ça suffit	3	2	enough, dat does it	x
+ca suffit	ça suffit	3	2	enough, that does it	x
 ca te va bien	ça te va bien	3	1	you can talk, look who's talking, That looks smart on you	x
 ca va	ça va	3	1	how are you, what's up, well	x
 ca va bien	ça va bien	3	1	I'm fine, I'm alright	x
@@ -2915,7 +2915,7 @@ californie	Californie	3	1	California
 californien	californien	3	2	Californian, Californian rabbit	
 calin	câlin	3	2	hug, cuddle, cuddly	
 calme	calme	3	0	quiet, calm	
-calme ta joie	calme ta joie	3	3	calm yer tits	x
+calme ta joie	calme ta joie	3	3	calm your tits	x
 calmement	calmement	3	2	calmly	
 calmer	calmer	3	1	calm, abate	
 calmer le jeu	calmer le jeu	3	3	to defuse the situation, to calm things down	x
@@ -2937,7 +2937,7 @@ camille	Camille	3	2	Camilla, Camille
 camion	camion	3	1	truck, lorry	
 camionnette	camionnette	3	2	van	
 camp	camp	3	0	camp	
-campagne	campagne	3	0	counterie, countryside, field	
+campagne	campagne	3	0	country, countryside, field	
 camper	camper	3	2	camp	
 camping	camping	3	2	camping, campsite, campground	
 campus	campus	3	2	campus	
@@ -2995,7 +2995,7 @@ captivite	captivité	3	2	captivity
 capture	capture	3	2	capture	
 capturer	capturer	3	2	capture, catch, grab	
 car	car	3	0	coach, long-distance bus, car	
-caractere	caractère	3	0	character, sort, fount	
+caractere	caractère	3	0	character, sort, font	
 caracteriser	caractériser	3	2	characterise	
 caracteristique	caractéristique	3	1	characteristic, ability, attribute	
 caraibes	Caraïbes	3	2	Caribbean	
@@ -3106,14 +3106,14 @@ cc	CC	3	3	DC, LCdr, FCL
 cc	cc	3	2	cc, CC	
 cd	CD	3	1	CD, dendritic cell	
 cdi	CDI	3	2	permanent contract, IDC, interdigitated dendritic cell	
-ce	ce	3	0	these, dat, dis	
+ce	ce	3	0	that, this, these	
 ce faisant	ce faisant	3	2	in doing so	x
 ce fut un plaisir	ce fut un plaisir	3	2	it was a pleasure	x
 ce jour	ce jour	3	1		x
 ce me semble	ce me semble	3	2	methinks	x
 ce n'est pas du jeu	ce n'est pas du jeu	3	2	that's not fair game	x
 ce n'est pas faux	ce n’est pas faux	3	2	That's not wrong, That isn't wrong	x
-ce n'est pas grave	ce n’est pas grave	3	2	no problem, it doesn’t matter, it's not a big deal	x
+ce n'est pas grave	ce n’est pas grave	3	2	never mind, no problem, it doesn’t matter	x
 ce n'est pas la fin du monde	ce n’est pas la fin du monde	3	2	not the end of the world	x
 ce n'est pas la mer a boire	ce n’est pas la mer à boire	3	3	it's not asking much, it's not so hard, it's not too much t…	x
 ce n'est pas pour dire	ce n'est pas pour dire	3	1	but, just saying, not to be rude	x
@@ -3124,15 +3124,15 @@ ce n'est que justice	ce n'est que justice	3	2	fair's fair, it's only fair	x
 ce n'est que partie remise	ce n'est que partie remise	3	3	Let's come back to it later	x
 ce pourquoi	ce pourquoi	3	1	that's why, which is why	x
 ce qu'il ne faut pas entendre	ce qu'il ne faut pas entendre	3	2	nonsense! rubbish	x
-ce que	ce que	3	0	what, dat which, as	x
+ce que	ce que	3	0	what, that which, as	x
 ce que c'est que	ce que c’est que	3	0		x
 ce que femme veut, dieu le veut	ce que femme veut, Dieu le veut	3	2		x
 ce qui	ce qui	3	0	what	x
 ce qui est dit est dit	ce qui est dit est dit	3	1		x
 ce qui est fait est fait	ce qui est fait est fait	3	1	what’s done is done	x
 cebiste	cébiste	3	3	ham, CB user, radio ham	
-ceci	ceci	3	0	dis	
-ceci dit	ceci dit	3	2	having said dat, dat said	x
+ceci	ceci	3	0	this	
+ceci dit	ceci dit	3	2	that said, having said that	x
 ceci etant	ceci étant	3	3	however, then again, that being so	x
 ceci n'est pas une pipe	ceci n’est pas une pipe	3	3	This is not a pipe, This isn't a pipe	x
 cecile	Cécile	3	2	Cecilia, Cicely, Cecily	
@@ -3151,8 +3151,8 @@ ceinture noire	ceinture noire	3	3	black belt	x
 ceinture orange	ceinture orange	3	3	orange belt	x
 ceinture rouge	ceinture rouge	3	3	red belt	x
 ceinture rouge et blanche	ceinture rouge et blanche	3	3	red and white belt	x
-cela	cela	3	0	dat	
-cela dit	cela dit	3	1	having said dat, dat said	x
+cela	cela	3	0	that	
+cela dit	cela dit	3	1	that said, having said that	x
 cela etant	cela étant	3	2	however, then again, that being so	x
 cela etant dit	cela étant dit	3	2	however, then again, that being so	x
 cela fait	cela fait	3	1		x
@@ -3169,8 +3169,8 @@ celine	Céline	3	2	Celine
 cellulaire	cellulaire	3	2	cellular	
 cellule	cellule	3	1	cell	
 celtique	celtique	3	2	Celtic	
-celui	celui	3	0	the one, dat	
-celui-la	celui-là	3	2	dat, former	
+celui	celui	3	0	that, the one	
+celui-la	celui-là	3	2	that, former	
 cendre	cendre	3	2	ash, ashes, cinders	
 cense	censé	3	1	assumed, supposed to	
 cense tel	censé tel	3	3	so presumed, supposed	x
@@ -3304,7 +3304,7 @@ chapitre	chapitre	3	1	chapter
 chaque	chaque	3	0	every, each	
 chaque chose en son temps	chaque chose en son temps	3	2	be patient	x
 chaque fois que	chaque fois que	3	2		x
-char	char	3	1	waggon, chariot, tank	
+char	char	3	1	wagon, waggon, chariot	
 charbon	charbon	3	1	coal, brush, ember	
 charge	charge	3	0	load, burden, charge	
 charge	chargé	3	0	loaded, charged, full	
@@ -3314,7 +3314,7 @@ chargement	chargement	3	2	filling, loading, load
 charger	charger	3	2	load, burden, charge	
 charger la mule	charger la mule	3	3	to overdo it	x
 chargeur	chargeur	3	2	loader, charger	
-chariot	chariot	3	2	carriage, waggon, wheelchair	
+chariot	chariot	3	2	wagon, carriage, waggon	
 charismatique	charismatique	3	2	charismatic	
 charisme	charisme	3	2	charisma	
 charite	charité	3	2	charity	
@@ -3343,7 +3343,7 @@ chaud	chaud	3	0	hot, warm, hotly
 chaud boulette	chaud boulette	3	3	enthusiastic	x
 chaud comme la braise	chaud comme la braise	3	3	on fire, hot as blazes, red-hot	x
 chaud comme une baraque a frites	chaud comme une baraque à frites	3	3	champing at the bit	x
-chaud devant	chaud devant	3	3	hot stuff coming thruff	x
+chaud devant	chaud devant	3	3	hot stuff coming through	x
 chaud lapin	chaud lapin	3	3	womaniser, horndog, shagger	x
 chaudiere	chaudière	3	2	boiler	
 chauffage	chauffage	3	2	heating, stoking	
@@ -3386,7 +3386,7 @@ chene	chêne	3	2	oak, oak tree
 chenille	chenille	3	2	larva, caterpillar, continuous track	
 cheque	chèque	3	1	check, cheque	
 cheque en blanc	chèque en blanc	3	3	blank check, blank cheque	x
-cher	cher	3	0	dear, beloved, loverly	
+cher	cher	3	0	dear, lovely, beloved	
 chercher	chercher	3	0	search, seek, be after	
 chercher a	chercher à	3	2		x
 chercher la merde	chercher la merde	3	2	to look for trouble, to ask for trouble, to fish for trouble	cx
@@ -3405,7 +3405,7 @@ chevelure	chevelure	3	2	hair, head of hair, coma
 chevet	chevet	3	2	head, bedside table	
 cheveu	cheveu	3	0	hair	
 cheville	cheville	3	2	peg, dowel, wall plug	
-cheville au corps	chevillé au corps	3	3	in yer bones	x
+cheville au corps	chevillé au corps	3	3	in your bones	x
 chevre	chèvre	3	1	goat, she-goat, nanny goat	
 chez	chez	3	0	chez, at	
 chez soi	chez soi	3	2	at home	x
@@ -3414,7 +3414,7 @@ chiant	chiant	3	1	annoying, boring	c
 chiant comme la pluie	chiant comme la pluie	3	3	boring as hell	cx
 chic	chic	3	2	fancy, chic, dinky	
 chicago	Chicago	3	1	Chicago	
-chien	chien	3	0	bitch, dag, hound	
+chien	chien	3	0	dog, bitch, hound	
 chien courant grec	chien courant grec	3	3	Hellenic hound	x
 chien jaune	chien jaune	3	3	batsman, LSO, paddles	x
 chienne	chienne	3	2	bitch, doggess, slut	
@@ -3488,7 +3488,7 @@ chut	chut	3	2	shh, hush, Chut
 chute	chute	3	1	fall, collapse, downfall	
 chuter	chuter	3	2	flop	
 chypre	Chypre	3	2	Cyprus	
-ci	ci	3	0	'ere	
+ci	ci	3	0	here	
 cia	CIA	3	2	CIA	
 cible	cible	3	1	target, butt	
 cibler	cibler	3	2	target, zero in	
@@ -3585,7 +3585,7 @@ clinique	clinique	3	1	clinical, clinic
 clip	clip	3	1	music video, promo video	
 clique	clique	3	2	train, suite, accompaniment	
 cliquer	cliquer	3	1	click	
-cliquer-parler	cliquer-parler	3	3	Web call back, Web call thruff, click & talk	
+cliquer-parler	cliquer-parler	3	3	Web call back, Web call through, click & talk	
 clivage	clivage	3	2	cleavage, cleaving	
 cloche	cloche	3	2	bell	
 clocher	clocher	3	2	bell tower, steeple, belltower	
@@ -3665,7 +3665,7 @@ college	collège	4	1	high school, gymnasium, grammar-school
 collegue	collègue	4	1	colleague, coworker, co-worker	
 coller	coller	4	1	post, stick, paste	
 coller au cul	coller au cul	4	3	to tailgate, to follow everywhere, like a leech	cx
-coller au train	coller au train	4	3	breathe dahn someone's neck	x
+coller au train	coller au train	4	3	breathe down someone's neck	x
 collier	collier	4	2	necklace, collar, horse collar	
 colline	colline	4	1	hill, hillock	
 collision	collision	4	2	collision, clash	
@@ -3718,7 +3718,7 @@ comme	comme	4	0	as, like, almost
 comme as	comme as	4	1	like dat	x
 comme bon lui semble	comme bon lui semble	4	2		x
 comme c'est pas permis	comme c’est pas permis	4	2	as they come, like crazy, as can be	x
-comme ca	comme ça	4	0	like dat, like dis, such	x
+comme ca	comme ça	4	0	like that, like this, such	x
 comme chien et chat	comme chien et chat	4	3	like cats and dogs	x
 comme ci comme ca	comme ci comme ça	4	2	so-so	x
 comme cul et chemise	comme cul et chemise	4	3	hand in glove	x
@@ -3728,7 +3728,7 @@ comme en 14	comme en 14	4	2		x
 comme harengs en caque	comme harengs en caque	4	3	packed like sardines	x
 comme il faut	comme il faut	4	1	properly, normally	x
 comme il se doit	comme il se doit	4	1	sure enough	x
-comme jamais	comme jamais	4	1	like neva before	x
+comme jamais	comme jamais	4	1	like never before	x
 comme le jour et la nuit	comme le jour et la nuit	4	2	day and night, night and day, different as chalk and cheese	x
 comme maree en careme	comme marée en carême	4	3	opportunely	x
 comme on dit	comme on dit	4	1	as the saying goes	x
@@ -3921,7 +3921,7 @@ concile	concile	4	2	council
 concilier	concilier	4	2	reconcile, conciliate	
 concitoyen	concitoyen	4	2	citizen	
 concluant	concluant	4	2	conclusive	
-conclure	conclure	4	1	conclude, foind, gather	
+conclure	conclure	4	1	conclude, find, gather	
 conclure un marche	conclure un marché	4	3	conclude a contract	x
 conclusion	conclusion	4	1	conclusion	
 concorde	concorde	4	2	concord	
@@ -4012,7 +4012,7 @@ connecte	connecté	4	1	smart
 connecter	connecter	4	2	connect, connect up	
 connecteur logiciel	connecteur logiciel	4	3	socket	
 connerie	connerie	4	1	folly, foolishment, dumbassery	
-connexion	connexion	4	1	coupling, connexion, log in	
+connexion	connexion	4	1	connection, coupling, log in	
 connexite	connexité	4	3	connectedness, connexity, connectivity	
 connu	connu	4	0	known	
 connu comme le loup blanc	connu comme le loup blanc	4	3	known to everyone	x
@@ -4060,7 +4060,7 @@ consolidation	consolidation	4	2	consolidation
 consolider	consolider	4	2	consolidate	
 consommateur	consommateur	4	1	consumer	
 consommateur a consommateur en ligne	consommateur à consommateur en ligne	4	3	C2C, C-to-C, consumer-to-consumer	x
-consommation	consommation	4	0	dhrink, beverage, consummation	
+consommation	consommation	4	0	drink, beverage, consummation	
 consomme	consommé	4	2	consummate, consomme	
 consommer	consommer	4	1	use up, consume, consummate	
 consortium	consortium	4	2	consortium	
@@ -4137,7 +4137,7 @@ contre	contre	4	0	against, despite, versus
 contre nature	contre nature	4	2	against nature, unnatural	x
 contre-coup d'etat	contre-coup d’État	4	2	counter coup, counter coup d’etat	
 contredire	contredire	4	2	contradict	
-contree	contrée	4	2	land, counterie	
+contree	contrée	4	2	country, land	
 contrefacon	contrefaçon	4	2	counterfeiting, counterfeit, forgery	
 contrepartie	contrepartie	4	2	quid pro quo, counterpart	
 contrer	contrer	4	2	double, block, counter	
@@ -4219,7 +4219,7 @@ correctement	correctement	4	1	properly, correctly, accurately
 correction	correction	4	1	correction, proofreading, corrective	
 correctionnel	correctionnel	4	2	correctional	
 correlation	corrélation	4	2	correlation	
-correspondance	correspondance	4	1	corresponding, correspondence, connexion	
+correspondance	correspondance	4	1	corresponding, correspondence, connection	
 correspondant	correspondant	4	1	pen pal, penfriend, pen friend	
 correspondre	correspondre	4	2	match, agree, comply	
 corridor	corridor	4	2	corridor, hallway, passageway	
@@ -4248,7 +4248,7 @@ cou	cou	4	1	neck, throat
 cou nu	cou nu	4	3	naked neck, turken	x
 couche	couche	4	1	bed, diaper, nappy	
 coucher	coucher	4	0	lie, go to bed, lay	
-coucher sur le papier	coucher sur le papier	4	3	set dahn to paper	x
+coucher sur le papier	coucher sur le papier	4	3	set down to paper	x
 coucou	coucou	4	2	cuckoo, gowk, hey	
 coude	coude	4	2	elbow, kink	
 coude a coude	coude à coude	4	3	neck and neck	x
@@ -4264,7 +4264,7 @@ couleur	couleur	4	0	colour, paint, dye
 couleur chair	couleur chair	4	3	flesh	x
 coulisse	coulisse	4	2	track, slide, rail	
 couloir	couloir	4	1	passage, aisle, corridor	
-country	country	4	2	counterie	
+country	country	4	2	country	
 coup	coup	4	0	hit, blow, knock	
 coup bas	coup bas	4	2	low blow, cheap shot	
 coup d'etat	coup d’État	4	2	putsch, coup d’etat, coup d’État	
@@ -4278,7 +4278,7 @@ coup de feu	coup de feu	4	2	gunshot
 coup de force	coup de force	4	2	power play, power move, show of force	
 coup de grace	coup de grâce	4	2	coup de grace, coup de grâce	
 coup de jeune	coup de jeune	4	2	rejuvenation	
-coup de la panne	coup de la panne	4	3	to pretend to break dahn	x
+coup de la panne	coup de la panne	4	3	to pretend to break down	x
 coup de langue	coup de langue	4	2	lick, telling off, earful	x
 coup de main	coup de main	4	2	surprise attack, coup de main, helping hand	
 coup de maitre	coup de maître	4	2	masterstroke	
@@ -4326,7 +4326,7 @@ courage	courage	4	1	courage, daring, bravery
 courageux	courageux	4	2	brave, bold, enthusiastic	
 couramment	couramment	4	2	fluently	
 courant	courant	4	0	running, fluent, present	
-courant d'air	courant d’air	4	2	draught	
+courant d'air	courant d’air	4	2	draft, draught	
 courbe	courbe	4	1	bent, curved, bend	
 coureur	coureur	4	2	runner	
 courir	courir	4	1	run, race, rush	
@@ -4366,9 +4366,9 @@ cout, assurance et fret	coût, assurance et fret	4	3	cost, insurance and freight
 couteau	couteau	4	1	knife, razor shell	
 couter	coûter	4	1	cost	
 couter la vie	coûter la vie	4	3	to cost their life, to take life, to claim life	x
-couter les yeux de la tete	coûter les yeux de la tête	4	3	cost the earth, cost an arm and a leg, cost a purty penny	x
-couter un oeil	coûter un œil	4	3	cost the earth, cost an arm and a leg, cost a purty penny	x
-couter un pont	coûter un pont	4	3	cost the earth, cost a purty penny, cost an arm and a leg	x
+couter les yeux de la tete	coûter les yeux de la tête	4	3	cost the earth, cost an arm and a leg, cost a pretty penny	x
+couter un oeil	coûter un œil	4	3	cost the earth, cost an arm and a leg, cost a pretty penny	x
+couter un pont	coûter un pont	4	3	cost the earth, cost a pretty penny, cost an arm and a leg	x
 couteux	coûteux	4	2	expensive, costly	
 coutume	coutume	4	2	way, fashion, custom	
 couture	couture	4	2	needlework	
@@ -4423,14 +4423,14 @@ crete	crête	4	2	ridge, comb, crest
 cretin	crétin	4	2	imbecile, cretin, nitwit	
 creuser	creuser	4	2	dig, spade, grub	
 creuser le fosse	creuser le fossé	4	3	widen the gulf	x
-creuser le ventre	creuser le ventre	4	3	pull yer stomach in, suck yer stomach in	x
+creuser le ventre	creuser le ventre	4	3	pull your stomach in, suck your stomach in	x
 creux	creux	4	1	hollow, concave, deep	
 creve	crève	4	2	cold, chill, catarrh	
 crever	crever	4	1	croak, kick the bucket, sicken	
 crever la dalle	crever la dalle	4	3	to be starving	x
 crever le plafond	crever le plafond	4	3	to break new ground, to trailblaze	x
 crevette	crevette	4	2	shrimp, prawn	
-crevette nordique du canada	crevette nordique du Canada	4	3	northern shrimp, pink shrimp, deep-sea prawn	x
+crevette nordique du canada	crevette nordique du Canada	4	3	northern shrimp, pink shrimp, great northern prawn	x
 cri	cri	4	1	call, cry, scream	
 cri des bois	cri des bois	4	3	Woods Cree	x
 cri des marais	cri des marais	4	3	Swampy Cree	x
@@ -4506,7 +4506,7 @@ cul	cul	5	0	ass, butt, bum
 cul de bouteille	cul de bouteille	5	3	bullseye, bull’s eye, bull’s-eye	x
 cul et chemise	cul et chemise	5	3	thick as thieves, bosom buddies	x
 cul par-dessus tete	cul par-dessus tête	5	3	ass over teakettle	x
-cul sec	cul sec	5	3	one shot, bottoms up, dahn the hatch	x
+cul sec	cul sec	5	3	one shot, down the hatch, bottoms up	x
 cul serre	cul serré	5	3	tight-assed	x
 culinaire	culinaire	5	2	culinary	
 culminer	culminer	5	2	culminate	
@@ -4613,7 +4613,7 @@ dangereux	dangereux	5	0	dangerous, unsafe, hazardous
 daniel	Daniel	5	1	Daniel	
 danois	danois	5	2	Danish	
 dans	dans	5	0	in, into, inside	
-dans ce cas	dans ce cas	5	1	in dat case, in dis case	x
+dans ce cas	dans ce cas	5	1	in that case, in this case	x
 dans l'air	dans l’air	5	2	pending	x
 dans l'air du temps	dans l'air du temps	5	2	in fashion	x
 dans l'ensemble	dans l’ensemble	5	2	for the most part, on the whole	x
@@ -4687,9 +4687,9 @@ dans son coin	dans son coin	5	3	alone	x
 dans son element	dans son élément	5	3	in one's element	x
 dans son ensemble	dans son ensemble	5	2	as a whole, in its entirety	x
 dans son jus	dans son jus	5	3	genuine	x
-dans ta face	dans ta face	5	2	in someone's face, in yer face	x
+dans ta face	dans ta face	5	2	in your face, in someone's face	x
 dans ta gueule	dans ta gueule	5	3	in your face	cx
-dans ton cul	dans ton cul	5	2	up yours, up yer ass	cx
+dans ton cul	dans ton cul	5	2	up your ass, up yours	cx
 dans tous les cas	dans tous les cas	5	1	in any case, in any event, at any rate	x
 dans tous les sens	dans tous les sens	5	2	in all directions	x
 dans tous ses etats	dans tous ses états	5	2	all excited, all worked up, in all its phases	x
@@ -4707,7 +4707,7 @@ danse	danse	5	1	dance, dancing
 danser	danser	5	1	dance	
 danseur	danseur	5	2	dancer	
 danseuse	danseuse	5	2	dancer, danceress	
-daron	daron	5	3	ould man	
+daron	daron	5	3	old man	
 date	date	5	0	date	
 date	daté	5	2	dated, outdated	
 dater	dater	5	2	date	
@@ -4749,7 +4749,7 @@ de cette maniere	de cette manière	5	2	like that, in this way, in such a manner	
 de chez	de chez	5	1		x
 de choc	de choc	5	3	shock	x
 de choix	de choix	5	2	choice, excellent, select	x
-de choses et d'autres	de choses et d’autres	5	2	dis and dat	x
+de choses et d'autres	de choses et d’autres	5	2	this and that	x
 de circonstance	de circonstance	5	3	appropriate, suitable, suited to the occasion	x
 de coeur	de cœur	5	2	kindhearted, noble-hearted, favourite	x
 de coin de table	de coin de table	5	3	back-of-the-envelope	x
@@ -4841,7 +4841,7 @@ de mal en pis	de mal en pis	5	3	from bad to worse	x
 de malade	de malade	5	3	freak, insane	x
 de malheur	de malheur	5	3	damn, bloody, pesky	x
 de maniere	de manière	5	2	in a (adj.) way	x
-de maniere a	de manière à	5	2	so as to, so dat	x
+de maniere a	de manière à	5	2	so that, so as to	x
 de maniere a ce que	de manière à ce que	5	2		x
 de maniere generale	de manière générale	5	2	generally, generally speaking	x
 de maniere que	de manière que	5	2	in order to, so as to	x
@@ -4850,12 +4850,12 @@ de masse	de masse	5	3	mass	x
 de mauvais gout	de mauvais goût	5	3	in bad taste	x
 de mauvais poil	de mauvais poil	5	3	grouchy, crabby, ratty	x
 de meme	de même	5	0	likewise, by the same token	x
-de meme farine	de même farine	5	3	of dat ilk	x
+de meme farine	de même farine	5	3	of that ilk	x
 de meme que	de même que	5	0	just as, just as . . ., so do(es) . . .	x
 de memoire	de mémoire	5	2	from memory, if memory serves	x
 de merde	de merde	5	2	shit, crappy, lousy	cx
 de mere en fille	de mère en fille	5	2	from mother to daughter	x
-de mes deux	de mes deux	5	1	bloody, damned, pesky	cx
+de mes deux	de mes deux	5	1	fucking, bloody, damned	cx
 de mieux	de mieux	5	1		x
 de mieux en mieux	de mieux en mieux	5	2	better and better	x
 de mise	de mise	5	2	necessary, proper, appropriate	x
@@ -4867,7 +4867,7 @@ de mon cul	de mon cul	5	2		x
 de mon mieux	de mon mieux	5	1		x
 de mort	de mort	5	1		x
 de mure	de mûre	5	3	murrey	x
-de naissance	de naissance	5	3	by nature, bawn, by birth	x
+de naissance	de naissance	5	3	born, by nature, by birth	x
 de neuf	de neuf	5	2		x
 de niveau	de niveau	5	2		x
 de nom	de nom	5	1		x
@@ -4880,14 +4880,14 @@ de pair	de pair	5	3	pari passu	x
 de par	de par	5	0	in the name of, by virtue of, by the will of	x
 de par le monde	de par le monde	5	1	around the world	x
 de parole	de parole	5	2	of one's word	x
-de part en part	de part en part	5	2	all over, thruff and thruff	x
+de part en part	de part en part	5	2	all over, through and through	x
 de part et d'autre	de part et d’autre	5	2	on both sides, on either side	x
 de partout	de partout	5	2		x
 de passage	de passage	5	2	passing through, passing by	x
 de pere en fils	de père en fils	5	2	from father to son	x
 de peu	de peu	5	1	just, slightly, by a small margin	x
 de peur de	de peur de	5	2	for fear of	x
-de peur que	de peur que	5	2	lest, for fear dat	x
+de peur que	de peur que	5	2	for fear that, lest	x
 de pied en cap	de pied en cap	5	3	from head to toe	x
 de pied ferme	de pied ferme	5	3	resolutely, standing firm	x
 de pire en pire	de pire en pire	5	3	worse and worse	x
@@ -4952,7 +4952,7 @@ de son etat	de son état	5	1	by trade, by profession	x
 de son long	de son long	5	2		x
 de son mieux	de son mieux	5	1		x
 de son propre chef	de son propre chef	5	2	proactively	x
-de sorte que	de sorte que	5	2	so dat	x
+de sorte que	de sorte que	5	2	so that	x
 de souche	de souche	5	3	native, pureblooded	x
 de suite	de suite	5	1	one after another	x
 de surcroit	de surcroît	5	3	also, besides, furthermore	x
@@ -4967,7 +4967,7 @@ de tous les jours	de tous les jours	5	1	daily, everyday, day-to-day	x
 de tous les temps	de tous les temps	5	1	ever, of all time, in history	x
 de tous temps	de tous temps	5	1		x
 de tout coeur	de tout cœur	5	2	wholeheartedly, with all one's heart, from the bottom of on…	x
-de tout et de rien	de tout et de rien	5	1	dis and dat	x
+de tout et de rien	de tout et de rien	5	1	this and that	x
 de tout poil	de tout poil	5	3	of all kinds	x
 de tout repos	de tout repos	5	3	relaxing, restful	x
 de tout son coeur	de tout son cœur	5	2		x
@@ -5053,7 +5053,7 @@ declinaison	déclinaison	5	2	declension
 decliner	décliner	5	2	decline, state, set	
 decollage	décollage	5	2	takeoff, take-off, startup	
 decoller	décoller	5	2	unstick, take off	
-decomposer	décomposer	5	2	decompose, break dahn	
+decomposer	décomposer	5	2	break down, decompose	
 decomposition	décomposition	5	2	decomposition, destructuring, Zersetzung	
 decompter	décompter	5	2	deduct	
 deconner	déconner	5	2	joke, kidding, act up	
@@ -5068,7 +5068,7 @@ decoupage temporel	découpage temporel	5	3	time slicing
 decouper	découper	5	2	slice, cut out, cut up	
 decourager	décourager	5	2	discourage	
 decouvert	découvert	5	1	discovered, uncovered, overdraft	
-decouverte	découverte	5	0	foind, finding, discovery	
+decouverte	découverte	5	0	find, finding, discovery	
 decouvrir	découvrir	5	0	uncover, expose, reveal	
 decouvrir pierre pour couvrir paul	découvrir Pierre pour couvrir Paul	5	3	rob Peter to pay Paul	x
 decret	décret	5	1	decree	
@@ -5101,7 +5101,7 @@ defense de	défense de	5	2		x
 defenseur	défenseur	5	1	defender, lawyer, attorney	
 defensif	défensif	5	2	defensive	
 defi	défi	5	1	challenge, dare	
-defiance	défiance	5	2	distrust, misthrust	
+defiance	défiance	5	2	distrust, mistrust	
 deficit	déficit	5	1	deficit	
 defier	défier	5	2	challenge, defy	
 defiguration	défiguration	5	3	disfigurement, disfiguration, defacement	
@@ -5149,7 +5149,7 @@ delibere	délibéré	5	2	deliberation, deliberate
 deliberement	délibérément	5	2	deliberately, intentionally, on purpose	
 delicat	délicat	5	1	fine, sensitive, gentle	
 delice	délice	5	2	delight, delicacy	
-delicieux	délicieux	5	1	delightful, loverly, delicious	
+delicieux	délicieux	5	1	lovely, delightful, delicious	
 delinquance	délinquance	5	2	criminality, delinquency, crime rate	
 delinquant	délinquant	5	2	criminal, delinquent, lowlife	
 delirant	délirant	5	2	delirious	
@@ -5179,7 +5179,7 @@ demanderesse	demanderesse	5	2	prosecutor, plaintiff, claimant
 demantelement	démantèlement	5	2	dismantlement, dismantling	
 demarche	démarche	5	1	gait, step, measure	
 demarche inspiree du design	démarche inspirée du design	5	3	design thinking	
-demarquer	démarquer	5	2	reduce, mark dahn, copy	
+demarquer	démarquer	5	2	reduce, mark down, copy	
 demarrage	démarrage	5	2	startup	
 demarrer	démarrer	5	1	start, start off	
 demenagement	déménagement	5	2	move, removal	
@@ -5199,7 +5199,7 @@ democratique	démocratique	5	1	democratic
 demographie	démographie	5	2	demography	
 demographique	démographique	5	2	demographic, demographical	
 demoiselle	demoiselle	5	2	lady, maiden, damsel	
-demolir	démolir	5	2	destroy, demolish, quash	
+demolir	démolir	5	2	destroy, take down, break down	
 demolition	démolition	5	2	demolition	
 demon	démon	5	1	demon, daemon	
 demon de messagerie	démon de messagerie	5	3	mailer daemon	
@@ -5250,13 +5250,13 @@ deploiement	déploiement	5	2	spreading, deployment, unfolding
 deplorable	déplorable	5	2	deplorable	
 deplorer	déplorer	5	2	deplore	
 deployer	déployer	5	2	unfold, deploy, spread out	
-deposer	déposer	5	1	register, cable, hand in	
+deposer	déposer	5	1	register, cable, take down	
 deposer le bilan	déposer le bilan	5	3	file for bankruptcy, go bankrupt	x
 deposition	déposition	5	2	deposition	
 depot	dépôt	5	1	deposit, replacement depot, repple depple	
-depouille	dépouille	5	2	draught, draught angle, hide	
+depouille	dépouille	5	2	draft, draft angle, hide	
 depourvu	dépourvu	5	2	without, lacking, unprepared	
-depressif	dépressif	5	2	dahn, depressive, depressed person	
+depressif	dépressif	5	2	down, depressive, depressed person	
 depression	dépression	5	1	depression, blue devils	
 deprimant	déprimant	5	2	depressing	
 deprime	déprimé	5	2	depressed, dejected, glum	
@@ -5312,7 +5312,7 @@ desastre	désastre	5	2	disaster, catastrophe
 desastreux	désastreux	5	2	disastrous	
 descendant	Descendant	5	3	Descendant	
 descendant	descendant	5	1	descendant, offspring, downstream	
-descendre	descendre	5	1	come dahn, go dahn, take dahn	
+descendre	descendre	5	1	go down, come down, take down	
 descendre dans la rue	descendre dans la rue	5	3	take to the streets	x
 descendre en rappel	descendre en rappel	5	3	rappel, abseil	x
 descente	descente	5	1	descent, crash, downhill	
@@ -5429,7 +5429,7 @@ developpeur	développeur	6	2	developer
 devenir	devenir	6	0	get, become	
 devenir chevre	devenir chèvre	6	3	go nuts	x
 deverrouillage sim	déverrouillage SIM	6	3	SIM unlocking	
-deviation d'appels	déviation d’appels	6	3	call deflexion	
+deviation d'appels	déviation d’appels	6	3	call deflection	
 devideur	dévideur	6	3	streamer	
 devier	dévier	6	2	turn, divert, deflect	
 deviner	deviner	6	1	guess, estimate, divine	
@@ -5494,7 +5494,7 @@ diffusion generale	diffusion générale	6	3	broadcast, broadcasting
 diffusion groupee	diffusion groupée	6	3	multicast, multicasting	
 diffusion systematique sur la toile	diffusion systématique sur la toile	6	3	netcasting, webcasting	
 digerer	digérer	6	2	digest, stomach, swallow	
-digestif	digestif	6	2	digestive, dhrink	
+digestif	digestif	6	2	digestive, drink	
 digital	digital	6	1	digital	
 digitale	digitale	6	2	digitalis, foxglove	
 digne	digne	6	1	worthy, dignified	
@@ -5835,7 +5835,7 @@ du dernier commun	du dernier commun	6	3	ordinary, vulgar, uninteresting	x
 du diable	du diable	6	3	huge, hellish	x
 du dimanche	du dimanche	6	2	weekend, amateur	x
 du fait de	du fait de	6	0	because of, due to, on account of	x
-du feu de dieu	du feu de Dieu	6	2	terrific, awesome, extremely well	x
+du feu de dieu	du feu de Dieu	6	2	awesome, terrific, extremely well	x
 du fleuve a la mer	du fleuve à la mer	6	3	from the river to the sea	x
 du fond du coeur	du fond du cœur	6	2	from the bottom of one’s heart	x
 du gateau	du gâteau	6	3	piece of cake, chip shot, easy as pie	x
@@ -5858,7 +5858,7 @@ du siecle	du siècle	6	2	of the century, of a lifetime, once-in-a-lifetime	x
 du tac au tac	du tac au tac	6	3	right back	x
 du temps de	du temps de	6	1	in someone's time, in someone's day	x
 du temps que	du temps que	6	1		x
-du tonnerre	du tonnerre	6	3	terrific, awesome, extremely well	x
+du tonnerre	du tonnerre	6	3	awesome, terrific, extremely well	x
 du tout	du tout	6	0	at all, whatsoever	x
 du tout au tout	du tout au tout	6	1	completely, entirely, utterly	x
 du vent	du vent	6	3	be off with you, shoo, begone	x
@@ -5878,7 +5878,7 @@ dupe	dupe	6	2	dupe
 duplication d'ecran	duplication d’écran	6	3	mirroring, screen mirroring	
 duquel	duquel	6	1	which, of which, from which	
 dur	dur	6	0	hard, tough, harsh	
-dur a cuire	dur à cuire	6	3	tough as nails, badarse, hard-boiled	x
+dur a cuire	dur à cuire	6	3	badass, tough as nails, hard-boiled	x
 dur comme fer	dur comme fer	6	3	firmly, steadfastly, like a rock	x
 dur de la feuille	dur de la feuille	6	3	hard of hearing	x
 durabilite	durabilité	6	3	sustainability	
@@ -5938,7 +5938,7 @@ eclater	éclater	6	1	burst, explode, burst out
 eclater de rire	éclater de rire	6	3	crack up, burst out laughing	x
 eclater en sanglots	éclater en sanglots	6	3	to burst into tears	x
 eclipse	éclipse	6	2	eclipse	
-ecole	école	6	0	school, eddication	
+ecole	école	6	0	school, education	
 ecole a la maison	école à la maison	6	2	home school	
 ecole de la vie	école de la vie	6	2	school of hard knocks	
 ecole de langue	école de langue	6	2	language school	
@@ -5993,7 +5993,7 @@ edmond	Edmond	6	2	Edmund
 edouard	Édouard	6	2	Edward	
 educateur	éducateur	6	2	educator	
 educatif	éducatif	6	2	educational, instructive	
-education	éducation	6	0	upbringing, eddication	
+education	éducation	6	0	education, upbringing	
 eduque	éduqué	6	2	educated	
 eduquer	éduquer	6	2	raise, rear, educate	
 effacer	effacer	6	1	clear, delete, wipe	
@@ -6146,7 +6146,7 @@ emporter	emporter	6	1	take, dominate, take away
 empreinte	empreinte	6	1	track, trace, footprint	
 emprise	emprise	6	2	right of way, grip, sway	
 emprisonnement	emprisonnement	6	2	imprisonment	
-emprisonner	emprisonner	6	2	imprison, gaol	
+emprisonner	emprisonner	6	2	jail, imprison	
 emprunt	emprunt	6	2	loan, fake, loanword	
 emprunte	emprunté	6	2	borrowed, stilted	
 emprunter	emprunter	6	1	borrow, make use of, take	
@@ -6192,7 +6192,7 @@ en avoir sous le capot	en avoir sous le capot	6	3	to be a beast	x
 en avoir vu d'autres	en avoir vu d'autres	6	2	to have survived worse	x
 en bande	en bande	6	2	dexterwise	x
 en barre	en barre	6	3	sinisterwise	x
-en bas	en bas	6	2	below, downstairs, dahn	x
+en bas	en bas	6	2	below, downstairs, down	x
 en bas age	en bas âge	6	2	very young	x
 en bas de	en bas de	6	2	at the bottom of	x
 en beau	en beau	6	2		x
@@ -6368,7 +6368,7 @@ en jeu	en jeu	7	1	on the line, at stake	x
 en joue	en joue	7	2	aim	x
 en l'air	en l'air	7	2	up, up in the air, empty	x
 en l'espace de	en l'espace de	7	2	in the space of, in the span of	x
-en l'espece	en l’espèce	7	2	at hand, in dis case	x
+en l'espece	en l’espèce	7	2	in this case, at hand	x
 en l'etat	en l’état	7	1	as is, as it is	x
 en l'honneur de	en l'honneur de	7	2	in honour of, on the occasion of	x
 en la matiere	en la matière	7	2	in this matter, in this field, in this area	x
@@ -6709,14 +6709,14 @@ enrichissement	enrichissement	7	2	enrichment
 enseignant	enseignant	7	1	teacher, instructor	
 enseignante	enseignante	7	2	teacher	
 enseigne	enseigne	7	1	sign, shield, plaque	
-enseignement	enseignement	7	0	teaching, instruction, tuition	
+enseignement	enseignement	7	0	education, teaching, instruction	
 enseigner	enseigner	7	1	teach, instruct, show	
 ensemble	ensemble	7	0	together, group, whole	
 ensemble d'arrivee	ensemble d’arrivée	7	2	range, target, codomain	
 ensoleille	ensoleillé	7	2	solar, sunny	
 ensuite	ensuite	7	0	then, next, afterwards	
 entame	entame	7	2	slice	
-entamer	entamer	7	2	cut into, break into, broach	
+entamer	entamer	7	2	cut into, break into, pin down	
 entendre	entendre	7	0	hear, intend	
 entendre des voix	entendre des voix	7	3	to hear things, to hear voices	x
 entendre dire	entendre dire	7	2	to hear that	x
@@ -6745,7 +6745,7 @@ entraineur	entraineur	7	2	coach, trainer
 entraineur	entraîneur	7	1	coach, trainer, carrier	
 entrant	entrant	7	2	incoming, entering	
 entrave	entrave	7	2	shackle, hobble, fetter	
-entre	entre	7	0	among, amongst, bechune	
+entre	entre	7	0	between, among, amongst	
 entre autres	entre autres	7	1	among other things, inter alia	x
 entre chien et loup	entre chien et loup	7	3	twilight	x
 entre deux	entre deux	7	1		x
@@ -6816,7 +6816,7 @@ envoye	envoyé	7	0	envoy
 envoyer	envoyer	7	0	send, ship	
 envoyer ad patres	envoyer ad patres	7	3	to kill	x
 envoyer au bain	envoyer au bain	7	3	synonym of envoyer promener	x
-envoyer au tapis	envoyer au tapis	7	3	knock dahn, knock-out	x
+envoyer au tapis	envoyer au tapis	7	3	knock down, knock-out	x
 envoyer balader	envoyer balader	7	3	to send someone packing	x
 envoyer bouler	envoyer bouler	7	3	to send someone packing	x
 envoyer chier	envoyer chier	7	3	to send someone packing	cx
@@ -6952,7 +6952,7 @@ et	et	7	0	and
 et ainsi de suite	et ainsi de suite	7	2	and so on, and so forth	x
 et al.	et al.	7	2	et al.	
 et alors	et alors	7	1	so what, big deal, who cares	x
-et avec ca	et avec ça	7	0	anythink else	x
+et avec ca	et avec ça	7	0	anything else	x
 et bien	et bien	7	0	so, well	x
 et comment	et comment	7	1	and how	x
 et compagnie	et compagnie	7	2	and the like, and company, and whatnot	x
@@ -6969,16 +6969,16 @@ et pas qu'un peu	et pas qu’un peu	7	1	and how, and then some	x
 et patati et patata	et patati et patata	7	3	blah blah blah, yada yada	x
 et plus vite que ca	et plus vite que ça	7	2	make it snappy	x
 et pour cause	et pour cause	7	2	and with good reason, and rightly so, and unsurprisingly so	x
-et puis c'est tout	et puis c’est tout	7	1	there you are, that's dat	x
+et puis c'est tout	et puis c’est tout	7	1	there you are, that's that	x
 et puis merde	et puis merde	7	2		x
 et puis quoi encore	et puis quoi encore	7	2	what next	x
 et quelques	et quelques	7	1	and change, or thereabouts, and a bit over	x
 et si	et si	7	0	what if	
-et ta soeur	et ta sœur	7	3	mind yer own business	x
+et ta soeur	et ta sœur	7	3	mind your own business	x
 et tout ca	et tout ça	7	0		x
-et tout et tout	et tout et tout	7	1	all dat jazz	x
+et tout et tout	et tout et tout	7	1	all that jazz	x
 et tout le tremblement	et tout le tremblement	7	3	and all that jazz, and the whole caboodle	x
-et voila le travail	et voilà le travail	7	2	Bob's yer uncle	x
+et voila le travail	et voilà le travail	7	2	Bob's your uncle	x
 etabli	établi	7	1	established, bench, workbench	
 etablir	établir	7	0	found, establish	
 etablissement	établissement	7	0	establishment	
@@ -6989,7 +6989,7 @@ etaler	étaler	7	2	display, put up for sale, spread out
 etang	étang	7	2	pond	
 etant	étant	7	0	being	
 etant donne	étant donné	7	2	given, considering, by virtue of	x
-etant donne que	étant donné que	7	2	considering dat	x
+etant donne que	étant donné que	7	2	considering that	x
 etape	étape	7	0	stop, stage, stopover	
 etat	État	7	0	state	
 etat	état	7	0	state, condition, standing	
@@ -7006,7 +7006,7 @@ etat de langue	état de langue	7	2	seen synchronically
 etat de nature	état de nature	7	2	state of nature	
 etat de sante	état de santé	7	2	health condition, state of health, health situation	
 etat des lieux	état des lieux	7	2	reality check	
-etat membre	État membre	7	2	member state, member counterie	
+etat membre	État membre	7	2	member state, member country	
 etat rouge	État rouge	7	2	red state	
 etat second	état second	7	2	trance, altered state	
 etatique	étatique	7	2	state	
@@ -7060,7 +7060,7 @@ etre au fond du trou	être au fond du trou	7	3	to have hit rock bottom	x
 etre au parfum	être au parfum	7	3	be on the ball, be in the know, be in the loop	x
 etre au radar	être au radar	7	3	run on autopilot	x
 etre au septieme ciel	être au septième ciel	7	3	on cloud nine, seventh heaven	x
-etre au top	être au top	7	3	be at the top of yer game	x
+etre au top	être au top	7	3	be at the top of your game	x
 etre base	être basé	7	3	based	x
 etre bien	être bien	7	1		x
 etre bien vu	être bien vu	7	1	to be popular	x
@@ -7133,7 +7133,7 @@ etre sur un petit nuage	être sur un petit nuage	7	3	be on cloud nine, be over t
 etre tout coeur	être tout cœur	7	2		x
 etre tout je ne sais comment	être tout je ne sais comment	7	2	be out of sorts	x
 etre tout oreille	être tout oreille	7	3	all ears	x
-etre tout sauf	être tout sauf	7	2	anythink but, nowhere near	x
+etre tout sauf	être tout sauf	7	2	anything but, nowhere near	x
 etre tout yeux	être tout yeux	7	2		x
 etre trempe jusqu'aux os	être trempé jusqu’aux os	7	3	soaked to the skin, soaked to the bone, soaked to the bones	x
 etre trop	être trop	7	1		x
@@ -7403,16 +7403,16 @@ faire couler le sang	faire couler le sang	8	3	spill blood	x
 faire coup double	faire coup double	8	2		x
 faire crac-crac	faire crac-crac	8	3	to make whoopee	x
 faire credit	faire crédit	8	3	to give credit to, to allow delayed payments, to allow defe…	x
-faire cul sec	faire cul sec	8	3	in one go, dahn, chug	x
+faire cul sec	faire cul sec	8	3	down, in one go, chug	x
 faire d'une pierre deux coups	faire d’une pierre deux coups	8	3	kill two birds with one stone	x
 faire dans la vie	faire dans la vie	8	1	do for a living	x
 faire date	faire date	8	2	to make history, to set a precedent	x
 faire de l'effet	faire de l'effet	8	2	to have an effect	x
 faire de l'esprit	faire de l'esprit	8	2	to witty, to make quips	x
-faire de la merde	faire de la merde	8	2	to fuck around, to fuck up	x
+faire de la merde	faire de la merde	8	2		x
 faire de la peine	faire de la peine	8	2	to upset, to hurt, to pain	x
 faire de son mieux	faire de son mieux	8	1	give it one's best shot, take one's best shot	x
-faire de vieux os	faire de vieux os	8	3	make ould bones, be around for long, last long	x
+faire de vieux os	faire de vieux os	8	3	make old bones, be around for long, last long	x
 faire debat	faire débat	8	3	to cause controversy	x
 faire defaut	faire défaut	8	3	lack, to be missing, to be lacking	x
 faire demi-tour	faire demi-tour	8	2	turn around, about-face, make a U-turn	x
@@ -7482,7 +7482,7 @@ faire honneur	faire honneur	8	2	to do proud, to do justice to, to honour	x
 faire honte	faire honte	8	3	ashame	x
 faire illusion	faire illusion	8	3	to deceive, to look the part	x
 faire jeu egal	faire jeu égal	8	3	to keep pace	x
-faire joli	faire joli	8	3	look purty	x
+faire joli	faire joli	8	3	look pretty	x
 faire jouer	faire jouer	8	2	action	x
 faire joujou	faire joujou	8	3	to play around	x
 faire jour	faire jour	8	1	to be daylight	x
@@ -7582,7 +7582,7 @@ faire le tour du proprietaire	faire le tour du propriétaire	8	3	look around the
 faire le trottoir	faire le trottoir	8	3	walk the streets, work the corner, work the streets	x
 faire le vide	faire le vide	8	3	to clear out	x
 faire les affaires	faire les affaires	8	2	to suit	x
-faire les cent pas	faire les cent pas	8	3	pace back and forth, pace up and dahn	x
+faire les cent pas	faire les cent pas	8	3	pace back and forth, pace up and down	x
 faire les choses a moitie	faire les choses à moitié	8	2		x
 faire les frais	faire les frais	8	2	pay the price, bear the brunt, bear the cost	x
 faire les gros yeux	faire les gros yeux	8	2		x
@@ -7599,7 +7599,7 @@ faire maison nette	faire maison nette	8	3	change all one's servants	x
 faire mal	faire mal	8	1	hurt, ache, do badly	x
 faire mal au coeur	faire mal au cœur	8	2		x
 faire marche	faire marche	8	2	to walk towards, to march to	x
-faire marche arriere	faire marche arrière	8	3	reverse, backpedal, back out	x
+faire marche arriere	faire marche arrière	8	3	reverse, climb down, backpedal	x
 faire marcher	faire marcher	8	3	fool, troll, pull someone's leg	x
 faire mauvais	faire mauvais	8	2	to be bad	x
 faire mauvais genre	faire mauvais genre	8	2	look disreputable	x
@@ -7648,7 +7648,7 @@ faire porter le chapeau	faire porter le chapeau	8	3	scapegoat, leave somebody ho
 faire present	faire présent	8	2	to give for free, to gift, to present	x
 faire pression	faire pression	8	2	to put pressure, to pressure, to lobby	x
 faire preuve	faire preuve	8	2	to show, to demonstrate, to display	x
-faire profil bas	faire profil bas	8	3	keep a low profile, keep one's head dahn	x
+faire profil bas	faire profil bas	8	3	keep a low profile, keep one's head down	x
 faire que fou	faire que fou	8	2	to act crazy	x
 faire que sage	faire que sage	8	3	to act wisely	x
 faire rage	faire rage	8	3	rage, infuriare	x
@@ -7670,7 +7670,7 @@ faire semblant	faire semblant	8	3	fake, pretend, feign	x
 faire sens	faire sens	8	2	make sense	x
 faire sensation	faire sensation	8	3	to make a splash, to cause a stir, to cause a sensation	x
 faire ses armes	faire ses armes	8	2	to win one's spurs, to earn one's stripes	x
-faire ses premiers pas	faire ses premiers pas	8	2	take yer first steps	x
+faire ses premiers pas	faire ses premiers pas	8	2	take your first steps	x
 faire signe	faire signe	8	2	sign, give a sign, give a signal	x
 faire silence	faire silence	8	3	silence	x
 faire simple	faire simple	8	2	to keep it simple, to make it simple	x
@@ -7733,7 +7733,7 @@ faire une bouffe	faire une bouffe	8	3	grab a bite, have a meal	x
 faire une croix	faire une croix	8	3	to forsake, to kiss goodbye to	x
 faire une er	faire une ER	8	3	going ER	x
 faire une faveur	faire une faveur	8	3	favour	x
-faire une fixation	faire une fixation	8	3	have a bee in yer bonnet	x
+faire une fixation	faire une fixation	8	3	have a bee in your bonnet	x
 faire une fleur	faire une fleur	8	3	favour	x
 faire une main	faire une main	8	2		x
 faire une montagne de	faire une montagne de	8	3	make a mountain out of a molehill	x
@@ -7743,7 +7743,7 @@ faire une queue de poisson	faire une queue de poisson	8	3	cut off, brake check	x
 faire une scene	faire une scène	8	2	make a scene	x
 faire usage	faire usage	8	3	to make use of, to use, to exercise	x
 faire valoir	faire valoir	8	3	affirm, to assert	x
-faire ventre creux	faire ventre creux	8	3	pull yer stomach in, suck yer stomach in	x
+faire ventre creux	faire ventre creux	8	3	pull your stomach in, suck your stomach in	x
 faire vinaigre	faire vinaigre	8	3	get a move on, hurry up	x
 faire violence	faire violence	8	3	to force someone, to force oneself	x
 faire vite	faire vite	8	2		x
@@ -7911,7 +7911,7 @@ filer un mauvais coton	filer un mauvais coton	8	3	to go downhill	x
 filet	filet	8	1	rule, gutter, trickle	
 filet americain	filet américain	8	3	tartar	x
 filiale	filiale	8	1	subsidiary	
-filiation	filiation	8	2	connexion, filiation	
+filiation	filiation	8	2	connection, filiation	
 filiere	filière	8	1	industry, sector, creance	
 fille	fille	8	0	girl, daughter	
 fille de salle	fille de salle	8	2	waitress	
@@ -7980,7 +7980,7 @@ flash	flash	8	1	lightning, flash, bulletin
 flatter	flatter	8	2	flatter	
 flatteur	flatteur	8	2	complimentary, flattering, flatterer	
 fleau	fléau	8	2	plague, scourge, beam	
-fleche	flèche	8	2	arrow, sag, deflexion	
+fleche	flèche	8	2	arrow, sag, deflection	
 flemme	flemme	8	2	laziness	
 fleur	fleur	8	0	flower, bloom, blossom	
 fleur de coin	fleur de coin	8	3	mint, brilliant uncirculated	x
@@ -8039,19 +8039,19 @@ fondatrice	fondatrice	8	2	foundress
 fondement	fondement	8	2	basis, foundation, fundament	
 fonder	fonder	8	1	found, form, establish	
 fondre	fondre	8	1	melt, smelt	
-fondre comme neige au soleil	fondre comme neige au soleil	8	3	melt like snow in the zun	x
+fondre comme neige au soleil	fondre comme neige au soleil	8	3	melt like snow in the sun	x
 fondre sur	fondre sur	8	3	fall upon, swoop, pounce	x
 fonds	fonds	8	0	fund, collection, capital	
 fondu	fondu	8	2	melted, thawed, fade	
 fontaine	fontaine	8	1	well, source, spring	
 fontaine blanche	fontaine blanche	8	3	white fountain	x
 fontainebleau	Fontainebleau	8	2	Fontainebleau	
-fonte	fonte	8	2	melting, smelting, melting dahn	
+fonte	fonte	8	2	melting, smelting, melting down	
 foot	foot	8	1	football, soccer, association football	
 football	football	8	1	football, soccer, association football	
 footballeur	footballeur	8	2	footballer, soccer player, football player	
 forage	forage	8	2	drilling	
-force	force	8	0	force, strenth, power	
+force	force	8	0	force, strength, might	
 force de l'age	force de l'âge	8	2	prime of life, acme	
 force de la nature	force de la nature	8	2	force of nature	
 force est	force est	8	2	be inescapable, be undeniable	x
@@ -8080,7 +8080,7 @@ forme l	forme L	8	2	L-form
 formel	formel	8	2	formal	
 formellement	formellement	8	2	formally, expressly	
 former	former	8	0	form, train, educate	
-formidable	formidable	8	1	orsum	
+formidable	formidable	8	1	awesome	
 formulaire	formulaire	8	2	form, formula, blank	
 formulation	formulation	8	2	formulation	
 formule	formule	8	1	formula	
@@ -8093,7 +8093,7 @@ fort en theme	fort en thème	8	3	egghead	x
 fort et clair	fort et clair	8	3	loud and clear	x
 forte partie	forte partie	8	2	strong opponent, worthy opponent	
 forte tete	forte tête	8	2	headstrong	
-fortement	fortement	8	1	greatly, strongly, forcefully	
+fortement	fortement	8	1	strongly, greatly, forcefully	
 fortement type	fortement typé	8	3	strongly-typed	x
 forteresse	forteresse	8	2	fortress, stronghold	
 fortification	fortification	8	2	fortification	
@@ -8135,15 +8135,15 @@ fourrer le chien	fourrer le chien	9	3		x
 fourrer son nez	fourrer son nez	9	3	to stick one's nose	x
 fourrure	fourrure	9	2	fur	
 foutre	foutre	9	0	cum, screw, futter	
-foutre la merde	foutre la merde	9	3	to stir shit, to mess things up, to fuck things up	cx
+foutre la merde	foutre la merde	9	3	to stir shit, to mess things up	cx
 foutre la paix	foutre la paix	9	3	leave alone	cx
 foutre la pression	foutre la pression	9	3	to put pressure on, to pressure	x
 foutre la trouille	foutre la trouille	9	3	to scare shitless	x
 foutre le bordel	foutre le bordel	9	3	mess around, piss around, cause a disturbance	cx
 foutre le camp	foutre le camp	9	3	get out	x
 foutre sur la gueule	foutre sur la gueule	9	3	to hit	cx
-foutu	foutu	9	1	busted, FUBAR, damn	
-foutu pour foutu	foutu pour foutu	9	3	what the hell, in for a penny, in for a pound, med as well	x
+foutu	foutu	9	1	busted, FUBAR, fucking	
+foutu pour foutu	foutu pour foutu	9	3	at this point, might as well, what the hell	x
 foy	Foy	9	2	Foy	
 foyer	foyer	9	1	fireplace, hearth, fire	
 fraction	fraction	9	2	fraction, breaking	
@@ -8173,7 +8173,7 @@ france d'en haut	France d’en haut	9	2		x
 france libre	France libre	9	2	Free France	
 francfort	Francfort	9	2	Frankfurt, Frankfort	
 franchement	franchement	9	1	absolutely, frankly, boldly	
-franchir	franchir	9	1	overcome, break thruff, cover	
+franchir	franchir	9	1	overcome, break through, cover	
 franchir le cap	franchir le cap	9	3	to get over it, to move on	x
 franchir le pas	franchir le pas	9	3	go for it, take the plunge	x
 franchise	franchise	9	2	immunity, exemption, franking	
@@ -8187,7 +8187,7 @@ frappant	frappant	9	2	striking, obvious
 frappe	frappé	9	1	frozen, frappé, iced	
 frapper	frapper	9	1	hit, strike, smite	
 frapper monnaie	frapper monnaie	9	3	synonym of battre monnaie	x
-frapper un ennemi a terre	frapper un ennemi à terre	9	3	beat a man who is dahn, hit a man when he is dahn, strike a…	x
+frapper un ennemi a terre	frapper un ennemi à terre	9	3	beat a man who is down, hit a man when he is down, strike a…	x
 frapper un grand coup	frapper un grand coup	9	3	make a splash, hit hard	x
 fraternite	fraternité	9	2	brotherhood, fraternity	
 fraude	fraude	9	1	sham, deceit	
@@ -8299,7 +8299,7 @@ garant	garant	9	2	guarantor, guarantee
 garanti	garanti	9	2	guaranteed, guaranteed borrower	
 garantie	garantie	9	1	guarantee, warranty, guaranty	
 garantir	garantir	9	1	guarantee	
-garcon	garçon	9	0	bhoy, lad	
+garcon	garçon	9	0	boy, lad	
 garde	garde	9	0	guard, protection, endpapers	
 garde a vous	garde à vous	9	2	attention, at attention	x
 garde a vue	garde à vue	9	2	custody, detention	
@@ -8390,7 +8390,7 @@ genese	Genèse	9	2	Genesis
 genetique	génétique	9	1	genetic, genetics	
 geneve	Genève	9	1	Geneva	
 genevieve	Geneviève	9	2	Genevieve	
-genial	génial	9	1	brilliant, ace, orsum	
+genial	génial	9	1	awesome, brilliant, ace	
 genie	génie	9	1	genie, jinni, angel	
 genie informatique	génie informatique	9	3	computer engineering	
 genie logiciel	génie logiciel	9	3	software engineering	
@@ -8407,10 +8407,10 @@ gens de main	gens de main	9	2		x
 gens du livre	gens du Livre	9	2	People of the Book	
 gens du voyage	gens du voyage	9	2	travellers, gypsies	
 gens politiques	gens politiques	9	2	politicians	
-gentil	gentil	9	1	nice, charming, thoughtful	
+gentil	gentil	9	1	nice, lovely, charming	
 gentillesse	gentillesse	9	2	kindness, geniality	
 gentiment	gentiment	9	2	in a kind way, kindly, affably	
-gentleman	gentleman	9	2	gintleman	
+gentleman	gentleman	9	2	gentleman	
 geoblocage	géoblocage	9	3	geo-blocking, geoblocking	
 geodiscrimination	géodiscrimination	9	3	geo-discrimination	
 geoffroy	Geoffroy	9	2	Geoffrey, Jeffrey	
@@ -8481,7 +8481,7 @@ gomme	gomme	9	2	rubber, eraser, chewing gum
 gonfle	gonflé	9	2	swollen, inflated	
 gonfler	gonfler	9	2	swell, fill up, blow up	
 google	Google	9	1	Google	
-google est ton ami	Google est ton ami	9	3	Google is yer friend	x
+google est ton ami	Google est ton ami	9	3	Google is your friend	x
 gordon	Gordon	9	2	Gordon	
 gorge	gorge	9	1	throat, gorge, fillet throat	
 gosse	gosse	9	1	kid, chick	
@@ -8518,10 +8518,10 @@ graine de	graine de	9	3	in the making, budding, -in-waiting	x
 graisse	graisse	9	2	fat, grease, weight	
 graisser sa caloquinte	graisser sa caloquinte	9	3	to beat	x
 grammaire	grammaire	9	2	grammar	
-gramme	gramme	9	2	gramme	
+gramme	gramme	9	2	gram, gramme	
 grand	Grand	9	2	Grant	
-grand	grand	9	0	big, large, tall	
-grand age	grand âge	9	2	ould age	
+grand	grand	9	0	great, big, large	
+grand age	grand âge	9	2	old age	
 grand air	grand air	9	2	fresh air	
 grand beau	grand beau	9	2	clear sky	
 grand chef	grand chef	9	2	grand chief	
@@ -8626,12 +8626,12 @@ gris perle	gris perle	9	3	pearl grey	x
 gris souris	gris souris	9	3	grullo, grulla	x
 grise	grise	9	2	grey	
 grise de hongrie	grise de Hongrie	9	3	Hungarian grey cattle, Hungarian steppe cattle	x
-gros	gros	9	0	big, fat, thick	
+gros	gros	9	0	big, fat, great	
 gros bleu	gros bleu	9	3	plonk	x
 gros bon sens	gros bon sens	9	2	horse sense	
 gros bras	gros bras	9	2	heavy, butch person	
 gros comme le bras	gros comme le bras	9	2	very big	x
-gros comme une maison	gros comme une maison	9	2	plain for all to see, plain as the nose on yer face	x
+gros comme une maison	gros comme une maison	9	2	plain for all to see, plain as the nose on your face	x
 gros mot	gros mot	9	2	dirty word, swear word, profanity	
 gros oeuvre	gros œuvre	9	2	structural system	
 gros plan	gros plan	9	2	close-up	
@@ -8793,14 +8793,14 @@ haut du corps	haut du corps	9	2	upper body
 haut en couleur	haut en couleur	9	3	interesting, colorful	x
 haut et fort	haut et fort	9	2	loudly, loud and clear	x
 haut fait	haut fait	9	2	exploit, deed, feat	
-haut la main	haut la main	9	2	hands dahn	x
+haut la main	haut la main	9	2	hands down	x
 haut les mains	haut les mains	9	2	hands up	x
 haut lieu	haut lieu	9	2	hub, mecca, hotbed	
 haut mal	haut mal	9	2	falling sickness	
 haut niveau	haut niveau	9	2	high-level	
 haut place	haut placé	9	3	high-ranking, high-level	x
 haut sur cravate	haut sur cravate	9	3	prim, prim and proper, snooty	x
-haute ecole	haute école	9	2	higher eddication institution, haute école, high school dre…	
+haute ecole	haute école	9	2	higher education institution, haute école, high school dres…	
 haute main	haute main	9	2	overall control, ease	
 haute saison	haute saison	9	2	high season, peak season	
 haute societe	haute société	9	2	high society, upper class	
@@ -8869,7 +8869,7 @@ hisser	hisser	9	2	hoist, raise, lift
 histoire	histoire	9	0	story, history, account	
 histoire avec un grand h	Histoire avec un grand H	9	2	History with a capital H	
 histoire d'amour	histoire d’amour	9	2	love affair	
-histoire de	histoire de	9	1	in order to, so as to, so dat	x
+histoire de	histoire de	9	1	so that, in order to, so as to	x
 histoire de cul	histoire de cul	9	2		x
 histoire de l'art	histoire de l’art	9	2	art history	
 histoire de l'entreprise	histoire de l’entreprise	9	2	business history	
@@ -9036,7 +9036,7 @@ humiliation	humiliation	10	2	humiliation, abasement, abashment
 humilier	humilier	10	2	humiliate, mortify, abase	
 humilite	humilité	10	2	humility	
 humoriste	humoriste	10	2	comedian, humourist	
-humoristique	humoristique	10	2	humourous, humoristic	
+humoristique	humoristique	10	2	humorous, humoristic	
 humour	humour	10	1	humour, humor	
 hurler	hurler	10	2	cry, roar, howl	
 hybride	hybride	10	2	hybrid, mongrel, crossbred	
@@ -9058,7 +9058,7 @@ hysterique	hystérique	10	2	hysterical, hysteric
 i. e.	i. e.	10	2	i. e.	
 ia	IA	10	2	AI	
 ice	ICE	10	2	ICE	
-ici	ici	10	0	'ere	
+ici	ici	10	0	here	
 ici et la	ici et là	10	1	here and there, hither and thither	x
 ici et maintenant	ici et maintenant	10	2		x
 ici pres	ici près	10	2		x
@@ -9068,7 +9068,7 @@ iconometrie	iconométrie	10	3	iconometry
 id	ID	10	2	market pull, innovation pull	
 ideal	idéal	10	1	ideal	
 idealement	idéalement	10	2	ideally	
-idee	idée	10	0	thought, idear, notion	
+idee	idée	10	0	thought, idea, notion	
 idee derriere la tete	idée derrière la tête	10	2		x
 idee mere	idée mère	10	2	idée mère	
 idem	idem	10	2	ditto, idem	
@@ -9127,7 +9127,7 @@ il n'y a pas mort d'homme	il n'y a pas mort d'homme	10	2	It’s not that bad	x
 il n'y a pas photo	il n’y a pas photo	10	2		x
 il n'y a qu'un pas	il n’y a qu’un pas	10	1		x
 il n'y a que ca de vrai	il n’y a que ça de vrai	10	2	there’s nothing quite like it	x
-il n'y a rien de nouveau sous le soleil	il n’y a rien de nouveau sous le soleil	10	2	there is nothing new under the zun	x
+il n'y a rien de nouveau sous le soleil	il n’y a rien de nouveau sous le soleil	10	2	there is nothing new under the sun	x
 il n'y en aura pas de facile	il n’y en aura pas de facile	10	2		x
 il ne fallait pas	il ne fallait pas	10	2	you shouldn't have	x
 il ne faut jamais dire jamais	il ne faut jamais dire jamais	10	2	never say never	x
@@ -9194,7 +9194,7 @@ imparfait	imparfait	10	2	flawed, imperfect
 impasse	impasse	10	2	dead end, cul-de-sac, impasse	
 impatience	impatience	10	2	impatience	
 impatient	impatient	10	2	impatient	
-impeccable	impeccable	10	2	sinless, perfick, impeccable	
+impeccable	impeccable	10	2	sinless, perfect, impeccable	
 imperatif	impératif	10	2	imperative, indispensable	
 imperatrice	impératrice	10	2	empress, empress regnant, imperatrix	
 imperial	impérial	10	1	imperial	
@@ -9255,7 +9255,7 @@ incarnation	incarnation	10	2	incarnation, embodiment
 incarne	incarné	10	2	incarnate	
 incarner	incarner	10	2	incarnate	
 incendie	incendie	10	1	fire, conflagration	
-incendie	incendié	10	2	burnt dahn	
+incendie	incendié	10	2	burnt down	
 incendier	incendier	10	3	set fire to, torch, flame	
 incertain	incertain	10	2	uncertain, doubtful, dubious	
 incertitude	incertitude	10	2	uncertainty	
@@ -9435,7 +9435,7 @@ instaurer	instaurer	10	2	instate
 instinct	instinct	10	2	instinct	
 instituer	instituer	10	2	institute	
 institut	institut	10	1	institute	
-instituteur	instituteur	10	2	teacher, measter, instructor	
+instituteur	instituteur	10	2	teacher, master, instructor	
 institution	institution	10	1	institution	
 institutionnel	institutionnel	10	2	institutional	
 instructeur	instructeur	10	2	instructor	
@@ -9543,9 +9543,9 @@ intuition	intuition	10	2	vision, insight, intuition
 inutile	inutile	10	1	useless, unnecessary, ineffective	
 invasion	invasion	10	2	invasion	
 inventaire	inventaire	10	2	inventory, stocktaking	
-inventer	inventer	10	1	fabricate, foind, imagine	
+inventer	inventer	10	1	fabricate, find, imagine	
 inventeur	inventeur	10	2	inventor, inventive	
-invention	invention	10	1	invention, creativity, foind	
+invention	invention	10	1	invention, creativity, find	
 inverse	inverse	10	1	opposite, inverse, reciprocal	
 inverse	inversé	10	2	inverted	
 inversement	inversement	10	2	opposite, conversely, inversely	
@@ -9628,10 +9628,10 @@ jadis	jadis	10	2	once, at some time, long ago
 jalousie	jalousie	10	2	envy, jealousy, louver	
 jaloux	jaloux	10	1	jealous	
 jaloux comme un tigre	jaloux comme un tigre	10	3	extremely jealous	x
-jamais	jamais	10	0	ever, neva	
+jamais	jamais	10	0	ever, never	
 jamais au grand jamais	jamais au grand jamais	10	2	never ever	x
 jamais de la vie	jamais de la vie	10	1	not a chance, no chance, over my dead body	x
-jamais deux sans trois	jamais deux sans trois	10	2	neva two without three	x
+jamais deux sans trois	jamais deux sans trois	10	2	never two without three	x
 jambe	jambe	10	1	leg, shank	
 jambon	jambon	10	2	ham, gammon	
 james	James	10	1	James	
@@ -9661,7 +9661,7 @@ je ne parle pas francais	je ne parle pas français	10	2	I don't speak French	x
 je ne pense pas	je ne pense pas	10	2	I don't think so, I think not	x
 je ne sais ou	je ne sais où	10	2		x
 je ne sais pas	je ne sais pas	10	1	I don't know	x
-je ne sais qu'une chose c'est que je ne sais rien	je ne sais qu’une chose c’est que je ne sais rien	10	2	I know dat I know nothing	
+je ne sais qu'une chose c'est que je ne sais rien	je ne sais qu’une chose c’est que je ne sais rien	10	2	I know that I know nothing	
 je ne sais quoi	je ne sais quoi	10	2	je ne sais quoi, je-ne-sais-quoi	
 je ne te dis pas	je ne te dis pas	10	2		x
 je ne te le fais pas dire	je ne te le fais pas dire	10	2	tell me about it	x
@@ -9728,7 +9728,7 @@ jeune	jeune	10	0	young, youth, youngster
 jeune	jeûne	10	2	fast, fasting, Lent	
 jeune femme	jeune femme	10	2	young woman	
 jeune fille	jeune fille	10	2	girl, maiden, bachelorette	
-jeune homme	jeune homme	10	2	bhoy, youth, young man	
+jeune homme	jeune homme	10	2	boy, youth, young man	
 jeune premier	jeune premier	10	2	leading man	
 jeunes annees	jeunes années	10	2	youth, teenage years, young days	
 jeunes gens	jeunes gens	10	2	young people, youths	
@@ -9742,7 +9742,7 @@ joie	joie	10	1	joy, happiness, delight
 joindre	joindre	10	1	join, attach, reach	
 joint	joint	10	1	join, joint, gasket	
 joker	joker	10	2	joker, blank tile, wild card	
-joli	joli	10	0	purty	
+joli	joli	10	0	pretty	
 jonas	Jonas	10	2	Jonah, Jonas	
 jonathan	Jonathan	10	2	Jonathan	
 jonction	jonction	10	2	junction, joinder	
@@ -9851,7 +9851,7 @@ jusqu'a un certain point	jusqu’à un certain point	10	2		x
 jusqu'alors	jusqu’alors	10	2	until then, hitherto, theretofore	
 jusqu'au	jusqu'au	10	0	jusque + au	
 jusqu'au bout	jusqu'au bout	10	3	all the way, to the bitter end	x
-jusqu'au cou	jusqu’au cou	10	3	up to his / her / yer Neck	x
+jusqu'au cou	jusqu’au cou	10	3	up to his / her / your Neck	x
 jusqu'au sang	jusqu'au sang	10	3	until you draw blood	x
 jusqu'au trognon	jusqu’au trognon	10	3	synonym of jusqu'au bout	x
 jusqu'aux	jusqu'aux	10	1	jusque + aux	
@@ -9928,17 +9928,17 @@ la bonne blague	la bonne blague	11	3	that's a laugh! yeah	x
 la bonne heure	la bonne heure	11	2	happy hour	
 la bouche en coeur	la bouche en cœur	11	3	waltzing	x
 la boucler	la boucler	11	3	to shut up	cx
-la bourse ou la vie	la bourse ou la vie	11	3	yer money or yer life	x
+la bourse ou la vie	la bourse ou la vie	11	3	your money or your life	x
 la carotte et le baton	la carotte et le bâton	11	3	carrot and stick	x
 la carotte ou le baton	la carotte ou le bâton	11	3	carrot or stick	x
 la chair est faible	la chair est faible	11	3	the flesh is weak	x
-la chatte a ta mere	la chatte à ta mère	11	3	go fuck yourself	cx
+la chatte a ta mere	la chatte à ta mère	11	3		cx
 la croix et la banniere	la croix et la bannière	11	3	it is the cross and the banner	x
 la derniere	la dernière	11	2		x
 la faire	la faire	11	0	fool	x
 la faire longue	la faire longue	11	2	to stay long, to stay for long, to stay up late	x
 la faute a qui	la faute à qui	11	2	who's to blame, whose fault is it	x
-la ferme	la ferme	11	2	can it, shut it, shut up	x
+la ferme	la ferme	11	2	can it, shut up, shut it	x
 la fermer	la fermer	11	3	to shut it, to shut up	cx
 la fleur au fusil	la fleur au fusil	11	3	gung-ho	x
 la foi deplace les montagnes	la foi déplace les montagnes	11	3	Faith moves mountains	x
@@ -9965,7 +9965,7 @@ la plupart du temps	la plupart du temps	11	2	mostly, most of the time, more ofte
 la que	là que	11	1		x
 la roue tourne	la roue tourne	11	3	The wheel revolves, the tide is turning	x
 la sienne	la sienne	11	1	his, hers	x
-la tete en bas	la tête en bas	11	2	topsy-turvy, upside dahn	x
+la tete en bas	la tête en bas	11	2	upside down, topsy-turvy	x
 la tete haute	la tête haute	11	2	Don't lose heart	x
 la tete la premiere	la tête la première	11	2	headlong	x
 la vache	la vache	11	3	holy cow	x
@@ -9975,7 +9975,7 @@ la voie est libre	la voie est libre	11	3	the coast is clear	x
 la votre	la vôtre	11	3	yours	x
 la-bas	là-bas	11	1	over there, yonder	
 la-dedans	là-dedans	11	2	in there	
-la-dessus	là-dessus	11	2	on this, here, with this	
+la-dessus	là-dessus	11	2	here, on this, with this	
 label	label	11	2	label	
 labo	labo	11	2	lab	
 laboratoire	laboratoire	11	1	lab, laboratory	
@@ -10108,7 +10108,7 @@ le fait est	le fait est	11	0		x
 le fait est que	le fait est que	11	0		x
 le fond du baril	le fond du baril	11	3	rock bottom	x
 le franc est tombe	le franc est tombé	11	3	the penny dropped	x
-le genre de la maison	le genre de la maison	11	2	that’s not how we do things 'ere, we don’t have dat sort of…	
+le genre de la maison	le genre de la maison	11	2	that’s not how we do things here, we don’t have that sort o…	
 le grand	le Grand	11	1	the Great	x
 le jeu n'en vaut pas la chandelle	le jeu n'en vaut pas la chandelle	11	3	it's not worth it, there's no point	x
 le jour et la nuit	le jour et la nuit	11	2	night and day, chalk and cheese	
@@ -10224,7 +10224,7 @@ levier	levier	11	2	lever
 levre	lèvre	11	1	lip, labia	
 lewis	Lewis	11	2	Lewis	
 lgbt	LGBT	11	2	LGBT, GLBT	
-liaison	liaison	11	1	bond, liaison, connexion	
+liaison	liaison	11	1	bond, liaison, connection	
 liaison descendante	liaison descendante	11	3	downlink	
 liaison louee	liaison louée	11	3	leased line, leased link, leased circuit	
 liaison montante	liaison montante	11	3	uplink	
@@ -10387,7 +10387,7 @@ logis	logis	11	2	home, house, dwelling
 logistique	logistique	11	2	logistics	
 logo	logo	11	1	logo, logotype, Logo	
 loi	loi	11	0	act, statute, law	
-loi du plus fort	loi du plus fort	11	2	med makes right	
+loi du plus fort	loi du plus fort	11	2	might makes right	
 loin	loin	11	0	off, far, away	
 loin de	loin de	11	2	far from	x
 loin de la	loin de là	11	2	far from it	x
@@ -10433,7 +10433,7 @@ louis	Louis	11	0	Louis, Lewis, Lew
 louis d'or	louis d'or	11	2	louis d'or	
 louisiane	Louisiane	11	2	Louisiana, French Louisiana	
 loup	loup	11	1	wolf, bass, domino mask	
-loup de mer	loup de mer	11	3	seadog, ould salt, sea bass	x
+loup de mer	loup de mer	11	3	old salt, seadog, sea bass	x
 loup du canada	loup du Canada	11	3	Mackenzie Valley wolf, Eastern wolf	x
 loupe	loupe	11	2	magnifier, loupe, magnifying glass	
 louper	louper	11	2	miss, bungle, botch	
@@ -10498,7 +10498,7 @@ ma foi	ma foi	11	3	indeed, frankly	x
 ma grosse	ma grosse	11	2		x
 ma langue a fourche	ma langue a fourché	11	3	My tongue slipped, My tongue failed me	x
 ma parole	ma parole	11	2	my word, swear to God	x
-ma pomme	ma pomme	11	3	yours truly, little ould me	x
+ma pomme	ma pomme	11	3	yours truly, little old me	x
 mac	mac	11	1	pimp, mack	
 macher le travail	mâcher le travail	11	3	to spoon-feed	x
 machin	machin	11	2	thingy, widget, gizmo	
@@ -10558,8 +10558,8 @@ maint	maint	11	2	much, many, many a
 maintenabilite	maintenabilité	11	3	maintainability	
 maintenance	maintenance	11	2	maintenance	
 maintenant	maintenant	11	0	now, nowadays, at present	
-maintenant ou jamais	maintenant ou jamais	11	2	now or neva	x
-maintenant que	maintenant que	11	1	now dat	x
+maintenant ou jamais	maintenant ou jamais	11	2	now or never	x
+maintenant que	maintenant que	11	1	now that	x
 maintenir	maintenir	11	1	maintain, support	
 maintien	maintien	11	1	bearing, poise, maintenance	
 maire	maire	11	0	mayor, provost, burgomaster	
@@ -10574,7 +10574,7 @@ mais pas que	mais pas que	11	0	but not only	x
 mais que	mais que	11	0		x
 mais que fait la police	mais que fait la police	11	2	where are the police when we need them	x
 maison	maison	11	0	house, home, household	
-maison de campagne	maison de campagne	11	2	counterie house	
+maison de campagne	maison de campagne	11	2	country house	
 maison de club	maison de club	11	2	clubhouse	
 maison de cour	maison de cour	11	2	courthouse	
 maison de dieu	maison de Dieu	11	2	house of God, house of worship	
@@ -10588,14 +10588,14 @@ maison en bande	maison en bande	11	2	row house, terraced house
 maison forte	maison forte	11	2	fortified house	
 maison longue	maison longue	11	2	longhouse, long house, long-house	
 maison mere	maison mère	11	2	motherhouse	
-maitre	maître	11	0	leader, chief, measter	
-maitre de jeu	maître de jeu	11	2	gamemaster, dungeon measter, game measter	
+maitre	maître	11	0	leader, chief, master	
+maitre de jeu	maître de jeu	11	2	game master, dungeon master, gamemaster	
 maitre de maison	maître de maison	11	2	host	
-maitre de place	maître de place	11	2	measter stag	
+maitre de place	maître de place	11	2	master stag	
 maitre jacques	maître Jacques	11	3	jack of all trades	x
 maitresse	maîtresse	11	2	mistress, teacher	
-maitrise	maîtrise	11	1	measter, mastery	
-maitriser	maîtriser	11	2	control, measter	
+maitrise	maîtrise	11	1	master, mastery	
+maitriser	maîtriser	11	2	control, master	
 majeste	majesté	11	2	majesty	
 majeur	majeur	11	0	major, adult, of age	
 majeure	majeure	11	1	major	
@@ -10643,7 +10643,7 @@ malefique	maléfique	11	2	evil, malevolent, maleficent
 malentendu	malentendu	11	2	misunderstanding, misapprehension, miscomprehension	
 malgache	Malgache	11	2	Malagasy, Madagascan	
 malgre	malgré	11	0	despite, notwithstanding, in spite of	
-malgre que	malgré que	11	2	despite dat	x
+malgre que	malgré que	11	2	despite that	x
 malgre tout	malgré tout	11	2	despite everything	x
 malheur	malheur	11	1	adversity, unhappiness, misfortune	
 malheur a	malheur à	11	3	woe	x
@@ -10678,7 +10678,7 @@ manger a sa faim	manger à sa faim	11	3	to eat one's fill, to get one's fill	x
 manger comme un loup	manger comme un loup	11	3	To gorge	x
 manger comme un porc	manger comme un porc	11	3	eat like a pig	x
 manger dans la main de	manger dans la main de	11	2	eat out of someone's hand	x
-manger de la marde	manger de la marde	11	3	to die hard, to go fuck oneself	x
+manger de la marde	manger de la marde	11	3	to die hard	x
 manger le morceau	manger le morceau	11	3	sing like a canary	x
 manger ses bas	manger ses bas	11	2		x
 manger son chapeau	manger son chapeau	11	3	eat one's hat	x
@@ -10785,7 +10785,7 @@ marque en ligne	marque en ligne	11	2	e-brand
 marquer	marquer	11	1	mark, brand, score	
 marquer au fer rouge	marquer au fer rouge	11	3	brand	x
 marquer le coup	marquer le coup	11	3	to mark the occasion	x
-marquer le pas	marquer le pas	11	3	run out of steam, slow dahn, mark time	x
+marquer le pas	marquer le pas	11	3	slow down, run out of steam, mark time	x
 marquer un point	marquer un point	11	3	to have a point	x
 marqueur	marqueur	11	2	marker, paintball gun, paintball marker	
 marquis	marquis	11	1	marquess, marquis	
@@ -10820,8 +10820,8 @@ masse	masse	12	1	mass, ground, sledgehammer
 masser	masser	12	2	mass, compose, massage	
 massif	massif	12	1	massive, solid, flowerbed	
 massivement	massivement	12	2	overwhelmingly, cumbersomely	
-master	master	12	1	measter, master's degree	
-mat	mat	12	1	flat, matt, check and mate	
+master	master	12	1	master, master's degree	
+mat	mat	12	1	flat, matte, matt	
 mat	mât	12	2	mast, spar, flagpole	
 match	match	12	0	game, match	
 matelas	matelas	12	2	mattress	
@@ -10844,7 +10844,7 @@ matinal	matinal	12	2	morning, up early
 matinee	matinée	12	2	morning	
 matos	matos	12	2	stuff, gear, junk	
 matrice	matrice	12	2	matrix, template, encapsulation matrix	
-matthieu	Matthieu	12	1	Matt, Matthew	
+matthieu	Matthieu	12	1	Matthew, Matt	
 mature	mature	12	2	mature, masts	
 maturite	maturité	12	2	maturity, ripeness	
 maudit	maudit	12	2	evil, wicked, cursed	
@@ -10895,7 +10895,7 @@ mediterranee	Méditerranée	12	1	Mediterranean, Mediterranean Sea
 mediterraneen	méditerranéen	12	2	Mediterranean	
 medium	médium	12	2	medium	
 meeting	meeting	12	2	(political) rally, rally	
-mefiance	méfiance	12	2	suspicion, distrust, misthrust	
+mefiance	méfiance	12	2	suspicion, distrust, mistrust	
 mefier	méfier	12	2	suspicious, watch out, beware	
 mega	méga	12	2	MB, super, mega	
 megacollecte	mégacollecte	12	3	crowdsensing	
@@ -10917,7 +10917,7 @@ meme	mème	12	1	meme
 meme	même	12	0	same, even, self	
 meme combat	même combat	12	2	same different	x
 meme pas	même pas	12	0	not even	x
-meme pas en reve	même pas en rêve	12	3	not even in yer dreams	x
+meme pas en reve	même pas en rêve	12	3	not even in your dreams	x
 meme que	même que	12	0		x
 meme si	même si	12	1	even if	x
 memoire	mémoire	12	0	memory, recollection, memoir	
@@ -10977,8 +10977,8 @@ mer du nord	mer du Nord	12	2	North Sea
 mer du sud	mer du Sud	12	2	South Sea	
 mercato	mercato	12	2	transfer market	
 mercenaire	mercenaire	12	2	mercenary	
-merci	merci	12	0	mercy, tanks, thank you	
-merci beaucoup	merci beaucoup	12	2	thank you very much, tanks a lot	x
+merci	merci	12	0	mercy, thanks, thank you	
+merci beaucoup	merci beaucoup	12	2	thank you very much, thanks a lot	x
 merci bien	merci bien	12	1	thank you very much	x
 merci mille fois	merci mille fois	12	3	thank you so much	x
 merci pour ton aide	merci pour ton aide	12	2	thanks for your help	x
@@ -10994,7 +10994,7 @@ merdique	merdique	12	2
 mere	Mere	12	2	Mere	
 mere	mère	12	0	mother	
 mere nature	Mère Nature	12	2	Mother Earth, Mother Nature	
-mere poule	mère poule	12	3	tiger mom, mother hen, mama bear	x
+mere poule	mère poule	12	3	tiger mom, mama bear, mother hen	x
 meridional	méridional	12	2	southern, meridional, Southerner	
 merite	mérite	12	0	value, worth, merit	
 meriter	mériter	12	1	be worthy, deserve, merit	
@@ -11143,7 +11143,7 @@ mettre le feu	mettre le feu	12	2	set fire to, set on fire	x
 mettre le marche a la main	mettre le marché à la main	12	2		x
 mettre le marche en main	mettre le marché en main	12	2	to give an ultimatum	x
 mettre le nez dehors	mettre le nez dehors	12	3	to go outside, to spend time outdoors, to go out	x
-mettre le paquet	mettre le paquet	12	3	go all out, give it everything you've got, give it yer all	x
+mettre le paquet	mettre le paquet	12	3	go all out, give it everything you've got, give it your all	x
 mettre le pied	mettre le pied	12	2		x
 mettre le pied au plancher	mettre le pied au plancher	12	3	to floor it	x
 mettre le pied dehors	mettre le pied dehors	12	3	to go outside, to spend time outdoors, to go out	x
@@ -11168,13 +11168,13 @@ mettre sur orbite	mettre sur orbite	12	3	launch, put into orbit	x
 mettre sur papier	mettre sur papier	12	3	to write down, to commit to paper	x
 mettre sur pause	mettre sur pause	12	3	pause	x
 mettre sur pied	mettre sur pied	12	2	to set up, to establish, to set on foot	x
-mettre un bemol	mettre un bémol	12	3	play dahn	x
+mettre un bemol	mettre un bémol	12	3	play down	x
 mettre un frein	mettre un frein	12	3	to curb	x
 mettre un pied	mettre un pied	12	2	set foot	x
-mettre un pied a terre	mettre un pied à terre	12	3	put (one's) foot dahn	x
+mettre un pied a terre	mettre un pied à terre	12	3	put (one's) foot down	x
 mettre un point final	mettre un point final	12	3	bring to an end	x
 mettre un temps fou	mettre un temps fou	12	3	to take ages, to take forever	x
-mettre un terme	mettre un terme	12	2	put an end to, clamp dahn on	x
+mettre un terme	mettre un terme	12	2	put an end to, clamp down on	x
 mettre un vent	mettre un vent	12	3	snub	x
 mettre une vitesse	mettre une vitesse	12	3	leave in the dust	x
 metz	Metz	12	1	Metz	
@@ -11322,7 +11322,7 @@ mlle	Mlle	12	2	Miss, Ms.
 mme	Mme	12	0	Mrs, Ms, Mrs.	
 mobile	mobile	12	1	moving, mobile, object	
 mobilier	mobilier	12	2	movable, furniture	
-mobilisation	mobilisation	12	2	engagement, draught, mobilization	
+mobilisation	mobilisation	12	2	draft, engagement, mobilization	
 mobilisation eclair	mobilisation éclair	12	3	flash mob	
 mobiliser	mobiliser	12	2	engage, marshal, mobilize	
 mobilite	mobilité	12	2	mobility	
@@ -11390,7 +11390,7 @@ mon fils	mon fils	12	2	my son	x
 mon gars	mon gars	12	2	my man	
 mon gros	mon gros	12	2		x
 mon loup	mon loup	12	3	honey	x
-mon oeil	mon œil	12	3	yeah, right, tell it to the Marines, shut up	x
+mon oeil	mon œil	12	3	yeah, right, shut up, tell it to the Marines	x
 mon pere	mon père	12	2	father	x
 mon petit	mon petit	12	1		x
 mon royaume pour un cheval	mon royaume pour un cheval	12	3	my kingdom for a horse	x
@@ -11418,7 +11418,7 @@ monopole	monopole	12	2	monopoly
 mons	Mons	12	2	Mons	
 monseigneur	monseigneur	12	2	my lord	
 monsieur	Monsieur	12	0	mister	
-monsieur	monsieur	12	0	mister, sorr, gintleman	
+monsieur	monsieur	12	0	sir, mister, gentleman	
 monsieur je-sais-tout	monsieur je-sais-tout	12	2	know-it-all	
 monsieur tout-le-monde	Monsieur Tout-le-Monde	12	2	Joe Schmoe	
 monsieur tout-le-monde	monsieur Tout-le-monde	12	2	John Doe	
@@ -11452,7 +11452,7 @@ montre en main	montre en main	12	2	exactly, precisely	x
 montreal	Montréal	12	0	Montreal, Montréal	
 montrealais	Montréalais	12	2	Montrealer	
 montrer	montrer	12	0	show, display, point	
-montrer du doigt	montrer du doigt	12	3	point at, point yer finger at, point to	x
+montrer du doigt	montrer du doigt	12	3	point at, point your finger at, point to	x
 montrer la corde	montrer la corde	12	3	show the ropes	x
 montrer la porte	montrer la porte	12	3	to show out, to show the door, to give the sack	x
 montrer le poing	montrer le poing	12	3	to shake one's fist)	x
@@ -11525,7 +11525,7 @@ moulin	moulin	12	1	mill, coffee grinder, moulin
 mourir	mourir	12	0	die, expire, pass away	
 mourir a la peine	mourir à la peine	12	3	die in harness, work oneself to death	x
 mourir de faim	mourir de faim	12	3	starve	x
-mourir de sa belle mort	mourir de sa belle mort	12	3	to die a natural death, to die of ould age	x
+mourir de sa belle mort	mourir de sa belle mort	12	3	to die a natural death, to die of old age	x
 mousse	mousse	12	2	moss, foam, suds	
 moustache	moustache	12	2	whiskers, moustache, mustache	
 moustique	moustique	12	2	mosquito, gnat, skeeter	
@@ -11575,7 +11575,7 @@ municipalite	municipalité	12	1	council, administration, town council
 munition	munition	12	2	ammunition, munition	
 mur	mur	12	0	wall	
 mur	mûr	12	2	adult, ripe, full-grown	
-muraille	muraille	12	2	wall, gurt wall, periople	
+muraille	muraille	12	2	wall, great wall, periople	
 mural	mural	12	2	wall, mural	
 mure	mûre	12	2	blackberry, mulberry, boysenberry	
 murmure	murmure	12	2	murmur	
@@ -11617,13 +11617,13 @@ n'est-il pas	n’est-il pas	12	0	isn't it	x
 n'etre autre que	n’être autre que	12	1	none other than	x
 n'etre plus	n’être plus	12	1		x
 n'etre plus de ce monde	n’être plus de ce monde	12	1	to no longer be with us	x
-n'importe comment	n’importe comment	12	2	anyhow, any ould how	x
+n'importe comment	n’importe comment	12	2	any old how, anyhow	x
 n'importe lequel	n’importe lequel	12	2	any, whichever	x
 n'importe ou	n’importe où	12	2	anywhere, wherever, anyplace	x
 n'importe quand	n’importe quand	12	2	whenever, anytime	x
 n'importe quel	n’importe quel	12	2	any, whichever, no matter which	x
 n'importe qui	n’importe qui	12	2	anyone, whoever	x
-n'importe quoi	n’importe quoi	12	2	whatever, nonsense, no matter	
+n'importe quoi	n’importe quoi	12	2	anything, whatever, nonsense	
 n'y avoir aucune raison	n’y avoir aucune raison	12	2		x
 n'y etre pour rien	n'y être pour rien	12	1	to have no responsibility, to have no part	x
 n'y voir que du feu	n’y voir que du feu	12	2	see stars	x
@@ -11644,8 +11644,8 @@ naif	naïf	12	2	innocent, naive, naïve
 nain	nain	12	2	dwarf, midget, dwarf-like	
 naissance	naissance	12	0	birth	
 naissant	naissant	12	2	incipient	
-naitre	naître	12	0	come to life, be bawn	
-naitre dans le mauvais corps	naître dans le mauvais corps	12	3	be bawn in the wrong body	x
+naitre	naître	12	0	come to life, be born	
+naitre dans le mauvais corps	naître dans le mauvais corps	12	3	be born in the wrong body	x
 naivete	naïveté	12	2	naïveté, naivete, naiveté	
 namur	Namur	12	2	Namur	
 nan	nan	12	1	nah, nope	
@@ -11705,7 +11705,7 @@ ne pas avoir un mot plus haut que l'autre	ne pas avoir un mot plus haut que l'au
 ne pas dire non	ne pas dire non	13	1	not to refuse	x
 ne pas donner deux sous	ne pas donner deux sous	13	2		x
 ne pas en croire ses yeux	ne pas en croire ses yeux	13	2		x
-ne pas en foutre une	ne pas en foutre une	13	3	to do fuck all, to do nothing	cx
+ne pas en foutre une	ne pas en foutre une	13	3	to do nothing	cx
 ne pas en revenir	ne pas en revenir	13	2		x
 ne pas etre en sucre	ne pas être en sucre	13	3	not be going to melt	x
 ne pas etre pour	ne pas être pour	13	1		x
@@ -11735,7 +11735,7 @@ ne plus se sentir pisser	ne plus se sentir pisser	13	3	to feel exhilarated, to f
 ne plus toucher terre	ne plus toucher terre	13	3	on cloud nine, head in the clouds	x
 ne reculer devant rien	ne reculer devant rien	13	3	to stop at nothing	x
 ne rien avoir a perdre	ne rien avoir à perdre	13	2	have nothing to lose	x
-ne rien avoir dans la tete	ne rien avoir dans la tête	13	2	bechune the ears	x
+ne rien avoir dans la tete	ne rien avoir dans la tête	13	2	between the ears	x
 ne rien branler	ne rien branler	13	3	bugger all	cx
 ne rien laisser paraitre	ne rien laisser paraître	13	3	put on a brave face, keep it all inside, keep a stiff upper…	x
 ne rien se refuser	ne rien se refuser	13	3	not to stint oneself	x
@@ -11743,7 +11743,7 @@ ne rien vouloir entendre	ne rien vouloir entendre	13	3	not have any of it, not w
 ne rien vouloir savoir	ne rien vouloir savoir	13	3	not have any of it, not want to hear it	x
 ne serait-ce que	ne serait-ce que	13	1	if only	x
 ne souffler mot	ne souffler mot	13	3	to not say	x
-ne sous une bonne etoile	né sous une bonne étoile	13	3	bawn under a lucky star	x
+ne sous une bonne etoile	né sous une bonne étoile	13	3	born under a lucky star	x
 ne voila-t-il pas	ne voilà-t-il pas	13	2	lo and behold	x
 ne voir personne	ne voir personne	13	1		x
 neanmoins	néanmoins	13	1	nevertheless, nonetheless, nathless	
@@ -11781,7 +11781,7 @@ nettement	nettement	13	1	clearly
 nettoyage	nettoyage	13	2	cleaning	
 nettoyer	nettoyer	13	1	clean, make clean	
 neuf	neuf	13	0	nine, new, brand new	
-neuf de stock	neuf de stock	13	3	new ould stock	x
+neuf de stock	neuf de stock	13	3	new old stock	x
 neuromorphique	neuromorphique	13	3	neuromorphic	
 neurone	neurone	13	2	neurone	
 neurone artificiel	neurone artificiel	13	3	artificial neurone, formal neurone	
@@ -11804,7 +11804,7 @@ ni une ni deux	ni une ni deux	13	2		x
 ni vu ni connu	ni vu ni connu	13	3	secretly, on the sly	x
 nice	Nice	13	1	Nice	
 niche	niche	13	2	niche, kennel, doghouse	
-nickel	nickel	13	2	nickel, perfick, spotless	
+nickel	nickel	13	2	nickel, perfect, spotless	
 nickel chrome	nickel chrome	13	3	Brilliant, Terrific	x
 nico	Nico	13	2	Nick	
 nicolas	Nicolas	13	0	Nick, Nicholas	
@@ -11897,7 +11897,7 @@ non loin	non loin	13	2		x
 non loin de la	non loin de là	13	2		x
 non mais	non mais	13	1	honestly! well, really! do you mind	x
 non marque	non marqué	13	3	unmarked	x
-non merci	non merci	13	1	no thank you, no tanks	x
+non merci	non merci	13	1	no thank you, no thanks	x
 non occidental	non occidental	13	3	non-Western	x
 non pas	non pas	13	1	no	x
 non pas que	non pas que	13	1	not that	x
@@ -11933,7 +11933,7 @@ notamment	notamment	13	0	also, especially, notably
 notation	notation	13	2	notation, rating, credit rating	
 note	note	13	0	note, score, grade	
 note de tete	note de tête	13	2	top note, head note	
-noter	noter	13	1	note, make a note, write dahn	
+noter	noter	13	1	note, make a note, write down	
 notes graphiques	notes graphiques	13	3	sketchnote	
 notice	notice	13	2	notice	
 notice de modele preentraine	notice de modèle préentraîné	13	3	model card	
@@ -11971,8 +11971,8 @@ noyer	noyer	13	2	walnut, walnut tree, drown
 noyer le poisson	noyer le poisson	13	3	drown the fish, muddy the waters	x
 noyer son chagrin	noyer son chagrin	13	3	drown one's sorrows	x
 nu	nu	13	1	naked, nude, bare	
-nu comme des vers	nu comme des vers	13	3	naked as a jaybird, naked as the day you were bawn	x
-nu comme un ver	nu comme un ver	13	3	naked as a jaybird, naked as the day you were bawn	x
+nu comme des vers	nu comme des vers	13	3	naked as a jaybird, naked as the day you were born	x
+nu comme un ver	nu comme un ver	13	3	naked as a jaybird, naked as the day you were born	x
 nuage	nuage	13	1	cloud	
 nuance	nuance	13	1	shade, hue, tinge	
 nucleaire	nucléaire	13	1	nuclear	
@@ -12115,11 +12115,11 @@ on ne me la fait pas	on ne me la fait pas	13	1	I know every trick in the book	x
 on ne peut mieux	on ne peut mieux	13	1		x
 on ne peut plus	on ne peut plus	13	1	absolutely	x
 on ne sait d'ou	on ne sait d’où	13	2	from who knows where	x
-on ne sait jamais	on ne sait jamais	13	2	you neva can tell, you neva know	x
+on ne sait jamais	on ne sait jamais	13	2	you never know, you never can tell	x
 on ne sait ou	on ne sait où	13	2		x
 on ne sait quoi	on ne sait quoi	13	2	je ne sais quoi, I don't know what	x
 on peut dire que	on peut dire que	13	1		x
-on va dire ca comme ca	on va dire ça comme ça	13	1	you could put it dat way	x
+on va dire ca comme ca	on va dire ça comme ça	13	1	you could put it that way	x
 on vit dans une saucisse	on vit dans une saucisse	13	3	we live in a sausage	x
 once	once	13	2	ounce, snow leopard	
 oncle	oncle	13	1	uncle, paternal uncle	
@@ -12342,7 +12342,7 @@ pancarte	pancarte	13	2	sign, pancarte, placard
 panda	panda	13	2	panda	
 panel	panel	13	2	panel	
 panier	panier	13	2	basket, cart, shopping basket	
-panier a salade	panier à salade	13	3	police van, paddy waggon, meat waggon	x
+panier a salade	panier à salade	13	3	police van, meat wagon, paddy wagon	x
 panique	panique	13	2	panicked, panic	
 paniquer	paniquer	13	2	panic	
 panne	panne	13	1	peen, tip, leaf lard	
@@ -12360,10 +12360,10 @@ papier bulle	papier bulle	13	3	bubble wrap, Manila paper	x
 papier collant	papier collant	13	3	tape, scotch, adhesive tape	x
 papier electronique	papier électronique	13	3	electronic paper, e-paper	
 papillon	papillon	13	2	butterfly, post-it note, stick note	
-papy	papy	13	2	grandpa, ould man	
+papy	papy	13	2	grandpa, old man	
 paques	Pâques	13	2	Easter, Passover	
 paquet	paquet	13	1	package, packet, parcel	
-par	par	13	0	by, each, per	
+par	par	13	0	by, through, each	
 par accident	par accident	13	3	accidentally, by chance, by accident	x
 par ailleurs	par ailleurs	13	2	furthermore, additionally, what’s more	x
 par alliance	par alliance	13	3	in-law, by marriage	x
@@ -12386,11 +12386,11 @@ par exemple	par exemple	13	2	for example, e.g., for instance	x
 par extension	par extension	13	3	by extension	x
 par force	par force	13	2		x
 par hasard	par hasard	13	3	by chance, peradventure	x
-par ici	par ici	13	1	over 'ere	x
+par ici	par ici	13	1	over here	x
 par ici la bonne soupe	par ici la bonne soupe	13	3	Here is the good soup, This way to the good soup	x
 par impossible	par impossible	13	2	contrary to all probability, in the unlikely case	x
 par interim	par intérim	13	3	acting	x
-par la	par là	13	1	over there, dat way	x
+par la	par là	13	1	that way, over there	x
 par la bande	par la bande	13	2	indirectly, vicariously, in a roundabout way	x
 par la force	par la force	13	2	by force, by the strong hand, forcibly	x
 par la force des choses	par la force des choses	13	2	necessarily, inevitably, logically	x
@@ -12432,13 +12432,13 @@ par tete de pipe	par tête de pipe	13	3	per head, per person	x
 par tous les temps	par tous les temps	13	1	in all weathers, come rain or shine	x
 par trop	par trop	13	1	too, overly, far too	x
 par voie de consequence	par voie de conséquence	13	3	by way of consequence	x
-par-ci par-la	par-ci par-là	13	2	'ere and there	x
-par-ci, par-la	par-ci, par-là	13	2	'ere and there, right and left	x
+par-ci par-la	par-ci par-là	13	2	here and there	x
+par-ci, par-la	par-ci, par-là	13	2	here and there, right and left	x
 par-dessus	par-dessus	13	2	over	
 par-dessus bord	par-dessus bord	13	3	overboard	x
 par-dessus la jambe	par-dessus la jambe	13	3	slapdash, offhandedly, slipshodly	x
 par-dessus la tete	par-dessus la tête	13	2		x
-par-dessus le marche	par-dessus le marché	13	2	to boot, into the bargain, on top of dat	x
+par-dessus le marche	par-dessus le marché	13	2	on top of that, to boot, into the bargain	x
 par-dessus tout	par-dessus tout	13	2	above all	x
 para	para	13	2	paratrooper	
 parachute	parachute	13	2	parachute	
@@ -12462,7 +12462,7 @@ parasite	parasite	13	2	pest, parasitic, parasitical
 parc	parc	13	0	park, fish farm, fleet	
 parce que	parce que	13	1	because, since	x
 parcelle	parcelle	13	2	lot, parcel, tract	
-parcourir	parcourir	13	1	travel thruff, go thruff, pass thruff	
+parcourir	parcourir	13	1	go through, pass through, travel through	
 parcours	parcours	13	1	course, route, career	
 parcours sur la toile	parcours sur la toile	13	3	clickstream	
 pardon	pardon	13	1	pardon, forgiveness	
@@ -12479,7 +12479,7 @@ parenthese	parenthèse	13	2	parenthesis, bracket, round bracket
 parer	parer	13	2	block, decorate, adorn	
 parer au plus presse	parer au plus pressé	13	3	first things first	x
 paresseux	paresseux	13	2	lazy, slacker, sloth	
-parfait	parfait	13	0	absolute, stark, perfick	
+parfait	parfait	13	0	perfect, absolute, stark	
 parfaitement	parfaitement	13	1	perfectly, completely, absolutely	
 parfois	parfois	13	0	sometimes	
 parfum	parfum	13	1	smell, flavour, perfume	
@@ -12500,7 +12500,7 @@ parlement	parlement	13	0	parliament, legislature
 parlementaire	parlementaire	13	1	parliamentary, member of parliament	
 parler	parler	13	0	talk, speak, converse	
 parler a coeur ouvert	parler à cœur ouvert	13	3	speak from the heart	x
-parler a travers son chapeau	parler à travers son chapeau	13	3	talk thruff one's hat	x
+parler a travers son chapeau	parler à travers son chapeau	13	3	talk through one's hat	x
 parler a un mur	parler à un mur	13	3	talk to a brick wall	x
 parler boutique	parler boutique	13	3	talk shop	x
 parler comme un livre	parler comme un livre	13	2	talk like a book, speak like a book	x
@@ -12624,7 +12624,7 @@ pas vrai	pas vrai	14	1	Unbelievable, You cannot be serious, You can't be serious
 pascal	pascal	14	1	pascal, paschal, Paschal	
 passage	passage	14	0	part, section, traffic	
 passage a niveau	passage à niveau	14	2	level crossing, railroad crossing	
-passager	passager	14	1	passing thruff, passing, ephemeral	
+passager	passager	14	1	passing through, passing, ephemeral	
 passant	passant	14	1	busy, passer-by	
 passe	passe	14	0	trick, pass, badge	
 passe	passé	14	0	past, past tense, history	
@@ -12632,7 +12632,7 @@ passe d'armes	passe d'armes	14	2	sparring, heated exchange
 passe de mode	passé de mode	14	2	behind the times, out of fashion, old-fashioned	x
 passe en avant	passe en avant	14	2	forward pass	
 passe simple	passé simple	14	2	past historic, past historic tense	
-passe-partout	passe-partout	14	3	skeleton key, measter key, pitsaw	
+passe-partout	passe-partout	14	3	master key, skeleton key, pitsaw	
 passe-temps	passe-temps	14	2	hobby, pastime	
 passeport	passeport	14	2	passport	
 passer	passer	14	0	go, pass, spend	
@@ -12745,12 +12745,12 @@ payer de sa personne	payer de sa personne	14	2	to trouble oneself with, invest o
 payer de sa poche	payer de sa poche	14	3	out of pocket, out of one's own pocket	x
 payer en monnaie de singe	payer en monnaie de singe	14	3	to swindle someone	x
 payer le prix	payer le prix	14	2		x
-pays	pays	14	0	land, counterie, homeland	
+pays	pays	14	0	country, land, homeland	
 pays de l'est	pays de l’Est	14	1	Eastern Bloc, Communist Bloc, Soviet Bloc	
 pays de l'ouest	pays de l’Ouest	14	2	Free World, Western Bloc	
 pays de la liberte	pays de la liberté	14	2	Land of Liberty	
 pays membre	pays membre	14	2	member state, member country	
-pays noir	pays noir	14	2	black counterie	
+pays noir	pays noir	14	2	black country	
 paysage	paysage	14	1	landscape, scenery	
 paysan	paysan	14	1	peasant, farmer, countryman	
 pb	pb	14	2	bp, base pair	
@@ -12768,7 +12768,7 @@ pecher	pêcher	14	2	peach, peach tree, fish
 pecher en eau trouble	pêcher en eau trouble	14	3	fish in troubled waters	x
 pecheur	pêcheur	14	2	fisher, fisherman	
 pedagogie	pédagogie	14	2	pedagogy, pedagogics	
-pedagogique	pédagogique	14	2	paedagogical, pedagogic	
+pedagogique	pédagogique	14	2	pedagogical, pedagogic	
 pedale	pédale	14	2	pedal, faggot, fag	
 pedophile	pédophile	14	2	pedophilic, paedophilic, pædophilic	
 peindre	peindre	14	2	paint	
@@ -12867,7 +12867,7 @@ pere de famille	père de famille	14	2	famíly man
 pere de l'eglise	père de l'Église	14	2	Church Father	
 pere noir	père noir	14	2		x
 perfection	perfection	14	2	perfection, excellence	
-perfectionner	perfectionner	14	2	better, improve, perfick	
+perfectionner	perfectionner	14	2	better, perfect, improve	
 performance	performance	14	1	performance	
 performant	performant	14	2	effective, competitive, efficient	
 peri	péri	14	2	peri	
@@ -12945,7 +12945,7 @@ peter	péter	14	1	fart, pass wind, smash
 peter dans la soie	péter dans la soie	14	3	to live in luxury	x
 peter la gueule	péter la gueule	14	3	to punch someone's face	x
 peter un cable	péter un câble	14	3	blow a fuse, to throw a fit	x
-peter un coup	péter un coup	14	3	calm yer tits	x
+peter un coup	péter un coup	14	3	calm your tits	x
 peter un plomb	péter un plomb	14	3	un, plomb	x
 peter une coche	péter une coche	14	3	to lose one's temper	x
 petersbourg	Pétersbourg	14	2	Petersburg	
@@ -13028,8 +13028,8 @@ physiologique	physiologique	14	2	physiological
 physique	physique	14	0	physical, physics, physique	
 physiquement	physiquement	14	2	physically	
 pi	pi	14	2	pi	
-pianiste	pianiste	14	2	pianist, pianee player	
-piano	piano	14	1	pianee	
+pianiste	pianiste	14	2	pianist, piano player	
+piano	piano	14	1	piano	
 piaule	piaule	14	3	pad, crib	
 pib	PIB	14	2	GDP	
 pic	pic	14	1	woodpecker, peak, pick	
@@ -13165,7 +13165,7 @@ plan de campagne	plan de campagne	14	2	action plan, campaign plan
 plan de developpement	plan de développement	14	2	business plan	
 plan de niveau	plan de niveau	14	2	floor plan	
 plan de travail	plan de travail	14	2	counter top, countertop	
-plan directeur	plan directeur	14	2	masterplan, measter plan	
+plan directeur	plan directeur	14	2	master plan, masterplan	
 plan rouge	plan rouge	14	2		x
 plan social	plan social	14	2	redundancy scheme	
 planche	planche	14	1	board, plate, patch	
@@ -13179,7 +13179,7 @@ planifier	planifier	14	2	plan
 planning	planning	14	2	schedule	
 plant	plant	14	2	seedling	
 plantation	plantation	14	2	planting, plantation	
-plante	plante	14	1	plant, soal	
+plante	plante	14	1	plant, sole	
 planter	planter	14	1	plant, stick, crash	
 planter le decor	planter le décor	14	3	to set the scene	x
 plaque	plaque	14	1	plate, sheet, plaque	
@@ -13223,7 +13223,7 @@ plomb	plomb	14	1	lead, sinker, plumb bob
 plombier	plombier	14	2	plumber, script doctor	
 plongee	plongée	14	2	dive, plunge, submersion	
 plonger	plonger	14	1	plunge, dive	
-plongeur	plongeur	14	2	diver, dishwasher, dish dag	
+plongeur	plongeur	14	2	diver, dishwasher, dish dog	
 pluie	pluie	14	1	rain	
 plume	plume	14	1	pen, feather, plume	
 plupart	plupart	14	0	most	
@@ -13237,7 +13237,7 @@ plus facile a dire qu'a faire	plus facile à dire qu’à faire	14	2	easier said
 plus fort que soi	plus fort que soi	14	3	opponent stronger than oneself	x
 plus grand que nature	plus grand que nature	14	2	larger than life, bigger than life	x
 plus haut	plus haut	14	2	above	x
-plus jamais ca	plus jamais ça	14	1	neva again	x
+plus jamais ca	plus jamais ça	14	1	never again	x
 plus loin	plus loin	14	2	beyond, far away, afield	x
 plus mort que vif	plus mort que vif	14	3	more dead than alive	x
 plus ou moins	plus ou moins	14	1	more or less, give or take, plus or minus	x
@@ -13285,7 +13285,7 @@ point a	point A	14	1	A item
 point a la ligne	point à la ligne	14	2	period, full stop	x
 point a point	point à point	14	2	point-to-point	x
 point b	point B	14	2	B item	
-point barre	point barre	14	3	period, full stop, enough said	x
+point barre	point barre	14	3	period, that’s that, full stop	x
 point blanc	point blanc	14	2	white point	
 point critique	point critique	14	2	critical point	
 point d'acces	point d’accès	14	2	gateway, gate-way	
@@ -13340,7 +13340,7 @@ pole	pôle	14	1	pole, hub
 polemique	polémique	14	1	controversial, polemical, flame	
 poli	poli	14	2	polished, polite, courteous	
 police	police	14	0	police, cop, military police	
-police de caracteres	police de caractères	14	3	fount, typeface	
+police de caracteres	police de caractères	14	3	font, typeface	
 police de la route	police de la route	14	2	traffic police, highway patrol	
 police nationale	police nationale	14	2	National Police	
 policier	policier	14	0	policeman, police officer, police	
@@ -13433,7 +13433,7 @@ pose en s	pose en S	14	2	S-laying
 poser	poser	14	0	place, put, lay	
 poser culotte	poser culotte	14	3	to cover one's feet	x
 poser la chique et faire le mort	poser la chique et faire le mort	14	3	to stay silent	x
-poser le genou	poser le genou	14	3	knee dahn	x
+poser le genou	poser le genou	14	3	knee down	x
 poser probleme	poser problème	14	3	to bother	x
 poser un lapin	poser un lapin	14	3	stand up	x
 poser une colle	poser une colle	14	3	to stump, to ask a toughie	x
@@ -13476,7 +13476,7 @@ potentiellement	potentiellement	14	2	potentially
 pou	pou	14	2	louse	
 poubelle	poubelle	14	1	bin, trash can, garbage can	
 pouce	pouce	14	1	thumb, pollex, inch	
-poudre	poudre	14	1	powder, cosmetic powder, powder dahn	
+poudre	poudre	14	1	powder, cosmetic powder, powder down	
 poulain	poulain	14	2	colt, foal, yearling	
 poule	poule	14	1	hen, chick, chicken	
 poulet	poulet	14	1	chicken, baby, ass	
@@ -13538,7 +13538,7 @@ pour moitie	pour moitié	15	2		x
 pour ne pas dire	pour ne pas dire	15	1	if not	x
 pour ordre	pour ordre	15	2	per procurationem	x
 pour peu que	pour peu que	15	1	if, if only, as long as	x
-pour que	pour que	15	0	so dat, in order dat	x
+pour que	pour que	15	0	so that, in order that	x
 pour quoi faire	pour quoi faire	15	1	why, What for, what for	x
 pour rappel	pour rappel	15	3	as a reminder	x
 pour rien	pour rien	15	1	for nothing, pointlessly	x
@@ -13663,7 +13663,7 @@ premier du nom	premier du nom	15	2		x
 premier en date	premier en date	15	2	earliest	x
 premier etage	premier étage	15	3	first floor, second floor	x
 premier groupe	premier groupe	15	2	group 1, first group	x
-premier jet	premier jet	15	3	rough draught	x
+premier jet	premier jet	15	3	rough draft	x
 premier maitre	premier maître	15	2	chief petty officer 2nd class, senior chief petty officer, …	x
 premier maitre de deuxieme classe	premier maître de deuxième classe	15	3	chief petty officer second class	x
 premier maitre de premiere classe	premier maître de première classe	15	3	chief petty officer first class	x
@@ -13728,7 +13728,7 @@ prendre corps	prendre corps	15	2	to take shape	x
 prendre courage	prendre courage	15	3	to take heart, to man up	x
 prendre cours	prendre cours	15	2	to begin, to start, to inure	x
 prendre de court	prendre de court	15	2	catch off guard, blindside, catch napping	x
-prendre de haut	prendre de haut	15	2	patronise, condescend, talk dahn	x
+prendre de haut	prendre de haut	15	2	talk down, patronise, condescend	x
 prendre de l'age	prendre de l’âge	15	2	on in years, get old(er), grow old(er)	x
 prendre de l'avance	prendre de l'avance	15	2	to gain ground, to advance	x
 prendre de la bouteille	prendre de la bouteille	15	3	to cut one's eyeteeth	x
@@ -13782,7 +13782,7 @@ prendre l'ordre	prendre l’ordre	15	2		x
 prendre la bonne voie	prendre la bonne voie	15	2		x
 prendre la defense	prendre la défense	15	2	to come to defence, to stand up for	x
 prendre la fuite	prendre la fuite	15	3	flee, take flight	x
-prendre la grosse tete	prendre la grosse tête	15	3	let it go to yer head	x
+prendre la grosse tete	prendre la grosse tête	15	3	let it go to your head	x
 prendre la liberte	prendre la liberté	15	2	to take the liberty	x
 prendre la ligne 11	prendre la ligne 11	15	2		x
 prendre la main	prendre la main	15	2	to take the helm, to take control, to take over	x
@@ -13880,7 +13880,7 @@ prendre sous son aile	prendre sous son aile	15	3	take under one's wing	x
 prendre sur le fait	prendre sur le fait	15	1	to bust, to catch red-handed	x
 prendre sur soi	prendre sur soi	15	3	to bite the bullet, to keep one's cool, to suck it up	x
 prendre un bon tour	prendre un bon tour	15	2		x
-prendre un coup	prendre un coup	15	2	have a dhrink	x
+prendre un coup	prendre un coup	15	2	have a drink	x
 prendre un coup de vieux	prendre un coup de vieux	15	2	to age overnight	x
 prendre un interet	prendre un intérêt	15	2		x
 prendre un nouveau depart	prendre un nouveau départ	15	2		x
@@ -13938,7 +13938,7 @@ presse	presse	15	0	press
 presse	pressé	15	1	keen, pressed, in a hurry	
 presser	presser	15	2	press	
 presser le pas	presser le pas	15	3	to quicken one's pace, to walk faster, to speed up	x
-pression	pression	15	0	pressure, stress, draught beer	
+pression	pression	15	0	pressure, stress, draft beer	
 prestataire	prestataire	15	2	provider	
 prestation	prestation	15	1	service, benefit, allowance	
 prestige	prestige	15	2	prestige	
@@ -14002,7 +14002,7 @@ prise de terre	prise de terre	15	2	earth, ground wire
 prise de tete	prise de tête	15	2	headache, hassle, argument	
 prise de vue	prise de vue	15	2	shot	
 prisme	prisme	15	2	prism	
-prison	prison	15	0	cell, prison, gaol	
+prison	prison	15	0	cell, prison, jail	
 prisonnier	prisonnier	15	1	prisoner, detainee, prisoner of war	
 privatisation	privatisation	15	2	privatisation	
 prive	privé	15	0	private, private detective	
@@ -14049,7 +14049,7 @@ production	production	15	0	production
 production au plus juste	production au plus juste	15	2	lean production	
 production participative	production participative	15	3	crowdsourcing	
 productivite	productivité	15	2	productivity	
-produire	produire	15	1	bear, produce, yield	
+produire	produire	15	1	produce, bear, yield	
 produit	produit	15	0	product, good, produce	
 produit blanc	produit blanc	15	2	white good	
 produit de confiance	produit de confiance	15	2	credence goods	
@@ -14155,7 +14155,7 @@ provenir	provenir	15	1	come, spring, stem
 proverbe	proverbe	15	2	saw, proverb, adage	
 province	province	15	0	province	
 provincial	provincial	15	1	provincial	
-provision	provision	15	2	provision, instalment, accrual	
+provision	provision	15	2	provision, instalment, down payment	
 provisionnement	provisionnement	15	3	provisioning	
 provisoire	provisoire	15	1	temporary, interim, provisional	
 provisoirement	provisoirement	15	2	for the time being	
@@ -14222,10 +14222,10 @@ purge	purge	15	2	purge
 purger	purger	15	2	purify, purge	
 pus	pus	15	2	pus	
 putain	putain	15	0	shit, damn, whore	
-putain de	putain de	15	2	farken, goddamn, freaking	cx
-putain de bordel de merde	putain de bordel de merde	15	3	farken hell, holy farken crap, holy farken shit	cx
-putain de merde	putain de merde	15	2	farken hell	cx
-putain de sa race	putain de sa race	15	3	farken hell	cx
+putain de	putain de	15	2	fucking, goddamn, freaking	cx
+putain de bordel de merde	putain de bordel de merde	15	3	holy fucking crap, holy fucking shit	cx
+putain de merde	putain de merde	15	2		cx
+putain de sa race	putain de sa race	15	3		cx
 putain que	putain que	15	2	like hell, hell no, hell yes	cx
 pute	pute	15	1	whore, hooker, bitch	c
 puy	puy	15	2	hill, mountain	
@@ -14241,12 +14241,12 @@ qu'est-ce a dire	qu’est-ce à dire	15	1	What do you mean, What does this mean,
 qu'est-ce qu'il vous faut	qu’est-ce qu’il vous faut	15	1		x
 qu'est-ce qu'il y a	qu'est-ce qu'il y a	15	1	what's the matter, what's happening	x
 qu'est-ce que	qu’est-ce que	15	0	what	x
-qu'est-ce que c'est	qu’est-ce que c’est	15	0	what is it, what is dat	x
+qu'est-ce que c'est	qu’est-ce que c’est	15	0	what is that, what is it	x
 qu'est-ce que j'en sais	qu'est-ce que j'en sais	15	1	how should I know	x
 qu'est-ce que t'en dis	qu’est-ce que t’en dis	15	2		x
 qu'est-ce que tu veux	qu’est-ce que tu veux	15	1	it is what it is, what can you do, that's the way it is	x
 qu'est-ce qui	qu’est-ce qui	15	0	what	x
-qu'ils aillent se faire foutre	qu’ils aillent se faire foutre	15	3	Screw them, Fuck them	x
+qu'ils aillent se faire foutre	qu’ils aillent se faire foutre	15	3	Screw them	x
 qu'on dit	qu’on dit	15	1		x
 qu'on se le dise	qu'on se le dise	15	3	spread the word, let it be known	x
 quadruple service	quadruple service	15	3	quadruple play	
@@ -14297,7 +14297,7 @@ quatrieme de couverture	quatrième de couverture	15	3	back cover, blurb, back pa
 quatrieme doigt	quatrième doigt	15	3	digit IV, fourth digit	x
 quatuor	quatuor	15	2	quartet	
 qubit	qubit	15	3	qubit	
-que	que	15	0	than, dat, which	
+que	que	15	0	that, than, which	
 que dalle	que dalle	15	3	jack, squat, bumpkis	x
 que de	que de	15	0	how	x
 que demande le peuple	que demande le peuple	15	2	what's not to like	x
@@ -14334,7 +14334,7 @@ quelle heure	quelle heure	15	2	what time	x
 quelle heure est-il	quelle heure est-il	15	2	what time is it	x
 quelqu'un	quelqu’un	15	0	someone, somebody, some	
 quelque	quelque	15	0	whatever, some, a few	
-quelque chose	quelque chose	15	2	something, anythink	x
+quelque chose	quelque chose	15	2	something, anything	x
 quelque part	quelque part	15	2	somewhere, someplace, in a way	x
 quelque part que	quelque part que	15	2	wherever	x
 quelque peu	quelque peu	15	2	somewhat	x
@@ -14348,7 +14348,7 @@ questionnaire	questionnaire	15	2	questionnaire
 questionner	questionner	15	2	ask, question, interrogate	
 quete	quête	15	1	quest, raking	
 queue	queue	15	1	tail, brush, queue	
-qui	qui	15	0	who, dat, whom	
+qui	qui	15	0	that, who, whom	
 qui cherche trouve	qui cherche trouve	15	2	Who searches, finds, Those who search, find	x
 qui de droit	qui de droit	15	1	to whom it may concern	x
 qui dit mieux	qui dit mieux	15	1	any advance on that, who can top that, who can do better	x
@@ -14380,7 +14380,7 @@ quoi de neuf	quoi de neuf	15	2	what’s up, what’s new, how’s it going	x
 quoi encore	quoi encore	15	1	now what, What is it now, what is it now	x
 quoi faire	quoi faire	15	1	why, what for, how come	x
 quoi qu'il en ait ete	quoi qu'il en ait été	15	2	anyway, in any case, at any rate	x
-quoi qu'il en soit	quoi qu’il en soit	15	1	anyway, be dat as it may	x
+quoi qu'il en soit	quoi qu’il en soit	15	1	anyway, be that as it may	x
 quoi que	quoi que	15	1	whatever	
 quoi que ce soit	quoi que ce soit	15	1	no matter what, whatever, anything, everything, something	x
 quoique	quoique	15	2	although, even though, albeit	
@@ -14459,8 +14459,8 @@ raisonnable	raisonnable	16	1	rational, reasonable
 raisonnement	raisonnement	16	2	reasoning	
 raisonner	raisonner	16	2	reason	
 rajouter	rajouter	16	1	add	
-ralenti	ralenti	16	2	slow dahn, slow motion, idle speed	
-ralentir	ralentir	16	2	slow dahn, relent, moderate	
+ralenti	ralenti	16	2	slow down, slow motion, idle speed	
+ralentir	ralentir	16	2	slow down, relent, moderate	
 ralentissement	ralentissement	16	2	slowdown	
 raler	râler	16	3	complain, whine, groan	
 rallier	rallier	16	2	near, reach, rally	
@@ -14546,7 +14546,7 @@ real	réal	16	2	real
 realisateur	réalisateur	16	1	film director	
 realisation	réalisation	16	1	realisation, making	
 realisatrice	réalisatrice	16	2	film director	
-realiser	réaliser	16	0	realise, carry thruff, materialise	
+realiser	réaliser	16	0	realise, carry through, materialise	
 realisme	réalisme	16	2	realism	
 realiste	réaliste	16	2	realistic, realist	
 realite	réalité	16	0	reality, actuality, realness	
@@ -14632,10 +14632,10 @@ recycler	recycler	16	2	recycle
 redacteur	rédacteur	16	2	author, writer, editor	
 redaction	rédaction	16	1	writing, composition, editorial office	
 redecouvrir	redécouvrir	16	2	rediscover	
-redescendre	redescendre	16	2	redescend, go back dahn	
+redescendre	redescendre	16	2	redescend, go back down	
 redevance	redevance	16	2	fee, royalty, licence fee	
 redevenir	redevenir	16	2	to become again	
-rediger	rédiger	16	1	record, edit, draught	
+rediger	rédiger	16	1	record, edit, draft	
 redire	redire	16	2	repeat, say again, restate	
 redonner	redonner	16	2	give back, give again	
 redoubler	redoubler	16	2	increase, repeat, double	
@@ -14673,10 +14673,10 @@ refermer	refermer	16	2	reclose
 reflechi	réfléchi	16	2	reflektita, reflected, thoughtful	
 reflechir	réfléchir	16	1	reflect, mirror, reflect on	
 reflechir a deux fois	réfléchir à deux fois	16	3	think twice	x
-reflet	reflet	16	2	reflexion	
+reflet	reflet	16	2	reflection	
 refleter	refléter	16	2	reflect	
 reflexe	réflexe	16	2	reflexive, reflex	
-reflexion	réflexion	16	1	reflexion, consideration	
+reflexion	réflexion	16	1	reflection, reflexion, consideration	
 refonte	refonte	16	2	remake, overhaul, recast	
 reforme	réforme	16	0	reform	
 reforme	réformé	16	2	Protestant	
@@ -14697,7 +14697,7 @@ regagner	regagner	16	2	regain, win back, reclaim
 regagner ses penates	regagner ses pénates	16	3	to go home	x
 regard	regard	16	0	look, manhole	
 regarder	regarder	16	0	look, watch, look at	
-regarder de haut	regarder de haut	16	2	look at with detachment, observe with detachment, look dahn…	x
+regarder de haut	regarder de haut	16	2	look at with detachment, observe with detachment, look down…	x
 regarder en face	regarder en face	16	2		x
 regent	régent	16	2	regent	
 regie	régie	16	2	commission, administration, state management	
@@ -14788,11 +14788,11 @@ remboursement	remboursement	16	1	refund, reimbursement
 rembourser	rembourser	16	1	refund, repay, reimburse	
 remede	remède	16	2	cure, remedy	
 remedier	remédier	16	2	fix, repair, remedy	
-remerciement	remerciement	16	2	tanks, thanksgiving, gratitude	
+remerciement	remerciement	16	2	thanks, thanksgiving, gratitude	
 remercier	remercier	16	1	thank, let someone go, throw out	
 remettre	remettre	16	0	put back, forgive, resume	
 remettre a niveau	remettre à niveau	16	3	to brush up on, to brush up	x
-remettre a sa place	remettre à sa place	16	3	pull dahn a peg	x
+remettre a sa place	remettre à sa place	16	3	pull down a peg	x
 remettre a zero	remettre à zéro	16	3	reset	x
 remettre au travail	remettre au travail	16	3	put back at work, get back at work, go back to work	x
 remettre en cause	remettre en cause	16	3	question, challenge, reconsider	x
@@ -14807,7 +14807,7 @@ remise	remise	16	1	discount, reduction, rebate
 remix	remix	16	2	remix	
 remontee	remontée	16	2	comeback	
 remonter	remonter	16	1	climb, go back, cheer	
-remonter la pente	remonter la pente	16	3	break thruff	x
+remonter la pente	remonter la pente	16	3	break through	x
 remonter le moral	remonter le moral	16	3	to cheer up, to make feel better, to lift someone's spirits	x
 remonter le temps	remonter le temps	16	3	turn back the clock	x
 remords	remords	16	2	remorse	
@@ -14837,7 +14837,7 @@ rendre compte	rendre compte	16	2	give an account	x
 rendre coup pour coup	rendre coup pour coup	16	2	return blow for blow	x
 rendre fou	rendre fou	16	3	drive crazy	x
 rendre gorge	rendre gorge	16	3	vomit, throw up	x
-rendre grace	rendre grâce	16	2	give tanks	x
+rendre grace	rendre grâce	16	2	give thanks	x
 rendre hommage	rendre hommage	16	3	pay respect, pay tribute, pay homage	x
 rendre justice	rendre justice	16	2	do justice	x
 rendre l'esprit	rendre l’esprit	16	2	give up the ghost	x
@@ -14879,7 +14879,7 @@ rentrer	rentrer	16	0	reenter, gather in
 rentrer dans le rang	rentrer dans le rang	16	3	fall into line	x
 rentrer dedans	rentrer dedans	16	3	dedans, assault, beat up	x
 renversement	renversement	16	2	fall, collapse, overthrow	
-renverser	renverser	16	1	overthrow, topple, turn upside dahn	
+renverser	renverser	16	1	overthrow, topple, turn upside down	
 renverser la vapeur	renverser la vapeur	16	3	to turn the tide, to turn things around, to change course	x
 renvoi	renvoi	16	2	return, temporary call forwarding, firing	
 renvoi des appels en cas d'occupation	renvoi des appels en cas d’occupation	16	3	CFB, call forward on busy, call forwarding busy	
@@ -14898,7 +14898,7 @@ repartir a zero	repartir à zéro	16	3	to start over	x
 repartition	répartition	16	1	dispatching	
 repas	repas	16	1	meal	
 repasser	repasser	16	2	pass, come back, cross	
-repechage	repêchage	16	2	draught	
+repechage	repêchage	16	2	draft	
 repenser	repenser	16	2	think, change one's tune	
 repercussion	répercussion	16	2	repercussion	
 repere	repère	16	2	landmark, coordinate system, reference point	
@@ -14922,7 +14922,7 @@ reportage	reportage	16	1	report, news story, reportage
 reporter	reporter	16	1	take back, shift, transport	
 repos	repos	16	1	rest, repose, bed rest	
 reposant	reposant	16	2	restful	
-reposer	reposer	16	1	to put dahn, rest, relax	
+reposer	reposer	16	1	to put down, rest, relax	
 reposez en paix	reposez en paix	16	3	rest in peace	x
 repousser	repousser	16	1	repel, repulse, fight off	
 reprendre	reprendre	16	0	take, regain, cover	
@@ -14983,7 +14983,7 @@ residentiel	résidentiel	16	2	residential
 resider	résider	16	2	live, reside	
 residu	résidu	16	2	remainder, residue, leftover	
 resine	résine	16	2	resin	
-resistance	résistance	16	1	stand, resistance, strenth	
+resistance	résistance	16	1	stand, resistance, strength	
 resistant	résistant	16	1	tough, resistant, hardy	
 resistant au changement climatique	résistant au changement climatique	16	3	climate-proof	x
 resister	résister	16	1	stand, resist, withstand	
@@ -15049,7 +15049,7 @@ retenue	retenue	16	1	restraint, deposit, deduction
 reticence	réticence	16	2	reluctance, unwillingness, reticence	
 retirer	retirer	16	0	pull, withdraw, take back	
 retirer une epine du pied	retirer une épine du pied	16	3	to be a relief	x
-retomber	retomber	16	2	hang, lapse, droop	
+retomber	retomber	16	2	hang, lapse, hang down	
 retomber en enfance	retomber en enfance	16	3	fall back into childhood, lapse into second childhood	x
 retouche	retouche	16	3	touch-up, patch, cosmetic correction	
 retour	retour	16	0	return, feedback	
@@ -15139,11 +15139,11 @@ rideau	rideau	16	2	curtain, drape
 ridicule	ridicule	16	1	ridiculous, farcical, ludicrous	
 ridiculiser	ridiculiser	16	2	ridicule, pillory	
 rien	rien	16	0	nothing, nil, next to nothing	
-rien a branler	rien à branler	16	3	I don't give a fuck, I don't give a shit, I don't give a da…	x
+rien a branler	rien à branler	16	3	I don't give a shit, I don't give a damn	x
 rien a faire	rien à faire	16	1	nothing to do, to not care, care	x
 rien a foutre	rien à foutre	16	3	slack off	cx
 rien a voir	rien à voir	16	1	nothing to see	x
-rien de nouveau sous le soleil	rien de nouveau sous le soleil	16	2	there is nothing new under the zun	x
+rien de nouveau sous le soleil	rien de nouveau sous le soleil	16	2	there is nothing new under the sun	x
 rien de rien	rien de rien	16	1	nothing at all	
 rien de tel	rien de tel	16	2	nothing of the sort, nothing like that	
 rien du tout	rien du tout	16	1	nothing at all	x
@@ -15314,7 +15314,7 @@ s'en tenir	s’en tenir	17	2		x
 s'essayer a	s'essayer à	17	2	to try out	x
 s'il en est	s’il en est	17	0	as ever, if ever there was one	x
 s'il faut	s’il faut	17	1		x
-s'il te plait	s’il te plaît	17	2	please, if you please, purty please	x
+s'il te plait	s’il te plaît	17	2	please, if you please, pretty please	x
 s'y connaitre	s’y connaître	17	2	know one's stuff, know one's onions	x
 s'y mettre	s’y mettre	17	2		x
 s'y prendre	s’y prendre	17	1	go about	x
@@ -15332,7 +15332,7 @@ s. ¼ s. e.	S. ¼ S. E.	17	2	SbE
 s. ¼ s. o.	S. ¼ S. O.	17	2	SbW	
 sa	sa	17	0	Sa	
 sa grace	Sa Grâce	17	2	His Grace, Her Grace	
-sa mere	sa mère	17	2	fucking, fuck	x
+sa mere	sa mère	17	2	fucking	x
 sabine	sabine	17	2	savin, savin juniper	
 sable	sable	17	1	sand, sable	
 sabre	sabre	17	2	sabre, saber, cut-throat razor	
@@ -15347,7 +15347,7 @@ sacre	sacre	17	2	consecration
 sacre	sacré	17	1	sacred, sacral	
 sacre nom	sacré nom	17	3	for God's sake, bloody hell	x
 sacrement	sacrement	17	2	sacrament	
-sacrer son camp	sacrer son camp	17	3	to fuck off	x
+sacrer son camp	sacrer son camp	17	3		x
 sacrifice	sacrifice	17	1	sacrifice, self-sacrifice	
 sacrifier	sacrifier	17	2	sacrifice, offer, offer up	
 saga	saga	17	2	saga	
@@ -15569,7 +15569,7 @@ scene	scène	17	0	stage, scene
 sceptique	sceptique	17	2	sceptical, sceptic	
 schema	schéma	17	1	pattern, scheme, diagram	
 schiste	schiste	17	2	slate, shale, schist	
-scie	scie	17	2	saw, ould saw	
+scie	scie	17	2	saw, old saw	
 science	science	17	0	science	
 science des donnees	science des données	17	3	data science	
 scientifique	scientifique	17	0	scientific, scientist	
@@ -15582,7 +15582,7 @@ scorpion	scorpion	17	2	scorpion, scorpio
 scott	Scott	17	1	Scott	
 scout	scout	17	2	scout	
 screen	screen	17	2	screen, screenshot	
-script	script	17	2	script fount, script, script girl	
+script	script	17	2	script font, script, script girl	
 scrupule	scrupule	17	2	scruple, compunction	
 scrutation	scrutation	17	3	polling	
 scrutin	scrutin	17	1	vote, poll, ballot	
@@ -15611,7 +15611,7 @@ se donner la mort	se donner la mort	17	2	to commit suicide	x
 se donner la peine	se donner la peine	17	2	to bother to	x
 se donner le poing	se donner le poing	17	3	to fist bump, to give each other a bro fist	x
 se donner un genre	se donner un genre	17	2	to give oneself airs	x
-se faire a l'idee	se faire à l’idée	17	2	accept the fact, accept the notion, get used to the idear	x
+se faire a l'idee	se faire à l’idée	17	2	accept the fact, accept the notion, get used to the idea	x
 se faire appeler arthur	se faire appeler Arthur	17	3	catch it, catch hell, catch heat	x
 se faire avoir	se faire avoir	17	1	Get caught out, get hoodwinked	x
 se faire bobo	se faire bobo	17	3	boo boo	x
@@ -15651,7 +15651,7 @@ se la jouer	se la jouer	17	2	to give oneself airs, to show off	x
 se la peter	se la péter	17	3	show off	x
 se la raconter	se la raconter	17	3	to show off	x
 se la ramener	se la ramener	17	3	to show off	x
-se laisser faire	se laisser faire	17	2	pushed around, take lying dahn	x
+se laisser faire	se laisser faire	17	2	take lying down, pushed around	x
 se laisser porter	se laisser porter	17	3	get carry away	x
 se le tenir pour dit	se le tenir pour dit	17	2	take something as read	x
 se les geler	se les geler	17	3	be cold	x
@@ -15662,7 +15662,7 @@ se mettre a	se mettre à	17	1	to start, to take up	x
 se mettre a dos	se mettre à dos	17	2	cross	x
 se mettre a l'oeuvre	se mettre à l’œuvre	17	2	get to work	x
 se mettre a la place	se mettre à la place	17	2		x
-se mettre a table	se mettre à table	17	3	sit dahn at the table	x
+se mettre a table	se mettre à table	17	3	sit down at the table	x
 se mettre au vert	se mettre au vert	17	3	go away	x
 se mettre d'accord	se mettre d’accord	17	2	pull together	x
 se mettre dans la tete	se mettre dans la tête	17	2		x
@@ -15675,7 +15675,7 @@ se mettre en route	se mettre en route	17	2		x
 se mettre le doigt dans l'oeil	se mettre le doigt dans l'œil	17	3	to delude oneself	x
 se mettre sous la dent	se mettre sous la dent	17	3	to eat something	x
 se monter la tete	se monter la tête	17	3	get worked up	x
-se mordre la langue	se mordre la langue	17	3	bite yer tongue	x
+se mordre la langue	se mordre la langue	17	3	bite your tongue	x
 se passer	se passer	17	2	happen, occur, go on	
 se passer de	se passer de	17	2	do without, forgo, forego	x
 se payer la tete	se payer la tête	17	2	kid, take someone for a ride, yank one’s chain	x
@@ -15697,8 +15697,8 @@ se prendre de passion	se prendre de passion	17	3	to develop a passion	x
 se prendre en main	se prendre en main	17	2	to get one's act together	x
 se prendre la tete	se prendre la tête	17	2	get worked up, let something get to you, overthink	x
 se prendre par la main	se prendre par la main	17	2		x
-se prendre un rateau	se prendre un râteau	17	3	blown off, shut dahn, turned dahn	x
-se prendre une veste	se prendre une veste	17	3	blown off, shut dahn, turned dahn	x
+se prendre un rateau	se prendre un râteau	17	3	shut down, blown off, turned down	x
+se prendre une veste	se prendre une veste	17	3	shut down, blown off, turned down	x
 se preter au jeu	se prêter au jeu	17	3	to rise to the challenge	x
 se raccrocher aux branches	se raccrocher aux branches	17	3	to grasp at straws	x
 se rendre	se rendre	17	2	go, surrender, make oneself	
@@ -15788,7 +15788,7 @@ semantique	sémantique	17	2	semantic, semantics, sematology
 semblable	semblable	17	1	like, same, similar	
 semblant	semblant	17	1	kind, sort, appearance	
 sembler	sembler	17	0	look, seem, act	
-semelle	semelle	17	2	tread, soal	
+semelle	semelle	17	2	sole, tread	
 semence	semence	17	2	seed, cum, sperm	
 semer	semer	17	2	sow, spread	
 semestre	semestre	17	2	half, semester, term	
@@ -15802,7 +15802,7 @@ senegalais	Sénégalais	17	2	Senegalese
 senior	senior	17	2	senior	
 sens	sens	17	0	sense, meaning, way	
 sens critique	sens critique	17	2	critical sense	
-sens dessus dessous	sens dessus dessous	17	3	head over heels, upside dahn, in reverse	x
+sens dessus dessous	sens dessus dessous	17	3	upside down, head over heels, in reverse	x
 sens devant derriere	sens devant derrière	17	2	backward, backwards	x
 sensation	sensation	17	1	sensation	
 sense	sensé	17	2	wise, sage, sane	
@@ -15918,10 +15918,10 @@ shop	shop	17	2	shop
 shopping	shopping	17	2	shopping	
 short	short	17	2	shorts	
 shot	shot	17	2	shot	
-si	si	17	0	if, whether, provided dat	
+si	si	17	0	if, whether, provided that	
 si besoin est	si besoin est	17	2	if need be	x
 si bien	si bien	17	0		x
-si bien que	si bien que	17	1	so dat	x
+si bien que	si bien que	17	1	so that	x
 si ca se trouve	si ça se trouve	17	2	maybe, perhaps	x
 si ce n'est	si ce n'est	17	1	except, if not	x
 si ce n'est que	si ce n'est que	17	1	but, although, except	x
@@ -15966,7 +15966,7 @@ signe	signe	17	0	sign, signal
 signe moins	signe moins	17	2	minus sign	
 signe plus	signe plus	17	2	plus sign	
 signer	signer	17	0	sign, mark, signal	
-signer son arret de mort	signer son arrêt de mort	17	3	sign yer own death warrant	x
+signer son arret de mort	signer son arrêt de mort	17	3	sign your own death warrant	x
 signet	signet	17	3	tab, bookmark	
 signifiant	signifiant	17	2	significant, signifier	
 significatif	significatif	17	1	significant	
@@ -16054,7 +16054,7 @@ sociologie	sociologie	17	2	sociology
 sociologique	sociologique	17	2	sociological	
 sociologue	sociologue	17	2	sociologist	
 socle	socle	17	2	pedestal, plinth, base	
-soda	soda	17	2	soda, soda pop, fizzy dhrink	
+soda	soda	17	2	soda, soda pop, fizzy drink	
 sodium	sodium	17	2	sodium, natrium	
 soeur	sœur	17	1	sister	
 sofia	Sofia	17	2	Sofia	
@@ -16078,12 +16078,12 @@ solaire	solaire	17	1	bright, solar
 soldat	soldat	17	0	private, soldier	
 solde	solde	17	1	pay, balance, sale	
 soleil	Soleil	17	2	Sun	
-soleil	soleil	17	0	zun, sunshine	
+soleil	soleil	17	0	sun, sunshine	
 solennel	solennel	17	2	solemn	
 solidaire	solidaire	17	1	solidary	
 solidarite	solidarité	17	1	solidarity	
 solide	solide	17	1	solid, strong, robust	
-solide comme un roc	solide comme un roc	17	3	rock-solid, solid as a rock, be a pillar of strenth	x
+solide comme un roc	solide comme un roc	17	3	rock-solid, solid as a rock, be a pillar of strength	x
 solidite	solidité	17	2	solidity, solidness	
 solitaire	solitaire	17	2	solitary, solitaire, Klondike	
 solitude	solitude	17	2	solitude, loneliness	
@@ -16134,7 +16134,7 @@ sortir du bois	sortir du bois	17	2	to come to light	x
 sortir du lot	sortir du lot	17	3	stick out	x
 sortir du placard	sortir du placard	17	3	come out, come out of the closet	x
 sortir du rang	sortir du rang	17	3	to break ranks	x
-sortir du silence	sortir du silence	17	3	break yer silence	x
+sortir du silence	sortir du silence	17	3	break your silence	x
 sortir ensemble	sortir ensemble	17	2	go out	x
 sortir le grand jeu	sortir le grand jeu	17	2	push the boat out, bring one's A game, pull out all the sto…	x
 sortir par la grande porte	sortir par la grande porte	17	2	to leave triumphally	x
@@ -16205,13 +16205,13 @@ sous la coupe de	sous la coupe de	18	2	under someone's thumb	x
 sous la main	sous la main	18	2	at hand	x
 sous la plume de	sous la plume de	18	3	under sb's pen, written by	x
 sous le boisseau	sous le boisseau	18	3	concealed, hidden	x
-sous le coude	sous le coude	18	3	to keep in yer back pocket	x
+sous le coude	sous le coude	18	3	to keep in your back pocket	x
 sous le coup de	sous le coup de	18	2	out of, under the effect of	x
 sous le feu	sous le feu	18	2		x
 sous le feu des projecteurs	sous le feu des projecteurs	18	3	in the spotlight	x
 sous le nez de	sous le nez de	18	3	under someone's nose	x
 sous le radar	sous le radar	18	3	under the radar	x
-sous le soleil	sous le soleil	18	2	under the zun	x
+sous le soleil	sous le soleil	18	2	under the sun	x
 sous le vent	sous le vent	18	3	leeward, downwind	x
 sous les auspices de	sous les auspices de	18	3	under the auspices of	x
 sous les yeux de	sous les yeux de	18	2	before one's eyes, right in front of	x
@@ -16348,7 +16348,7 @@ stupide	stupide	18	1	stupid, silly, dull
 style	style	18	0	style	
 style de vie	style de vie	18	2	lifestyle	
 stylo	stylo	18	2	pen, felt-tip pen, fountain pen	
-subir	subir	18	1	suffer, undergo, put up with	
+subir	subir	18	1	suffer, go through, undergo	
 subit	subit	18	2	sudden, abrupt	
 subitement	subitement	18	2	suddenly, dramatically, abruptly	
 subjectif	subjectif	18	2	subjective	
@@ -16388,7 +16388,7 @@ suer	suer	18	2	sweat, perspire
 suer sang et eau	suer sang et eau	18	3	sweat blood	x
 sueur	sueur	18	2	sweat, perspiration	
 suffire	suffire	18	2	suffice, be enough	
-suffisamment	suffisamment	18	1	enough, rather, quite	
+suffisamment	suffisamment	18	1	enough, pretty, rather	
 suffisant	suffisant	18	1	enough, sufficient, cocky	
 suffrage	suffrage	18	2	vote, suffrage	
 suggerer	suggérer	18	1	suggest	
@@ -16436,7 +16436,7 @@ supprimer	supprimer	18	1	suppress, abolish, remove
 supreme	suprême	18	1	supreme	
 sur	sur	18	0	on, over, upon	
 sur	sûr	18	0	sure, safe, certain	
-sur ce	sur ce	18	0	on dat note	x
+sur ce	sur ce	18	0	on that note	x
 sur ces mots	sur ces mots	18	2	with this, thereupon, upon these words	x
 sur commande	sur commande	18	3	to order, on demand, at will	x
 sur comment	sur comment	18	1		x
@@ -16535,7 +16535,7 @@ survie	survie	18	1	survival
 survivant	survivant	18	2	surviving, survivor	
 survivre	survivre	18	1	survive, linger, outlive	
 survol	survol	18	3	flyby, browsing	
-survoler	survoler	18	2	overfly, hover, skim thruff	
+survoler	survoler	18	2	overfly, hover, skim through	
 sus	sus	18	2	sus	
 susceptible	susceptible	18	1	susceptible, sensitive, touchy	
 susciter	susciter	18	1	arouse, instigate	
@@ -16599,9 +16599,9 @@ t'en as de la chance	t’en as de la chance	18	2		x
 t'en fais pas	t’en fais pas	18	1	don't worry	x
 t'inquiete	t’inquiète	18	3	don't worry about it	
 ta	ta	18	0	dash, dah	
-ta gueule	ta gueule	18	3	shut it, shut your mouth, shut up	cx
-ta mere	ta mère	18	2	yer mom	cx
-ta mere la pute	ta mère la pute	18	3	yer mother is a whore	x
+ta gueule	ta gueule	18	3	shut up, shut it, shut your mouth	cx
+ta mere	ta mère	18	2	your mom	cx
+ta mere la pute	ta mère la pute	18	3	your mother is a whore	x
 tabac	tabac	18	1	tobacco, smoking	
 tabasser	tabasser	18	2	beat up	
 table	table	18	0	table, desk	
@@ -16651,8 +16651,8 @@ tant	tant	18	0	as, so, so much
 tant bien que mal	tant bien que mal	18	2	after a fashion	x
 tant et plus	tant et plus	18	1	much, many	
 tant et si bien que	tant et si bien que	18	2	so much so that	x
-tant mieux	tant mieux	18	2	gurt, all the better, thankfully	x
-tant pis	tant pis	18	3	so much for, too bad, oh well	x
+tant mieux	tant mieux	18	2	great, all the better, thankfully	x
+tant pis	tant pis	18	3	so much for, never mind, too bad	x
 tant qu'a faire	tant qu'à faire	18	2	one might as well	x
 tant qu'a y etre	tant qu'à y être	18	2	while we're at it	x
 tant qu'on y est	tant qu'on y est	18	2	while we're at it	x
@@ -16708,11 +16708,11 @@ tee	tee	18	2	tee
 teheran	Téhéran	18	2	Tehran, Teheran	
 teint	teint	18	1	tint, complexion	
 teinte	teinte	18	2	shade, hue, tint	
-tel	tel	18	0	such, dat, thus	
+tel	tel	18	0	that, such, thus	
 tel et tel	tel et tel	18	2	such-and-such	x
-tel ou tel	tel ou tel	18	2	such-and-such, one or another, such and such	x
+tel ou tel	tel ou tel	18	2	this or that, such-and-such, one or another	x
 tel pere, tel fils	tel père, tel fils	18	3	like father, like son	x
-tel que	tel que	18	2	such dat	x
+tel que	tel que	18	2	such that	x
 tel quel	tel quel	18	2	as is, as it is, as he is	x
 tele	télé	18	1	TV, tube, telly	
 teleassistance	téléassistance	18	3	helpline, hot line	
@@ -16895,7 +16895,7 @@ tete de mort	tête de mort	18	2	skull, skull and crossbones, death's head
 tete de mule	tête de mule	18	3	stubborn person, pigheaded person	x
 tete de negre	tête de nègre	18	3	Queen Bolete, nigger-brown	x
 tete de serie	tête de série	18	2	seed, lead, lead compound	
-tete de turc	tête de Turc	18	3	scapegoat, high striker, strenth tester	x
+tete de turc	tête de Turc	18	3	scapegoat, high striker, strength tester	x
 tete de vis	tête de vis	18	2	screw head	
 tete en l'air	tête en l’air	18	2	scatterbrained, scatterbrain	x
 tete haute	tête haute	18	2		x
@@ -16941,7 +16941,7 @@ ti	ti	18	2	di, dot, dit
 tic	tic	18	2	tic	
 ticket	ticket	18	1	ticket, coupon, voucher	
 tiens	tiens	18	0	hey, by the way, well	
-tiens donc	tiens donc	18	2	aha, fancy dat, well, what do you know	x
+tiens donc	tiens donc	18	2	aha, fancy that, well, what do you know	x
 tiens ma biere	tiens ma bière	18	3	hold my beer	x
 tiens tiens	tiens tiens	18	3	well, oh really? well, well! well	x
 tiers	tiers	18	1	third, third party	
@@ -16952,7 +16952,7 @@ timbre	timbre	18	2	stamp, postage stamp
 timide	timide	18	2	afraid, shy, anxious	
 tintin	Tintin	18	2	Tintin	
 tir	tir	18	1	fire, shot, shooting	
-tirage	tirage	18	1	printing, draught, circulation	
+tirage	tirage	18	1	draft, printing, circulation	
 tirant	tirant	18	2	bootstrap, anchor	
 tirer	tirer	18	0	pull, drag, fire	
 tirer a blanc	tirer à blanc	18	3	shoot blanks	x
@@ -16978,7 +16978,7 @@ tirer satisfaction	tirer satisfaction	18	3	to get satisfaction, to get reparatio
 tirer son chapeau	tirer son chapeau	18	3	take one's hat off	x
 tirer son epingle du jeu	tirer son épingle du jeu	18	3	get away with, play one's cards right	x
 tirer son plan	tirer son plan	18	3	to manage	x
-tirer sur la corde	tirer sur la corde	18	3	push yer luck	x
+tirer sur la corde	tirer sur la corde	18	3	push your luck	x
 tirer sur le messager	tirer sur le messager	18	3	to shoot the messenger	x
 tirer un coup	tirer un coup	18	3	un, coup, to shoot one's load	x
 tirer un trait	tirer un trait	18	3	to draw a line, to cross out, to forsake	x
@@ -17034,16 +17034,16 @@ tomber de sa chaise	tomber de sa chaise	18	3	to be flabbergasted	x
 tomber de sommeil	tomber de sommeil	18	3	to drop from exhaustion	x
 tomber des mains	tomber des mains	18	3	to be very boring	x
 tomber du lit	tomber du lit	18	3	fall off the bed	x
-tomber en panne	tomber en panne	18	3	crash, break dahn	x
+tomber en panne	tomber en panne	18	3	crash, break down	x
 tomber en quenouille	tomber en quenouille	18	3	to fall into disarray, to fall into disuse	x
-tomber en rideau	tomber en rideau	18	3	crash, break dahn	x
+tomber en rideau	tomber en rideau	18	3	crash, break down	x
 tomber en ruine	tomber en ruine	18	3	to fall into ruin, to go to ruin, to fall into disrepair	x
 tomber enceinte	tomber enceinte	18	3	pregnant, conceive	x
 tomber malade	tomber malade	18	3	take ill, be taken ill, sicken	x
 tomber sous le sens	tomber sous le sens	18	3	to stand to reason	x
 tomber sur le paletot	tomber sur le paletot	18	3	to ambush	x
 tomber sur un bec	tomber sur un bec	18	3	to hit a snag	x
-tomber sur un os	tomber sur un os	18	3	foind flies in the ointment	x
+tomber sur un os	tomber sur un os	18	3	find flies in the ointment	x
 tome	tome	18	1	tome	
 ton	ton	18	0	tone	
 tonne	tonne	18	1	metric ton, tonne, long ton	
@@ -17155,7 +17155,7 @@ tout ensemble	tout ensemble	19	2		x
 tout est dit	tout est dit	19	1	all is said	x
 tout est perdu	tout est perdu	19	2		x
 tout est relatif	tout est relatif	19	3	everything is relative, it's all relative	x
-tout et n'importe quoi	tout et n'importe quoi	19	2	everything, anything	
+tout et n'importe quoi	tout et n'importe quoi	19	2	anything, everything	
 tout fait	tout fait	19	0	ready-made, pre-prepared, fixed	x
 tout feu tout flamme	tout feu tout flamme	19	3	raring to go, very enthusiastic	x
 tout haut	tout haut	19	2	aloud, out loud	x
@@ -17212,11 +17212,11 @@ train de vie	train de vie	19	2	lifestyle
 traine	traîne	19	2	train	
 trainer	trainer	19	2	pull, trail, drag	
 trainer	traîner	19	2	pull, drag, trail	
-trainer dans la boue	traîner dans la boue	19	3	drag someone's name thruff the mud, drag thruff the mud	x
+trainer dans la boue	traîner dans la boue	19	3	drag through the mud, drag someone's name through the mud	x
 trainer la patte	traîner la patte	19	3	to drag one's feet	x
 trait	trait	19	1	line, feature, characteristic	
 trait pour trait	trait pour trait	19	3	exactly, line for line	x
-traite	traite	19	1	traffic, draught, human trafficking	
+traite	traite	19	1	traffic, draft, human trafficking	
 traite	traité	19	0	treated, dissertation, treatise	
 traitement	traitement	19	0	treatment, salary, handling	
 traitement automatique de donnees	traitement automatique de données	19	3	automatic data processing, ADP	
@@ -17254,7 +17254,7 @@ transformeur	transformeur	19	3	transformer
 transit	transit	19	2	transit, thoroughfare	
 transition	transition	19	1	transition	
 translation	translation	19	2	translation, thunking	
-transmettre	transmettre	19	1	transmit, convey, pass dahn	
+transmettre	transmettre	19	1	transmit, convey, pass down	
 transmission	transmission	19	1	transmission	
 transmission analogique	transmission analogique	19	3	analogue transmission	
 transmission numerique	transmission numérique	19	3	digital transmission	
@@ -17293,7 +17293,7 @@ travaux	travaux	19	0	work
 travers	travers	19	0	ribs	
 traverse	traverse	19	1	tie, sleeper, transom	
 traversee	traversée	19	2	crossing, passage, traversal	
-traverser	traverser	19	1	cross, go thruff, pass thruff	
+traverser	traverser	19	1	cross, go through, pass through	
 treize	treize	19	2	thirteen	
 treize a la douzaine	treize à la douzaine	19	3	in spades, in very large quantities	x
 trek	trek	19	2	trekking	
@@ -17403,17 +17403,17 @@ troubler	troubler	19	2	trouble, puzzle, disturb
 troupe	troupe	19	1	troop, troupe, herd	
 troupeau	troupeau	19	2	drove, herd, troop	
 trousse	trousse	19	2	case, kit, pencil case	
-trouvaille	trouvaille	19	2	foind	
-trouver	trouver	19	0	foind, discover, strike	
-trouver a qui parler	trouver à qui parler	19	2	meet yer match	x
-trouver a redire	trouver à redire	19	3	foind fault	x
-trouver chaussure a son pied	trouver chaussure à son pied	19	3	foind the right person, foind the one	x
-trouver grace	trouver grâce	19	2	foind grace	x
+trouvaille	trouvaille	19	2	find	
+trouver	trouver	19	0	find, discover, strike	
+trouver a qui parler	trouver à qui parler	19	2	meet your match	x
+trouver a redire	trouver à redire	19	3	find fault	x
+trouver chaussure a son pied	trouver chaussure à son pied	19	3	find the right person, find the one	x
+trouver grace	trouver grâce	19	2	find grace	x
 trouver la mort	trouver la mort	19	2	meet one's death	x
 trouver le temps	trouver le temps	19	2		x
 trouver le temps long	trouver le temps long	19	2	to get bored	x
 trouver les mots	trouver les mots	19	2		x
-trouver preneur	trouver preneur	19	3	to foind a buyer	x
+trouver preneur	trouver preneur	19	3	to find a buyer	x
 trouver son bonheur	trouver son bonheur	19	3	what one wanted	x
 trouver son chemin	trouver son chemin	19	2		x
 trouver son compte	trouver son compte	19	2	to benefit from	x
@@ -17437,7 +17437,7 @@ tuer le courrier	tuer le courrier	19	3	return to sender	x
 tuer le messager	tuer le messager	19	3	shoot the messenger, kill the messenger	x
 tuer le temps	tuer le temps	19	3	kill time	x
 tuer par balle	tuer par balle	19	3	shoot dead	x
-tuer pere et mere	tuer père et mère	19	3	sell one's soul, sell one's own grandmother, do anythink	x
+tuer pere et mere	tuer père et mère	19	3	sell one's soul, sell one's own grandmother, do anything	x
 tuerie	tuerie	19	2	killing	
 tueur	tueur	19	1	killer	
 tuile	tuile	19	2	tile, roof tile	
@@ -17506,7 +17506,7 @@ un peu	un peu	19	1	a little	x
 un peu mon neveu	un peu mon neveu	19	3	absolutely	x
 un peu partout	un peu partout	19	2		x
 un poil	un poil	19	3	a mite, a tad	x
-un point c'est tout	un point c’est tout	19	1	period, full stop, that’s dat	x
+un point c'est tout	un point c’est tout	19	1	period, that’s that, full stop	x
 un pour tous, tous pour un	un pour tous, tous pour un	19	1	one for all, all for one	x
 un rien	un rien	19	1	a mite, a tad	x
 un sou est un sou	un sou est un sou	19	3	a penny saved is a penny earned	x
@@ -17557,7 +17557,7 @@ usa	USA	19	1	US, USA
 usage	usage	19	0	usage, use	
 usager	usager	19	2	user, consumer	
 use	usé	19	2	used up, worn out, worn thin	
-user	user	19	1	wear out, wear dahn, use	
+user	user	19	1	wear out, wear down, use	
 usine	usine	19	1	plant, factory, mill	
 usure	usure	19	2	usury, wear, wear and tear	
 usurpation d'adresse electronique	usurpation d’adresse électronique	19	3	e-mail spoofing	
@@ -17571,7 +17571,7 @@ utiliser	utiliser	19	0	use, utilize
 utilitaire	utilitaire	19	2	utilitarian, utility	
 utilite	utilité	19	1	usefulness, instrumentality, utility	
 utopie	utopie	19	2	utopia	
-va chier	va chier	19	3	go fuck yourself	x
+va chier	va chier	19	3		x
 va donc	va donc	19	1		x
 va pour	va pour	19	1	go for	x
 va savoir	va savoir	19	2	who knows? go figure	x
@@ -17685,7 +17685,7 @@ venezuela	Venezuela	19	2	Venezuela
 vengeance	vengeance	19	2	revenge, vengeance, revanche	
 venger	venger	19	2	revenge, avenge, venge	
 venir	venir	19	0	come, cum, happen	
-venir a bout	venir à bout	19	2	overcome, get the better of, get thruff	x
+venir a bout	venir à bout	19	2	get through, overcome, get the better of	x
 venir a l'esprit	venir à l’esprit	19	2	come to mind, spring to mind	x
 venir au fait	venir au fait	19	2	get to the point	x
 venir au monde	venir au monde	19	2	to be born	x
@@ -17696,7 +17696,7 @@ venir en age	venir en âge	19	2	to come of age	x
 venir en aide	venir en aide	19	2		x
 venise	Venise	19	2	Venice	
 venitien	vénitien	19	2	Venetian, auburn, Venetan	
-vent	vent	19	0	wind, hot air, draught	
+vent	vent	19	0	wind, hot air, draft	
 vent debout	vent debout	19	3	strongly opposed	x
 vente	vente	19	0	sale, selling	
 venter a decorner les boeufs	venter à décorner les bœufs	19	3	to be extremely windy	x
@@ -17719,7 +17719,7 @@ veritablement	véritablement	19	2	really
 verite	vérité	19	0	truth, veracity	
 vernis	vernis	19	2	varnish, smooth clam, veneer	
 veronique	Véronique	19	2	Veronica	
-verre	verre	19	0	glass, dhrink, lens	
+verre	verre	19	0	glass, drink, lens	
 vers	vers	19	0	verse, to, toward	
 vers libre	vers libre	19	2	free verse	
 versailles	Versailles	19	1	Versailles	
@@ -17781,12 +17781,12 @@ vie	vie	19	0	life
 vie apres la mort	vie après la mort	19	2	afterlife, life after death	
 vie publique	vie publique	19	2	public life	
 vie sociale	vie sociale	19	2	social life	
-vieillard	vieillard	19	2	old-timer, ould man	
-vieille	vieille	19	1	ould woman, wrasse	
+vieillard	vieillard	19	2	old man, old-timer	
+vieille	vieille	19	1	old woman, wrasse	
 vieille france	vieille France	19	3	traditional, conservative, old-fashioned	x
-vieillesse	vieillesse	19	2	age, oldness, ould age	
+vieillesse	vieillesse	19	2	age, old age, oldness	
 vieilli	vieilli	19	2	aged, dated, archaic	
-vieillir	vieillir	19	2	age, grow ould, get ould	
+vieillir	vieillir	19	2	age, grow old, get old	
 vieillissement	vieillissement	19	2	ageing	
 vielle	vielle	19	2	hurdy-gurdy, hurdy gurdy	
 vienne	Vienne	19	2	Vienna, Vienne	
@@ -17795,15 +17795,15 @@ vierge	vierge	19	1	virgin, blank, maiden
 vierge de tout traitement	vierge de tout traitement	19	3	naive, treatment-naive	x
 vietnam	Vietnam	19	2	Vietnam	
 vietnamien	vietnamien	19	2	Vietnamese	
-vieux	vieux	19	0	ould	
-vieux beau	vieux beau	19	2	sugar daddy, ould beau, ould playboy	
+vieux	vieux	19	0	old	
+vieux beau	vieux beau	19	2	sugar daddy, old beau, old playboy	
 vieux comme herode	vieux comme Hérode	19	3	older than dirt	x
 vieux comme le monde	vieux comme le monde	19	2	old as the hills, older than dirt, old as time	x
 vieux comme mathusalem	vieux comme Mathusalem	19	3	older than dirt	x
-vieux frere	vieux frère	19	2	ould chap	
-vieux jeu	vieux jeu	19	2	old-fashioned, fuddy-duddy, ould school	x
+vieux frere	vieux frère	19	2	old chap	
+vieux jeu	vieux jeu	19	2	old school, old-fashioned, fuddy-duddy	x
 vieux jours	vieux jours	19	2	old age	
-vieux rose	vieux rose	19	3	dusty rose, ould rose	x
+vieux rose	vieux rose	19	3	dusty rose, old rose	x
 vif	vif	19	1	alive, lively, spirited	
 vigilance	vigilance	19	2	vigilance, wakefulness	
 vigilant	vigilant	19	2	vigilant	
@@ -17817,7 +17817,7 @@ vih	VIH	19	2	HIV
 viking	Viking	19	2	Viking	
 vilain	vilain	19	2	wicked, mean, nasty	
 vilain petit canard	vilain petit canard	19	3	black sheep, ugly duckling	x
-villa	villa	19	1	villa, vacation home, counterie house	
+villa	villa	19	1	villa, country house, vacation home	
 village	village	19	0	village, hamlet	
 villageois	villageois	19	2	villager	
 ville	ville	19	0	city, town	
@@ -17908,14 +17908,14 @@ vodka	vodka	19	2	vodka
 voeu	vœu	19	2	pledge, vow, resolution	
 vogue	vogue	19	2	vogue, voguing	
 vogue la galere	vogue la galère	19	3	come what may	x
-voici	voici	19	0	now, look, behold	
+voici	voici	19	0	now, look, here is	
 voici que	voici que	19	2	here	x
 voie	voie	19	0	way, route, right-of-way	
 voie d'eau	voie d'eau	19	2	leak	
 voie de droit	voie de droit	19	2	right course of law	
 voie de fait	voie de fait	19	2	assault	
 voie de transmission	voie de transmission	19	3	channel, transmission channel	
-voila	voilà	19	0	'ere is	
+voila	voilà	19	0	here is	
 voila autre chose	voilà autre chose	19	2	that's something, that's something else	x
 voila que	voilà que	19	2		x
 voila qui est fait	voilà qui est fait	19	2	done! that's that done	x
@@ -17987,11 +17987,11 @@ vosges	Vosges	19	2	Vosges
 votant	votant	19	2	voter	
 vote	vote	19	0	vote, Votic	
 voter	voter	19	0	vote	
-votre	votre	19	0	yer	
+votre	votre	19	0	your	
 votre	vôtre	19	2	yours	
 votre grace	Votre Grâce	19	2	Your Grace	
 votre humble serviteur	votre humble serviteur	19	3	yours truly	x
-votre serviteur	votre serviteur	19	3	yours truly, little ould me	x
+votre serviteur	votre serviteur	19	3	yours truly, little old me	x
 vouer aux gemonies	vouer aux gémonies	19	3	to pillory, to blame	x
 vouloir	vouloir	19	0	want, wish, be willing to	
 vouloir bien	vouloir bien	19	2	to be willing	x
@@ -18025,7 +18025,7 @@ vulgaire	vulgaire	20	2	vernacular, vulgate, crude
 vulnerabilite	vulnérabilité	20	2	vulnerability	
 vulnerable	vulnérable	20	2	vulnerable	
 w.-c.	W.-C.	20	2	toilet, lavatory	
-wagon	wagon	20	2	car, waggon, railroad car	
+wagon	wagon	20	2	car, wagon, railroad car	
 wall	Wall	20	2	Wall	
 wallon	Wallon	20	2	Walloon	
 wallonie	Wallonie	20	2	Wallonia	

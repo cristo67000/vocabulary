@@ -115,6 +115,13 @@ RENVOI_ORTHOGRAPHE = re.compile(
 MARQUES_BRITANNIQUES = re.compile(
     r"\b(Commonwealth|British|UK|Britain|Ireland|Australia|Oxford)\b", re.IGNORECASE)
 MARQUES_AMERICAINES = re.compile(r"\b(US|American|Canada|North American)\b")
+# « Ireland pronunciation spelling of country » (counterie) ou « eye dialect
+# spelling of that » (dat) ne sont pas des orthographes britanniques : les
+# prendre pour telles mettait « counterie » en vedette à la place de country.
+GRAPHIES_NON_STANDARD = re.compile(
+    r"pronunciation|dialect|eye|non-?standard|informal|colloquial|slang|obsolete"
+    r"|archaic|dated|rare|misspelling|humorous|jocular|Scotland|Scottish|Northern"
+    r"|Geordie|Cockney|Multicultural|Jamaica|African|Hiberno|Irish", re.IGNORECASE)
 
 
 def mots_de(texte):
@@ -233,16 +240,89 @@ def deshabiller(texte, marque):
     return texte, marque
 
 
+def mot_entier(texte, debut, fin):
+    """La zone [debut, fin) couvre-t-elle des mots entiers ? Ni lettre ni
+    chiffre ne doit la prolonger d'un côté ou de l'autre."""
+    if not (0 <= debut < fin <= len(texte)) or not texte[debut:fin].strip():
+        return False
+    avant = texte[debut - 1] if debut > 0 else " "
+    apres = texte[fin] if fin < len(texte) else " "
+    return not (avant.isalnum() or apres.isalnum())
+
+
 def marque_saine(texte, marque):
+    """Une marque qui tombe au milieu d'un mot (« Comp**a**re » pour l'article
+    « a ») est pire que pas de marque : on la retire."""
     if not marque:
         return None
     debut, fin = marque
-    if not (0 <= debut < fin <= len(texte)):
-        return None
-    return marque if texte[debut:fin].strip() else None
+    return marque if mot_entier(texte, debut, fin) else None
 
 
-def exemples_de(sens):
+def premiere_marque(texte, zones):
+    """Le Wiktionary met parfois en gras plusieurs zones d'une phrase, dont
+    certaines au milieu d'un mot : pour « a », le « a » de « was » avant
+    l'article (« There w**a**s **a** man »). On prend la première qui couvre
+    un mot entier ; à défaut, la première tout court, que marque_saine
+    jugera."""
+    zones = [z for z in zones or () if z and len(z) == 2]
+    for debut, fin in zones:
+        if mot_entier(texte, int(debut), int(fin)):
+            return [int(debut), int(fin)]
+    return [int(zones[0][0]), int(zones[0][1])] if zones else None
+
+
+# Une citation qui n'en est pas une : un renvoi vers la page des citations,
+# un texte dans une autre écriture (sanskrit, cyrillique) cité pour son mot
+# anglais.
+RENVOI_DE_CITATIONS = re.compile(r"\bCitations:|^For (further )?quotations\b", re.IGNORECASE)
+
+
+def citation_lisible(texte):
+    if RENVOI_DE_CITATIONS.search(texte):
+        return False
+    lettres = [c for c in texte if c.isalpha()]
+    latines = [c for c in lettres if c.isascii() or "À" <= c <= "ɏ"]
+    return bool(lettres) and len(latines) >= 0.8 * len(lettres)
+
+
+# L'âge d'une citation. Le Wiktionary range les siennes de la plus ancienne à
+# la plus récente : à longueur égale, l'application retenait Tennyson (1842)
+# ou la Bible de 1611 plutôt qu'un roman de 2019. On apprend la langue qu'on
+# parle aujourd'hui — une citation ancienne ne passe devant que si elle est
+# nettement plus lisible que les autres.
+ANNEE = re.compile(r"^\D{0,12}?(1[0-9]{3}|20[0-9]{2})\b")
+PENALITES_D_AGE = ((1700, 14), (1800, 11), (1900, 8), (1950, 4), (1990, 1))
+# L'orthographe d'avant 1800 trahit l'âge d'un texte dont la référence a été
+# perdue : s long, « vv » pour w, tutoiement biblique, troisième personne en
+# -eth. Le s long se cherche à part : sans distinction de casse, « ſ » vaut
+# « s », et toute phrase passait pour archaïque.
+ARCHAISMES = re.compile(
+    r"\bvv|\b(thou|thee|thy|thine|hath|doth|dost|art thou|ye|unto|whence|"
+    r"wherefore|'tis|ere)\b|\b\w+eth\b", re.IGNORECASE)
+ARCHAISMES_ANODINS = {"beth", "teeth", "seth", "breath", "death", "meth",
+                      "kenneth", "elizabeth", "twentieth", "thirtieth",
+                      "fortieth", "fiftieth", "sixtieth", "seventieth",
+                      "eightieth", "ninetieth", "hundredth"}
+
+
+def penalite_d_age(texte, reference, langue):
+    if langue != "en":
+        return 0
+    annee = ANNEE.match(reference or "")
+    if annee:
+        valeur = int(annee.group(1))
+        for borne, penalite in PENALITES_D_AGE:
+            if valeur < borne:
+                return penalite
+        return 0
+    archaismes = [m.group(0).lower() for m in ARCHAISMES.finditer(texte)]
+    if "ſ" in texte or any(a not in ARCHAISMES_ANODINS for a in archaismes):
+        return 11
+    return 0
+
+
+def exemples_de(sens, langue):
     """Les exemples d'un sens, filtrés sur la longueur et crédités.
 
     Une citation du Wiktionary anglais arrive parfois avec sa référence collée
@@ -255,13 +335,15 @@ def exemples_de(sens):
         texte = (exemple.get("text") or "").strip()
         if not texte:
             continue
-        gras = (exemple.get("bold_text_offsets") or [None])[0]
-        marque = [int(gras[0]), int(gras[1])] if gras and len(gras) == 2 else None
+        marque = premiere_marque(texte, exemple.get("bold_text_offsets"))
         if "\n" in texte:
             coupe = texte.rfind("\n") + 1
-            texte = texte[coupe:].strip()
+            reste = texte[coupe:]
+            # Les blancs retirés en tête décalent la marque autant que la coupe.
+            coupe += len(reste) - len(reste.lstrip())
+            texte = reste.strip()
             marque = [marque[0] - coupe, marque[1] - coupe] if marque else None
-        if re.match(r"^\d{3,4}\b", texte):
+        if re.match(r"^\d{3,4}\b", texte) or not citation_lisible(texte):
             continue
         longueur = len(mots_de(texte))
         if not (EXEMPLE_MOTS_MIN <= longueur <= EXEMPLE_MOTS_MAX):
@@ -274,6 +356,7 @@ def exemples_de(sens):
         # Une phrase rédigée pour l'exemple (sans référence) passe avant une
         # citation d'auteur à longueur égale : elle est écrite pour être lue.
         penalite = 0 if not reference else 1
+        penalite += penalite_d_age(texte, reference, langue)
         candidats.append((abs(longueur - EXEMPLE_MOTS_IDEAL) + penalite, rang,
                           [texte, marque, reference]))
 
@@ -608,7 +691,7 @@ def compacter(entree, langue):
             glose = brut["glosses"][0].rstrip(":. ") + " : " + glose
         sens.append({
             "d": glose,
-            "x": exemples_de(brut),
+            "x": exemples_de(brut, langue),
             "th": list(brut.get("topics", ()))[:4],
             "t": marques.depuis_etiquettes(brut.get("tags", ()), brut.get("raw_tags", ())),
             "i": brut.get("sense_index") or str(rang + 1),
@@ -661,6 +744,8 @@ def renvoi_orthographique(entree):
                 continue
             etiquettes = " ".join(sens.get("tags", ()))
             contexte = ou + " " + etiquettes
+            if GRAPHIES_NON_STANDARD.search(contexte):
+                continue
             if MARQUES_BRITANNIQUES.search(contexte):
                 return ("gb", cible)
             if MARQUES_AMERICAINES.search(contexte):

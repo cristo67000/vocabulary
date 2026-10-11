@@ -1,0 +1,214 @@
+# Faux amis anglais / français, deuxième série (version 1.1).
+# « a-fr » / « a-en » : le piège. Rédigé pour Vocabulary.
+module: expressions
+langue: en
+
+@ abusive
+t: faux-amis
+tr: injurieux, violent, maltraitant
+nat: adj
+d-fr: Insultant, ou qui maltraite quelqu’un.
+d-en: Rude and insulting, or violent towards someone.
+a-fr: ≠ abusif (« excessive », « unfair ») : « un prix abusif », c’est « an unfair price ».
+a-en: French « abusif » means excessive or unfair.
+x: He left an abusive comment under her video. | Il a laissé un commentaire injurieux sous sa vidéo.
+
+@ argument
+t: faux-amis
+tr: une dispute ; un raisonnement
+nat: n
+d-fr: Une dispute ; aussi un raisonnement qu’on défend.
+d-en: A disagreement, often angry; also a reason given to support an idea.
+a-fr: Le plus souvent, « an argument » est une dispute : « we had an argument » = on s’est disputés.
+a-en: French « argument » is only a reason, never a quarrel.
+x: They had an argument about money. | Ils se sont disputés à propos d’argent.
+
+@ cave
+t: faux-amis
+tr: une grotte, une caverne
+nat: n
+d-fr: Une cavité naturelle dans la roche.
+d-en: A large natural hole in rock.
+a-fr: ≠ une cave, qui se dit « cellar » (ou « basement » pour un sous-sol).
+a-en: French « cave » is a cellar.
+x: We explored the caves on the coast. | On a exploré les grottes sur la côte.
+v: actuel:cellar
+
+@ deceive
+t: faux-amis
+tr: tromper, duper
+nat: v
+d-fr: Faire croire à quelqu’un quelque chose de faux.
+d-en: To make someone believe something that is not true.
+a-fr: ≠ décevoir, qui se dit « disappoint ».
+a-en: French « décevoir » means to disappoint.
+x: The ad was designed to deceive customers. | La publicité était conçue pour tromper les clients.
+v: deception
+
+@ disgrace
+t: faux-amis
+tr: une honte, un scandale
+nat: n
+d-fr: Une honte, une chose scandaleuse.
+d-en: Something shameful or unacceptable.
+a-fr: ≠ la disgrâce (perte de faveur), qui se dit plutôt « fall from favour ».
+a-en: French « disgrâce » means loss of favour, not something shameful.
+x: The state of these trains is a disgrace. | L’état de ces trains est une honte.
+
+@ engaged
+t: faux-amis
+tr: fiancé ; occupé (téléphone, toilettes)
+nat: adj
+d-fr: Fiancé ; (britannique) occupé, en parlant d’une ligne ou de toilettes.
+d-en: Having agreed to marry; (British) busy, of a phone line or toilet.
+a-fr: ≠ engagé (politiquement), qui se dit « committed ».
+a-en: French « engagé » means politically committed.
+x: They got engaged on holiday in Greece. | Ils se sont fiancés en vacances en Grèce.
+
+@ excited
+t: faux-amis
+tr: enthousiaste, impatient, tout content
+nat: adj
+d-fr: Très content et impatient.
+d-en: Very happy and enthusiastic about something.
+a-fr: ≠ excité au sens sexuel, à éviter dans ce sens ; « I’m so excited » = j’ai trop hâte.
+a-en: French « excité » can sound sexual or agitated: say « j’ai hâte », « je suis ravi ».
+x: I’m so excited about the trip! | J’ai trop hâte de partir en voyage !
+
+@ fabric
+t: faux-amis
+tr: un tissu, une étoffe
+nat: n
+d-fr: Un tissu.
+d-en: Cloth or material.
+a-fr: ≠ une fabrique (usine), qui se dit « factory ».
+a-en: French « fabrique » is a factory.
+x: This shirt is made of recycled fabric. | Cette chemise est faite en tissu recyclé.
+
+@ formidable
+t: faux-amis
+tr: redoutable, impressionnant
+nat: adj
+d-fr: Qui inspire la crainte ou le respect par sa force.
+d-en: Impressive and slightly frightening because very strong.
+a-fr: ≠ formidable (génial), qui se dit « great », « amazing ».
+a-en: French « formidable » usually means great, wonderful.
+x: She’s a formidable opponent. | C’est une adversaire redoutable.
+
+@ gentle
+t: faux-amis
+tr: doux, délicat
+nat: adj
+d-fr: Doux, calme, sans brutalité.
+d-en: Kind, calm and soft.
+a-fr: ≠ gentil, qui se dit « kind », « nice ».
+a-en: French « gentil » means kind or nice.
+x: Be gentle with the cat. | Sois doux avec le chat.
+v: fr-gentil
+
+@ injure
+t: faux-amis
+tr: blesser
+nat: v
+d-fr: Blesser physiquement.
+d-en: To hurt someone physically.
+a-fr: ≠ injurier, qui se dit « insult », « swear at ».
+a-en: French « injurier » means to insult.
+x: Two people were injured in the accident. | Deux personnes ont été blessées dans l’accident.
+v: fr-blesser
+
+@ issue
+t: faux-amis
+tr: un problème, une question ; un numéro (de magazine)
+nat: n
+d-fr: Un sujet, un problème ; un numéro de revue.
+d-en: A subject or problem; one edition of a magazine.
+a-fr: ≠ une issue (sortie, dénouement), qui se dit « way out », « outcome ».
+a-en: French « issue » means a way out or an outcome.
+x: We’re having issues with the wifi. | On a des problèmes de wifi.
+
+@ miserable
+t: faux-amis
+tr: malheureux, déprimé ; sinistre
+nat: adj
+d-fr: Très malheureux ; triste et désagréable (temps, endroit).
+d-en: Very unhappy; unpleasant (weather, place).
+a-fr: ≠ misérable (très pauvre), qui se dit « poverty-stricken », « wretched ».
+a-en: French « misérable » means very poor or wretched.
+x: She’s been miserable since she moved. | Elle est malheureuse depuis son déménagement.
+
+@ notice
+t: faux-amis
+tr: remarquer ; un avis, un préavis
+nat: v
+d-fr: Remarquer ; (nom) un avis affiché, un préavis.
+d-en: To see or become aware of; (noun) a written sign, or a warning period.
+a-fr: ≠ une notice (mode d’emploi), qui se dit « instructions ».
+a-en: French « notice » is a set of instructions.
+x: Did you notice anything strange? | Tu as remarqué quelque chose de bizarre ?
+x: I handed in my notice yesterday. | J’ai donné ma démission hier.
+
+@ occasion
+t: faux-amis
+tr: un événement, une circonstance, une fois
+nat: n
+d-fr: Un moment ou un événement particulier.
+d-en: A particular time or a special event.
+a-fr: ≠ une occasion (bonne affaire, chance), qui se dit « bargain », « opportunity ».
+a-en: French « occasion » usually means opportunity or bargain.
+x: I’m keeping this dress for a special occasion. | Je garde cette robe pour une grande occasion.
+v: fr-occasion
+
+@ petrol
+t: faux-amis
+tr: l’essence
+nat: n
+d-fr: Le carburant des voitures.
+d-en: Fuel for cars.
+a-fr: ≠ le pétrole (brut), qui se dit « oil », « crude oil ». Américain : « gas ».
+a-en: French « pétrole » is crude oil; petrol is « essence ».
+x: Petrol prices went up again. | Le prix de l’essence a encore augmenté.
+v: actuel:petrol
+
+@ raisin
+t: faux-amis
+tr: un raisin sec
+nat: n
+d-fr: Un grain de raisin séché.
+d-en: A dried grape.
+a-fr: ≠ le raisin frais, qui se dit « grapes ».
+a-en: French « raisin » means fresh grapes; a raisin is « un raisin sec ».
+x: I don’t like raisins in my muesli. | Je n’aime pas les raisins secs dans mon muesli.
+v: fr-raisin
+
+@ support
+t: faux-amis
+tr: soutenir, encourager ; être supporter de
+nat: v
+d-fr: Soutenir, aider ; encourager une équipe.
+d-en: To help or encourage; to like a sports team.
+a-fr: ≠ supporter (tolérer), qui se dit « stand », « put up with ».
+a-en: French « supporter » often means to tolerate.
+x: My family really supported me during my studies. | Ma famille m’a beaucoup soutenu pendant mes études.
+v: put_up_with
+
+@ tissue
+t: faux-amis
+tr: un mouchoir en papier ; un tissu (biologique)
+nat: n
+d-fr: Un mouchoir en papier ; un tissu du corps (biologie).
+d-en: A paper handkerchief; cells forming part of the body.
+a-fr: ≠ un tissu (étoffe), qui se dit « fabric ».
+a-en: French « tissu » is fabric.
+x: Have you got a tissue? I’ve got a cold. | Tu as un mouchoir ? Je suis enrhumé.
+v: fabric
+
+@ versatile
+t: faux-amis
+tr: polyvalent, aux multiples talents
+nat: adj
+d-fr: Capable de faire beaucoup de choses différentes.
+d-en: Able to do many different things.
+a-fr: ≠ versatile (qui change d’avis), qui se dit « fickle ».
+a-en: French « versatile » means fickle, changeable.
+x: She’s a versatile actor: comedy, drama, even musicals. | C’est une actrice polyvalente : comédie, drame, et même comédie musicale.

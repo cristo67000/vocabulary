@@ -271,12 +271,48 @@
     return bloc;
   }
 
-  function paragrapheBilingue(valeur, classe, titre) {
+  /* Une note cite l'autre langue entre guillemets : « Américain : « trash »,
+   * « garbage » ». Ces mots-là sont ceux qu'on vient apprendre, et ils
+   * restaient du texte mort. Chaque passage entre guillemets est donc lu dans
+   * la langue où ses mots se trouvent le mieux ; à égalité (« on the bus » :
+   * *on* et *bus* sont aussi français), dans la langue de la fiche. */
+  const CITE = /(«\s*)([^«»]+?)(\s*»)|(“)([^“”]+)(”)/g;
+
+  function langueDuPassage(passage, parDefaut) {
+    const mots = passage.match(/\p{L}[\p{L}'’-]*/gu) || [];
+    const score = (langue) => mots.filter((m) => Lexique.resoudreEnLisant(m, langue)).length;
+    const en = score('en');
+    const fr = score('fr');
+    if (en === fr) return parDefaut;
+    return en > fr ? 'en' : 'fr';
+  }
+
+  function tisserNote(t, langueDuTexte, langueDeLaFiche) {
+    const fragment = document.createDocumentFragment();
+    let position = 0;
+    let trouve;
+    CITE.lastIndex = 0;
+    while ((trouve = CITE.exec(t)) !== null) {
+      const ouvre = trouve[1] || trouve[4];
+      const passage = trouve[2] || trouve[5];
+      const ferme = trouve[3] || trouve[6];
+      fragment.appendChild(MotsVifs.tisser(t.slice(position, trouve.index) + ouvre, langueDuTexte, {}));
+      fragment.appendChild(MotsVifs.tisser(passage, langueDuPassage(passage, langueDeLaFiche), {}));
+      fragment.appendChild(document.createTextNode(ferme));
+      position = trouve.index + trouve[0].length;
+    }
+    fragment.appendChild(MotsVifs.tisser(t.slice(position), langueDuTexte, {}));
+    return fragment;
+  }
+
+  function paragrapheBilingue(valeur, classe, titre, langueDeLaFiche) {
     const t = texte(valeur);
     if (!t) return null;
     const p = element('p', classe);
     if (titre) p.appendChild(element('b', null, titre + ' '));
-    p.appendChild(document.createTextNode(t));
+    const langueDuTexte = typeof valeur === 'string' || valeur[I18n.langue]
+      ? I18n.langue : (I18n.langue === 'fr' ? 'en' : 'fr');
+    p.appendChild(tisserNote(t, langueDuTexte, langueDeLaFiche || langueDuTexte));
     return p;
   }
 
@@ -376,7 +412,12 @@
      * donne les équivalents du module, qui sont ce qu'on retient. */
     if (it.tr && it.tr.length) {
       const ligne = element('p', 'traductions module-equivalents');
-      for (const t of it.tr) ligne.appendChild(element('span', 'traduction', t));
+      const autre = it.l === 'en' ? 'fr' : 'en';
+      for (const t of it.tr) {
+        const span = element('span', 'traduction');
+        span.appendChild(MotsVifs.lier(t, autre));
+        ligne.appendChild(span);
+      }
       if (it.dev) ligne.appendChild(element('span', 'module-dev', it.dev));
       bloc.appendChild(ligne);
     }
@@ -387,9 +428,9 @@
       s.appendChild(definitions(sens));
       const litteral = paragrapheBilingue(sens.lit, 'module-litteral', I18n.t('module.litteral'));
       if (litteral) s.appendChild(litteral);
-      const note = paragrapheBilingue(sens.n, 'module-note');
+      const note = paragrapheBilingue(sens.n, 'module-note', null, it.l);
       if (note) s.appendChild(note);
-      const piege = paragrapheBilingue(sens.a, 'module-attention', '⚠');
+      const piege = paragrapheBilingue(sens.a, 'module-attention', '⚠', it.l);
       if (piege) s.appendChild(piege);
       const ex = exemples(sens);
       if (ex) s.appendChild(ex);

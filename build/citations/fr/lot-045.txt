@@ -1,0 +1,201 @@
+# lot 045 — flight, heat, interview, library, location, murder, queen, accept, appear, attempt, broke, distance, exchange, finding, glass, receive, ride, screen, serve, slow, speech, traffic, tree, begin, demand, engine, investment, lie
+5064fc8ac8 = A ⟦flight⟧ of four fighter jets flew over the parade. | Une escadrille de quatre chasseurs a survolé le défilé.
+7d569a1c9c Cette chaudière produit 5 000 BTU de chaleur. Ce moteur dégage vraiment beaucoup de chaleur. L’extraction de chaleur du liquide l’a fait passer à l’état solide.
+02a16cfc5a Ne restez pas à la chaleur du soleil !
+8967ddf271 La sauce pimentée relevait le plat.
+099042b972 Il est facile de prendre de mauvaises décisions dans le feu de l’action.
+f1474e6df6 Les chiens mâles étaient attirés par la femelle en chaleur.
+809e806946 La pression de sa famille après son arrestation pour conduite en état d’ivresse était insupportable.
+d610f7b025 Je vais faire chauffer l’eau.
+03df600b49 ✗
+303fcf0b68 Le massage l’a réchauffée.
+2d6ba5f4c6 Il y a une marmite de soupe qui chauffe sur la cuisinière.
+bb77996593 Le journaliste a interviewé le témoin.
+e61bb5908d Il a un entretien d’embauche samedi.
+206d72e7a4 Ce fut un entretien épouvantable ; je n’ai aucun espoir d’obtenir le poste.
+708733154c ✗
+826eeed5b2 Un journaliste très célèbre l’a interviewé.
+8ce9c62ab7 Il a interrogé le témoin.
+99d53a6f14 Elle s’en sort toujours bien en entretien.
+80d7943c0a Quand elle a passé un entretien chez Microsoft en août, elle a fermé les yeux sur une petite baisse de salaire et s’est renseignée sur les perspectives de carrière à long terme — et sur la qualité de vie.
+fb36fc61a1 Elle est allée échanger ses livres à la bibliothèque de son quartier.
+1c5fd45efa Quand tout le reste échoue, abandonnez et allez à la bibliothèque.
+15fc69efa1 Toute une bibliothèque de livres a été écrite sur le sujet.
+3d03cb6eed Elle a la discothèque la plus impressionnante que j’aie jamais vue.
+41f7ce5d07 Dans son bureau du quartier d’Amager, à Copenhague, Thulstrup entretient une vaste matériauthèque, disposant échantillons et maquettes sur des tables comme des planches d’ambiance tactiles.
+ff40daef3a À ce stade, la plupart des jeux de cartes à collectionner ne permettent aux joueurs que de piocher dans un paquet, aussi appelé bibliothèque ou deck.
+98a9728580 Le paquet devient la pioche, aussi appelée bibliothèque, dans laquelle chaque joueur pioche régulièrement des cartes pour sa main, cartes qui entrent peu à peu en jeu.
+d2d032127d = GPS allows the quick ⟦location⟧ of lost hikers. | Le GPS permet de localiser rapidement les randonneurs égarés.
+ede9f279a0 Ce sont les sons de l’apartheid, des townships, des « locations » (quartiers réservés aux Noirs) […]
+d1670476e6 Il y a eu dix meurtres non élucidés rien que cette année.
+3695925fe3 Un meurtre ? Eh bien, Dieu merci !
+d5c2db767a L’accusé a été inculpé de meurtre.
+9df05108f9 = Under the felony ⟦murder⟧ rule, the getaway driver was also convicted. | En vertu de la règle du « felony murder », le chauffeur chargé de la fuite a lui aussi été condamné pour meurtre.
+2443598e69 La femme retrouvée morte dans sa cuisine a été assassinée par son mari.
+794320254c Le chien de mon oncle a tué mon chat.
+8add7c3453 Notre équipe va les écraser.
+e8610735b4 Il a déchiré ma plus belle chemise. Quand je le verrai, je le tue !
+513a533196 Le roi divorcé cherchait une nouvelle reine.
+067af85e94 = The king and ⟦queen⟧ waved from the palace balcony. | Le roi et la reine saluaient depuis le balcon du palais.
+3bf725ebff = Elizabeth II was ⟦queen⟧ for seventy years. | Élisabeth II a été reine pendant soixante-dix ans.
+45b059d204 = She sacrificed her ⟦queen⟧ to win the game. | Elle a sacrifié sa dame pour gagner la partie.
+36149c36b5 = He played the ⟦queen⟧ of spades. | Il a joué la dame de pique.
+961ca22b6d ✗
+9bf2da62f2 = Our ⟦queen⟧ had five kittens last spring. | Notre chatte reproductrice a eu cinq chatons au printemps dernier.
+8b02be3b91 = White ⟦queened⟧ the pawn and won easily. | Les Blancs ont promu le pion en dame et ont gagné facilement.
+10279a7402 ✗
+7e3b7e2197 Le noyau ne doit pas recevoir une reine issue de l’une des colonies parentes.
+8a4f8127ea Toutes ont reçu des reines de souche importée, ou issues des meilleures mères locales.
+c0233d926a = Please ⟦accept⟧ this small gift as a thank-you. | Veuillez accepter ce petit cadeau en remerciement.
+46b802d6a4 = She ⟦accepted⟧ the invitation to the wedding. | Elle a accepté l’invitation au mariage.
+8ee5356fbb J’accepte votre proposition, votre amendement ou vos excuses.
+1da7d8812f J’accepte ma punition.
+6d7cb69041 = The sun ⟦appeared⟧ from behind the clouds. | Le soleil apparut derrière les nuages.
+1eb79f92e3 Un grand écrivain parut à cette époque.
+8005ac75e2 Un voyou s’en tira parce qu’aucun plaignant n’osa se présenter.
+ef63b8c45d = He will ⟦appear⟧ in court next week. | Il comparaîtra devant le tribunal la semaine prochaine.
+ce750abe83 = It ⟦appears⟧ that nobody locked the door. | Il apparaît que personne n’a fermé la porte à clé.
+472e239028 ✗
+4309f85c51 Il semblait tout à fait content du résultat.
+fe514afc4f = She ⟦appeared⟧ calm, but she was terrified. | Elle paraissait calme, mais elle était terrifiée.
+ecd3a80c45 J’ai essayé de chanter, mais j’avais la gorge trop enrouée.
+2e2f7f0eb1 tenter de s’évader de prison
+12656d9645 Ce fut le rire d’un après-midi / Que Viviane voulût séduire le roi sans tache.
+d263f36935 ✗
+314db87c4e attaquer le camp ennemi
+e13548ffa5 sans attenter à la vie de son adversaire
+c2a1ee8c03 Ce poème est bien meilleur que ma piètre tentative.
+070c16404c Nous avons tenté de traverser le ruisseau, mais sans succès.
+3d02a45ab9 = The president survived an ⟦attempt⟧ on his life. | Le président a survécu à un attentat.
+59a88d36bd Celui qui renonce volontairement à poursuivre l’infraction ou en empêche la consommation n’encourt aucune peine pour tentative.
+49df51df1e Sa tentative a échoué et l’a conduite à l’hôpital.
+8533b1e8b7 complètement fauché ; sans un sou
+c4f386c967 Il était fauché après avoir dépensé tout son argent en jeux vidéo.
+a14bb96c2a = The company went ⟦broke⟧ after two bad years. | L’entreprise a fait faillite après deux mauvaises années.
+ecef43150d ✗
+81bd6a7dfa = What’s the ⟦distance⟧ from Paris to Lyon? | Quelle est la distance entre Paris et Lyon ?
+cc4bb55f80 = The hotel is within walking ⟦distance⟧ of the beach. | L’hôtel est à quelques minutes à pied de la plage.
+425ef06012 = Keep your ⟦distance⟧ from the soldier in front. | Gardez vos distances avec le soldat de devant.
+d75f28d138 Au moment où il allait descendre, il entendit une voix au loin qui criait : « Rip Van Winkle ! Rip Van Winkle ! »
+54df96071b = From a ⟦distance⟧, the castle looked like a toy. | De loin, le château ressemblait à un jouet.
+b6dda47a08 = The party has ⟦distanced⟧ itself from his comments. | Le parti a pris ses distances avec ses propos.
+0a08053cb4 Elle sépare ceux qui la partagent de ceux qui ne la partagent pas.
+bdfae0cb9f = Moving abroad ⟦distanced⟧ her from her old friends. | Partir à l’étranger l’a éloignée de ses vieux amis.
+6ebd7fe27b = The fog ⟦distanced⟧ the hills, making them look unreal. | Le brouillard éloignait les collines, leur donnant un air irréel.
+6000e9f948 Tout compte fait, ce fut un échange équitable.
+f8090a14b2 un échange de bétail contre du grain
+e4bfaa914d La Bourse est ouverte.
+4ee1644f68 L’ancienne halle aux grains a été transformée en salle de concert.
+b8cac697b8 NPA-NXX-1234 est le format standard, où NPA est l’indicatif régional et NXX le central.
+7de3161bad Le central 555 est réservé à l’opérateur téléphonique, c’est pourquoi on l’utilise souvent dans les films.
+71ca4c76e2 Après une longue discussion avec le responsable, nous n’étions pas plus avancés.
+4e4fa75bdf J’échangerais volontiers ma place contre la tienne.
+a359c7bc8c J’aimerais échanger cette chemise contre une taille au-dessus.
+45ce9de8e7 Depuis son arrestation, le parrain a troqué un manoir contre une cellule de prison.
+8561d05d4d Les soldats ennemis échangeaient des tirs à travers les rues en flammes.
+58848ac1f3 Les chercheurs ont présenté leurs résultats dans une nouvelle étude publiée le 12 août dans la revue Nature.
+b57f56afaa = The ⟦finding⟧ of the treasure was pure luck. | La découverte du trésor a été un pur hasard.
+2ef611d70a Fournitures pour bottes et chaussures et établissements de cuir […] Yocum & Wilson, 225 n 2d st, fournitures pour chaussures, cuir, formes et entrepôt de chevilles
+61896fa3bc Ils fabriquent des apprêts de bijouterie, du maroquin, des écrins à bijoux en peluche et en velours, des boîtes en carton, des boîtes en maroquin, des cartes à bijoux, des étiquettes, etc.
+385e4e500a Je peux manger du verre, ça ne me fait pas mal
+9af315a393 Ce plateau de table est en verre.
+14bdd30dc5 Les verres métalliques, contrairement à ceux à base de silice, sont conducteurs d’électricité, ce qui peut être un avantage ou un inconvénient selon l’application.
+2eec214809 Vous voulez un verre de vin ?
+2b47ffef8b Remplis mon verre de lait, s’il te plaît.
+08b8b09720 = The jeweller examined the diamond with a ⟦glass⟧. | Le bijoutier examina le diamant à la loupe.
+a4322abfb9 ✗
+d9b625e5dc Les haviers, ou cerfs castrés jeunes, n’ont pas de bois, comme on le sait, et au début de la saison d’approche, vus à la longue-vue, on pourrait les prendre pour des hummels […]
+bed49a42ae Il y a un demi-verre de lait dans chaque livre de chocolat que nous produisons.
+ea1c3c4716 C’était ma chance. Je pris le vieil homme à part, et deux ou trois verres d’Old Crow le lancèrent dans ses souvenirs.
+ae5d04ea23 recevoir un locataire, un visiteur, un ambassadeur, un messager, etc.
+5abbe99e43 = The ambassador ⟦received⟧ us in his office. | L’ambassadeur nous a reçus dans son bureau.
+7b925e3510 Il a reçu beaucoup de cadeaux pour son anniversaire.
+2114c81d28 On lui proposait un emploi, mais il ne voulut pas l’accepter.
+5d6a3f419b = The proposal was well ⟦received⟧ by the board. | La proposition a été bien accueillie par le conseil.
+2d018c6b1a Je vais au travail à vélo tous les jours et je gare le vélo devant le bureau.
+03b8e67160 Le vainqueur initial, le Malaisien Azizulhasni Awang, a été déclassé pour avoir roulé de façon trop agressive en passant de la quatrième à la première place dans le dernier virage.
+fe3f4b2f9d Le taxi l’a conduit en ville.
+5cf3bd5840 ✗
+61592f071d Dans un San Francisco reconstitué en intérieur avec soin, les passagers circulent en cable car dans des rues calmes et vallonnées.
+87bf0b22c7 Or, par temps calme, nager en pleine mer est aussi facile, pour un nageur aguerri, que de rouler en voiture à ressorts sur terre.
+e1b549e842 = The boat ⟦rode⟧ at anchor in the bay. | Le bateau était au mouillage dans la baie.
+35ef26146f ✗
+41dd60641c ✗
+d1671cdf41 ✗
+ddad1c084b Je peux faire un tour sur ton vélo ?
+88951eb102 Nous avons emmené les chevaux faire une promenade matinale dans les bois.
+02cce39577 Elle est belle, ta caisse ; elle t’a coûté combien ?
+dc6af97424 ✗
+726298d34f les enfants ont fait tous les manèges
+1cbfb6ed5f ✗
+92862ffacb = A bamboo ⟦screen⟧ hides the bins from the garden. | Un paravent en bambou cache les poubelles du jardin.
+c5381b26fb = Tall trees act as a ⟦screen⟧ against the wind. | De grands arbres font écran contre le vent.
+e8bcd1d22d = My phone ⟦screen⟧ cracked when I dropped it. | L’écran de mon téléphone s’est fissuré quand je l’ai fait tomber.
+66a84ecc81 On disait qu’il agissait derrière un écran d’ingénuité et que c’était un hypocrite de première.
+676872b3b1 Jones a attrapé la fausse balle contre le filet.
+afd6934e3b Et pourtant ce n’est pas la fonction d’un prêtre, mais de Celui que le prêtre doit servir.
+f41183d5f9 […] sa seigneurie était de mauvaise humeur. C’est ainsi que Chollacombe décrivait le vieux grincheux le plus revêche que Charles ait jamais eu la malchance de servir.
+6f30c075f4 ✗
+6caf94aeed Ce soir-là, Annie lui servit du flétan grillé et des petits pois, plus des tomates, bien sûr, et une salade.
+0808bdd824 Une vingtaine de minutes après que les serveurs eurent servi la soupe, un invité se leva et partit.
+81452c166a = She ⟦served⟧ as mayor for twelve years. | Elle a été maire pendant douze ans.
+f95f8b0f03 C’est à qui de servir ?
+c32fce74cc Le premier service du jeu se fait depuis le demi-terrain droit vers le demi-terrain diagonalement opposé.
+41954f5b19 Réintroduisez les protéines : ajoutez une petite portion de saumon, de thon ou de sardines tous les deux jours (en conserve ou frais).
+e511671492 La veille de votre épreuve, faites un repas du soir riche en glucides avec une petite portion de protéines maigres.
+c0656ea516 Cet eye-liner blanc, c’est un vrai statement.
+35f6b5e50a Et bien sûr, il y a le clip, qui n’avait pas besoin d’en mettre autant plein la vue puisque la chanson déchirait déjà. Mais il reste culte des années plus tard.
+9f8c1d028c La dinde doit toujours cuire à four doux.
+eb0b5490fa un train lent ; un ordinateur lent
+a8155414ed Depuis le dernier patch, le Medium Punch accroupi de Luke a été affaibli. Il aura désormais une hurtbox plus grande, en plus d’une récupération plus lente quand l’attaque rate.
+77912f1cbe Et même une fois le plâtre émotionnel retiré, il faut prendre son temps avant de s’engager de nouveau à fond dans une relation.
+92b935777e = He is ⟦slow⟧ to anger and quick to forgive. | Il est lent à se mettre en colère et prompt à pardonner.
+5587476b98 Je suis juste assis là avec un jeu de cartes, à profiter d’un après-midi tranquille.
+178dca67bb C’était une journée creuse côté actualité, alors le rédacteur en chef nous a demandé d’allonger nos articles.
+bdefe0f08f Hé, ne crie pas sur Homer juste parce qu’il est un peu lent.
+ceefbbaf0c Les enseignants expérimentés connaissent bien l’élève qui cherche l’attention, la fille timide, le garçon agressif, l’élève peu concentré, l’élève lent, […]
+28cd200587 Cette horloge retarde.
+108def779d Au bout d’une minute environ, le lit du ruisseau vomit les débris dans une prairie en pente douce. Saugstad sentit la neige ralentir et tenta de garder les mains devant elle.
+3bb0d15964 Après l’accident, elle a perdu la parole.
+583335c950 Il avait un grave trouble de la parole.
+92a64b7cf1 Le candidat a fait des promesses ambitieuses dans son discours de campagne.
+0825774733 = The president’s ⟦speech⟧ lasted over an hour. | Le discours du président a duré plus d’une heure.
+21021c3c57 On entendait mal son discours à cause du bruit.
+1eee234fd3 Sa façon de parler était douce et chantante.
+9223cfdf69 = Northern ⟦speech⟧ sounds quite different from the London accent. | Le parler du Nord sonne bien différemment de l’accent londonien.
+aeffb4f8d6 ✗
+ca1fa4fe52 La circulation est lente aux heures de pointe.
+4c1ed41f8a = There’s heavy ⟦traffic⟧ on the ring road this morning. | La circulation est dense sur le périphérique ce matin.
+d64e0dcf94 Eux, à leur tour, avaient longtemps dominé le trafic de drogue dans la région du nord-est de l’Afghanistan qu’ils contrôlaient sous les talibans.
+885bbbcf72 Ses unités d’étude sont les régions ou les océans, les commerces à longue distance […], la circulation des cultes et des croyances entre cultures et continents.
+39cc676eb8 = Rail ⟦traffic⟧ fell sharply during the strike. | Le trafic ferroviaire a fortement baissé pendant la grève.
+d82580ed7e Les ventes sont en baisse à cause d’une diminution de la fréquentation des magasins.
+8a790a1904 Hyperion est le plus grand arbre vivant du monde.
+8ad7453f51 Des oiseaux ont un nid dans un arbre du jardin.
+f84b498682 = A broken saddle ⟦tree⟧ can hurt the horse’s back. | Un arçon de selle cassé peut blesser le dos du cheval.
+96d1950aa4 Le bananier est une grande herbe vivace : son tronc n’est pas ligneux.
+707b3f8daa Il avait le choix entre acheter un griffoir ou un arbre à chat.
+e7de1324f4 J’ai commencé le piano à cinq ans.
+26f5fd69ed Maintenant que tout le monde est là, nous devrions commencer la présentation.
+ae4db34eb3 = Life on Earth ⟦began⟧ about four billion years ago. | La vie sur Terre est apparue il y a environ quatre milliards d’années.
+334000a0e2 Les prix augmentent généralement quand la demande dépasse l’offre.
+654b92cda6 L’offre et la demande fluctuent dans une interaction complexe.
+98f24d5b6d La demande pour les ustensiles de cuisine aux coloris pastel est faible ces derniers temps, avec une moyenne de 37 unités par semaine seulement.
+e4d9f537f6 La société moderne répond aux revendications d’égalité des femmes.
+c3f51ebc59 Son travail empiète beaucoup sur son temps.
+3ed93b844d On a besoin d’agents de santé bénévoles dans les régions les plus pauvres d’Afrique et d’Asie.
+c4829dd099 Le policier exigera que vous rendiez le portefeuille.
+3c0975a08e J’exige de voir le responsable.
+bfadf69e2b La banque exige le paiement de l’échéance du prêt.
+eabc25aa56 J’exige une explication immédiate.
+961cc9be84 ✗
+9fd604216d En France, le parlement devint bientôt un simple instrument aux mains de quelques hommes bien nés et ambitieux, qui n’avaient rien de commun avec ses intérêts, lesquels étaient ceux du peuple.
+5345ddded0 ✗
+49eb0129f2 Offrir une bonne éducation à ses enfants est un investissement judicieux à long terme.
+e15e8c920d Un investissement en encre, en papier et en plumes d’acier.
+d1e663dc70 ✗
+8627716610 Sous un chêne, deux bergers étaient couchés, endormis.
+2887e8f70f Le livre est posé sur la table ; la neige recouvre le toit ; il repose dans son cercueil.
+8d8d96772f Le district de Ying-yang se trouve à 70 li au sud-ouest de l’actuel district de Teng-feng, dans le Henan.
+1140f858d5 Le papier ne tient pas bien à plat sur le mur.
+01b28520e4 rester en friche ; rester en jachère ; rester ouvert ; rester caché ; rester à se lamenter ; encourir le mécontentement de quelqu’un ; être à la merci des vagues

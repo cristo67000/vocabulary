@@ -1,0 +1,201 @@
+# lot 051 — suit, jump, launch, update, user, writer, communication, express, joke, loan, appeal, device, factor, feed, grant, mistake, schedule, smoke, teach, candidate, concern, discuss, laugh, leg, pack, perform
+c1ce1c748a Nick a loué un costume bleu marine pour le mariage.
+aa46ce058d = Astronauts wear a pressurised ⟦suit⟧ outside the station. | Les astronautes portent une combinaison pressurisée hors de la station.
+6b9914d979 ✗
+745a53ee4f Deux costards-cravates tirés à quatre épingles s’approchèrent du médecin. « Vous allez bien, docteur La Pérouse ? »
+a4d488fb71 = Hearts is my favourite ⟦suit⟧. | Cœur est ma couleur préférée.
+ed68b83041 Si tu suis mon conseil, tu porteras plainte contre lui immédiatement.
+7e665b20fd ✗
+eb733b6c0b Quand est-ce que ça t’arrange que je passe ?
+9d9fa35879 construction sur mesure
+ca4c7bc8f9 = The music ⟦suited⟧ the mood of the film perfectly. | La musique s’accordait parfaitement à l’ambiance du film.
+e3df2d3a2f ✗
+d0f144e15b = She ⟦suited⟧ her speech to her young audience. | Elle adapta son discours à son jeune public.
+79a40f30dd Les kangourous sont connus pour leur capacité à sauter haut.
+8b3bbc7a7a Le garçon a sauté par-dessus une clôture.
+0e18b3b0c3 Elle va sauter du plongeoir.
+8c7f59a464 L’éclatement de ce ballon m’a fait sursauter.
+5ea0395688 Il sursauta en levant les yeux et en voyant un homme debout devant lui.
+cf065d8507 Je déteste quand les gens resquillent dans la file.
+322e1da163 = The bang made everyone ⟦jump⟧. | La détonation a fait sursauter tout le monde.
+4fbac5d457 Le garçon descendit le chemin en sautillant et en bondissant.
+3197f4046c Il y a eu deux ou trois sauts du haut du pont.
+914bcf482a = With one ⟦jump⟧ she reached the other bank. | D’un bond, elle atteignit l’autre rive.
+2242cd005e Là, ils furent accueillis par quatre mille guerriers ha’apa’a, qui lancèrent une volée de pierres et de lances […]
+0026c50a91 La marine a lancé un autre navire.
+4eef4f0584 Avec étais et cordages enfin il gréa le navire, / Et le roulant sur des leviers, le lança dans l’abîme.
+0a843d5b62 ✗
+adba0a2c69 Je viens de mettre à jour mon blog avec mon voyage à Rome.
+c86378134e Il m’a fait le point sur la situation à New York.
+cb15cb5d91 Notre base de données est mise à jour chaque matin à 3 heures.
+4552f40066 J’ai deux ou trois mises à jour à installer sur ton ordinateur portable.
+b7a28f1b02 Je dois mettre à jour mes dossiers pour tenir compte de la dernière transaction.
+5c673b5b80 Mets-moi au courant de ce qui s’est passé pendant mon absence.
+8e5ea89d87 Je dois me mettre à jour sur les nouvelles données.
+3f4a0f90bd Comment puis-je mettre à jour mes a priori ?
+513c7b3fd0 = Each ⟦user⟧ has their own password. | Chaque utilisateur a son propre mot de passe.
+efdd6e88d7 ✗
+a215aace5f le présent auteur (pour se désigner soi-même comme l’auteur)
+4db4b0ca31 J’ai rencontré certains de mes auteurs préférés au congrès des écrivains.
+21b2630395 Si le writer est en mode autoflush, tous les caractères du tampon sont envoyés à leur destination à chaque appel de println.
+6466dc33e7 Les graffeurs retrouvèrent leurs crews, sans s’être revus depuis l’époque, depuis que leurs affiliations d’adolescents avaient laissé place à des vies plus lourdes et plus sérieuses.
+e8a248ccd3 Deux aspects du style coexistent dans l’art du graffiti, comme l’explique le chapitre 2 : il y a le style personnel du graffeur, et il y a le style iconique, ou style comme convention.
+8f5289d803 la communication d’un secret
+4db49f96f0 Le nœud avait établi la communication avec le réseau, mais n’avait encore envoyé aucune donnée.
+626e406a2d Certains disent que la communication est une condition préalable à la conscience ; d’autres, qu’elle en est le résultat.
+31fb94d8e8 La surveillance consistait à intercepter les communications des espions.
+6c2a44ed45 L’assignation obligeait l’entreprise à documenter ses échanges avec le plaignant.
+2c210d96ff J’ai pris l’express pour aller en ville.
+d3808806ff C’est aussi un service TransPennine Express, qui tourne en dérision le mot « express ».
+34ac5710ed « Donne-moi mon fusil express », dis-je en posant la Winchester, et il me le tendit armé.
+a5119dcdc5 ✗
+2397ffc60a Les mots ne peuvent exprimer l’amour que j’ai pour lui.
+e2b759d7ae Obama exprime son empathie envers les diplômés qui pourraient se sentir perdus ou dépassés, ajoutant qu’elle aussi ressent ces émotions.
+84a4880967 Elles n’ont pas de tétines, alors les mères expriment leur lait sur leur ventre pour que leurs petits s’en nourrissent.
+3cef83a026 Il contenait de nombreux kystes remplis de granules ressemblant à du sagou, qu’on pouvait faire sortir en pressant.
+5724bb037b Quand une cellule « exprime » un gène, elle traduit d’abord l’ADN en une séquence d’ARN messager (ARNm) caractéristique, puis en une chaîne d’acides aminés qui forme une protéine.
+1e59b06b90 = He told a ⟦joke⟧ about a penguin. | Il a raconté une blague sur un manchot.
+c340ab10b7 C’était une blague !
+c097dcf6db Ta façon de ranger ta chambre, c’est une plaisanterie.
+42be1bf11c Le président était la risée de tous.
+b34a0046ad L’examen final était une rigolade.
+a5662cb544 Je ne pensais pas ce que j’ai dit : je plaisantais.
+70fd495b6c Détends-toi, mec, je te charrie.
+ade2fc2aaa taquiner un camarade
+2d1fd14a3e Il a obtenu un prêt de cinq mille livres.
+904dd2f12a Tous les prêts de la bibliothèque, livres ou documents sonores, doivent être rendus sous deux semaines.
+9d7f1854a5 Il a remboursé une échéance de son prêt.
+89a26e4f85 Grâce au prêt que John m’a consenti, j’ai pu payer mes frais de scolarité pour le semestre à venir.
+4d79bfda6f Merci de m’avoir prêté ta tondeuse.
+d46eb8fa7f Eustace a aussi dit qu’il n’y aurait pas possibilité de faire venir un remplaçant en prêt d’urgence tant qu’O’Donnell resterait en forme.
+1f0f14eae4 Tous les autres — six sur onze, plus de la moitié — lui avaient été prêtés.
+3586474c52 À la date d’émission, l’entité doit comptabiliser les actions prêtées à leur juste valeur et les constater comme frais d’émission, en contrepartie du capital supplémentaire versé.
+46e9f60b85 L’attrait de ces émissions pour les téléspectateurs est simple : elles sont familiales, bon enfant et faciles à suivre en jouant chez soi.
+529d5ce44b Il souffle une tempête, et cette destination de vacances perd tout son charme en un instant par un temps pareil.
+550c672e0d J’ai fait appel de la décision du tribunal de première instance.
+7ed55efbe6 ✗
+1001f6dcf4 Mécontente de la décision du juge, elle a décidé de faire appel.
+d946ec9bc6 Son avocat lui a conseillé de faire appel de sa condamnation.
+e1bdfb5bf1 Le plaignant a porté la décision devant la cour d’appel.
+8ffc682510 = She ⟦appealed⟧ to her readers for help. | Elle a fait appel à ses lecteurs pour obtenir de l’aide.
+8cfa2340f8 Cette idée me plaît.
+df8cda7e5d ✗
+ab6593aa72 Tout cycle doit être équipé : … b) d’un avertisseur sonore consistant en une sonnette…
+119349f0a4 Leur récente invention d’exiger des « dons gracieux ».
+05f2f80004 = The scheme was a ⟦device⟧ to avoid paying tax. | Le montage était un stratagème pour éviter de payer l’impôt.
+a9a00c70e3 L’équipe de déminage de l’armée a neutralisé cet après-midi un engin explosif viable à Cavan.
+8d4358b9d7 ✗
+faf1f610fe Les emblèmes de ces sauvages sont le serpent, le cerf et le petit gland.
+dc11651a16 Distributeurs de pièces auto — Les bons distributeurs ont en stock tous les composants les plus importants qui s’usent relativement vite.
+4b1781e8d9 = The company works through a ⟦factor⟧ in Hamburg. | L’entreprise travaille par l’intermédiaire d’un agent commercial à Hambourg.
+f9d3704c50 3 est un diviseur de 12, comme 2, 4 et 6.
+750628de01 Les facteurs du groupe de Klein sont tous deux cycliques d’ordre 2.
+80401872f0 La température au lancement a été l’un des facteurs de la catastrophe de Challenger.
+f1344863f1 Le commis du comptoir de traite acheta les fourrures.
+5fe159ef25 = ⟦Factor⟧ 360 into primes. | Décompose 360 en facteurs premiers.
+5337208b7e = ⟦Factor⟧ x² − 9 as (x − 3)(x + 3). | Factorise x² − 9 en (x − 3)(x + 3).
+50da315a96 Nourris le chien tous les soirs.
+f1d8e3909b = Don’t forget to ⟦feed⟧ the fish. | N’oublie pas de nourrir les poissons.
+b675bbda7b Les araignées se nourrissent de moucherons et de mouches.
+ae53f9fabb Si on a le temps, on poussera peut-être jusqu’à Brighton, on mangera au « Ship » et on rentrera à la fraîche.
+d10ddb2d16 Introduis doucement le papier dans le broyeur.
+3d23911eef Ils vendent des aliments, des bombes d’équitation et tout le reste pour les chevaux.
+e1415d2a3d Ils ont organisé un festin de crabes sur la plage.
+6926254be5 Je me suis abonné aux flux de mes blogs préférés, pour savoir quand de nouveaux articles paraissent sans avoir à visiter ces sites.
+b922338aa0 = I spent an hour scrolling through my ⟦feed⟧. | J’ai passé une heure à faire défiler mon fil d’actualité.
+c1c5ffab69 Mon Dieu, donne-moi la sérénité […]
+8dd63620f8 L’univers existe, dit le père : quelqu’un a dû le faire. Si ce quelqu’un existe, dis-je, quelqu’un a dû le faire. Je te l’accorde pour les besoins de la discussion, dit l’oratorien.
+8c3058b776 On lui a accordé l’autorisation d’assister à la réunion.
+a973919c1c Le génie lui accorda trois vœux
+8f95bf3774 ✗
+fe5c99a790 J’ai obtenu une bourse du gouvernement pour étudier l’archéologie en Égypte.
+70b66c038a l’octroi d’une autorisation pour un projet
+468a6519e8 une concession de terre ou une subvention
+deed407b96 Désolé, je t’ai pris pour mon frère. Vous vous ressemblez beaucoup.
+3b67aea6ea Ne prends pas ma gentillesse pour de la faiblesse.
+4f98d583da ✗
+2e3b17bb89 = Don’t ⟦mistake⟧ me — I’m not criticising you. | Ne te méprends pas : je ne te critique pas.
+58c6b0fbe5 ✗
+fd32866fc5 Il y a aussi un chancelier — non, je me trompe —, un chandelier et marchand de légumes, aux mains couvertes de verrues ; […]
+e0c168d4db « Bah ! dit l’Anglaise. Quel chevalier a jamais craint le froid ? D’ailleurs, vous vous trompez : la nuit est chaude, et vous êtes si beau dans votre robe. »
+d79d9a1df5 Il faisait toujours des erreurs exprès.
+e2bc54a274 Il y avait trop d’erreurs dans le test, ce qui t’a malheureusement fait échouer.
+dc79ab4a80 Pour finir à temps, nous devons respecter le calendrier.
+bee6f996b7 ✗
+2a06e62411 ✗
+2e05445d70 Le code de la construction comporte une liste des configurations acceptables.
+d8b19f6aea L’héroïne est une drogue de l’annexe I, à fort potentiel d’abus.
+a790a71055 = Let’s ⟦schedule⟧ the meetings for the whole month. | Planifions les réunions de tout le mois.
+ccf90e09ce Les prochaines élections sont prévues le 20 novembre.
+3f6797d7cc Je vous inscris pour trois heures, alors.
+5aab2d5f64 J’ai des cours prévus le mois prochain.
+141ca44590 s’il faut ou non programmer un patient
+345686c46c Je peux te taxer une clope ?
+77d3257034 Il faut que j’aille acheter des clopes.
+7903f1fbe5 Garde de l’ERCS : T’as une clope ? On n’en a plus.
+589be9655c Hé, t’as de l’herbe ?
+d3cd024400 Je sors fumer une cigarette.
+164167b8ba J’allumai une pipe et la fumai longuement, sans cesser d’observer.
+2ffe664653 Son père fumait diverses marques quand il était plus jeune.
+3e79852f04 Il fume sa pipe.
+b0cd73ca83 Pour Edward […] il était terrible, il lui mettait les nerfs à vif, l’asphyxiait comme un poison. Il se balançait dans le fauteuil à bascule de feu M. Churchill, fumant et radotant.
+85ec1d5edb Mon vieux camion fumait encore, même après les réparations.
+b1e8bc8212 = The chimney was still ⟦smoking⟧ the next morning. | La cheminée fumait encore le lendemain matin.
+37dd764e47 ✗
+55ad64e910 Tu peux m’apprendre à coudre ? Tu peux m’apprendre la couture ?
+54ea428cde Elle enseignait à l’université.
+597245e571 Dans l’épisode 3, Gia utilise des gestes très marqués et vigoureux en apprenant à Havelock la phrase « Unte kowlting gut, to pochuye ke ? » (« Et tout ira bien, tu comprends ? »)
+c3298f8fc6 Je vais t’apprendre à te moquer de moi !
+095f89832e « La félicité est là-haut », marmonna le vieil homme en désignant le Ciel.
+0c91cbf2c8 ✗
+c3330202cf Smith a annoncé qu’il était le candidat du parti pour les prochaines élections.
+8cd42277a3 Tous les candidats qui ratent la date limite ou font une faute d’orthographe dans leur dossier sont automatiquement rejetés.
+12bdd4bac8 = She’s a strong ⟦candidate⟧ for team captain next year. | C’est une sérieuse prétendante au brassard de capitaine l’an prochain.
+23bb4dcde0 Les candidats doivent garder le silence pendant toute la durée de l’examen.
+275eb90968 Après qu’on lui eut présenté divers prétendants, elle décida qu’aucun ne correspondait au genre d’homme qu’elle cherchait.
+9f997ead78 En deux ans, le télescope spatial Kepler de la NASA a repéré près de 3 000 candidates exoplanètes, des petits mondes plus petits que la Terre aux géantes gazeuses qui font paraître notre Jupiter minuscule.
+deb7d26108 Se présenter comme candidat à une chaire n’oppose pas les communautés aux rabbins, mais les rabbins entre eux.
+62af6edc3c Le rapport Shaping the Future fixe aussi un ensemble d’acquis d’apprentissage pour les personnes qui se portent candidates au ministère ordonné. Ils ont également été approuvés par la Conférence méthodiste.
+a7ac54e63e Comparaison des performances des modes de conversion de l’énergie solaire envisagés pour le SPS. (D’après la NASA, Lyndon B. Johnson Space Center, Houston, 1977.)
+7778b4c417 La santé de Mark préoccupait beaucoup Connie.
+61ecb48f6e Les yeux de Judy se remplirent d’inquiétude tandis qu’elle écoutait le journal.
+f1f8462008 La plupart des gens en Australie ne se soucient pas des récents événements de Londres.
+5450135c0b Dites-moi si vous avez des questions ou des réserves sur le document.
+492bf90b5e ignorant, pour ce qui était de l’instruction habituelle
+e4117975c7 = This matter ⟦concerns⟧ all of us. | Cette affaire nous concerne tous.
+ebb5903080 J’ai peur qu’elle devienne alcoolique.
+a17bb3e840 Un bon prince se préoccupe du bonheur de ses sujets.
+78a685a62f ✗
+415e6db622 Je ne souhaite pas en discuter davantage.
+b85defbc25 Asseyons-nous et discutons de la question de savoir si nous devrions avoir un bébé.
+49de2dafc6 ✗
+d20d45b18e ✗
+8526ecc4ae ✗
+c460c6c837 Ses grands rires graves résonnaient dans la pièce.
+74867c8cef Ça fait rire à tous les coups. À plus d’humour aux échecs !
+56a3ceaa8e Ton nouveau chapeau est à mourir de rire, mec.
+5aac3ae51d ✗
+7bdc37ce9f Outhwaite est très drôle, oui, elle sait sourire : mais au fond, elle est vraiment forte et sévère.
+33a00c5870 Beaucoup d’enfants rieurs couraient dans la cour de l’école.
+024464610c ✗
+ebd9884b6d Ne te moque pas de mon nouveau chapeau, mec !
+383c33f204 ✗
+de3dab1597 ✗
+1a32533e3a ✗
+f44213d55a Dan ne pourra pas venir à la fête, car il s’est cassé la jambe la semaine dernière et il est maintenant en béquilles.
+71eed84866 = The cast covered his ⟦leg⟧ from knee to ankle. | Le plâtre lui couvrait la jambe du genou à la cheville.
+042116eb6b = Each ⟦leg⟧ of the right triangle is 3 cm long. | Chacun des côtés de l’angle droit du triangle rectangle mesure 3 cm.
+a1699efb1c = He hit the ball through the ⟦leg⟧ side for four. | Il envoya la balle côté jambe pour quatre points.
+1fc8933cdb Les insectes ont six pattes.
+331fc562e8 La jambe gauche de ce jean est déchirée.
+51eebf473c Les chevaux portaient les ballots à travers la plaine.
+de20d558cd Nous ne lui demandons pas de se décider, mais de faire son paquetage.
+664609adc4 Les lycaons chassent à vue, même si les traînards suivent la meute à l’odorat.
+b0bdffeed9 un tissu de mensonges
+5fdbdb7794 une avalanche de plaintes
+e3df2864c8 On allait jouer aux cartes, mais personne n’avait apporté de jeu.
+5d81825f26 emballer des marchandises dans une boîte ; mettre du poisson en conserve
+54cf796c97 = We ⟦packed⟧ the books tightly into boxes. | Nous avons rangé les livres bien serrés dans des cartons.
+384ec7d47b faire une malle ; la pièce, ou le public, remplit le théâtre
+a72a0707fd Le médecin donna à Kelly des comprimés de sulfamides et enveloppa son bras de bouillottes.
+4033fb7e85 Il ne lui a fallu que vingt minutes pour accomplir la tâche.
