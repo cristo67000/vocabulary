@@ -29,7 +29,7 @@ theme: meteo | Météo et nature | Weather & nature
 theme: loisirs | Loisirs et sport | Leisure & sport
 theme: emotions | Émotions et caractère | Feelings & character
 theme: gb-us | Britannique ou américain ? | British or American?
-theme: officiel | Anglicismes : les équivalents officiels | Anglicisms: the official French terms
+theme: officiel | Anglicismes et équivalents officiels | Anglicisms & official French terms
 
 [module argot]
 icone: ✺
@@ -37,17 +37,16 @@ nom-fr: Argot et abréviations
 nom-en: Slang & abbreviations
 court-fr: Argot
 court-en: Slang
-accroche-fr: Ce qu’on entend à Londres et à Paris, et ce qu’on écrit en message : knackered, relou, lol, jsp…
-accroche-en: What you hear in London and Paris, and what people text: knackered, relou, lol, jsp…
-intro-fr: L’anglais familier (britannique d’abord) et l’argot français d’aujourd’hui, avec leur registre — et les abréviations des messages. Chaque mot porte son niveau de langue : à comprendre partout, à employer entre proches.
-intro-en: Informal English (British first) and today’s French slang, with their register — plus texting abbreviations. Each word shows its level of language: understand it everywhere, use it with friends.
+accroche-fr: L’anglais familier qu’on entend à Londres et en ligne, et ce qu’on écrit en message : knackered, mate, lol, tbh…
+accroche-en: The informal English you hear in London and online, and what people text: knackered, mate, lol, tbh…
+intro-fr: L’anglais familier (britannique d’abord) et les abréviations des messages, avec leur registre : chaque mot dit s’il se comprend partout ou s’emploie entre proches. En fin de module, le chemin inverse : comment dire en anglais « relou », « avoir la flemme » ou « jsp ».
+intro-en: Informal English (British first) and texting abbreviations, with their register: each word shows whether to understand it everywhere or use it with friends. At the end, the other way round: how to say French slang and text-speak in English.
 theme: uk | L’anglais familier du Royaume-Uni | British informal English
 theme: jeunes | Le parler des jeunes | Youth slang
 theme: sms | Abréviations des messages | Texting abbreviations
-theme: fr-argot | Argot français | French slang
-theme: verlan | Verlan | Verlan
-theme: fr-sms | Abréviations françaises | French texting
 theme: jurons | Jurons et gros mots | Swear words
+theme: fr-argot | Dire en anglais : le français familier | French slang, in English
+theme: fr-sms | Dire en anglais : nos abréviations | French text-speak, in English
 
 [module tech]
 icone: ⌘
@@ -55,15 +54,15 @@ nom-fr: Tech : IA, programmation, codage
 nom-en: Tech: AI, programming, coding
 court-fr: Tech
 court-en: Tech
-accroche-fr: LLM, prompt, commit, API… les termes du numérique définis en deux langues, avec leurs schémas.
-accroche-en: LLM, prompt, commit, API… digital terms defined in two languages, with diagrams.
-intro-fr: Les termes de l’intelligence artificielle, de la programmation et du web : définition dans les deux langues, exemple, piège, schéma. S’y ajoutent les équivalents français officiels recommandés au Journal officiel.
-intro-en: The terms of artificial intelligence, programming and the web: definition in both languages, example, pitfall, diagram. Plus the official French equivalents recommended in the Journal officiel.
+accroche-fr: LLM, prompt, commit, API, paywall… les termes anglais du numérique, expliqués en français, avec leurs schémas.
+accroche-en: LLM, prompt, commit, API, paywall… the English terms of tech, explained in French, with diagrams.
+intro-fr: Les termes anglais de l’intelligence artificielle, de la programmation et du web : définition, exemple, piège, schéma. S’y ajoutent les termes anglais que le Journal officiel a francisés, avec leur équivalent recommandé.
+intro-en: The English terms of artificial intelligence, programming and the web: definition, example, pitfall, diagram. Plus the English terms the Journal officiel has given a French equivalent.
 theme: ia | IA et assistants de code | AI & coding assistants
 theme: ia-plus | IA : les mots de l’actualité | AI in the news
-theme: ft-ia | IA : termes officiels français | AI: official French terms
-theme: ft-info | Numérique : termes officiels français | Computing: official French terms
-theme: ft-telecom | Télécoms : termes officiels français | Telecoms: official French terms
+theme: ft-ia | IA : termes anglais et équivalents officiels | AI: English terms & official French
+theme: ft-info | Numérique : termes anglais et équivalents officiels | Computing: English terms & official French
+theme: ft-telecom | Télécoms : termes anglais et équivalents officiels | Telecoms: English terms & official French
 
 [module expressions]
 icone: ❝
@@ -73,11 +72,11 @@ court-fr: Expressions
 court-en: Idioms
 accroche-fr: Expressions imagées, faux amis, verbes à particule — et les phrases toutes faites des situations courantes.
 accroche-en: Idioms, false friends, phrasal verbs — and ready-made phrases for everyday situations.
-intro-fr: Ce qui ne se traduit pas mot à mot : l’expression imagée et son vrai équivalent, le faux ami et son piège, le verbe à particule et ses sens. Pour les phrases de la vie courante, voir « Phrases et dialogues ».
-intro-en: What doesn’t translate word for word: the idiom and its real equivalent, the false friend and its trap, the phrasal verb and its meanings. For everyday phrases, see “Phrases and dialogues”.
+intro-fr: Ce qui ne se traduit pas mot à mot : l’expression anglaise et son vrai sens, le verbe à particule et ses emplois, le faux ami et son piège — puis nos expressions françaises et la façon de les dire en anglais. Pour les phrases de la vie courante, voir « Phrases et dialogues ».
+intro-en: What doesn’t translate word for word: the English idiom and its real meaning, the phrasal verb and its uses, the false friend and its trap — then French idioms and how to say them in English. For everyday phrases, see “Phrases and dialogues”.
 theme: idiomes-en | Expressions anglaises | English idioms
-theme: idiomes-fr | Expressions françaises | French idioms
-theme: proverbes | Proverbes | Proverbs
-theme: faux-amis | Faux amis | False friends
 theme: particules | Verbes à particule | Phrasal verbs
 theme: formules | Formules utiles | Useful phrases
+theme: proverbes | Proverbes | Proverbs
+theme: faux-amis | Faux amis | False friends
+theme: idiomes-fr | Dire en anglais : nos expressions | French idioms, in English

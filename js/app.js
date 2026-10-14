@@ -480,9 +480,10 @@
 
   // ── Réglages ──────────────────────────────────────────────────────────────
 
-  /* Le bloc « Prononciation » : par langue, la voix retenue, un menu pour en
+  /* Le bloc « Prononciation » : la voix anglaise retenue, un menu pour en
    * préférer une autre, et un bouton qui la fait lire une phrase à sons
-   * pièges. Il dit clairement quand une langue n'a aucune voix — et qu'alors
+   * pièges. L'application ne lit que l'anglais — le français, un francophone
+   * sait le dire —, il n'y a donc qu'une voix à choisir. Il dit clairement quand une langue n'a aucune voix — et qu'alors
    * rien n'est lu, plutôt qu'une voix d'une autre langue —, et donne, sous
    * « Détails techniques », ce qu'il faut pour signaler un défaut : le
    * système, le navigateur, le nom de la voix. Redessiné quand la liste des
@@ -498,7 +499,7 @@
     }
     const cle = (langue) => (langue === 'en' ? 'voixEn' : 'voixFr');
 
-    for (const langue of Voix.LANGUES) {
+    for (const langue of ['en']) {
       const d = Voix.diagnostic(langue);
       const bloc = element('div', 'reglage-voix-langue');
       const ligne = element('div', 'reglage-voix-ligne');
@@ -622,7 +623,6 @@
     }
 
     elements.reglageVoix.checked = !!reglages.voix;
-    elements.reglageArticle.checked = reglages.exigerArticle === true;
     elements.reglageCrus.checked = !!reglages.montrerCrus;
     elements.reglageUs.checked = reglages.montrerUs !== false;
     elements.reglageHorsLigne.checked = reglages.toutHorsLigne !== false;
@@ -1032,7 +1032,6 @@
       zoneTelechargement: $('#zone-telechargement'),
       etatDictionnaire: $('#etat-dictionnaire'),
       reglageVoix: $('#reglage-voix'),
-      reglageArticle: $('#reglage-article'),
       reglageCrus: $('#reglage-crus'),
       reglageUs: $('#reglage-us'),
       reglageHorsLigne: $('#reglage-hors-ligne'),
@@ -1121,12 +1120,6 @@
       });
     }
 
-    elements.reglageArticle.addEventListener('change', async () => {
-      reglages.exigerArticle = elements.reglageArticle.checked;
-      Seance.exigerArticle = reglages.exigerArticle;
-      await Store.ecrireReglage('exigerArticle', reglages.exigerArticle);
-    });
-
     /* Les mots crus : masqués d'office. Les montrer change la recherche, les
      * fiches, les listes de l'argot et les exercices — on redessine ce qui
      * est à l'écran. */
@@ -1210,7 +1203,6 @@
 
     Revision.sensDeTravail = reglages.sensDeTravail || 'les-deux';
     Lexique.montrerCrus = !!reglages.montrerCrus;
-    Seance.exigerArticle = reglages.exigerArticle === true;
     Voix.configurer(reglages);
     Voix.actif = !!reglages.voix;
     $('#b-donnees-mettre-a-jour').addEventListener('click', () => {

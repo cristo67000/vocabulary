@@ -343,6 +343,13 @@ button { font: inherit; color: inherit; }
 .sens .definition { margin: .2rem 0 0; color: var(--encre-douce); font-size: .92rem; }
 .numero-sens { color: var(--encre-tres-douce); font-weight: 600; margin-right: .3rem; }
 .sens .sans-traduction { color: var(--encre-tres-douce); font-style: italic; font-size: .9rem; }
+/* Une fiche française est un pont vers l'anglais : les traductions anglaises
+   sont ce qu'on vient chercher, en gras et un peu plus grand ; le repère
+   français qui distingue les sens se lit en petit, dessous. */
+.sens-pont .traductions { font-size: 1.15rem; }
+.sens-pont .traductions .traduction { font-weight: 600; }
+.sens-pont .traductions .ecouter-phrase { margin-left: .35rem; }
+.sens .repere { margin: .1rem 0 0; color: var(--encre-tres-douce); font-size: .85rem; font-style: italic; }
 
 /* Un sens de la version 2 porte ses propres exemples : un filet à gauche les
    rattache visuellement à la signification qu'ils illustrent, et non au mot. */
@@ -1615,6 +1622,8 @@ textarea.saisie-perso { resize: vertical; line-height: 1.5; }
 .module-sens-titre { font-weight: 700; margin: .2rem 0; }
 .module-definitions { display: flex; flex-direction: column; gap: .3rem; }
 .module-definition { margin: .15rem 0; }
+/* L'explication française vient en appui de la définition anglaise. */
+.module-definition-appui { color: var(--encre-douce); font-size: .93rem; }
 .module-litteral { font-style: italic; color: var(--encre-douce); margin: .35rem 0; }
 .module-note { margin: .35rem 0; color: var(--encre-douce); }
 .module-attention {

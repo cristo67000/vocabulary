@@ -17,7 +17,7 @@
  *
  * ── Ce qui se passe après une erreur ───────────────────────────────────────
  *
- * La bonne réponse est montrée, avec sa fiche en abrégé — genre, prononciation,
+ * La bonne réponse est montrée, avec sa fiche en abrégé — prononciation,
  * une phrase d'exemple. Se tromper est le meilleur moment pour apprendre, à
  * condition que la correction arrive tout de suite et donne à voir autre chose
  * que le simple mot juste.
@@ -40,7 +40,6 @@
   let question = null;
   let bilan = null;
   let quota = 10;
-  let exigerArticle = false;
   let regime = { enregistrer: true, type: null };
 
   function element(balise, classe, texte) {
@@ -146,8 +145,7 @@
       return poser();
     }
 
-    question = await Exercices.preparer(carte, entree,
-      { exigerArticle, type: regime.type });
+    question = await Exercices.preparer(carte, entree, { type: regime.type });
     elements.verdict.hidden = true;
     afficher(question);
   }
@@ -216,13 +214,6 @@
     champ.autocapitalize = 'off';
     champ.spellcheck = false;
     champ.setAttribute('aria-label', I18n.t('exercice.saisie.aria'));
-    /* Au palier exigeant, le champ rappelle la forme attendue. Les articles
-     * d'une langue sont les mêmes pour tous ses noms : les montrer ne souffle
-     * rien du mot, mais dit ce qu'on réclame. */
-    if (q.articleExige) {
-      const table = Exercices.ARTICLES[q.langueReponse || q.carte.langue] || {};
-      champ.placeholder = Object.values(table).join(' / ') + ' …';
-    }
     zone.appendChild(champ);
 
     const touches = element('div', 'touches');
@@ -274,7 +265,6 @@
        * que le français ne met pas (« lundi » pour « Monday »). */
       verdict = Exercices.corriger(saisie, q.attendus || [q.attendu], {
         langue: q.langueReponse || q.carte.langue, estNom: q.estNom,
-        articleExige: q.articleExige, genres: q.genres,
         autresSens: q.autresSens, contexte: q.indice,
         phrase: !!q.phrase,
       });
@@ -355,12 +345,6 @@
     const lecture = entree.lectures[0] || [];
 
     const ligne = element('p', 'rappel-mot');
-    if (lecture[0] === 'n' && Fiche.ARTICLES[entree.langue]
-        && Fiche.ARTICLES[entree.langue][lecture[1]]) {
-      ligne.appendChild(element('span', 'article ' + lecture[1],
-        Fiche.ARTICLES[entree.langue][lecture[1]]));
-      ligne.appendChild(document.createTextNode(' '));
-    }
     ligne.appendChild(element('b', null, entree.mot));
     if (lecture[2]) ligne.appendChild(element('span', 'api', ' [' + lecture[2] + ']'));
     bloc.appendChild(ligne);
@@ -468,7 +452,6 @@
 
   function brancher(reglages) {
     quota = reglages.nouveautesParJour || 10;
-    exigerArticle = reglages.exigerArticle !== false;
     Object.assign(elements, {
       accueil: $('#revision-accueil'),
       libre: $('#seance-libre'),
@@ -507,8 +490,6 @@
 
   racine.Seance = { brancher, rafraichir, commencer, lancer, arreter,
                     get quota() { return quota; },
-                    set quota(v) { quota = v; },
-                    get exigerArticle() { return exigerArticle; },
-                    set exigerArticle(v) { exigerArticle = v; } };
+                    set quota(v) { quota = v; } };
 
 })(window);

@@ -359,7 +359,6 @@
           const p = element('p', 'exemple-cible');
           p.appendChild(element('span', 'pastille', 'FR'));
           p.appendChild(document.createTextNode(' ' + ex.fr));
-          p.appendChild(ecoute(ex.fr, 'fr'));
           ligne.appendChild(p);
         }
         const retirer = element('button', 'lien-discret', I18n.t('exemples.retirer'));

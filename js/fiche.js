@@ -4,10 +4,13 @@
  *
  * Quatre partis pris.
  *
- * L'article avant le nom français. Un anglophone qui apprend « maison » sans
- * « une » apprend un mot à moitié : le genre français ne se devine pas. On
- * affiche « un » / « une » plutôt que « le » / « la », qui obligerait à
- * trancher l'élision (« l'arbre ») et masquerait justement le genre.
+ * L'anglais d'abord. L'application apprend l'anglais à un francophone : une
+ * fiche anglaise est complète — définitions anglaises, prononciation,
+ * exemples traduits, formes, synonymes, famille —, une fiche française n'est
+ * qu'un **pont** vers l'anglais. Elle montre les traductions, sens par sens,
+ * avec un repère de quelques mots quand il faut distinguer les sens, et les
+ * phrases dont l'autre moitié est anglaise — l'anglais en premier. Ni
+ * définition française, ni citation de roman, ni conjugaison : on les sait.
  *
  * Le registre avant tout. « knackered » et « éreinté » se traduisent, mais
  * l'un se dit au pub et l'autre dans un roman : chaque sens porte ses marques
@@ -107,11 +110,14 @@
     if (!Exercices.traductions(entree).length) {
       return element('p', 'discret sans-equivalent', I18n.t('fiche.sans-equivalent'));
     }
-    const bouton = element('button', 'apprendre', I18n.t('fiche.apprendre'));
+    /* Sur une fiche française, ce qu'on apprend est l'anglais : le bouton le
+     * dit, et la révision demandera « house » en montrant « maison ». */
+    const libelle = entree.langue === 'fr' ? 'fiche.apprendre.fr' : 'fiche.apprendre';
+    const bouton = element('button', 'apprendre', I18n.t(libelle));
     bouton.type = 'button';
 
     function peindre(suivi) {
-      bouton.textContent = I18n.t(suivi ? 'fiche.appris' : 'fiche.apprendre');
+      bouton.textContent = I18n.t(suivi ? 'fiche.appris' : libelle);
       bouton.classList.toggle('suivi', suivi);
       bouton.dataset.suivi = suivi ? '1' : '0';
     }
@@ -140,14 +146,8 @@
 
   function vedette(entree) {
     const bloc = element('div', 'vedette');
-    const table = ARTICLES[entree.langue] || {};
-    /* Tous les articles, pas seulement le premier. « livre » est masculin
-     * quand c'est un ouvrage et féminin quand c'est un poids ; n'afficher que
-     * « un » apprend une moitié fausse. (L'anglais n'a pas de genre : la
-     * table des articles n'a que le français.) */
-    for (const genre of Exercices.genresDe(entree)) {
-      if (table[genre]) bloc.appendChild(element('span', 'article ' + genre, table[genre]));
-    }
+    /* Pas d'article devant un mot français : il servait l'anglophone qui
+     * apprend le genre, et un francophone le sait. */
     bloc.appendChild(element('span', 'mot', entree.mot));
     bloc.appendChild(element('span', 'pastille', I18n.t('langue.' + entree.langue + '.court')));
     /* « Personnel », sur la vedette et non en bas de fiche : on doit savoir
@@ -175,6 +175,10 @@
   }
 
   function ligneSon(entree) {
+    /* On n'écoute que l'anglais. La prononciation d'un mot français
+     * n'apprend rien à un francophone ; celle de ses traductions s'écoute sur
+     * leur ligne, sens par sens. */
+    if (entree.langue === 'fr') return null;
     const ligne = element('div', 'ligne-son');
     const prononciation = (entree.lectures.find((l) => l[2]) || [])[2];
     if (prononciation) {
@@ -218,7 +222,7 @@
       marque.title = I18n.t(PROVENANCES[entree.expression] || 'fiche.provenance.dico');
       bloc.appendChild(marque);
     }
-    if (lecture[1]) {
+    if (lecture[1] && entree.langue !== 'fr') {
       const table = ARTICLES[entree.langue] || {};
       const article = lecture[0] === 'n' && table[lecture[1]];
       if (article) {
@@ -231,8 +235,10 @@
     }
     /* La bande de fréquence est un rang d'usage mesuré dans un corpus. Un mot
      * personnel n'en a pas — il n'a jamais été compté nulle part — et lui en
-     * afficher une (« Premiers pas ») annoncerait une mesure qui n'existe pas. */
-    if (!entree.perso && !entree.module) {
+     * afficher une (« Premiers pas ») annoncerait une mesure qui n'existe pas.
+     * Celle d'un mot français ne dit rien d'utile à qui apprend l'anglais :
+     * seuls les mots anglais la portent. */
+    if (!entree.perso && !entree.module && entree.langue === 'en') {
       const bande = element('span', 'etiquette bande-' + entree.bande,
         I18n.t('bande.' + entree.bande));
       bande.title = I18n.t('bande.explication');
@@ -352,30 +358,29 @@
     return bloc;
   }
 
-  /* Une paire alignée : la phrase dans la langue du mot, sa traduction dessous.
-   * Les deux côtés sont cliquables — on apprend aussi en butant sur un mot de
-   * la traduction. */
+  /* Une paire alignée : la phrase anglaise en premier, qu'on écoute, et la
+   * française dessous — sur une fiche française aussi, où c'est la phrase
+   * française qui contient le mot cherché (il y reste marqué) : ce qu'on vient
+   * apprendre est la façon de le dire en anglais. Les deux côtés sont
+   * cliquables — on apprend aussi en butant sur un mot de la traduction. */
   function paireTraduite(paire, entree, cleVedette) {
     const bloc = element('div', 'exemple');
     const source = element('p', 'exemple-source');
-    const autre = entree.langue === 'en' ? 'fr' : 'en';
-    source.appendChild(MotsVifs.tisser(
-      entree.langue === 'en' ? paire.en : paire.fr, entree.langue,
-      { cible: cleVedette }));
+    source.appendChild(MotsVifs.tisser(paire.en, 'en',
+      entree.langue === 'en' ? { cible: cleVedette } : {}));
     bloc.appendChild(source);
 
     const cible = element('p', 'exemple-cible');
-    cible.appendChild(MotsVifs.tisser(
-      entree.langue === 'en' ? paire.fr : paire.en, autre, {}));
+    cible.appendChild(MotsVifs.tisser(paire.fr, 'fr',
+      entree.langue === 'fr' ? { cible: cleVedette } : {}));
     bloc.appendChild(cible);
 
-    if (Voix.possible(entree.langue) || !Voix.pret) {
+    if (Voix.possible('en') || !Voix.pret) {
       const ecouter = element('button', 'ecouter-phrase', '▸');
       ecouter.type = 'button';
       ecouter.setAttribute('aria-label', I18n.t('fiche.ecouter'));
-      Voix.brancherBouton(ecouter, entree.langue);
-      ecouter.addEventListener('click', () => Voix.dire(
-        entree.langue === 'en' ? paire.en : paire.fr, entree.langue));
+      Voix.brancherBouton(ecouter, 'en');
+      ecouter.addEventListener('click', () => Voix.dire(paire.en, 'en'));
       source.appendChild(ecouter);
     }
     return bloc;
@@ -407,7 +412,7 @@
       const citations = donnees[2] || [];
       const numeros = donnees[3] || [];
 
-      const paragraphe = element('div', 'sens');
+      const paragraphe = element('div', entree.langue === 'fr' ? 'sens sens-pont' : 'sens');
       const ligne = element('p', 'traductions');
       if (plusieurs) {
         ligne.appendChild(element('span', 'numero-sens', (rang + 1) + '.'));
@@ -430,9 +435,24 @@
         ligne.appendChild(element('span', 'sans-traduction',
           I18n.t('fiche.sens-sans-traduction')));
       }
+      /* Sur une fiche française, les traductions sont l'anglais à apprendre :
+       * on les écoute d'un geste, toutes ensemble, sans ouvrir leur fiche. */
+      if (entree.langue === 'fr' && traductions.length && (Voix.possible('en') || !Voix.pret)) {
+        const ecouter = element('button', 'ecouter-phrase', '▸');
+        ecouter.type = 'button';
+        ecouter.setAttribute('aria-label', I18n.t('fiche.ecouter-anglais'));
+        Voix.brancherBouton(ecouter, 'en');
+        ecouter.addEventListener('click', () => Voix.dire(traductions.join(', '), 'en'));
+        ligne.appendChild(ecouter);
+      }
       paragraphe.appendChild(ligne);
 
-      if (definition) {
+      /* La définition d'un mot anglais est en anglais : elle se lit, mot à
+       * mot cliquable. Celle d'un mot français n'est plus qu'un repère de
+       * quelques mots, qui dit de quel sens il s'agit — rien à y apprendre. */
+      if (definition && entree.langue === 'fr') {
+        paragraphe.appendChild(element('p', 'repere', definition));
+      } else if (definition) {
         const texte = element('p', 'definition');
         texte.appendChild(MotsVifs.tisser(definition, entree.langue, {}));
         paragraphe.appendChild(texte);
@@ -486,32 +506,33 @@
    * faire. Les deux côtés restent cliquables comme ceux du dictionnaire : un
    * mot inconnu croisé dans sa propre phrase mérite le même geste. */
   function exemplePersonnel(entree) {
+    /* Une fiche de module porte aussi des `paires` — ses exemples, que son
+     * bloc montre déjà : ce ne sont pas les siens. */
+    if (!entree.perso) return null;
     const paires = (entree.paires || []).filter((p) => p.en || p.fr);
     if (!paires.length) return null;
     const section = element('section', 'exemples');
     section.appendChild(element('h3', null, I18n.t('perso.exemple')));
-    const autre = entree.langue === 'en' ? 'fr' : 'en';
+    const cle = Lexique.cle(entree.mot);
+    /* L'anglais en premier, comme partout ; un exemple écrit sans sa
+     * traduction se montre seul. */
     for (const paire of paires) {
-      const sien = entree.langue === 'en' ? paire.en : paire.fr;
-      const traduit = entree.langue === 'en' ? paire.fr : paire.en;
       const bloc = element('div', 'exemple');
-      const source = element('p', 'exemple-source');
-      source.appendChild(MotsVifs.tisser(sien, entree.langue,
-        { cible: Lexique.cle(entree.mot) }));
-      if (Voix.possible(entree.langue) || !Voix.pret) {
-        const ecouter = element('button', 'ecouter-phrase', '▸');
-        ecouter.type = 'button';
-        ecouter.setAttribute('aria-label', I18n.t('fiche.ecouter'));
-        Voix.brancherBouton(ecouter, entree.langue);
-        ecouter.addEventListener('click', () => Voix.dire(sien, entree.langue));
-        source.appendChild(ecouter);
-      }
-      bloc.appendChild(source);
-      if (traduit) {
-        const cible = element('p', 'exemple-cible');
-        cible.appendChild(MotsVifs.tisser(traduit, autre, {}));
-        bloc.appendChild(cible);
-      }
+      const lignes = [['en', paire.en], ['fr', paire.fr]].filter(([, texte]) => texte);
+      lignes.forEach(([langue, texte], rang) => {
+        const p = element('p', rang === 0 ? 'exemple-source' : 'exemple-cible');
+        p.appendChild(MotsVifs.tisser(texte, langue,
+          langue === entree.langue ? { cible: cle } : {}));
+        if (langue === 'en' && (Voix.possible('en') || !Voix.pret)) {
+          const ecouter = element('button', 'ecouter-phrase', '▸');
+          ecouter.type = 'button';
+          ecouter.setAttribute('aria-label', I18n.t('fiche.ecouter'));
+          Voix.brancherBouton(ecouter, 'en');
+          ecouter.addEventListener('click', () => Voix.dire(texte, 'en'));
+          p.appendChild(ecouter);
+        }
+        bloc.appendChild(p);
+      });
       section.appendChild(bloc);
     }
     return section;
@@ -551,7 +572,8 @@
     bloc.appendChild(vedette(entree));
     const us = varianteAmericaine(entree);
     if (us) bloc.appendChild(us);
-    bloc.appendChild(ligneSon(entree));
+    const son = ligneSon(entree);
+    if (son) bloc.appendChild(son);
     bloc.appendChild(boutonApprendre(entree));
     const origine = provenance(entree);
     if (origine) bloc.appendChild(origine);

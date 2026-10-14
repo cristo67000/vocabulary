@@ -92,15 +92,14 @@ const FAMILLES = {
                'imp1', 'imp2', 'imp3', 'imp4', 'imp5', 'imp6',
                'groupe.formes', 'groupe.present', 'groupe.imparfait'],
   'exercice.consigne.': ['conjugaison', 'ecoute', 'famille', 'paire-phrase', 'pluriel',
-                         'qcm-comprendre', 'qcm-produire', 'saisie', 'saisie-article',
+                         'qcm-comprendre', 'qcm-produire', 'saisie',
                          'saisie-traduction', 'synonyme', 'trou', 'ecoute.phrase'],
   // Les ateliers et leur description (atelier.js, ATELIERS).
   'atelier.': ['reconnaitre', 'produire', 'ecrire', 'traduire', 'famille', 'irreguliers',
-               'pluriel', 'trou', 'phrase', 'ecoute', 'conjugaison', 'article', 'synonyme',
+               'pluriel', 'trou', 'phrase', 'ecoute', 'synonyme',
                'reconnaitre.detail', 'produire.detail', 'ecrire.detail', 'traduire.detail',
                'famille.detail', 'irreguliers.detail', 'pluriel.detail', 'trou.detail',
-               'phrase.detail', 'ecoute.detail', 'conjugaison.detail', 'article.detail',
-               'synonyme.detail'],
+               'phrase.detail', 'ecoute.detail', 'synonyme.detail'],
   'perso.manque.': ['mot', 'langue', 'traductions'],
   'sauvegarde.conflits.': ['garder', 'remplacer'],
   // « Phrases et dialogues » : registres, types, marques, formulaires.

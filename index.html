@@ -7,12 +7,12 @@
        d'audience. `connect-src 'self'` suffit, et le dit. -->
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; manifest-src 'self'; base-uri 'self'; form-action 'none'; object-src 'none'">
   <meta name="referrer" content="no-referrer">
-  <meta name="description" content="Dictionnaire anglais ⇄ français hors ligne : mots courants et actuels, argot et abréviations, termes de l’IA et du code, expressions et phrases, exercices de mémorisation. Voix britannique et voix de France. Tout reste sur l’appareil.">
+  <meta name="description" content="Apprendre l’anglais hors ligne, pour les francophones : dictionnaire d’anglais, mots courants et actuels, argot et abréviations, termes de l’IA et du code, expressions et phrases, exercices de mémorisation. Voix britannique. Tout reste sur l’appareil.">
   <meta name="theme-color" content="#16324f">
   <!-- La version de la coquille, la même que dans sw.js : à l'installation,
        le service worker refuse une page d'une autre version. -->
-  <meta name="application-version" content="v1.1.0">
-  <title>Vocabulary — anglais ⇄ français</title>
+  <meta name="application-version" content="v1.2.0">
+  <title>Vocabulary — apprendre l’anglais</title>
   <meta name="mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-title" content="Vocabulary">
@@ -20,13 +20,13 @@
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Vocabulary">
-  <meta property="og:title" content="Vocabulary — dictionnaire anglais ⇄ français">
-  <meta property="og:description" content="Mots courants et actuels, argot, IA et code, expressions : cherchez, écoutez (voix britannique et voix de France), apprenez. Hors ligne, sans compte, sans publicité.">
+  <meta property="og:title" content="Vocabulary — apprendre l’anglais">
+  <meta property="og:description" content="L’anglais d’aujourd’hui pour les francophones : mots courants et actuels, argot, IA et code, expressions. Cherchez, écoutez, apprenez. Hors ligne, sans compte, sans publicité.">
   <meta property="og:url" content="https://cristo67000.github.io/vocabulary/">
   <meta property="og:image" content="https://cristo67000.github.io/vocabulary/icons/apercu-1200x630.png">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="Vocabulary — dictionnaire anglais ⇄ français hors ligne">
+  <meta property="og:image:alt" content="Vocabulary — apprendre l’anglais hors ligne">
   <meta property="og:locale" content="fr_FR">
   <meta property="og:locale:alternate" content="en_GB">
   <meta name="twitter:card" content="summary_large_image">
@@ -47,7 +47,7 @@
 
   <header id="barre">
     <h1><span class="marque-petite">Vocabulary</span></h1>
-    <p class="sous-titre" data-t="app.sous-titre">anglais ⇄ français</p>
+    <p class="sous-titre" data-t="app.sous-titre">apprendre l’anglais</p>
   </header>
 
   <main id="scene">
@@ -303,15 +303,6 @@
                   data-t="reglages.sens.vers-fr"></button>
         </div>
         <p class="discret" data-t="reglages.sens.note"></p>
-      </section>
-
-      <section class="bloc">
-        <h3 data-t="reglages.exigence"></h3>
-        <label class="bascule">
-          <input type="checkbox" id="reglage-article">
-          <span data-t="reglages.exigence.article"></span>
-        </label>
-        <p class="discret" data-t="reglages.exigence.note"></p>
       </section>
 
       <section class="bloc">

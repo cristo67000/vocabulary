@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Vocabulary — anglais ⇄ français",
+  "name": "Vocabulary — apprendre l’anglais",
   "short_name": "Vocabulary",
-  "description": "Dictionnaire anglais ⇄ français hors ligne : mots courants et actuels, argot et abréviations, termes de l’IA et du code, expressions et phrases usuelles, exercices de mémorisation. Voix britannique et voix de France. Tout reste sur l’appareil, sans compte ni réseau.",
+  "description": "Apprendre l’anglais hors ligne, pour les francophones : dictionnaire d’anglais, mots courants et actuels, argot et abréviations, termes de l’IA et du code, expressions et phrases usuelles, exercices de mémorisation. Voix britannique. Tout reste sur l’appareil, sans compte ni réseau.",
   "lang": "fr",
   "dir": "ltr",
   "start_url": "./",

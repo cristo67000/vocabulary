@@ -201,12 +201,8 @@
 
     const tete = element('div', 'cartouche-tete');
     const lecture = entree.lectures[0] || [];
-    const articles = Exercices.ARTICLES[entree.langue] || {};
-    if (lecture[0] === 'n' && articles[lecture[1]]) {
-      tete.appendChild(element('span', 'article ' + lecture[1], articles[lecture[1]]));
-    }
     tete.appendChild(element('b', 'cartouche-mot', entree.mot));
-    if (lecture[2]) tete.appendChild(element('span', 'api', '[' + lecture[2] + ']'));
+    if (lecture[2]) tete.appendChild(element('span', 'api', '/' + lecture[2] + '/'));
     corps.appendChild(tete);
 
     /* La graphie cliquée n'est pas toujours la vedette : on a cliqué
@@ -224,12 +220,16 @@
     const boutons = element('div', 'cartouche-boutons');
     boutons.appendChild(boutonApprendre(entree));
 
-    if (Voix.possible(entree.langue) || !Voix.pret) {
+    /* On écoute l'anglais : le mot anglais lui-même, ou les traductions
+     * anglaises d'un mot français — sa prononciation, un francophone la sait. */
+    const aDire = entree.langue === 'en' ? entree.mot : traductions.join(', ');
+    if (aDire && (Voix.possible('en') || !Voix.pret)) {
       const ecouter = element('button', 'cartouche-ecouter', '▸');
       ecouter.type = 'button';
-      ecouter.setAttribute('aria-label', I18n.t('fiche.ecouter'));
-      Voix.brancherBouton(ecouter, entree.langue);
-      ecouter.addEventListener('click', () => Voix.dire(entree.mot, entree.langue));
+      ecouter.setAttribute('aria-label', I18n.t(entree.langue === 'en'
+        ? 'fiche.ecouter' : 'fiche.ecouter-anglais'));
+      Voix.brancherBouton(ecouter, 'en');
+      ecouter.addEventListener('click', () => Voix.dire(aDire, 'en'));
       boutons.appendChild(ecouter);
     }
 

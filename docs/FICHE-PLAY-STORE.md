@@ -1,7 +1,9 @@
 # Fiche Play Store — Vocabulary (préparation, non publiée)
 
 Tout ce qu'il faudra saisir dans la Play Console, prêt à copier, **en français
-(langue par défaut) et en anglais**. Le site est en ligne pour essai sur
+(langue par défaut) et en anglais**. Depuis la version 1.2, l'application
+apprend l'anglais à un francophone (les fiches françaises ne sont plus que des
+ponts vers l'anglais) : la fiche le dit. Le site est en ligne pour essai sur
 GitHub Pages (https://cristo67000.github.io/vocabulary/) ; **rien n'est publié
 sur le Play Store** sans ton feu vert. La publication Android passe par une
 Trusted Web Activity (comme Code en clair) : voir « Ce qu'il restera à faire »
@@ -11,7 +13,7 @@ en bas.
 
 | Champ | Valeur |
 |---|---|
-| Nom de l'application (≤ 30) | FR : **Vocabulary : anglais-français** (29 signes) — EN : **Vocabulary: English-French** (26 signes) |
+| Nom de l'application (≤ 30) | FR : **Vocabulary : l’anglais vivant** (29 signes) — EN : **Vocabulary: learn English** (25 signes) |
 | Identifiant du paquet | `io.github.cristo67000.vocabulary` (définitif une fois publié) |
 | Langue par défaut | Français (France) – fr-FR ; traduction : English (United Kingdom) – en-GB |
 | Application ou jeu | Application |
@@ -26,46 +28,47 @@ en bas.
 ### Description courte (≤ 80)
 
 ```
-Dictionnaire anglais-français hors ligne : argot, IA, expressions, exercices.
+Apprendre l’anglais hors ligne : mots, argot, expressions, IA, exercices.
 ```
 
 ### Description complète (≤ 4 000)
 
 ```
-Vocabulary est un dictionnaire anglais ⇄ français qui fonctionne sans internet, pensé pour apprendre dans les deux sens : du français vers l'anglais et de l'anglais vers le français.
+Vocabulary apprend l'anglais aux francophones, sans internet : le vocabulaire d'aujourd'hui, l'argot, les expressions, les termes de la tech, et des exercices pour les retenir.
 
-UN VRAI DICTIONNAIRE, HORS LIGNE
-• Plus de 80 000 mots anglais et 115 000 mots français, avec définitions, traductions, prononciation britannique, formes (pluriels, verbes irréguliers, conjugaisons) et des milliers de phrases d'exemple traduites.
-• Recherche instantanée dans les deux langues, par le mot ou par une forme (« went » mène à « go », « chevaux » à « cheval »).
+UN DICTIONNAIRE D'ANGLAIS, HORS LIGNE
+• Plus de 80 000 mots et expressions anglais, avec définitions en anglais, traductions françaises, prononciation britannique, formes (pluriels, verbes irréguliers) et des milliers de phrases d'exemple traduites.
+• Tapez un mot français pour savoir le dire en anglais : la fiche donne les traductions sens par sens, avec des phrases dont l'anglais vient en premier.
+• Recherche instantanée par le mot ou par une forme (« went » mène à « go »).
 • Chaque sens porte son registre : familier, argot, britannique, américain, vieilli…
 
-LES MOTS D'AUJOURD'HUI, PAR MODULES
-• Mots courants et actuels : la maison, la cuisine, les transports, les émotions… et les mots de l'actualité (télétravail, streaming, écoanxiété, pouvoir d'achat).
-• Argot et abréviations : l'anglais familier britannique, l'argot français, le verlan, les abréviations des messages (lol, tbh, jsp, mdr).
-• Tech : IA, programmation et codage, définis dans les deux langues, avec des schémas.
+L'ANGLAIS D'AUJOURD'HUI, PAR MODULES
+• Mots courants et actuels : la maison, la cuisine, les transports, les émotions… et les mots de l'actualité (remote working, streaming, eco-anxiety, cost of living).
+• Argot et abréviations : l'anglais familier britannique, le parler des jeunes, les abréviations des messages (lol, tbh, idk) — et comment dire en anglais « relou », « avoir la flemme » ou « jsp ».
+• Tech : IA, programmation et codage — les termes anglais expliqués en français, avec des schémas et leurs équivalents officiels.
 • Expressions, proverbes, verbes à particule et faux amis (« actually » n'est pas « actuellement »).
 • Britannique ou américain : flat ou apartment, lift ou elevator.
 
 DES DESSINS POUR COMPRENDRE
-Prépositions de lieu et de temps, since / for / ago, les temps des verbes, l'heure, la famille, la maison, le corps, la météo, les directions : des dessins bilingues expliquent ce qu'une phrase explique mal.
+Prépositions de lieu et de temps, since / for / ago, les temps des verbes, l'heure, la famille, la maison, le corps, la météo, les directions : des dessins expliquent ce qu'une phrase explique mal.
 
 PHRASES ET DIALOGUES
-Des phrases toutes faites et de courts dialogues rangés par situation : se présenter, demander son chemin, à l'hôtel, au restaurant, au pub, chez le médecin, au téléphone, au travail. À écouter, à apprendre, et à jouer en prenant un rôle.
+Des phrases toutes faites et de courts dialogues en anglais, rangés par situation : se présenter, demander son chemin, à l'hôtel, au restaurant, au pub, chez le médecin, au téléphone, au travail. À écouter, à apprendre, et à jouer en prenant un rôle.
 
 POUR RETENIR VRAIMENT
-• Révision espacée : chaque mot revient au bon moment, dans les deux sens.
-• Exercices variés : reconnaître, écrire, traduire, compléter une phrase, retrouver la famille d'un mot, verbes irréguliers, pluriels.
+• Révision espacée : chaque mot revient au bon moment — comprendre l'anglais, puis savoir le dire.
+• Exercices variés : reconnaître, écrire, traduire, compléter une phrase, dictée, familles de mots, verbes irréguliers, pluriels.
 • Vos notes et vos exemples sur chaque fiche, vos propres mots et vos propres phrases.
 • Suivi des progrès, sauvegarde dans un fichier.
 
-VOIX BRITANNIQUE ET VOIX DE FRANCE
-L'application écoute avec la synthèse vocale de votre appareil, en choisissant d'abord une voix britannique pour l'anglais et une voix de France pour le français.
+VOIX BRITANNIQUE
+L'application lit l'anglais avec la synthèse vocale de votre appareil, en choisissant d'abord une voix britannique.
 
 HORS LIGNE, SANS COMPTE, SANS PUBLICITÉ
 Tout reste sur votre téléphone : ni compte, ni publicité, ni mesure d'audience. Les mots crus (jurons, insultes) sont présents pour qu'on les comprenne, mais masqués d'office.
 
 SOURCES LIBRES
-Wiktionary et Wiktionnaire, WikDict, Tatoeba, FranceTerme ; fiches des modules et phrases rédigées pour l'application.
+Wiktionary, WikDict, Tatoeba, FranceTerme ; fiches des modules et phrases rédigées pour l'application.
 ```
 
 ## English (en-GB)
@@ -73,40 +76,41 @@ Wiktionary et Wiktionnaire, WikDict, Tatoeba, FranceTerme ; fiches des modules e
 ### Short description (≤ 80)
 
 ```
-Offline English-French dictionary: slang, AI terms, idioms and exercises.
+Learn English offline: everyday words, slang, idioms, tech terms, exercises.
 ```
 
 ### Full description (≤ 4,000)
 
 ```
-Vocabulary is an English ⇄ French dictionary that works without the internet, designed for learning in both directions: English to French and French to English.
+Vocabulary teaches English to French speakers, offline: today's vocabulary, slang, idioms, tech terms, and exercises to make them stick.
 
-A REAL DICTIONARY, OFFLINE
-• Over 80,000 English words and 115,000 French words, with definitions, translations, British pronunciation, word forms (plurals, irregular verbs, conjugations) and thousands of translated example sentences.
-• Instant search in both languages, by the word or by any of its forms (“went” leads to “go”).
+AN ENGLISH DICTIONARY, OFFLINE
+• Over 80,000 English words and phrases, with English definitions, French translations, British pronunciation, word forms (plurals, irregular verbs) and thousands of translated example sentences.
+• Type a French word to find how to say it in English: the entry gives the translations meaning by meaning, with example sentences in English first.
+• Instant search by the word or by any of its forms (“went” leads to “go”).
 • Every sense shows its register: informal, slang, British, American, dated…
 
-TODAY'S WORDS, IN MODULES
+TODAY'S ENGLISH, IN MODULES
 • Everyday and current words: home, food, transport, feelings… and the words of the moment (remote working, streaming, eco-anxiety, cost of living).
-• Slang and abbreviations: British informal English, French slang, verlan, texting abbreviations (lol, tbh, jsp, mdr).
-• Tech: AI, programming and coding terms defined in both languages, with diagrams.
+• Slang and abbreviations: British informal English, youth slang, texting abbreviations (lol, tbh, idk) — and how to say French slang in English.
+• Tech: AI, programming and coding — English terms explained in French, with diagrams and their official French equivalents.
 • Idioms, proverbs, phrasal verbs and false friends (“actually” is not « actuellement »).
 • British or American: flat or apartment, lift or elevator.
 
 PICTURES THAT EXPLAIN
-Prepositions of place and time, since / for / ago, tenses, telling the time, family, home, the body, the weather, directions: bilingual drawings explain what a sentence explains badly.
+Prepositions of place and time, since / for / ago, tenses, telling the time, family, home, the body, the weather, directions: drawings explain what a sentence explains badly.
 
 PHRASES AND DIALOGUES
-Ready-made phrases and short dialogues for everyday situations: introducing yourself, asking the way, at the hotel, in a restaurant, at the pub, at the doctor's, on the phone, at work. Listen, learn, and play a role.
+Ready-made English phrases and short dialogues for everyday situations: introducing yourself, asking the way, at the hotel, in a restaurant, at the pub, at the doctor's, on the phone, at work. Listen, learn, and play a role.
 
 REMEMBER FOR GOOD
-• Spaced repetition: each word comes back at the right time, in both directions.
-• Varied exercises: recognise, write, translate, fill the gap, word families, irregular verbs, plurals.
+• Spaced repetition: each word comes back at the right time — understanding English, then saying it.
+• Varied exercises: recognise, write, translate, fill the gap, dictation, word families, irregular verbs, plurals.
 • Your own notes and examples on every entry, your own words and phrases.
 • Progress tracking, backup to a file.
 
-BRITISH AND FRENCH (FRANCE) VOICES
-The app speaks with your device's text-to-speech, choosing a British voice for English and a voice from France for French first.
+A BRITISH VOICE
+The app reads English aloud with your device's text-to-speech, choosing a British voice first.
 
 OFFLINE, NO ACCOUNT, NO ADS
 Everything stays on your phone: no account, no ads, no analytics. Crude words (swearing, insults) are included so you can understand them, but hidden by default.

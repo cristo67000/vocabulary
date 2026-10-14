@@ -71,10 +71,6 @@
     { nom: 'phrase', type: 'paire-phrase', carte: 'inverse' },
     { nom: 'ecoute', type: 'ecoute', carte: 'vedette',
       possible: (etat) => Voix.possible(etat.langue) || 'atelier.raison.voix' },
-    { nom: 'conjugaison', type: 'conjugaison', carte: 'vedette',
-      possible: (etat) => etat.langue === 'fr' || 'atelier.raison.francais' },
-    { nom: 'article', type: 'saisie-article', carte: 'vedette',
-      possible: (etat) => etat.langue === 'fr' || 'atelier.raison.francais' },
     { nom: 'synonyme', type: 'synonyme', carte: 'vedette' },
   ];
 
@@ -198,7 +194,6 @@
    * de poser une question sans réponse.
    */
   function convient(atelier, entree) {
-    if (atelier.type === 'saisie-article') return !!Exercices.avecArticle(entree);
     if (atelier.type === 'pluriel') {
       const pluriel = Exercices.formeFlechie(entree, 'pl');
       return !!pluriel && pluriel.graphie !== entree.mot
@@ -206,8 +201,7 @@
     }
     if (atelier.nom === 'irreguliers') return Exercices.estIrregulier(entree);
     if (atelier.type === 'conjugaison') {
-      return ['part', 'pres1', 'pres3', 'pres4', 'pres6', 'imp3', 'past', 'pp']
-        .some((code) => Exercices.formeFlechie(entree, code));
+      return ['past', 'pp', '3sg'].some((code) => Exercices.formeFlechie(entree, code));
     }
     if (atelier.type === 'famille') return (entree.voisins || []).length >= 2;
     if (atelier.type === 'synonyme') return Exercices.synonymesDe(entree).length > 0;
@@ -247,10 +241,16 @@
 
   // ── L'écran ───────────────────────────────────────────────────────────────
 
+  /* Sur des mots français, un exercice dont la réponse est le mot lui-même
+   * ferait écrire du français à un francophone : seuls restent ceux qui
+   * attendent l'anglais — reconnaître, traduire, apparier une phrase. */
   function raisonDe(atelier) {
-    if (!atelier.possible) return null;
-    const verdict = atelier.possible(etat);
-    return verdict === true ? null : verdict;
+    if (atelier.possible) {
+      const verdict = atelier.possible(etat);
+      if (verdict !== true) return verdict;
+    }
+    if (etat.langue === 'fr' && atelier.carte === 'vedette') return 'atelier.raison.reponse-fr';
+    return null;
   }
 
   function segments(nom, valeurs, courant, cle, surChoix) {

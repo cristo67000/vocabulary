@@ -13,8 +13,7 @@
  * Carte « produire la vedette » — on ne voit que « haricot » :
  *
  *   1re fois     choisir       parmi quatre mots étrangers
- *   2e fois      écrire        au clavier (un nom français avec son article,
- *                              si le réglage le demande)
+ *   2e fois      écrire        au clavier
  *   ensuite      alterner      écriture, phrase à trou, écoute
  *
  * Carte « produire la traduction » — on ne voit que « bean » :
@@ -34,10 +33,10 @@
  * premier jour, rien ne permettait d'en réclamer un. Un exercice qu'on ne peut
  * pas demander est un exercice qui n'existe pas pour l'utilisateur.
  *
- * Le genre des noms **français** peut s'exiger à l'écrit (réglage « Écrire
- * les noms français avec un / une ») : c'est la faute la plus tenace d'un
- * anglophone, qui n'a rien de tel dans sa langue. Pour un francophone qui
- * apprend l'anglais, l'exigence n'apprend rien : elle est coupée d'office.
+ * L'application apprend l'anglais à un francophone : un exercice dont la
+ * réponse est française ne lui demande que de reconnaître l'anglais de
+ * l'énoncé. La phrase à trou et l'écoute, qui feraient travailler le
+ * français, ne portent donc que sur les mots anglais.
  *
  * L'anglais a ses pièges à lui, et ses exercices : les **verbes irréguliers**
  * (*go, went, gone*), les **pluriels irréguliers** (*mouse, mice*), les
@@ -53,27 +52,14 @@
  * gêne pas. Une lettre de travers donne « presque » et une seconde chance.
  * Compter faux ce qui n'est qu'une étourderie décourage sans rien enseigner ;
  * l'accepter en silence laisse l'erreur s'installer.
- *
- * Au palier exigeant (noms français), l'article oublié vaut « presque » et
- * l'article faux vaut « faux ». Ce n'est pas la même erreur : ne pas écrire
- * l'article est une étourderie, écrire « un maison » est une croyance — et une
- * croyance qu'on ne corrige pas tient des années.
  */
 (function (racine) {
 
-  /* Les articles, et ce que chacun enseigne.
-   *
-   * Trois tables plutôt qu'une, parce qu'elles répondent à trois questions
-   * distinctes : quel article il faut savoir, ce qu'un article tapé dit du
-   * genre, et lesquels on reconnaît sans les avoir demandés.
-   *
-   * En français on demande « un / une » et non « le / la », comme la fiche :
-   * devant une voyelle l'article défini s'élide et cesse justement de dire ce
-   * qu'on cherche à faire apprendre.
-   *
-   * C'est la seule copie de cette table : `Fiche` s'y réfère plutôt que d'en
-   * tenir une seconde, qui finirait par en différer sans que rien ne le dise.
-   */
+  /* Les articles. Ils ne se réclament plus — l'exigence « un / une »
+   * servait l'anglophone qui apprend le genre français —, mais une réponse
+   * qui en porte un reste juste : « la maison » vaut « maison », « the house »
+   * vaut « house ». `ARTICLES` nomme encore le genre d'un nom français dans le
+   * formulaire des mots à soi. */
   const ARTICLES = {
     fr: { masc: 'un', fem: 'une' },
   };
@@ -82,10 +68,9 @@
     fr: { un: 'masc', le: 'masc', une: 'fem', la: 'fem' },
   };
 
-  /* Du bon français, mais qui n'apprend pas le genre : un article élidé ou
-   * pluriel. On les reconnaît pour pouvoir les corriger. En anglais,
-   * l'article et le « to » de l'infinitif se tolèrent partout : on les
-   * reconnaît pour les retirer avant de comparer. */
+  /* Les autres articles qu'on reconnaît pour les retirer avant de comparer :
+   * élidés ou pluriels en français, et en anglais l'article et le « to » de
+   * l'infinitif. */
   const AUTRES_ARTICLES = {
     fr: ['l', 'les', 'des', 'du'],
     en: ['the', 'a', 'an', 'to'],
@@ -204,18 +189,6 @@
     return Lexique.estExpression(entree);
   }
 
-  /* Le mot précédé de son article, sous chacun de ses genres — ou null quand la
-   * question ne se pose pas : ce n'est pas un nom français, ou son genre est
-   * absent des données — interroger sur ce qu'on ignore soi-même n'apprend
-   * rien à personne. */
-  function avecArticle(entree) {
-    const table = ARTICLES[entree.langue];
-    if (!table || !estNom(entree) || estExpression(entree)) return null;
-    const genres = genresDe(entree).filter((genre) => table[genre]);
-    if (!genres.length) return null;
-    return { genres, formes: genres.map((genre) => table[genre] + ' ' + entree.mot) };
-  }
-
   // ── Correction ────────────────────────────────────────────────────────────
 
   function nettoyer(texte) {
@@ -265,9 +238,8 @@
     return { article: null, mot: texte };
   }
 
-  /* Hors du palier exigeant, l'article est facultatif : « the house » et
-   * « house » valent la même réponse, « la maison » et « maison » aussi, et
-   * « to go » vaut « go ». */
+  /* L'article est facultatif : « the house » et « house » valent la même
+   * réponse, « la maison » et « maison » aussi, et « to go » vaut « go ». */
   function sansArticle(texte, langue) {
     if (langue !== 'en' && langue !== 'fr') return texte;
     return decouper(texte, langue).mot;
@@ -356,56 +328,6 @@
     return { verdict: 'faux', attendu: candidats[0], remarque: null };
   }
 
-  /* Le palier exigeant : le mot **et** son article.
-   *
-   * Le mot d'abord — sans lui il n'y a rien à discuter. Puis l'article, dont
-   * les manquements ne se valent pas :
-   *
-   *   absent            « presque » : le mot est su, et jusqu'ici on ne
-   *                     réclamait pas l'article ; l'oubli est une habitude
-   *   pas celui qu'on   « presque » : « les maisons », « l'abeille »
-   *   apprend           sont corrects mais n'enseignent pas le genre, on
-   *                     rappelle la forme à retenir
-   *   d'un autre genre  faux : c'est la faute que ce palier existe pour
-   *                     déloger, l'accepter la laisserait s'installer
-   */
-  function corrigerAvecArticle(brut, candidats, reglages) {
-    const langue = reglages.langue || 'fr';
-    const genres = reglages.genres || [];
-    const table = ARTICLES[langue] || {};
-
-    const saisie = decouper(brut, langue);
-    const nus = candidats.map((candidat) => decouper(candidat, langue).mot);
-    const mot = comparerMot(saisie.mot, nus, reglages);
-    if (mot.verdict === 'faux') {
-      return { verdict: 'faux', attendu: candidats[0], remarque: null };
-    }
-
-    /* Le mot y est. La forme complète à montrer prend l'article attendu — et
-     * s'il y en a deux, « un livre » l'ouvrage et « une livre » le poids,
-     * celui qui a été tapé fait foi : on ne corrige pas une réponse juste. */
-    const tape = (GENRE_DE_L_ARTICLE[langue] || {})[saisie.article] || null;
-    const genre = genres.indexOf(tape) !== -1 ? tape : genres[0];
-    const complet = (table[genre] ? table[genre] + ' ' : '') + mot.attendu;
-
-    if (!saisie.article) {
-      return { verdict: 'presque', attendu: complet,
-               remarque: { cle: 'exercice.remarque.article-manque',
-                           valeurs: { mot: complet } } };
-    }
-    if (!tape) {
-      return { verdict: 'presque', attendu: complet,
-               remarque: { cle: 'exercice.remarque.article-forme',
-                           valeurs: { mot: complet } } };
-    }
-    if (genres.indexOf(tape) === -1) {
-      return { verdict: 'faux', attendu: complet,
-               remarque: { cle: 'exercice.remarque.article-faux',
-                           valeurs: { mot: complet } } };
-    }
-    return { verdict: mot.verdict, attendu: complet, remarque: mot.remarque };
-  }
-
   /* Compare une saisie à une liste de réponses acceptables.
    *
    * Renvoie { verdict, attendu, remarque } où verdict vaut
@@ -422,9 +344,7 @@
     }
     const verdict = reglages.phrase
       ? comparerPhrase(brut, candidats)
-      : (reglages.articleExige
-        ? corrigerAvecArticle(brut, candidats, reglages)
-        : comparerMot(brut, candidats, reglages));
+      : comparerMot(brut, candidats, reglages);
     /* Une réponse juste pour un autre sens que celui demandé n'est pas fausse
      * — on connaît l'expression —, mais ce n'est pas la réponse à la question
      * posée : « presque », et la remarque dit lequel des sens on demandait. */
@@ -571,21 +491,17 @@
       return auHasard(possibles);
     }
 
-    /* Direction « produire » : il faut ressortir la vedette.
-     *
-     * Un nom français s'écrit avec son article si le réglage le demande
-     * (coupé d'office : il sert qui apprend le français). */
-    const exigeante = reglages.exigerArticle === true && !!avecArticle(entree);
-    const ecrire = exigeante ? 'saisie-article' : 'saisie';
-
+    /* Direction « produire » : il faut ressortir la vedette. */
     if (vues === 0) return 'qcm-produire';
-    if (vues === 1) return ecrire;
+    if (vues === 1) return 'saisie';
 
     // Ensuite on varie. La phrase à trou n'est proposée que si une phrase
-    // existe, l'écoute que si une voix est installée.
-    const possibles = [ecrire, ecrire];
-    if (phrases && phrases.length) possibles.push('trou');
-    if (Voix.possible(carte.langue)) possibles.push('ecoute');
+    // existe, l'écoute que si une voix est installée — et l'une comme l'autre
+    // pour un mot anglais seulement : sur « maison », elles feraient
+    // travailler le français.
+    const possibles = ['saisie', 'saisie'];
+    if (carte.langue === 'en' && phrases && phrases.length) possibles.push('trou');
+    if (carte.langue === 'en' && Voix.possible('en')) possibles.push('ecoute');
     // Un verbe anglais irrégulier revient aussi par ses temps primitifs.
     if (carte.langue === 'en' && estIrregulier(entree)) possibles.push('conjugaison');
     return auHasard(possibles);
@@ -696,10 +612,9 @@
      * pour le clavier d'accents et pour la correction. */
     if (type === 'saisie-traduction') {
       const autre = carte.langue === 'en' ? 'fr' : 'en';
-      const forme = entree.conversation ? null : avecArticle(entree);
       return {
         type, carte, entree,
-        enonce: forme ? forme.formes[0] : entree.mot,
+        enonce: entree.mot,
         attendu: reponses[0],
         /* Toutes les traductions enregistrées sont acceptées : « no
          * worries » se dit « pas de souci » ou « pas de problème », et les
@@ -733,9 +648,7 @@
      * pour l'anglais, les temps primitifs — prétérit et participe passé —,
      * c'est-à-dire ce qu'on apprend par cœur des verbes irréguliers. */
     if (type === 'conjugaison') {
-      const codes = (entree.langue === 'en' ? ['past', 'pp', '3sg']
-        : ['part', 'pres1', 'pres3', 'pres4', 'pres6', 'imp3'])
-        .filter((code) => formeFlechie(entree, code));
+      const codes = ['past', 'pp', '3sg'].filter((code) => formeFlechie(entree, code));
       if (codes.length) {
         const code = auHasard(codes);
         const cible = formeFlechie(entree, code);
@@ -772,25 +685,6 @@
           .concat(leurres.map((a) => ({ texte: a.mot, juste: false }))));
         return { type, carte, entree, enonce: entree.mot, options: choix,
                  attendu: bonne, langueReponse: carte.langue };
-      }
-    }
-
-    if (type === 'saisie-article') {
-      /* `avecArticle` a déjà répondu oui dans `typeDExercice` ; on le redemande
-       * plutôt que de le supposer, et à défaut la saisie ordinaire reprend la
-       * main en fin de fonction — une question ne doit jamais manquer. */
-      const forme = avecArticle(entree);
-      if (forme) {
-        return {
-          type, carte, entree,
-          enonce: reponses.slice(0, 2).join(', '),
-          attendu: forme.formes[0],
-          attendus: forme.formes,
-          genres: forme.genres,
-          articleExige: true,
-          estNom: true,
-          langueReponse: carte.langue,
-        };
       }
     }
 
@@ -941,7 +835,7 @@
     ARTICLES, vivierDeLeurres,
     corriger, comparerPhrase, clePhrase, distancePour: distance, nettoyer, decouper,
     traductions, montrables, sensMontrable, genreDe, genresDe, estNom, estExpression,
-    avecArticle, formeFlechie, synonymesDe, estIrregulier, estPlurielIrregulier,
+    formeFlechie, synonymesDe, estIrregulier, estPlurielIrregulier,
     famille, questionDeFamille,
     preparer, typeDExercice, trouer, melanger, phrasesDe,
   };

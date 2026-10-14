@@ -24,12 +24,17 @@ l'exigent. Les moutures exactes des fichiers téléchargés sont notées dans
   (mots anglais, et mots français glosés en anglais) et le Wiktionnaire
   français complet.
 - **Licence** : celles du Wiktionnaire, CC BY-SA et GFDL.
-- **Usage** : définitions dans la langue du mot, exemples sens par sens,
-  marques d'usage (familier, argot, britannique…), prononciation britannique
-  (transcription marquée UK ou RP d'abord, jamais une forme partielle),
-  synonymes, dérivés, tableaux de formes, traductions des mots que WikDict
-  ignore, gloses croisées (l'argot et les abréviations, traduits par l'édition
-  d'en face). Extraits compacts : `build/sources/wikt-en.jsonl`, `wikt-fr.jsonl`.
+- **Usage** : pour les mots anglais, définitions anglaises, exemples sens par
+  sens, marques d'usage (familier, argot, britannique…), prononciation
+  britannique (transcription marquée UK ou RP d'abord, jamais une forme
+  partielle), synonymes, dérivés, tableaux de formes ; pour les mots français
+  (des ponts vers l'anglais depuis la 1.2), les traductions anglaises, les
+  marques d'usage et un **repère** de quelques mots tiré de la définition,
+  quand il faut distinguer les sens — ni citation, ni prononciation, ni
+  conjugaison, ni synonymes français ne sont livrés. Aussi : traductions des
+  mots que WikDict ignore, gloses croisées (l'argot et les abréviations,
+  traduits par l'édition d'en face). Extraits compacts :
+  `build/sources/wikt-en.jsonl`, `wikt-fr.jsonl`.
 
 ## 3. Tatoeba — les phrases d'exemple traduites
 
@@ -51,8 +56,10 @@ l'exigent. Les moutures exactes des fichiers téléchargés sont notées dans
 - Base des termes recommandés au *Journal officiel* par la Commission
   d'enrichissement de la langue française, sur data.gouv.fr.
 - **Licence** : Licence Ouverte / Open Licence (Etalab).
-- **Usage** : les équivalents français officiels des termes du numérique et
-  des anglicismes courants (modules « Tech » et « Mots courants et actuels »).
+- **Usage** : les termes anglais du numérique et les anglicismes courants,
+  mis en vedette avec leur équivalent français officiel et sa définition
+  (modules « Tech » et « Mots courants et actuels ») ; un terme qui a déjà sa
+  fiche anglaise y reçoit l'équivalent officiel parmi ses traductions.
 
 ## 6. Code en clair — le glossaire du codage
 

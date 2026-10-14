@@ -39,12 +39,6 @@ function titre(texte) {
 
 // ── La correction des réponses ─────────────────────────────────────────────
 
-/* Le palier exigeant : un nom français s'écrit avec son article, qui dit le
- * genre. */
-const FR_FEM = { langue: 'fr', estNom: true, articleExige: true, genres: ['fem'] };
-const FR_MASC = { langue: 'fr', estNom: true, articleExige: true, genres: ['masc'] };
-const FR_DEUX = { langue: 'fr', estNom: true, articleExige: true, genres: ['masc', 'fem'] };
-
 const AUTRE_SENS = { langue: 'en', estNom: false, autresSens: ['slowly', 'little by little'],
                      contexte: 'Cuire à petit feu.' };
 
@@ -71,18 +65,9 @@ const CAS = [
   ['maisone',       ['maison'],             { langue: 'fr' },               'presque', null],
   ['voiture',       ['maison'],             { langue: 'fr' },               'faux',    null],
   ['la maison',     ['maison'],             { langue: 'fr' },               'juste',   null],
-
-  // Le nom français avec son article : le palier exigeant.
-  ['une maison',    ['une maison'],         FR_FEM,                         'juste',   null],
-  ['la maison',     ['une maison'],         FR_FEM,                         'juste',   null],
-  ['un maison',     ['une maison'],         FR_FEM,                         'faux',    'article-faux'],
-  ['maison',        ['une maison'],         FR_FEM,                         'presque', 'article-manque'],
-  ['un évier',      ['un évier'],           FR_MASC,                        'juste',   null],
-  // L'article élidé est du bon français, mais il ne dit pas le genre.
-  ['l’évier',       ['un évier'],           FR_MASC,                        'presque', 'article-forme'],
-  // « livre » : l'ouvrage et le poids — les deux articles sont justes.
-  ['une livre',     ['un livre', 'une livre'], FR_DEUX,                     'juste',   null],
-  ['le livre',      ['un livre', 'une livre'], FR_DEUX,                     'juste',   null],
+  // L'article ne se réclame pas, mais il ne gêne pas : élidé ou non.
+  ['une maison',    ['maison'],             { langue: 'fr', estNom: true }, 'juste',   null],
+  ['l’évier',       ['évier'],              { langue: 'fr', estNom: true }, 'juste',   null],
 
   // Une question qui vise un sens : l'autre sens n'est pas faux, il est
   // « presque » ; une réponse étrangère aux deux reste fausse.
@@ -123,21 +108,18 @@ function comprendre(langue, mot, reussites) {
   return { type: 'vers-' + (langue === 'en' ? 'fr' : 'en'), langue, mot, tranche: 0, reussites };
 }
 
-const MAISON = entree('fr', 'maison', [['n', 'fem', 'mɛ.zɔ̃', [], [['', ['house', 'home']]]]]);
-const LIVRE = entree('fr', 'livre', [['n', 'masc', 'livʁ', [], [['', ['book']]]],
-                                     ['n', 'fem', 'livʁ', [], [['', ['pound']]]]]);
-const ALLER = entree('fr', 'aller', [['v', '', 'a.le', [], [['', ['go']]]]]);
+const MAISON = entree('fr', 'maison', [['n', 'fem', '', [], [['', ['house', 'home']]]]]);
 const HOUSE = entree('en', 'house', [['n', '', 'haʊs', [], [['', ['maison']]]]]);
+const PHRASES = [{ en: 'This is my house.', fr: 'C’est ma maison.' }];
+
+/* Le même tirage cent fois : les exercices variés se choisissent au hasard. */
+function tirages(carte, entreeTiree, phrases) {
+  const vus = new Set();
+  for (let i = 0; i < 100; i += 1) vus.add(E.typeDExercice(carte, entreeTiree, phrases));
+  return vus;
+}
 
 const PALIERS = [
-  ['un nom français donne son article et son genre',
-    () => JSON.stringify(E.avecArticle(MAISON)) === '{"genres":["fem"],"formes":["une maison"]}'],
-  ['un nom à deux genres donne les deux formes',
-    () => E.avecArticle(LIVRE).formes.join(' · ') === 'un livre · une livre'],
-  ['un verbe n’a pas d’article à réclamer',
-    () => E.avecArticle(ALLER) === null],
-  ['un nom anglais non plus',
-    () => E.avecArticle(HOUSE) === null],
   ['une carte nomme la langue de sa réponse',
     () => R0.produitLaVedette(produire('fr', 'maison', 0)) === true
        && R0.produitLaVedette(comprendre('fr', 'maison', 0)) === false],
@@ -145,11 +127,13 @@ const PALIERS = [
     () => E.typeDExercice(produire('en', 'house', 0), HOUSE, []) === 'qcm-produire'],
   ['puis fait écrire le mot',
     () => E.typeDExercice(produire('en', 'house', 1), HOUSE, []) === 'saisie'],
-  ['l’article n’est réclamé que si on le demande',
-    () => E.typeDExercice(produire('fr', 'maison', 1), MAISON, []) === 'saisie'
-       && E.typeDExercice(produire('fr', 'maison', 1), MAISON, [], { exigerArticle: true }) === 'saisie-article'],
-  ['un verbe reste à la saisie ordinaire, même exigeant',
-    () => E.typeDExercice(produire('fr', 'aller', 1), ALLER, [], { exigerArticle: true }) === 'saisie'],
+  ['un nom français s’écrit sans article',
+    () => E.typeDExercice(produire('fr', 'maison', 1), MAISON, []) === 'saisie'],
+  ['un mot anglais revient aussi en phrase à trou',
+    () => tirages(produire('en', 'house', 3), HOUSE, PHRASES).has('trou')],
+  ['un mot français, jamais : la phrase à trou ferait travailler le français',
+    () => { const vus = tirages(produire('fr', 'maison', 3), MAISON, PHRASES);
+            return vus.size === 1 && vus.has('saisie'); }],
   ['comprendre commence par reconnaître le sens',
     () => E.typeDExercice(comprendre('en', 'house', 0), HOUSE, []) === 'qcm-comprendre'],
   ['puis fait écrire la traduction',

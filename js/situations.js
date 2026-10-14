@@ -14,9 +14,10 @@
  * ── La langue principale ───────────────────────────────────────────────────
  *
  * Chaque phrase se lit dans une langue en grand et dans l'autre en dessous.
- * Laquelle en grand est un réglage — la langue qu'on apprend, d'ordinaire,
- * c'est-à-dire l'autre que celle de l'interface —, commutable d'un geste et
- * retenu d'une fois sur l'autre. Les traductions se masquent d'un second
+ * Laquelle en grand est un réglage — l'anglais, qu'on apprend, d'office,
+ * même dans une interface anglaise —, commutable d'un geste et retenu d'une
+ * fois sur l'autre : mettre le français en grand, c'est s'exercer à trouver
+ * l'anglais. Les traductions se masquent d'un second
  * geste : c'est le premier exercice, avant tout planificateur.
  *
  * ── Jouer un rôle ne note rien ─────────────────────────────────────────────
@@ -68,7 +69,7 @@
   }
 
   function langueParDefaut() {
-    return I18n.langue === 'en' ? 'fr' : 'en';
+    return 'en';
   }
 
   function languePrincipale() {
@@ -101,6 +102,8 @@
     return element('span', 'conv-registre ' + registre, I18n.t('conv.registre.' + registre));
   }
 
+  /* On n'écoute que l'anglais : la phrase française, un francophone sait la
+   * dire. Les appelants passent donc toujours le texte anglais. */
   function boutonEcouter(texte, langue, options) {
     const reglagesBouton = options || {};
     const bouton = element('button', reglagesBouton.classe || 'ecouter',
@@ -289,7 +292,7 @@
     }
     bouton.addEventListener('click', () => App.ouvrirFiche({ conversation: p.id }));
     li.appendChild(bouton);
-    li.appendChild(boutonEcouter(texteDe(p, langue), langue, { court: true, classe: 'ecouter-phrase conv-ecoute-ligne' }));
+    li.appendChild(boutonEcouter(texteDe(p, 'en'), 'en', { court: true, classe: 'ecouter-phrase conv-ecoute-ligne' }));
     return li;
   }
 
@@ -502,7 +505,7 @@
       const p = element('p');
       p.appendChild(MotsVifs.tisser(textes[l], l, {}));
       ligne.appendChild(p);
-      ligne.appendChild(boutonEcouter(textes[l], l, {}));
+      if (l === 'en') ligne.appendChild(boutonEcouter(textes[l], l, {}));
       bloc.appendChild(ligne);
     }
 
@@ -528,7 +531,7 @@
           const variante = element('span');
           variante.appendChild(MotsVifs.tisser(v, l, {}));
           li.appendChild(variante);
-          li.appendChild(boutonEcouter(v, l, { court: true, classe: 'ecouter-phrase' }));
+          if (l === 'en') li.appendChild(boutonEcouter(v, l, { court: true, classe: 'ecouter-phrase' }));
           ul.appendChild(li);
         }
       }
@@ -764,7 +767,7 @@
       }
 
       const actions = element('div', 'replique-actions');
-      actions.appendChild(boutonEcouter(texteDe(replique, langue), langue,
+      actions.appendChild(boutonEcouter(texteDe(replique, 'en'), 'en',
         { court: true, classe: 'ecouter-phrase' }));
       const entree = Conversation.entree(replique.idComplet);
       if (entree) actions.appendChild(boutonApprendre(entree, true));

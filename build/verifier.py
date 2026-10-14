@@ -198,6 +198,9 @@ def verifier_paquet(nom, manifeste):
         expressions_vues.setdefault(langue, 0)
         sans_genre = coupees = sans_traduction = 0
         sens_total = sens_illustres = avec_flexion = 0
+        # Une fiche française n'est qu'un pont vers l'anglais (construire.py,
+        # `repere`) : ce qui l'alourdirait encore est compté, et doit être nul.
+        francais_en_trop = 0
         pieges_vus = {}
         for numero, attendus in sorted(par_tranche.items()):
             chemin = dossier / f"{langue}-{numero:03d}.json"
@@ -232,11 +235,16 @@ def verifier_paquet(nom, manifeste):
                         sans_genre += 1
                     if flexion:
                         avec_flexion += 1
+                    if langue == "fr" and (lecture[2] or lecture[3] or flexion
+                                           or (len(lecture) > 6 and lecture[6])):
+                        francais_en_trop += 1
                     for bloc in sens:
                         definition, traductions = bloc[0], bloc[1]
                         citations = bloc[2] if len(bloc) > 2 else []
                         phrases_du_sens = bloc[3] if len(bloc) > 3 else []
                         sens_total += 1
+                        if langue == "fr" and citations:
+                            francais_en_trop += 1
                         if citations or phrases_du_sens:
                             sens_illustres += 1
                         if not traductions:
@@ -269,10 +277,19 @@ def verifier_paquet(nom, manifeste):
         part = 100 * sens_illustres / max(sens_total, 1)
         dire(f"  · {langue} : {sens_illustres}/{sens_total} sens illustrés "
              f"({part:.1f} %), {avec_flexion} lectures avec tableau de formes")
+        # La promesse vaut pour l'anglais, qu'on apprend. Un sens français n'a
+        # d'exemple que si Tatoeba en a un, dont l'autre moitié est anglaise.
         seuil = 60 if nom == "noyau" else 50
-        if part < seuil:
+        if langue == "en" and part < seuil:
             anomalie(f"{langue} : seuls {part:.1f} % des sens ont un exemple — "
                      f"la promesse « une phrase par signification » n'est pas tenue")
+        if langue == "fr":
+            if sans_traduction:
+                anomalie(f"fr : {sans_traduction} sens sans traduction anglaise — "
+                         f"un pont qui ne mène nulle part")
+            if francais_en_trop:
+                anomalie(f"fr : {francais_en_trop} lectures ou sens portent encore "
+                         f"citations, prononciation, formes ou synonymes français")
 
         manquants = [m for m in MOTS_PIEGES.get(langue, ()) if m not in pieges_vus]
         if manquants and nom == "complet":

@@ -90,7 +90,9 @@ abandonniez	8,er
 abandonnons	8,er
 abandons	7,
 abandouner	6,nner
+abatage	4,tage
 abats	4,|4,tre
+abattages	8,
 abattaient	5,re
 abattant	5,re
 abatte	5,re
@@ -111,7 +113,11 @@ abattus	6,|5,re
 abbayes	6,
 abbes	4,
 abbesse	4,
+abdala	5,lah
+abdalah	5,lah
+abdalla	7,h
 abdomens	7,
+abdullah	3,allah
 abeilles	7,
 abelle	4,
 abima	4,er
@@ -260,7 +266,10 @@ acceleraient	7,er
 accelerais	7,er
 accelerait	7,er
 accelerant	7,er
+accelerateurs	12,
 accelerations	12,
+acceleratrice	9,eur
+acceleratrices	9,eur
 accelere	8,r
 acceleree	8,|8,r
 accelerees	8,
@@ -378,7 +387,6 @@ accouchements	12,
 accouchera	9,
 accouchez	8,r
 accouchons	7,er
-accreditations	13,
 accrocha	7,er
 accrochai	7,er
 accrochaient	7,er
@@ -484,6 +492,7 @@ achevant	5,er
 acheve	6,r
 achevee	6,|6,r
 achevees	6,
+achevements	10,
 achevera	7,
 acheverent	7,
 acheves	6,|6,r
@@ -721,7 +730,6 @@ affaiblis	8,r
 affaiblissait	8,r
 affaiblissant	8,r
 affaiblisse	8,r
-affaiblissements	15,
 affaiblissent	8,r
 affaiblissez	8,r
 affaiblissons	8,r
@@ -761,7 +769,12 @@ affichons	6,er
 affiliee	7,
 affiliees	7,
 affilies	7,
+affinant	5,er
+affine	6,r
+affinee	6,r
+affinez	6,r
 affinites	8,
+affinons	5,er
 affirma	6,er
 affirmait	6,er
 affirmant	6,er
@@ -772,6 +785,9 @@ affirmerent	8,
 affirmez	7,r
 affirmons	6,er
 affluences	9,
+affluente	8,
+affluentes	8,
+affluents	8,
 affranchi	9,r
 affranchie	9,r
 affranchis	9,r
@@ -975,6 +991,7 @@ aines	4,
 ainsis	5,
 aires	4,
 airs	3,
+aisances	7,
 aisee	4,
 aisees	4,
 aises	4,
@@ -1020,6 +1037,9 @@ albums	5,
 alcohol	4,ol
 alcoholique	4,olique
 alcooliques	10,
+alcoolisee	9,
+alcoolisees	9,
+alcoolises	9,
 alcools	6,
 aleas	4,
 aleatoires	9,
@@ -1044,7 +1064,6 @@ algerienne	8,
 algeriennes	8,
 algeriens	8,
 algorithmes	10,
-algorithmiques	13,
 algues	5,
 alienne	5,
 aliennes	5,
@@ -1107,9 +1126,9 @@ allez	4,r
 alliages	7,
 alliances	8,
 alliant	4,er
-allie	5,r
+allie	5,e|5,r
 alliee	5,
-alliees	5,|5,r
+alliees	5,|6,|5,r
 alliers	6,
 allies	5,
 alliez	3,er|5,r
@@ -1171,7 +1190,10 @@ alsacien	0,chat
 alsacienne	8,
 alsaciennes	8,
 alsaciens	8,
+alt+f4	3, f4
+alt-f4	3, f4
 alterant	5,er
+alterations	10,
 altere	6,r
 alteree	6,r
 alteres	6,r
@@ -1181,6 +1203,7 @@ alternatifs	10,
 alternative	9,f
 alternatives	9,f|11,
 alterons	5,er
+altesses	7,
 altitudes	8,
 aluminiums	9,
 alyce	0,alice
@@ -1272,12 +1295,14 @@ amers	4,
 amertumes	8,
 ames	3,
 ami	3,e
+amiables	7,
 amicable	5,l
 amicale	6,
 amicales	6,|7,
 amicaux	5,l
 amie	3,
 amies	3,|4,
+amira	4,
 amirale	6,
 amirales	6,
 amiralesse	6,
@@ -1286,13 +1311,9 @@ amis	3,
 amities	6,
 amix	3,
 ami·e	3,
+amnisties	8,
 amonts	5,
-amorca	5,er
-amorcant	5,er
-amorce	6,r
 amorces	6,
-amorcez	6,r
-amorcons	5,er
 amoureuse	7,x
 amoureuses	7,x|9,
 amoureux	7,se
@@ -1305,6 +1326,7 @@ amplifie	8,r
 amplifierent	9,
 amplifiez	8,r
 amplifions	7,er
+amplitudes	9,
 ampoules	7,
 amusa	4,er
 amusaient	4,er
@@ -1346,6 +1368,7 @@ analysiez	6,er
 analysons	6,er
 analystes	8,
 analytiques	10,
+anarchies	8,
 anarchistes	10,
 anatomies	8,
 anaux	3,l
@@ -1357,7 +1380,13 @@ ancienne	6,
 anciennes	6,
 anciennetes	10,
 anciens	6,
+ancrant	4,er
+ancre	5,r
+ancree	5,r
+ancrees	5,r
 ancres	5,
+ancrez	5,r
+ancrons	4,er
 andrea	5,
 andree	5,
 aneanti	7,r
@@ -1373,6 +1402,7 @@ aneantit	7,r
 anecdotes	8,
 anes	3,
 anesse	3,
+anesthesies	10,
 angeliques	9,
 anges	4,
 anglais	7,e
@@ -1385,12 +1415,13 @@ animait	4,er
 animale	6,
 animales	6,
 animant	4,er
-animateurice	9,
+animateur	6,rice
+animateurice	9,|6,rice
 animateurs	9,
-animateur·ice	9,
+animateur·ice	9,|6,rice
 animations	9,
 animatrice	6,eur
-animatrices	6,eur
+animatrices	6,eur|10,
 animaux	5,l
 anime	5,r
 animee	5,|5,r
@@ -1444,6 +1475,7 @@ annulons	5,er
 anodine	6,
 anodines	6,
 anodins	6,
+anoesthesie	0,anesthesie
 anomalies	8,
 anonymats	8,
 anonymes	7,
@@ -1453,10 +1485,10 @@ anormaux	6,l
 anri	0,henri
 ans	0,an
 anses	4,
+antarctiques	11,
 antecedente	10,
 antecedentes	10,
 antecedents	10,
-antememoires	11,
 antennes	7,
 anterieure	9,
 anterieures	9,
@@ -1475,7 +1507,6 @@ anticipees	8,
 anticipes	8,
 anticipez	8,r
 anticipons	7,er
-anticrenelages	13,
 antiques	7,
 antiquites	9,
 antisemites	10,
@@ -1483,6 +1514,8 @@ antisemitismes	13,
 antoinette	7,
 anvaler	0,avaler
 anxietes	7,
+anxieuse	6,x
+anxieuses	6,x
 aoust	3,t
 aouts	4,
 apaisa	5,er
@@ -1505,11 +1538,11 @@ aperitive	7,f
 aperitives	7,f
 apero	4,itif
 apocalypses	10,
+apogees	6,
 apologies	8,
 apostoliques	11,
 apotres	6,
 app	3,li
-appairages	9,
 apparais	7,tre
 apparaissant	7,tre
 apparaissez	7,tre
@@ -1563,7 +1596,6 @@ appellations	11,
 appelle	5,er
 appelons	5,er
 appels	5,
-appels-pieges	5,-piege
 appetits	7,
 applaudi	8,r
 applaudimes	8,r
@@ -1588,7 +1620,6 @@ appliquees	8,|8,r
 appliquent	8,r
 appliquerent	9,
 appliques	8,|8,r
-appliquettes	11,
 appliquez	8,r
 appliquons	7,er
 applis	5,
@@ -1744,6 +1775,7 @@ appuyons	5,er
 apres-midis	10,
 aptes	4,
 aptitudes	8,
+aquarelles	9,
 aquariums	8,
 aquatiques	9,
 aquitain	8,e
@@ -1765,6 +1797,7 @@ arborent	6,r
 arborez	6,r
 arborons	5,er
 arbres	5,
+arbustes	7,
 arcades	6,
 archaeologie	4,eologie
 archaiques	9,
@@ -1821,6 +1854,7 @@ ariadne	4,ne
 arianes	6,
 ariann	5,e
 arianne	5,e
+arielle	5,
 arlever	0,relever
 armant	3,er
 arme	4,r
@@ -1833,6 +1867,7 @@ armeniens	8,
 armerent	5,
 armes	4,|4,r
 armez	4,r
+armistices	9,
 armoires	7,
 armoni	0,harmonie
 armonie	0,harmonie
@@ -1848,7 +1883,7 @@ arnaux	5,d
 arneau	3,aud
 arneaud	3,aud
 arno	3,aud
-arobe	0,arrobe
+aromes	5,
 aron	0,aaron
 arracha	6,er
 arrachaient	6,er
@@ -1905,11 +1940,9 @@ arretiez	5,er
 arretions	5,er
 arretons	5,er
 arrets	5,
-arriere-guichets	15,
 arrieree	7,
 arrierees	7,
 arrieres	7,
-arrieres-guichets	7,-guichet
 arriva	5,er
 arrivai	5,er
 arrivaient	5,er
@@ -1939,9 +1972,6 @@ arrivez	6,r
 arriviez	5,er
 arrivions	5,er
 arrivons	5,er
-arroba	5,e
-arrobase	5,e
-arrobes	6,
 arrogances	9,
 arrogante	8,
 arrogantes	8,
@@ -1951,7 +1981,6 @@ arrondies	7,
 arrondis	7,
 arrondissements	14,
 arrosa	5,er
-arrosages	8,
 arrosais	5,er
 arrosait	5,er
 arrosant	5,er
@@ -1962,12 +1991,13 @@ arrosent	6,r
 arroserai	7,
 arroseras	7,
 arroses	6,r
-arroseurs	8,
-arroseuse	7,r
 arrosez	6,r
 arrosons	5,er
 arsenaux	6,l
 arteres	6,
+arterielle	8,
+arterielles	8,
+arteriels	8,
 articles	7,
 articulant	7,er
 articulations	12,
@@ -2159,6 +2189,7 @@ assurons	5,er
 asti	0,hostie
 astic	0,hostie
 astie	0,hostie
+astres	5,
 astronautes	10,
 astronomes	9,
 astronomies	10,
@@ -2288,6 +2319,7 @@ attestons	6,er
 attira	5,er
 attirais	5,er
 attirait	5,er
+attirances	9,
 attirant	5,er
 attirante	8,
 attirantes	8,
@@ -2358,14 +2390,13 @@ audaces	6,
 audacieuse	8,x
 audacieuses	8,x
 audiences	8,
-audioconferences	15,
-audiofrequences	14,
 audios	5,
 audiovisuelle	11,
 audiovisuelles	11,
 audiovisuels	11,
 auditeurs	8,
 auditions	8,
+auditoires	9,
 auditrice	5,eur
 auditrices	5,eur
 audits	5,
@@ -2409,9 +2440,13 @@ auront	0,avoir
 aurores	6,
 aussi-tot	5,tot
 austerites	9,
+australe	7,
+australes	7,
 australienne	10,
 australiennes	10,
 australiens	10,
+australs	7,
+austraux	6,l
 autaire	3,eur
 autels	5,
 auteure	6,
@@ -2582,8 +2617,12 @@ avouez	5,r
 avouons	4,er
 avrils	5,
 awoir	0,avoir
+axant	0,axer
+axe	3,r
 axelle	4,
 axes	3,
+axez	3,r
+axons	0,axer
 ayant	0,avoir
 ayant-cause	5, cause
 ayant-droit	5, droit
@@ -2702,6 +2741,7 @@ ballets	6,
 ballons	6,
 balme	0,baume
 bals	3,
+bambous	6,
 banale	5,
 banales	5,
 banals	5,
@@ -2709,10 +2749,14 @@ bananes	6,
 banaux	4,l
 bancaires	8,
 bancs	4,
+bandant	4,er
+bande	5,r
 bandeaux	7,
-bandes	5,
+bandes	5,|5,r
+bandez	5,r
 bandite	6,
 bandits	6,
+bandons	4,er
 bangh	4,
 bangs	4,
 banlieues	8,
@@ -2751,6 +2795,7 @@ barbiers	7,
 barbue	5,
 barbues	5,
 barbus	5,
+baremes	6,
 barils	5,
 barme	0,baume
 barometres	9,
@@ -2767,6 +2812,7 @@ barree	5,|5,r
 barrees	5,|5,r
 barres	5,|5,r
 barrez	5,r
+barricades	9,
 barrieres	8,
 barriez	4,er
 barrons	4,er
@@ -2851,6 +2897,9 @@ baudoin	5,uin
 bauduin	4,ouin
 baumes	5,
 baux	0,bail
+bavarde	6,
+bavardes	6,
+bavards	6,
 bavieres	7,
 baya	3,er
 bayant	3,er
@@ -2863,6 +2912,7 @@ bazed	0,base
 bb	0,bebe
 be	0,bm
 bearnais	0,chat
+bears	4,
 beaudoin	0,baudouin
 beaudouin	0,baudouin
 beauduin	0,baudouin
@@ -2937,6 +2987,9 @@ berrichon	0,gros|0,alene|0,croix
 bertrande	8,
 besanson	5,con
 besoins	6,
+bessonne	6,
+bessonnes	6,
+bessons	6,
 betaille	6,
 betails	6,
 betas	4,
@@ -2948,29 +3001,30 @@ beth	3,
 betises	6,
 betons	5,
 bets	3,
-beug	0,bug|0,bogue
+beug	0,bug
 beurres	6,
 bezancon	0,besancon
 bezanson	0,besancon
 bezness	0,business
-bi-bande	0,bibande
 bi1	0,bien
 biaise	5,
 biaises	5,
 bian	0,bien
-bibandes	7,
 bibles	5,
 bibliographies	13,
 bibliothecaires	14,
 bibliotheques	12,
 bibliques	8,
 biche	0,cerf
+bicyclettes	10,
 bidonne	5,
 bidonnes	5,
 bidons	5,
 bie	0,bi
 bien	0,ou bien
 bienfaits	8,
+bienheureuse	10,x
+bienheureuses	10,x
 biens	4,
 bienveillances	13,
 bienveillante	12,
@@ -2993,15 +3047,13 @@ billardes	7,
 billards	7,
 billes	5,
 billets	6,
-bimodes	6,
 bin	0,bien
 binaires	7,
 biodiversites	12,
 biographies	10,
 biologies	8,
 biologiques	10,
-biomimetiques	12,
-biomimetismes	12,
+biologistes	10,
 bios	3,
 bips	3,
 bique	0,bouc
@@ -3040,6 +3092,7 @@ blanc	5,he
 blanche	5,
 blanches	5,|7,|6,ir
 blanchi	7,r
+blanchiments	11,
 blanchis	7,r
 blanchissant	7,r
 blanchisse	7,r
@@ -3054,6 +3107,9 @@ bles	3,
 blessa	5,er
 blessae	5,e
 blessant	5,er
+blessante	8,
+blessantes	8,
+blessants	8,
 blesse	6,r
 blessee	6,|6,r
 blessees	6,|6,r
@@ -3093,6 +3149,7 @@ bloquent	6,r
 bloques	6,|6,r
 bloquez	6,r
 bloquons	5,er
+blouses	6,
 bobbies	4,y
 bobbys	5,
 bobines	6,
@@ -3104,7 +3161,6 @@ boete	0,boite
 boeuf	0,vache
 boeufs	5,
 bogue	0,bug
-bogues	5,
 boira	4,e
 boirai	4,e
 boirais	4,e
@@ -3150,9 +3206,7 @@ bonheurs	7,
 bonhommes	8,
 bonjours	7,
 bonne	3,
-bonne-femme	5, femme
 bonnes	3,|5,
-bonnes-femmes	5, femme
 bonnets	6,
 bons	3,
 bonshommes	3,homme
@@ -3215,7 +3269,9 @@ boucliers	8,
 bouclons	5,er
 boucs	4,
 bouddhas	7,
+bouddhismes	10,
 bouddhistes	10,
+bouddisme	5,hisme
 bouere	0,boire
 boues	4,
 bouffa	5,er
@@ -3332,6 +3388,14 @@ branchees	7,|7,r
 branches	7,|7,r
 branchez	7,r
 branchons	6,er
+brandi	6,r
+brandis	6,r
+brandissaient	6,r
+brandissait	6,r
+brandissant	6,r
+brandissez	6,r
+brandissons	6,r
+brandit	6,r
 brandone	7,
 brandons	7,
 branlant	5,er
@@ -3339,6 +3403,7 @@ branle	6,r
 branles	6,r
 branlez	6,r
 branlons	5,er
+brant	4,dir
 braquages	8,
 braquaient	5,er
 braquant	5,er
@@ -3369,8 +3434,8 @@ breve	3,f
 brevement	0,brievement
 breves	3,f|5,
 brevets	6,
-bribes	5,
 bricolages	9,
+brides	5,
 bridges	6,
 brigades	7,
 brigide	5,tte
@@ -3403,13 +3468,24 @@ brises	5,|5,r
 brisez	5,r
 brisons	4,er
 britanniques	11,
+brochee	6,
+brochees	6,
+broches	6,
 brochures	8,
 bronzee	6,
 bronzees	6,
 bronzes	6,
 brooklynn	8,
-brosses	6,
-brouillages	10,
+brossa	5,er
+brossaient	5,er
+brossais	5,er
+brossait	5,er
+brossant	5,er
+brosse	6,r
+brossent	6,r
+brosses	6,|6,r
+brossez	6,r
+brossons	5,er
 brouillant	7,er
 brouillards	10,
 brouille	8,r
@@ -3475,12 +3551,13 @@ buchons	4,er
 buchons-nous	4,er
 buda-pesth	4,pest
 buddha	0,bouddha
+buddhisme	0,bouddhisme
+buddisme	0,bouddhisme
 budgetaires	10,
 budgets	6,
 budjet	3,get
 bue	0,boire
 buffets	6,
-bug	0,bogue
 bugs	3,
 buissons	7,
 bulgares	7,
@@ -3490,7 +3567,6 @@ bull-dog	0,bouledogue
 bulldog	0,bouledogue
 bulles	5,
 bulletins	8,
-bureautiques	11,
 bureaux	6,
 burent	0,boire
 burgers	6,
@@ -3510,6 +3586,7 @@ butez	4,r
 butins	5,
 butons	3,er
 buts	3,
+buttes	5,
 buvaient	0,boire
 buvais	0,boire
 buvait	0,boire
@@ -3518,6 +3595,10 @@ buvez	0,boire
 buviez	0,boire
 buvions	0,boire
 buvons	0,boire
+bysantin	0,byzantin
+byzantine	8,
+byzantines	8,
+byzantins	8,
 bᵒⁿ	0,bon
 bᵒⁿⁿᵉ	0,bon
 c	0,ce|0,con|0,chier
@@ -3532,6 +3613,8 @@ cabarets	7,
 cabines	6,
 cabinets	7,
 cables	5,
+cacahouete	5,uete
+cacahuetes	9,
 cacaos	5,
 cacas	4,
 cacha	4,er
@@ -3541,8 +3624,6 @@ cachais	4,er
 cachait	4,er
 cachant	4,er
 cache	0,cash|5,r
-cache-disques	12,
-cache-toiles	11,
 cachee	5,|5,r
 cachees	5,|5,r
 cachent	5,r
@@ -3566,17 +3647,20 @@ cadences	7,
 cadets	5,
 cadette	5,
 cadettes	5,
+cadrans	6,
 cadres	5,
 cafes	4,
 cages	4,
 cagnon	0,canyon
 cahiers	6,
 cahos	0,chaos
+cahotique	0,chaotique
 cailloux	7,
 caire	0,coir
 caisses	6,
 caissier	8,e
 caissieres	9,
+cakes	4,
 calais	3,er
 calant	3,er
 calcaires	8,
@@ -3585,11 +3669,8 @@ calcula	6,er
 calculames	6,er
 calculant	6,er
 calculateur	8,rice
-calculateurs	11,
-calculatrice	8,eur
-calculatrices	8,eur|12,
+calculatrices	12,
 calcule	7,r
-calculettes	10,
 calculez	7,r
 calculons	6,er
 calculs	6,
@@ -3620,6 +3701,7 @@ calmions	4,er
 calmons	4,er
 calons	3,er
 calories	7,
+calos	0,rafle
 calvaires	8,
 cama	4,rade
 camarades	8,
@@ -3627,6 +3709,7 @@ cambriolages	11,
 cameras	6,
 camerounaise	11,
 camerounaises	11,
+cames	4,
 camionnettes	11,
 camions	6,
 campagnes	8,
@@ -3636,6 +3719,7 @@ campait	4,er
 campames	4,er
 campant	4,er
 campe	5,r
+campements	9,
 camperent	6,
 camperons	6,
 campez	5,r
@@ -3661,6 +3745,7 @@ candidats	8,
 candidatures	11,
 cane	3,ard
 canettes	7,
+canicules	8,
 cannes	5,
 cannette	3,ette
 canon	3,yon
@@ -3668,8 +3753,6 @@ canons	5,
 canots	5,
 cantines	7,
 cantons	6,
-canulard	7,
-canulars	7,
 canyons	6,
 caos	0,chaos
 caoutchou	9,c
@@ -3677,6 +3760,7 @@ caoutchoucs	10,
 capables	7,
 capacites	8,
 capes	4,
+capillaires	10,
 capitaines	9,
 capitale	7,
 capitales	7,|8,
@@ -3686,6 +3770,7 @@ capitaux	6,l
 caporale	7,
 caporaux	6,l
 capotes	6,
+capots	5,
 caprices	7,
 caps	3,
 capsules	7,
@@ -3732,6 +3817,7 @@ cardiaques	9,
 cardinale	8,
 cardinales	8,
 cardinaux	7,l
+cardios	6,
 carences	7,
 caressa	6,er
 caressait	6,er
@@ -3744,11 +3830,11 @@ caressons	6,er
 cargaisons	9,
 cargos	5,
 caricatures	10,
-carillons	8,
-carine	0,karen|0,catherine
+carine	0,karen|0,karine|0,catherine
 caritatifs	9,
 caritative	8,f
 caritatives	8,f
+carnages	7,
 carnavals	8,
 carnets	6,
 carol	5,e
@@ -3763,9 +3849,7 @@ carrefours	9,
 carres	5,
 carrier	7,e
 carrieres	8,
-carrillon	3,illon
 carrosseries	11,
-carrousels	9,
 cars	3,
 cartant	4,er
 carte	5,r
@@ -3852,7 +3936,6 @@ cavites	6,
 caylie	0,kelly
 cb	0,carte bleue
 cds	0,cd
-cebistes	7,
 cecille	5,e
 cecyle	3,ile
 ceda	3,er
@@ -4007,6 +4090,7 @@ chaleureuses	9,x
 chaleurs	7,
 challenges	9,
 chambres	7,
+chame	0,came
 chameaux	7,
 chamelle	5,au
 champagnes	9,
@@ -4096,6 +4180,7 @@ chantiez	5,er
 chantions	5,er
 chantons	5,er
 chants	5,
+chaotiques	9,
 chapeaux	7,
 chapelles	8,
 chapiteaux	9,
@@ -4131,6 +4216,7 @@ charmante	8,
 charmantes	8,
 charmants	8,
 charmes	6,
+charnieres	9,
 charpentes	9,
 charpentiere	11,
 charpentieres	11,
@@ -4309,8 +4395,6 @@ chiliens	7,
 chilis	5,
 chilometre	0,kilometre
 chimies	6,
-chimio-informatique	6,informatique
-chimioinformatiques	18,
 chimiques	8,
 chimistes	8,
 chinas	5,
@@ -4385,10 +4469,15 @@ choques	6,|6,r
 choquez	6,r
 choquons	5,er
 chorales	7,
+choregraphies	12,
 chorte	0,short
 choses	5,
+chou-chou	4,chou
 chou-milan	4, de milan
 choual	0,cheval
+chouchous	8,
+chouchoute	8,
+chouchoux	8,
 chouettes	8,
 choute	4,
 choutes	4,
@@ -4435,6 +4524,7 @@ cicatrices	9,
 cie.	3,
 ciels	4,
 cieux	3,l
+cigares	6,
 cigarettes	9,
 cils	3,
 ciments	6,
@@ -4512,6 +4602,7 @@ clarifie	8,r
 clarifiera	9,
 clarifiez	8,r
 clarifions	7,er
+clarisse	0,franciscain
 clarks	5,
 clartes	6,
 classant	5,er
@@ -4539,13 +4630,9 @@ clerges	6,
 clergesse	4,c
 clerque	4,c
 cles	3,
-clichant	5,er
-cliche	6,r
 clichee	6,
 clichees	6,
-cliches	6,|6,r
-clichez	6,r
-clichons	5,er
+cliches	6,
 click	4,
 clics	4,
 client	6,e
@@ -4560,7 +4647,6 @@ clins	4,
 clips	4,
 cliquant	5,er
 clique	6,r
-cliquer-parlers	14,
 cliques	6,|6,r
 cliquez	6,r
 cliquons	5,er
@@ -4587,6 +4673,7 @@ clouz	4,
 clowns	5,
 clubs	4,
 co-equipier	0,coequipier
+co-fondateur	0,cofondateur
 coalitions	9,
 cocaines	7,
 cocas	4,
@@ -4605,7 +4692,6 @@ cocodril	0,crocodile
 cocos	4,
 cocotte	4,
 codes	4,
-codets	5,
 coefficiente	11,
 coefficientes	11,
 coefficients	11,
@@ -4614,6 +4700,8 @@ coequipiers	10,
 coeurs	5,
 coffres	6,
 coffrets	7,
+cofondateurs	11,
+cofondatrice	8,eur
 cogna	4,er
 cognacs	6,
 cognai	4,er
@@ -4630,6 +4718,7 @@ cognitives	7,f
 cognoistre	0,connaitre
 cognoitre	0,connaitre
 cognons	4,er
+cohabitations	12,
 cohaesion	3,esion
 coherences	9,
 coherente	8,
@@ -4676,7 +4765,6 @@ collabore	9,r
 collaborent	9,r
 collaborez	9,r
 collaborons	8,er
-collages	7,
 collais	4,er
 collait	4,er
 collant	4,er
@@ -4694,7 +4782,6 @@ collecte	8,r
 collectee	8,r
 collectees	8,r
 collectent	8,r
-collecteurs	10,
 collectez	8,r
 collectifs	9,
 collectionneurs	14,
@@ -4705,8 +4792,6 @@ collective	8,f
 collectives	8,f
 collectivites	12,
 collectons	7,er
-collectrice	7,eur
-collectrices	7,eur
 collee	5,r
 collees	5,r
 colleges	7,
@@ -4813,7 +4898,12 @@ commandions	7,er
 commandons	7,er
 commandos	8,
 comme-il-faut	5, il faut
+commemorant	8,er
 commemorations	13,
+commemore	9,r
+commemorent	9,r
+commemorez	9,r
+commemorons	8,er
 commenca	7,er
 commencai	7,er
 commencaient	7,er
@@ -4909,7 +4999,6 @@ communiquions	9,er
 communiquons	9,er
 communismes	10,
 communistes	10,
-communites	9,
 communs	6,
 comoedie	3,edie
 compacte	7,
@@ -4924,7 +5013,11 @@ compagnonnes	9,
 compagnons	9,
 compara	6,er
 comparables	10,
+comparais	8,tre
 comparaisons	11,
+comparaissant	8,tre
+comparaissez	8,tre
+comparaissons	8,tre
 comparait	6,er
 comparant	6,er
 comparante	9,
@@ -4941,6 +5034,7 @@ compares	7,r
 comparez	7,r
 comparons	6,er
 compartiments	12,
+comparu	6,aitre
 compassions	10,
 compatibles	10,
 compatriotes	11,
@@ -4968,7 +5062,14 @@ competitions	11,
 competitive	9,f
 competitives	9,f
 competitivites	13,
+compilant	6,er
 compilations	11,
+compile	7,r
+compilees	7,r
+compiles	7,r
+compilez	7,r
+compilons	6,er
+complaisances	12,
 complementaires	14,
 complements	10,
 completant	7,er
@@ -5052,11 +5153,7 @@ comprendront	9,e
 comprends	8,re
 comprenez	7,dre
 comprenons	7,dre
-compressant	8,er
-compresse	9,r
-compressez	9,r
 compressions	11,
-compressons	8,er
 comprimee	8,
 comprimees	8,
 comprimes	8,
@@ -5103,6 +5200,7 @@ comtesse	5,
 comtesses	8,
 con	3,stitution
 conard	3,nard
+conasse	3,nasse
 conceda	6,er
 concedant	6,er
 concede	7,r
@@ -5114,7 +5212,6 @@ concentrai	8,er
 concentrais	8,er
 concentrait	8,er
 concentrant	8,er
-concentrateurs	13,
 concentrations	13,
 concentre	9,r
 concentree	9,|9,r
@@ -5147,6 +5244,7 @@ concevait	6,oir
 concevant	6,oir
 concevez	6,oir
 concevons	7,ir
+concierges	9,
 conciles	7,
 conciliant	7,er
 concilie	8,r
@@ -5179,6 +5277,9 @@ concu	4,evoir
 concurrences	11,
 concurrente	10,
 concurrentes	10,
+concurrentielle	13,
+concurrentielles	13,
+concurrentiels	13,
 concurrents	10,
 condamna	7,er
 condamnais	7,er
@@ -5224,6 +5325,7 @@ conduite	6,re
 conduites	8,
 conduits	7,
 cones	4,
+confections	10,
 confederations	13,
 conferait	6,er
 conferant	6,er
@@ -5259,11 +5361,7 @@ confiees	6,r
 confieras	7,
 confierez	7,
 confiez	6,r
-configurant	8,er
 configurations	13,
-configure	9,r
-configurez	9,r
-configurons	8,er
 confions	5,er
 confirma	7,er
 confirmait	7,er
@@ -5373,13 +5471,14 @@ connaitras	8,e
 connaitrez	9,
 connaitriez	8,e
 connaitrons	8,e
+connard	5,sse
 connarde	7,
 connardes	7,
 connards	7,
 connasse	5,rd
+connasses	8,
 conne	3,
 connecta	7,er
-connectabilites	14,
 connectant	7,er
 connecte	8,r
 connectee	8,|8,r
@@ -5393,8 +5492,8 @@ connectons	7,er
 conneries	8,
 connes	3,
 connestre	4,aitre
+connexes	7,
 connexions	9,
-connexites	9,
 conno	3,
 connoisseur	4,aisseur
 connoistre	4,aitre
@@ -5408,6 +5507,7 @@ connus	5,|4,aitre
 connut	4,aitre
 conoistre	3,naitre
 conoitre	3,naitre
+conquaril	0,rafle
 conqueraient	7,ir
 conquerait	7,ir
 conquerant	7,ir
@@ -5565,6 +5665,7 @@ constatez	8,r
 constatiez	7,er
 constatons	7,er
 constats	7,
+constellations	13,
 constit'	7,ution
 constituaient	8,er
 constituait	8,er
@@ -5599,6 +5700,7 @@ construisant	8,re
 construisez	8,re
 construisons	8,re
 construit	8,re
+consulaires	10,
 consulats	8,
 consule	6,
 consuls	6,
@@ -5765,6 +5867,7 @@ contraventions	13,
 contre	6,r
 contre-nature	6, nature
 contre-partie	6,partie
+contrebandes	11,
 contredis	8,re
 contredisant	8,re
 contredisez	8,re
@@ -5854,7 +5957,6 @@ convertit	8,r
 convictions	10,
 conviens	4,enir
 conviens-toi	4,enir
-convivialites	12,
 convocations	11,
 convois	6,
 convoquant	7,er
@@ -5910,7 +6012,7 @@ copiez	5,r
 copiions	4,er
 copine	3,ain
 copions	4,er
-coprocesseurs	12,
+copyrights	9,
 coq	0,poule
 coqs	3,
 coques	0,coca|5,
@@ -5944,6 +6046,7 @@ corneilles	9,
 cornelie	5,ille
 corners	6,
 cornes	5,|5,r
+cornets	6,
 cornez	5,r
 cornons	4,er
 corporations	11,
@@ -5952,10 +6055,13 @@ corporelles	8,
 corporels	8,
 correcte	7,
 correctes	7,
+correcteurs	10,
 correctionnelle	13,
 correctionnelles	13,
 correctionnels	13,
 corrections	10,
+correctrice	7,eur
+correctrices	7,eur
 corrects	7,
 correlations	11,
 correspondaient	10,re
@@ -5997,6 +6103,10 @@ corses	5,
 corteges	7,
 cosmetiques	10,
 cosmiques	8,
+costaude	7,
+costaudes	7,
+costauds	7,
+costeau	4,aud
 costumes	7,
 cotant	3,er
 cote	4,r
@@ -6066,6 +6176,9 @@ coupaient	4,er
 coupais	4,er
 coupait	4,er
 coupant	4,er
+coupante	7,
+coupantes	7,
+coupants	7,
 coupe	5,r
 coupee	5,r
 coupees	5,r
@@ -6266,7 +6379,6 @@ creez	4,r
 creiez	3,er
 cremes	5,
 creneaux	7,
-crenelages	9,
 creoles	6,
 creons	3,er
 crepee	5,
@@ -6396,6 +6508,7 @@ croques	6,r
 croquez	6,r
 croquons	5,er
 crosses	6,
+crottes	6,
 crouere	3,ire
 croutes	6,
 croyaient	3,ire
@@ -6481,6 +6594,11 @@ culminez	7,r
 culminons	6,er
 culots	5,
 culottes	7,
+culpabilisant	10,er
+culpabilise	11,r
+culpabilisera	12,
+culpabilisez	11,r
+culpabilisons	10,er
 culpabilites	11,
 culs	3,
 cultes	5,
@@ -6511,34 +6629,10 @@ cutanee	6,
 cutanees	6,
 cutanes	6,
 cuves	4,
-cyber-attaque	5,attaque
-cyber-criminalite	5,criminalite
-cyber-guerre	5,guerre
-cyber-harcelement	5,harcelement
-cyber-terrorisme	5,terrorisme
-cyberattaques	12,
-cybercameras	11,
-cyberconferences	15,
-cybercriminalites	16,
-cyberdefenses	12,
-cyberdependances	15,
-cyberespaces	11,
-cyberespionnages	15,
-cyberguerres	11,
-cyberharcelements	16,
-cyberjetons	10,
-cybermonnaies	12,
-cyberprotections	15,
-cyberrenseignements	18,
-cyberresiliences	15,
-cybersecurites	13,
-cybersquats	10,
-cybersquatteurs	14,
-cybersquatteuse	13,r
-cyberterrorismes	15,
 cycles	5,
 cyclismes	8,
 cyclistes	8,
+cyclones	7,
 cygnes	5,
 cylindres	8,
 cyniques	7,
@@ -6653,18 +6747,13 @@ debattra	7,e
 debattu	6,re
 debattue	6,re
 debattues	6,re
-debeuguer	3,oguer
 debiles	6,
+debiteurs	8,
+debitrice	5,eur
+debitrices	5,eur
 debits	5,
-deblocages	9,
 debloque	8,r
 debloques	8,r
-debogages	8,
-deboguant	6,er
-debogue	7,r
-debogueurs	9,
-deboguez	7,r
-deboguons	6,er
 debordaient	6,er
 debordait	6,er
 debordant	6,er
@@ -6682,11 +6771,6 @@ debouche	8,r
 debouches	8,
 debouchez	8,r
 debouchons	7,er
-debridant	6,er
-debride	7,r
-debridee	7,r
-debridez	7,r
-debridons	6,er
 debrouilla	9,er
 debrouillai	9,er
 debrouillais	9,er
@@ -6702,12 +6786,6 @@ debrouillerons	11,
 debrouilles	10,r
 debrouillez	10,r
 debrouillons	9,er
-debug	3,oguer
-debuger	3,oguer
-debugger	3,oguer|3,ogueur
-debuggeur	3,ogueur
-debuguer	3,oguer
-debugueur	3,ogueur
 debuta	5,er
 debutant	5,er
 debutante	8,
@@ -6734,9 +6812,16 @@ decapite	8,r
 decapites	8,r
 decapitez	8,r
 decapitons	7,er
-decedee	6,
-decedees	6,
-decedes	6,
+deceda	5,er
+decedant	5,er
+decede	6,r
+decedee	6,|6,r
+decedees	6,|6,r
+decedent	6,r
+decedera	7,
+decedes	6,|6,r
+decedez	6,r
+decedons	5,er
 decelant	5,er
 decele	6,r
 decelez	6,r
@@ -6761,7 +6846,14 @@ decevantes	8,
 decevants	8,
 decevez	5,oir
 decevons	6,ir
+decharge	8,r
+dechargea	8,r
+dechargeant	8,r
+dechargee	8,r
+dechargeons	8,r
 decharges	8,
+dechargez	8,r
+decheances	9,
 dechets	6,
 dechira	6,er
 dechirait	6,er
@@ -6898,7 +6990,7 @@ decoupat	6,er
 decoupe	7,r
 decoupera	8,
 decouperent	8,
-decoupes	7,r
+decoupes	7,|7,r
 decoupez	7,r
 decoupons	6,er
 decourage	9,r
@@ -7025,12 +7117,10 @@ defie	5,r|4,nir
 defient	5,r|4,nir
 defies	5,r|4,nir
 defiez	5,r|4,nir
-defigurations	12,
 defilant	5,er
 defile	6,r
 defilee	6,
 defilees	6,
-defilements	10,
 defilent	6,r
 defilera	7,
 defiles	6,|6,r
@@ -7109,7 +7199,6 @@ degrades	7,
 degradez	7,r
 degradons	6,er
 degres	5,
-degroupages	10,
 degueulasses	11,
 deguisa	6,er
 deguisant	6,er
@@ -7137,6 +7226,11 @@ dejeunes	7,r
 dejeunez	7,r
 dejeunons	6,er
 dejeusner	5,ner
+dejouant	5,er
+dejoue	6,r
+dejouee	6,r
+dejouez	6,r
+dejouons	5,er
 delais	5,
 delaissant	7,er
 delaisse	8,r
@@ -7154,6 +7248,7 @@ deliberees	8,
 deliberes	8,
 delicate	7,
 delicates	7,
+delicatesses	11,
 delicats	7,
 delices	6,
 delicieuse	8,x
@@ -7185,6 +7280,7 @@ delphin	7,e
 dels	3,
 deltas	5,
 delu	3,ire
+deluges	6,
 demains	6,
 demanda	6,er
 demandai	6,er
@@ -7219,7 +7315,12 @@ demandiez	6,er
 demandions	6,er
 demandons	6,er
 demandons-nous	0,se demander
+demantelant	8,er
+demantele	9,r
 demantelements	13,
+demantelez	9,r
+demantelle	8,er
+demantelons	8,er
 demarches	8,
 demarquait	7,er
 demarquant	7,er
@@ -7259,6 +7360,9 @@ demente	6,
 dementes	6,
 dementis	7,
 dements	6,
+demesuree	8,
+demesurees	8,
+demesures	8,
 demeura	6,er
 demeuraient	6,er
 demeurant	6,er
@@ -7326,12 +7430,6 @@ demontrerai	9,
 demontrez	8,r
 demontrons	7,er
 demos	4,
-demultiplexages	14,
-demultiplexant	11,er
-demultiplexe	12,r
-demultiplexeurs	14,
-demultiplexez	12,r
-demultiplexons	11,er
 demunie	6,
 demunies	6,
 demunis	6,
@@ -7348,6 +7446,11 @@ denions	4,er
 denis	4,|3,ys|5,e
 dennis	3,ys
 denominations	12,
+denommant	6,er
+denomme	7,r
+denommees	7,r
+denommez	7,r
+denommons	6,er
 denonca	6,er
 denoncais	6,er
 denoncant	6,er
@@ -7361,6 +7464,8 @@ denonces	7,r
 denoncez	7,r
 denonciations	12,
 denoncons	6,er
+denouements	10,
+denoument	5,ement
 denrees	6,
 denses	5,
 densites	7,
@@ -7371,6 +7476,7 @@ dents	4,
 denuee	5,
 denuees	5,
 denues	5,
+deontologies	11,
 departementale	13,
 departementales	13,
 departementaux	12,l
@@ -7393,7 +7499,23 @@ depasseront	8,
 depasses	7,|7,r
 depassez	7,r
 depassons	6,er
-depeches	7,
+depecha	6,er
+depechai	6,er
+depechais	6,er
+depechait	6,er
+depechames	6,er
+depechant	6,er
+depeche	7,r
+depechee	7,r
+depechent	7,r
+depecherai	8,
+depecherent	8,
+depecherons	8,
+depeches	7,|7,r
+depechez	7,r
+depechiez	6,er
+depechions	6,er
+depechons	6,er
 depeignant	5,ndre
 depeignez	5,ndre
 depeignons	5,ndre
@@ -7510,6 +7632,7 @@ derangera	8,
 derangerait	8,
 deranges	7,r
 derangez	7,r
+derapages	8,
 derbies	4,y
 derbys	5,
 derivee	6,
@@ -7564,6 +7687,7 @@ desastreuses	9,x
 descendaient	7,re
 descendais	7,re
 descendait	7,re
+descendances	11,
 descendant	7,re
 descendante	10,
 descendantes	10,
@@ -7585,20 +7709,12 @@ descendue	7,re
 descendues	7,re
 descendus	7,re
 descentes	8,
-descripteurs	11,
 descriptifs	10,
 descriptions	11,
 descriptive	9,f
 descriptives	9,f
-descriptrice	8,eur
-descriptrices	8,eur
 desdites	0,dudit
 desdits	0,dudit
-desembrouillages	15,
-desembrouillant	12,er
-desembrouille	13,r
-desembrouillez	13,r
-desembrouillons	12,er
 desequilibres	12,
 deserte	6,
 desertes	6,
@@ -7627,7 +7743,6 @@ designeuse	7,r
 designez	7,r
 designons	6,er
 designs	6,
-desinfestations	14,
 desiraient	5,er
 desirais	5,er
 desirait	5,er
@@ -7853,12 +7968,17 @@ devenions	6,r
 devenirs	7,
 devenons	5,ir
 devenu	5,ir
+deversa	6,er
+deversant	6,er
+deverse	7,r
+deversee	7,r
+deverses	7,r
+deversez	7,r
+deversons	6,er
 devez	3,oir
 devia	4,er
 deviait	4,er
 deviant	4,er
-devideurs	8,
-devideuse	7,r
 devie	5,r
 deviens	3,enir
 devient	5,r
@@ -7875,7 +7995,6 @@ devinez	6,r
 devinons	5,er
 devions	4,er|3,oir
 devises	6,
-devoiements	10,
 devoila	6,er
 devoilant	6,er
 devoile	7,r
@@ -7899,6 +8018,7 @@ devorent	6,r
 devorera	7,
 devorez	6,r
 devorons	5,er
+devotions	8,
 devouee	6,
 devouees	6,
 devouements	10,
@@ -7920,23 +8040,29 @@ diables	6,
 diablesse	6,
 diaboliques	10,
 diagnostics	10,
-diagnostique	9,c
+diagnostiquant	11,er
+diagnostique	9,c|12,r
+diagnostiquee	12,r
+diagnostiques	12,r
+diagnostiquez	12,r
+diagnostiquons	11,er
+diagonales	9,
 diagrammes	9,
 dialectes	8,
 dialogues	8,
-dialogueurs	10,
-dialogueuse	9,r
 diamants	7,
 diametres	8,
 dianes	5,
 dianne	4,e
 diarrhees	8,
+diasporas	8,
 dictait	4,er
 dictant	4,er
 dictateurs	9,
 dictatrice	6,eur
 dictatures	9,
 dicte	5,r
+dictees	6,
 dictent	5,r
 dictez	5,r
 dictionnaires	12,
@@ -8134,6 +8260,12 @@ disparu	6,aitre
 disparue	7,
 disparues	7,
 disparus	7,
+dispensant	7,er
+dispense	8,r
+dispenserent	9,
+dispenses	8,|8,r
+dispensez	8,r
+dispensons	7,er
 dispersant	7,er
 disperse	8,r
 dispersee	8,|8,r
@@ -8182,7 +8314,6 @@ disputez	7,r
 disputiez	6,er
 disputons	6,er
 disques	6,
-disquettes	9,
 dissidente	9,
 dissidentes	9,
 dissidents	9,
@@ -8197,6 +8328,15 @@ dissimulerent	10,
 dissimules	9,|9,r
 dissimulez	9,r
 dissimulons	8,er
+dissipait	6,er
+dissipant	6,er
+dissipe	7,r
+dissipee	7,r
+dissipees	7,r
+dissipent	7,r
+dissipes	7,r
+dissipez	7,r
+dissipons	6,er
 dissolutions	11,
 dissolvant	5,udre
 dissolvez	5,udre
@@ -8221,7 +8361,10 @@ distantes	7,
 distants	7,
 distincte	8,
 distinctes	8,
+distinctifs	10,
 distinctions	11,
+distinctive	9,f
+distinctives	9,f
 distincts	8,
 distingua	8,er
 distinguant	8,er
@@ -8239,6 +8382,9 @@ distraira	8,e
 distrais	7,re
 distrais-toi	7,re
 distrait	7,re
+distraite	8,
+distraites	8,
+distraits	8,
 distrayant	6,ire
 distrayez	6,ire
 distrayez-vous	6,ire
@@ -8441,6 +8587,7 @@ dormit	5,r
 dormons	4,ir
 dors	3,mir
 dort	3,mir
+dortoirs	7,
 dosages	6,
 doses	4,
 dossiers	7,
@@ -8468,6 +8615,7 @@ doublera	7,
 doubles	6,|6,r
 doublez	6,r
 doublons	5,er
+doublures	8,
 doubte	3,te
 douce	3,x
 douces	3,x|5,
@@ -8539,6 +8687,7 @@ drolesse	5,
 droliere	4,e
 drolle	4,e
 drones	5,
+drops	4,
 drs	0,dr
 du	0,de|0,le|0,des
 dubayy	4,i
@@ -8557,7 +8706,6 @@ dunes	4,
 duos	3,
 dupes	4,
 dur-a-cuire	3, a cuire
-durabilites	10,
 durables	7,
 durait	3,er
 durant	3,er
@@ -8580,10 +8728,12 @@ dynamiques	9,
 dynamismes	9,
 dynasties	8,
 dysfonctionnements	17,
+dzeus	0,zeus
 dº	0,do
 dᵒ	0,do
 e	0,y|0,elle
 e-mails	6,
+eagles	5,
 eaux	3,
 ec	0,e. c.
 ecarta	5,er
@@ -8616,6 +8766,7 @@ echappant	6,er
 echappas	6,er
 echappe	7,r
 echappees	8,|7,r
+echappements	11,
 echappent	7,r
 echappera	8,
 echapperais	8,
@@ -8634,6 +8785,7 @@ echeants	7,
 echecs	5,
 echelles	7,
 echelons	7,
+echiquiers	9,
 echos	4,
 echoua	5,er
 echouait	5,er
@@ -8875,6 +9027,7 @@ effectuons	7,er
 effets	5,
 efficaces	8,
 efficacites	10,
+effigies	7,
 effondra	7,er
 effondrant	7,er
 effondre	8,r
@@ -8958,6 +9111,8 @@ electrice	5,eur
 electrices	5,eur
 electricites	11,
 electriques	10,
+electro-magnetique	7,magnetique
+electromagnetiques	17,
 electroniques	12,
 electrons	8,
 electros	7,
@@ -9006,6 +9161,7 @@ elisant	3,re
 elisez	3,re
 elisons	3,re
 elites	5,
+elizabeth	3,sabeth
 elle	0,il|0,eux|0,ils
 elle-meme	0,lui-meme|0,eux-memes
 elles	0,il|0,eux|0,ils
@@ -9028,6 +9184,7 @@ elue	3,
 elues	3,
 elus	3,
 elve	0,elfe
+elysabeth	0,elisabeth
 em	0,emmerder
 email	0,e-mail
 emana	4,er
@@ -9108,16 +9265,7 @@ embrasses	8,r
 embrassez	8,r
 embrassiez	7,er
 embrassons	7,er
-embrouillages	12,
-embrouillant	9,er
-embrouille	10,r
-embrouillee	10,r
-embrouillent	10,r
-embrouilles	10,r
-embrouilleurs	12,
-embrouilleuse	11,r
-embrouillez	10,r
-embrouillons	9,er
+embrouilles	10,
 embryons	7,
 embuscades	9,
 emerge	6,r
@@ -9187,10 +9335,13 @@ emmerdera	8,
 emmerdes	7,|7,r
 emmerdez	7,r
 emmerdons	6,er
+emotifs	6,
 emotionnelle	10,
 emotionnelles	10,
 emotionnels	10,
 emotions	7,
+emotive	5,f
+emotives	5,f
 emouvante	8,
 emouvantes	8,
 emouvants	8,
@@ -9326,6 +9477,7 @@ enchaine	8,r
 enchaine-toi	8,r
 enchainee	8,r
 enchainees	8,r
+enchainements	12,
 enchainent	8,r
 enchaines	8,r
 enchainez	8,r
@@ -9756,6 +9908,10 @@ entrevues	8,
 entrez	5,r
 entrions	4,er
 entrons	4,er
+enumerant	6,er
+enumere	7,r
+enumerez	7,r
+enumerons	6,er
 envahi	6,r
 envahie	6,r
 envahira	7,
@@ -9867,6 +10023,9 @@ epidemies	8,
 epines	5,
 epingles	7,
 epiques	6,
+episcopale	9,
+episcopales	9,
+episcopaux	8,l
 episodes	7,
 eponges	6,
 epopees	6,
@@ -9913,6 +10072,7 @@ epuises	6,|6,r
 epuisez	6,r
 epuisiez	5,er
 epuisons	5,er
+epurations	9,
 equations	8,
 equestres	8,
 equilibree	9,
@@ -9925,6 +10085,8 @@ equipees	7,|6,r
 equipements	10,
 equipes	6,|6,r
 equipez	6,r
+equipiere	8,
+equipiers	8,
 equipons	5,er
 equitables	9,
 equitations	10,
@@ -9978,6 +10140,7 @@ esclavages	9,
 esclaves	7,
 escort	6,e
 escortes	7,
+escrimes	7,
 escriture	0,ecriture
 escroque	5,c
 escroqueries	11,
@@ -10004,8 +10167,19 @@ esperiez	5,er
 esperions	5,er
 esperons	5,er
 espice	0,epice
+espionna	7,er
 espionnages	10,
-espionne	6,
+espionnais	7,er
+espionnait	7,er
+espionnant	7,er
+espionne	6,|8,r
+espionnee	8,r
+espionnent	8,r
+espionnera	9,
+espionnes	8,r
+espionnez	8,r
+espionniez	7,er
+espionnons	7,er
 espions	6,
 espoirs	6,
 espoo	0,epais
@@ -10114,7 +10288,7 @@ etale	5,r
 etalees	5,r
 etalez	5,r
 etalon	0,cheval
-etalons	4,er
+etalons	4,er|6,
 etangs	5,
 etant	0,etre
 etants	5,
@@ -10132,6 +10306,7 @@ eteint	5,dre
 eteinte	6,
 eteintes	6,
 eteints	6,
+etelon	0,etalon
 etendaient	5,re
 etendait	5,re
 etendant	5,re
@@ -10166,6 +10341,7 @@ etiree	5,r
 etires	5,r
 etirez	5,r
 etirons	4,er
+etoffes	6,
 etoile	0,une etoile
 etoilee	6,
 etoilees	6,
@@ -10179,6 +10355,7 @@ etonnants	8,
 etonne	6,r
 etonnee	6,|6,r
 etonnees	6,|6,r
+etonnements	10,
 etonnera	7,
 etonnerait	7,
 etonnes	6,|6,r
@@ -10241,7 +10418,6 @@ eugenie	5,e
 eumes	0,avoir
 eurent	0,avoir
 eurgarder	0,regarder
-euristique	0,heuristique
 europeen	8,ne
 europeenne	8,
 europeennes	8,|10,
@@ -10261,6 +10437,12 @@ evacueront	7,
 evacues	6,r
 evacuez	6,r
 evacuons	5,er
+evade	5,r
+evadee	5,r
+evadees	5,r
+evadent	5,r
+evades	5,r
+evadons	4,er
 evaluant	5,er
 evaluations	10,
 evalue	6,r
@@ -10269,7 +10451,6 @@ evaluez	6,r
 evaluons	5,er
 evangeliques	11,
 evangiles	8,
-evanouissements	14,
 evasions	7,
 evechesse	3,que
 eveilla	6,er
@@ -10322,7 +10503,10 @@ evoluent	6,r
 evoluera	7,
 evoluez	6,r
 evoluons	5,er
+evolutifs	8,
 evolutions	9,
+evolutive	7,f
+evolutives	7,f
 evoquant	5,er
 evoque	6,r
 evoquee	6,r
@@ -10368,6 +10552,7 @@ excellences	10,
 excellente	9,
 excellentes	9,
 excellents	9,
+excentriques	11,
 exceptionnelle	12,
 exceptionnelles	12,
 exceptionnels	12,
@@ -10430,6 +10615,9 @@ executives	7,f
 executons	6,er
 exemplaires	10,
 exemples	7,
+exempte	6,
+exemptes	6,
+exempts	6,
 exercaient	5,er
 exercait	5,er
 exercant	5,er
@@ -10489,6 +10677,9 @@ existons	5,er
 exodes	5,
 exotiques	8,
 expansions	9,
+expatriee	8,
+expatriees	8,
+expatries	8,
 expedia	6,er
 expediant	6,er
 expedie	7,r
@@ -10633,8 +10824,9 @@ expulsees	7,r
 expulsez	7,r
 expulsions	9,
 expulsons	6,er
+exquise	6,
+exquises	6,
 exs	0,ex
-extensibilites	13,
 extensions	9,
 exterieure	9,
 exterieures	9,
@@ -10648,7 +10840,6 @@ extrais	6,re
 extrais-toi	6,re
 extrait	6,re
 extraits	7,
-extranets	8,
 extraordinaires	14,
 extras	5,
 extraterrestres	14,
@@ -10697,6 +10888,8 @@ fachera	6,
 facherait	6,
 facheras	6,
 faches	5,|5,r
+facheuse	6,x
+facheuses	6,x
 fachez	5,r
 fachiste	0,fasciste
 fachons	4,er
@@ -10718,6 +10911,9 @@ factions	7,
 facto	0,de facto
 factrice	4,eur
 factures	7,
+facultatifs	10,
+facultative	9,f
+facultatives	9,f
 facultes	7,
 faibles	6,
 faiblesses	9,
@@ -10744,6 +10940,7 @@ faisiez	3,re
 faisions	3,re
 faisons	3,re
 fait	3,re
+fait-divers	4, divers
 faite	4,|3,re
 faites	4,|3,re
 faits	4,|3,re
@@ -10760,7 +10957,7 @@ familiaux	7,l
 familiere	8,
 familieres	8,
 familiers	8,
-familles	7,
+familles	7,|0,des familles
 famines	6,
 fanatiques	9,
 fans	3,
@@ -10815,6 +11012,9 @@ fausses	3,x
 faut	0,falloir
 fautes	5,
 fauteuils	8,
+fautifs	6,
+fautive	5,f
+fautives	5,f
 fauves	5,
 faux	0,faillir
 faux-cul	4, cul
@@ -10859,7 +11059,6 @@ femme	0,homme
 femme-auteur	0,auteur
 femme-medecin	0,medecin
 femmes	5,
-femtocellules	12,
 fenetres	7,
 feodale	6,
 feodales	6,
@@ -10885,6 +11084,7 @@ fermant	4,er
 ferme	5,r
 fermee	5,|5,r
 fermees	5,|5,r
+fermentations	12,
 ferments	7,
 fermera	6,
 fermerai	6,
@@ -10916,9 +11116,11 @@ ferroviaires	11,
 ferrys	5,
 fers	3,
 fertiles	7,
+fertilites	9,
 fervente	7,
 ferventes	7,
 fervents	7,
+ferveurs	7,
 fessebouc	0,facebook
 fesses	5,
 festifs	6,
@@ -10935,6 +11137,9 @@ fetez	4,r
 fetons	3,er
 feue	3,
 feues	3,
+feuillagee	9,
+feuillagees	9,
+feuillages	9,
 feuilles	7,
 feuilletons	10,
 feum	0,mec
@@ -10954,10 +11159,12 @@ fiat	0,fier
 fibree	5,
 fibrees	5,
 fibres	5,
-fibroniques	10,
 ficelles	7,
 fiches	5,
 fichiers	7,
+fichue	5,
+fichues	5,
+fichus	5,
 fictifs	6,
 fictions	7,
 fictive	5,f
@@ -11041,6 +11248,10 @@ finablement	4,lement
 final	5,e
 finale	5,
 finales	5,|6,
+finalisant	7,er
+finalise	8,r
+finalisez	8,r
+finalisons	7,er
 finalistes	9,
 finalites	8,
 finals	5,
@@ -11125,6 +11336,9 @@ flagrants	8,
 flamande	7,
 flamandes	7,
 flamands	7,
+flamboyante	10,
+flamboyantes	10,
+flamboyants	10,
 flammes	6,
 flancs	5,
 flandres	7,
@@ -11146,6 +11360,7 @@ fleches	6,
 flem	4,me
 fleme	4,me
 flemmes	6,
+fleuraison	0,floraison
 fleureter	0,flirter
 fleurie	6,
 fleuries	6,
@@ -11156,6 +11371,7 @@ fleuves	6,
 flexibilites	11,
 flexibles	8,
 flics	4,
+flingues	7,
 flippant	5,er
 flippe	6,r
 flippers	7,
@@ -11168,6 +11384,10 @@ flirtant	5,er
 flirte	6,r
 flirtez	6,r
 flirtons	5,er
+floraisons	9,
+florale	6,
+florales	6,
+floraux	5,l
 florencee	8,
 florencees	8,
 florences	8,
@@ -11182,8 +11402,13 @@ flottes	6,
 floue	4,
 floues	4,
 flous	4,
+flows	4,
+fluctuations	11,
 fluides	6,
 flutes	5,
+fluviale	7,
+fluviales	7,
+fluviaux	6,l
 focalisa	7,er
 focalisant	7,er
 focalise	8,r
@@ -11305,12 +11530,8 @@ formait	4,er
 formalites	9,
 formames	4,er
 formant	4,er
-formatant	6,er
-formate	7,r
 formateurs	9,
-formatez	7,r
-formations	6,er|9,
-formatons	6,er
+formations	9,
 formatrice	6,eur
 formatrices	6,eur
 formats	6,
@@ -11357,6 +11578,14 @@ fossiles	7,
 foto	0,photo
 foudres	6,
 fouets	5,
+fouetta	6,er
+fouettait	6,er
+fouettant	6,er
+fouette	7,r
+fouettee	7,r
+fouettent	7,r
+fouettez	7,r
+fouettons	6,er
 fouilla	6,er
 fouillais	6,er
 fouillant	6,er
@@ -11366,12 +11595,10 @@ fouillent	7,r
 fouilles	7,|7,r
 fouillez	7,r
 fouillons	6,er
-fouineurs	8,
-fouineuse	7,r
-fouineuses	7,r
 foulards	7,
 foulees	6,
 foules	5,
+fourches	7,
 fourchettes	10,
 fourmis	6,
 fourneaux	8,
@@ -11397,10 +11624,10 @@ fournitures	10,
 fourra	5,er
 fourrant	5,er
 fourre	6,r
-fourree	6,r
-fourrees	6,r
+fourree	6,|6,r
+fourrees	6,|6,r
 fourrent	6,r
-fourres	6,r
+fourres	6,|6,r
 fourrez	6,r
 fourrons	5,er
 fourrures	8,
@@ -11448,6 +11675,9 @@ franchissez	7,r
 franchissons	7,r
 franchit	7,r
 francis	5,hir
+franciscaine	11,
+franciscaines	11,
+franciscains	11,
 francois	8,e
 francoise	8,
 francoises	9,
@@ -11479,6 +11709,7 @@ fraudes	6,
 frederick	8,
 frederique	7,c
 fredric	4,eric
+fregates	7,
 freina	5,er
 freinages	8,
 freinant	5,er
@@ -11518,7 +11749,6 @@ friment	5,r
 frimes	5,r
 frimez	5,r
 frimons	4,er
-frimousses	9,
 fringues	7,
 frissons	7,
 frites	5,
@@ -11586,13 +11816,11 @@ fumons	3,er
 funebres	7,
 funeraires	9,
 furent	0,etre
-fureteurs	8,
-fureteuse	7,r
-fureteuses	7,r
 fureurs	6,
 furieuse	6,x
 furieuses	6,x
 fus	0,etre
+fuseau	0,rafle
 fusees	5,
 fusillades	9,
 fusils	5,
@@ -11628,12 +11856,18 @@ gacherais	6,
 gacherait	6,
 gacheras	6,
 gacheront	6,
-gaches	5,r
+gaches	5,|5,r
 gachez	5,r
 gachons	4,er
 gadgets	6,
+gaell	4,
+gaelle	4,
+gaels	4,
 gaff	4,e
 gaffes	5,
+gagas	4,
+gagate	4,
+gagates	4,
 gages	4,
 gagna	4,er
 gagnaient	4,er
@@ -11674,6 +11908,9 @@ gaillardes	8,
 gaillards	8,
 gains	4,
 gais	3,
+galante	6,
+galantes	6,
+galants	6,
 galas	4,
 galaxies	7,
 galeraient	5,er
@@ -11698,6 +11935,10 @@ gamines	5,|6,
 gamins	5,
 gammes	5,
 gangs	4,
+gangstere	8,
+gangsteresse	8,
+gangsters	8,
+gants	4,
 gaps	3,
 gara	3,er
 garages	6,
@@ -11839,6 +12080,7 @@ gendarmes	8,
 gendarmette	8,
 gendres	6,
 gene	4,r
+genealogies	10,
 genee	4,|4,r
 genees	4,|4,r
 general	7,e
@@ -11894,8 +12136,6 @@ gentlemans	9,
 gentlemen	7,an
 gentlewoman	6,man
 geo-politique	3,politique
-geoblocages	10,
-geodiscriminations	17,
 geoffray	6,oy
 geoffre	6,oy
 geoffrey	6,oy
@@ -11905,12 +12145,11 @@ geoffrois	7,y
 geofroid	4,froy
 geographies	10,
 geographiques	12,
+geologies	8,
 geologiques	10,
-geomarquages	11,
 geometries	9,
 geometriques	11,
 geopolitiques	12,
-georeperages	11,
 george	6,s
 gerais	3,er
 geraldo	6,
@@ -11934,6 +12173,7 @@ germaine	7,
 germaines	7,
 germains	7,
 germaniques	10,
+germes	5,
 gerome	0,jerome
 gerons	3,er
 gerry	3,ald
@@ -11963,6 +12203,7 @@ glacials	7,
 glaciaux	6,l
 glaciere	7,
 glaciers	7,
+glamours	7,
 glandes	6,
 glands	5,
 glissa	5,er
@@ -11970,13 +12211,11 @@ glissaient	5,er
 glissais	5,er
 glissait	5,er
 glissant	5,er
-glissant-deposant	5,er-deposer
 glissante	8,
 glissantes	8,
 glissants	8,
 glissat	5,er
 glisse	6,r
-glisse-depose	6,r-deposer
 glissees	6,r
 glissements	10,
 glissent	6,r
@@ -11984,9 +12223,7 @@ glisserai	7,
 glisserent	7,
 glisses	6,r
 glissez	6,r
-glissez-deposez	6,r-deposer
 glissons	5,er
-glissons-deposons	5,er-deposer
 globale	6,
 globales	6,
 globaux	5,l
@@ -12014,9 +12251,13 @@ gosses	5,
 gothiques	8,
 gotique	3,hique
 gouffres	7,
+gourelle	4,ou
 gourmande	8,
 gourmandes	8,
 gourmands	8,
+gouroue	6,
+gourous	6,
+gouroute	6,
 gouta	4,er
 goutait	4,er
 goutant	4,er
@@ -12054,10 +12295,6 @@ gouvernons	7,er
 graces	5,
 grad	3,nd
 grades	5,
-graduations	10,
-graduee	6,
-graduees	6,
-gradues	6,
 graff	5,iti
 graffitis	8,
 graffito	7,i
@@ -12095,12 +12332,13 @@ grands-peres	5,-pere
 granges	6,
 granits	6,
 grant	4,d|4,dir
-grapheurs	8,
 graphiques	9,
 graphismes	9,
+graphistes	9,
 grappes	6,
 grasse	4,
 grasses	4,
+gratitudes	9,
 gratta	5,er
 grattai	5,er
 grattais	5,er
@@ -12112,11 +12350,8 @@ grattes	6,
 grattez	6,r
 grattons	5,er
 gratuite	7,
-gratuite-payante	7,-payant
 gratuites	7,|8,
-gratuites-payantes	7,-payant
 gratuits	7,
-gratuits-payants	7,-payant
 gravant	4,er
 grave	5,r
 gravee	5,r
@@ -12201,6 +12436,7 @@ gueres	5,
 gueri	5,r
 guerie	5,|5,r
 gueries	5,|5,r
+guerillas	8,
 guerira	6,
 guerirai	6,
 gueriras	6,
@@ -12244,7 +12480,9 @@ guildes	6,
 guilhaume	4,laume
 guilhem	4,laume
 guilherme	4,laume
+guilladou	0,rafle
 guillaumine	8,e
+guilledon	0,rafle
 guillem	5,aume
 guillemette	5,aume
 guillemin	5,aume
@@ -12257,6 +12495,8 @@ guinees	6,
 guises	5,
 guitares	7,
 guitaristes	10,
+guru	0,gourou
+gurvi	0,gourou
 guyanes	6,
 guyanne	5,e
 gymnases	7,
@@ -12264,6 +12504,9 @@ gymnastiques	11,
 gyms	3,
 habiles	6,
 habiletes	8,
+habilitee	8,
+habilitees	8,
+habilites	8,
 habilla	6,er
 habillai	6,er
 habillaient	6,er
@@ -12321,7 +12564,6 @@ habitues	7,|7,r
 habituez	7,r
 habituiez	6,er
 habituons	6,er
-hachages	7,
 hachee	5,
 hachees	5,
 haches	5,
@@ -12337,8 +12579,7 @@ hai	3,r
 haies	4,
 hain	0,hein
 haines	5,
-haineurs	7,
-haineuse	6,r|6,x
+haineuse	6,x
 haineuses	6,x
 haira	4,
 hairai	4,
@@ -12365,14 +12606,15 @@ hallier	0,allier
 halls	4,
 hallucinais	8,er
 hallucinant	8,er
+hallucinations	13,
 hallucine	9,r
 hallucines	9,r
 hallucinez	9,r
 hallucinons	8,er
 haltes	5,
 hamass	5,
+hamburgers	9,
 hameaux	6,
-hameconnages	11,
 hanches	6,
 handballs	8,
 handicapee	9,
@@ -12384,9 +12626,18 @@ hangars	6,
 hanna	0,anna
 hannah	0,anna
 hans	3,
-hantee	5,
+hantaient	4,er
+hantait	4,er
+hantant	4,er
+hante	5,r
+hantee	5,|5,r
 hantees	5,
-hantes	5,
+hantent	5,r
+hantera	6,
+hanterent	6,
+hantes	5,|5,r
+hantez	5,r
+hantons	4,er
 haouai	0,hawai
 harams	5,
 harcela	6,er
@@ -12413,12 +12664,11 @@ harpant	4,er
 harpe	5,r
 harpes	5,r
 harpez	5,r
-harponnages	10,
 harpons	4,er
 harts	4,
 has	0,ha
 hasards	6,
-hashage	0,hachage
+hase	0,lievre
 hashley	0,ashley
 hashtags	7,
 hates	4,
@@ -12451,6 +12701,7 @@ hebreuses	6,
 hebreux	6,
 hectares	7,
 hectorine	6,
+helices	6,
 helicopteres	11,
 hemispheres	10,
 hemorragies	10,
@@ -12489,6 +12740,9 @@ hesita	5,er
 hesitais	5,er
 hesitait	5,er
 hesitant	5,er
+hesitante	8,
+hesitantes	8,
+hesitants	8,
 hesitations	10,
 hesite	6,r
 hesitent	6,r
@@ -12502,7 +12756,6 @@ heteros	6,
 heures	5,
 heureuse	6,x
 heureuses	6,x
-heuristiques	11,
 heurta	5,er
 heurtant	5,er
 heurte	6,r
@@ -12513,7 +12766,6 @@ heurtes	6,|6,r
 heurtez	6,r
 heurtons	5,er
 heux	3,
-hevristique	0,heuristique
 hexagones	8,
 hi	0,ha
 hiant	0,hier
@@ -12582,6 +12834,7 @@ honnetetes	9,
 honneurs	7,
 honorables	9,
 honoraire	9,s
+honoraires	9,
 honorant	5,er
 honore	6,r
 honoree	6,r
@@ -12608,6 +12861,7 @@ hospitaliere	11,
 hospitalieres	11,
 hospitaliers	11,
 hospitalisations	15,
+hospitalites	11,
 hosties	6,
 hostiles	7,
 hostilites	9,
@@ -12615,11 +12869,13 @@ hote	4,sse
 hoteliere	8,
 hotelieres	8,
 hoteliers	8,
+hotelleries	10,
 hotels	5,
 hotes	4,
 hotesse	4,
 hotesses	7,
 hou	0,ha
+howgh	0,hugh
 hsi	0,xi
 hua	0,huer
 huant	0,huer
@@ -12641,6 +12897,7 @@ hum	0,hem
 humaine	6,
 humaines	6,
 humains	6,
+humanismes	9,
 humanistes	9,
 humanitaires	11,
 humanites	8,
@@ -12681,12 +12938,7 @@ hydrogenes	9,
 hygienes	7,
 hymnes	5,
 hyn	0,hein
-hyperfrequences	14,
 hypers	5,
-hypertextes	10,
-hypertextuelle	12,
-hypertextuelles	12,
-hypertextuels	12,
 hypocrisies	10,
 hypocrites	9,
 hypotheques	10,
@@ -12698,8 +12950,7 @@ i	0,il
 i.e.	0,i. e.
 ias	0,ia
 icones	5,
-iconomatiques	12,
-iconometries	11,
+ide	0,ida
 ideale	5,
 ideales	5,
 ideals	5,
@@ -12760,6 +13011,7 @@ illegale	7,
 illegales	7,
 illegaux	6,l
 illegitimes	10,
+illes	4,
 illicites	8,
 illimitee	8,
 illimitees	8,
@@ -12782,7 +13034,6 @@ ilots	4,
 ils	0,il|0,si|0,elle
 imageries	8,
 images	5,
-imagettes	8,
 imagina	6,er
 imaginai	6,er
 imaginaient	6,er
@@ -12834,13 +13085,15 @@ immondes	7,
 immortelle	8,
 immortelles	8,
 immortels	8,
-immotiques	9,
 immunitaires	11,
 immunites	8,
 impacts	6,
 imparfaite	9,
 imparfaites	9,
 imparfaits	9,
+impartiale	9,
+impartiales	9,
+impartiaux	8,l
 impasses	7,
 impatiences	10,
 impatiente	9,
@@ -12861,12 +13114,9 @@ implantations	12,
 implante	8,r
 implantez	8,r
 implantons	7,er
-implementant	9,er
-implemente	10,r
-implementes	10,r
-implementez	10,r
-implementons	9,er
+implants	7,
 implications	11,
+implicites	9,
 impliquait	7,er
 impliquant	7,er
 implique	8,r
@@ -12910,6 +13160,11 @@ imposons	5,er
 impossibilites	13,
 impossibles	10,
 impots	5,
+impregnait	7,er
+impregnant	7,er
+impregne	8,r
+impregnez	8,r
+impregnons	7,er
 impressionna	11,er
 impressionnant	11,er
 impressionnante	14,
@@ -12955,14 +13210,11 @@ impuissantes	10,
 impuissants	10,
 impulsions	9,
 impunites	8,
-imputant	5,er
-imputations	10,
-impute	6,r
-imputee	6,r
-imputez	6,r
-imputons	5,er
 inacceptables	12,
 inaccessibles	12,
+inachevee	8,
+inachevees	8,
+inacheves	8,
 inactifs	7,
 inactive	6,f
 inactives	6,f
@@ -12970,6 +13222,9 @@ inadmissibles	12,
 inapercue	8,
 inapercues	8,
 inapercus	8,
+inappropriee	11,
+inappropriees	11,
+inappropries	11,
 inattendue	9,
 inattendues	9,
 inattendus	9,
@@ -12994,13 +13249,9 @@ incarneront	8,
 incarnes	7,|7,r
 incarnez	7,r
 incarnons	6,er
-incendiant	7,er
-incendie	8,r
-incendiee	8,|8,r
-incendiees	8,|8,r
-incendies	8,|8,r
-incendiez	8,r
-incendions	7,er
+incendiee	8,
+incendiees	8,
+incendies	8,
 incertaine	9,
 incertaines	9,
 incertains	9,
@@ -13008,6 +13259,9 @@ incertitudes	11,
 incessante	9,
 incessantes	9,
 incessants	9,
+inchangee	8,
+inchangees	8,
+inchanges	8,
 incidences	9,
 incidente	8,
 incidentes	8,
@@ -13026,6 +13280,7 @@ incitez	6,r
 incitons	5,er
 inclina	6,er
 inclinai	6,er
+inclinaisons	11,
 inclinait	6,er
 inclinant	6,er
 incline	7,r
@@ -13041,7 +13296,9 @@ incluons	5,re
 inclus	5,re
 incluse	6,
 incluses	6,
+inclusions	9,
 incoherences	11,
+incomparables	12,
 incompatibles	12,
 incompetences	12,
 incompetente	11,
@@ -13069,6 +13326,9 @@ incorporons	8,er
 incroyables	10,
 inculpee	7,
 inculpes	7,
+indecente	8,
+indecentes	8,
+indecents	8,
 indecise	7,
 indecises	7,
 indemnisations	13,
@@ -13148,6 +13408,7 @@ inevitables	10,
 inexistante	10,
 inexistantes	10,
 inexistants	10,
+infames	6,
 infanteries	10,
 infantiles	9,
 infectant	6,er
@@ -13185,6 +13446,7 @@ infirmiere	9,
 infirmieres	9,|10,
 infirmiers	9,
 inflammations	12,
+inflammatoires	13,
 inflations	9,
 inflige	7,r
 infligeait	7,r
@@ -13214,6 +13476,8 @@ influons	5,er
 infographies	11,
 informa	6,er
 informant	6,er
+informaticienne	13,
+informaticiens	13,
 informations	11,
 informatiques	12,
 informe	7,r
@@ -13238,6 +13502,7 @@ ingenieries	10,
 ingenieure	9,
 ingenieurs	9,
 ingenieuse	8,r
+ingerences	9,
 ingrate	6,
 ingrates	6,
 ingrats	6,
@@ -13339,16 +13604,27 @@ insignes	7,
 insignifiante	12,
 insignifiantes	12,
 insignifiants	12,
+insinuais	6,er
+insinuant	6,er
+insinue	7,r
+insinuent	7,r
+insinues	7,r
+insinuez	7,r
+insinuons	6,er
 insista	6,er
 insistai	6,er
 insistait	6,er
 insistames	6,er
+insistances	10,
 insistant	6,er
 insiste	7,r
 insisterons	8,
 insistes	7,r
 insistez	7,r
 insistons	6,er
+insolente	8,
+insolentes	8,
+insolents	8,
 insolites	8,
 insoumise	8,
 insoumises	8,
@@ -13409,7 +13685,10 @@ institutrice	8,eur
 institutrices	8,eur
 instituts	8,
 instructeurs	11,
+instructifs	10,
 instructions	11,
+instructive	9,f
+instructives	9,f
 instructrice	8,eur
 instructrices	8,eur
 instruis	7,re
@@ -13425,6 +13704,7 @@ insuffisances	12,
 insuffisante	11,
 insuffisantes	11,
 insuffisants	11,
+insulaires	9,
 insulta	6,er
 insultais	6,er
 insultant	6,er
@@ -13471,7 +13751,14 @@ intelligences	12,
 intelligente	11,
 intelligentes	11,
 intelligents	11,
+intendante	9,
+intendants	9,
 intenses	7,
+intensifiaient	9,er
+intensifiant	9,er
+intensifie	10,r
+intensifiez	10,r
+intensifions	9,er
 intensifs	8,
 intensites	9,
 intensive	7,f
@@ -13514,10 +13801,10 @@ interessez	9,r
 interessons	8,er
 interets	7,
 interfaces	9,
-interferences	12,
 interieure	9,
 interieures	9,
 interieurs	9,
+interimaires	11,
 interims	7,
 interlocuteurs	13,
 interlocutrice	10,eur
@@ -13617,7 +13904,8 @@ intitulez	8,r
 intitulons	7,er
 intolerables	11,
 intolerances	11,
-intranets	8,
+intouchables	11,
+intoxications	12,
 intras	5,
 intrigues	8,
 introductions	12,
@@ -13628,9 +13916,14 @@ introduisant	8,re
 introduisez	8,re
 introduisons	8,re
 introduit	8,re
+introuvables	11,
 intrusions	9,
 intuitions	9,
 inutiles	7,
+invalidant	7,er
+invalide	8,r
+invalidez	8,r
+invalidons	7,er
 invasions	8,
 inventa	6,er
 inventaires	10,
@@ -13707,6 +14000,7 @@ ions	3,
 iour	0,jour
 ipads	4,
 iphones	6,
+ipods	4,
 ira	0,aller
 irai	0,aller
 iraient	0,aller
@@ -13727,18 +14021,21 @@ ironies	6,
 ironiques	8,
 irons	0,aller
 iront	0,aller
+irregularites	12,
 irreguliere	10,
 irregulieres	10,
 irreguliers	10,
 irreprochables	13,
 irresistibles	12,
 irresponsables	13,
+irrigations	10,
 irys	0,iris
 isabeau	5,lle
 isabel	6,le
 isabele	6,le
 isabelles	8,
 islamiques	9,
+islamismes	9,
 islamistes	9,
 islams	5,
 isle	0,ile
@@ -13764,6 +14061,9 @@ italiennes	7,
 italiens	7,
 italies	6,
 itineraires	10,
+itinerante	9,
+itinerantes	9,
+itinerants	9,
 itzhak	0,isaac
 ive	0,yves
 ives	0,yves
@@ -13977,6 +14277,11 @@ j'affichais	0,afficher
 j'affiche	0,afficher
 j'afficherai	0,afficher
 j'afficherais	0,afficher
+j'affinai	0,affiner
+j'affinais	0,affiner
+j'affine	0,affiner
+j'affinerai	0,affiner
+j'affinerais	0,affiner
 j'affirmai	0,affirmer
 j'affirmais	0,affirmer
 j'affirme	0,affirmer
@@ -14093,11 +14398,6 @@ j'amenais	0,amener
 j'amene	0,amener
 j'amenerai	0,amener
 j'amenerais	0,amener
-j'amorcai	0,amorcer
-j'amorcais	0,amorcer
-j'amorce	0,amorcer
-j'amorcerai	0,amorcer
-j'amorcerais	0,amorcer
 j'amplifiai	0,amplifier
 j'amplifiais	0,amplifier
 j'amplifie	0,amplifier
@@ -14113,6 +14413,11 @@ j'analysais	0,analyser
 j'analyse	0,analyser
 j'analyserai	0,analyser
 j'analyserais	0,analyser
+j'ancrai	0,ancrer
+j'ancrais	0,ancrer
+j'ancre	0,ancrer
+j'ancrerai	0,ancrer
+j'ancrerais	0,ancrer
 j'aneantirai	0,aneantir
 j'aneantirais	0,aneantir
 j'aneantis	0,aneantir
@@ -14413,6 +14718,11 @@ j'avouais	0,avouer
 j'avoue	0,avouer
 j'avouerai	0,avouer
 j'avouerais	0,avouer
+j'axai	0,axer
+j'axais	0,axer
+j'axe	0,axer
+j'axerai	0,axer
+j'axerais	0,axer
 j'ecartai	0,ecarter
 j'ecartais	0,ecarter
 j'ecarte	0,ecarter
@@ -14569,11 +14879,6 @@ j'embrassais	0,embrasser
 j'embrasse	0,embrasser
 j'embrasserai	0,embrasser
 j'embrasserais	0,embrasser
-j'embrouillai	0,embrouiller
-j'embrouillais	0,embrouiller
-j'embrouille	0,embrouiller
-j'embrouillerai	0,embrouiller
-j'embrouillerais	0,embrouiller
 j'emerge	0,emerger
 j'emergeai	0,emerger
 j'emergeais	0,emerger
@@ -14798,6 +15103,9 @@ j'entreverrais	0,entrevoir
 j'entrevis	0,entrevoir
 j'entrevois	0,entrevoir
 j'entrevoyais	0,entrevoir
+j'enumerai	0,enumerer
+j'enumerais	0,enumerer
+j'enumere	0,enumerer
 j'envahirai	0,envahir
 j'envahirais	0,envahir
 j'envahis	0,envahir
@@ -14854,6 +15162,11 @@ j'erigerais	0,eriger
 j'esperai	0,esperer
 j'esperais	0,esperer
 j'espere	0,esperer
+j'espionnai	0,espionner
+j'espionnais	0,espionner
+j'espionne	0,espionner
+j'espionnerai	0,espionner
+j'espionnerais	0,espionner
 j'esquivai	0,esquiver
 j'esquivais	0,esquiver
 j'esquive	0,esquiver
@@ -15138,11 +15451,6 @@ j'implantais	0,implanter
 j'implante	0,implanter
 j'implanterai	0,implanter
 j'implanterais	0,implanter
-j'implementai	0,implementer
-j'implementais	0,implementer
-j'implemente	0,implementer
-j'implementerai	0,implementer
-j'implementerais	0,implementer
 j'impliquai	0,impliquer
 j'impliquais	0,impliquer
 j'implique	0,impliquer
@@ -15158,6 +15466,9 @@ j'imposais	0,imposer
 j'impose	0,imposer
 j'imposerai	0,imposer
 j'imposerais	0,imposer
+j'impregnai	0,impregner
+j'impregnais	0,impregner
+j'impregne	0,impregner
 j'impressionnai	0,impressionner
 j'impressionnais	0,impressionner
 j'impressionne	0,impressionner
@@ -15173,11 +15484,6 @@ j'improvisais	0,improviser
 j'improvise	0,improviser
 j'improviserai	0,improviser
 j'improviserais	0,improviser
-j'imputai	0,imputer
-j'imputais	0,imputer
-j'impute	0,imputer
-j'imputerai	0,imputer
-j'imputerais	0,imputer
 j'inaugurai	0,inaugurer
 j'inaugurais	0,inaugurer
 j'inaugure	0,inaugurer
@@ -15188,11 +15494,6 @@ j'incarnais	0,incarner
 j'incarne	0,incarner
 j'incarnerai	0,incarner
 j'incarnerais	0,incarner
-j'incendiai	0,incendier
-j'incendiais	0,incendier
-j'incendie	0,incendier
-j'incendierai	0,incendier
-j'incendierais	0,incendier
 j'incitai	0,inciter
 j'incitais	0,inciter
 j'incite	0,inciter
@@ -15268,6 +15569,11 @@ j'inscrivis	0,inscrire
 j'inserai	0,inserer
 j'inserais	0,inserer
 j'insere	0,inserer
+j'insinuai	0,insinuer
+j'insinuais	0,insinuer
+j'insinue	0,insinuer
+j'insinuerai	0,insinuer
+j'insinuerais	0,insinuer
 j'insistai	0,insister
 j'insistais	0,insister
 j'insiste	0,insister
@@ -15301,6 +15607,11 @@ j'insulterais	0,insulter
 j'integrai	0,integrer
 j'integrais	0,integrer
 j'integre	0,integrer
+j'intensifiai	0,intensifier
+j'intensifiais	0,intensifier
+j'intensifie	0,intensifier
+j'intensifierai	0,intensifier
+j'intensifierais	0,intensifier
 j'interceptai	0,intercepter
 j'interceptais	0,intercepter
 j'intercepte	0,intercepter
@@ -15358,6 +15669,11 @@ j'introduirais	0,introduire
 j'introduis	0,introduire
 j'introduisais	0,introduire
 j'introduisis	0,introduire
+j'invalidai	0,invalider
+j'invalidais	0,invalider
+j'invalide	0,invalider
+j'invaliderai	0,invalider
+j'invaliderais	0,invalider
 j'inventai	0,inventer
 j'inventais	0,inventer
 j'invente	0,inventer
@@ -15425,6 +15741,11 @@ j'offenserai	0,offenser
 j'offenserais	0,offenser
 j'officiai	0,officier
 j'officiais	0,officier
+j'officialisai	0,officialiser
+j'officialisais	0,officialiser
+j'officialise	0,officialiser
+j'officialiserai	0,officialiser
+j'officialiserais	0,officialiser
 j'officie	0,officier
 j'officierai	0,officier
 j'officierais	0,officier
@@ -15522,6 +15843,7 @@ j'utilise	0,utiliser
 j'utiliserai	0,utiliser
 j'utiliserais	0,utiliser
 jac	3,ques
+jacadi	3,ques a dit
 jacqueline	5,ot
 jacquots	7,
 jades	4,
@@ -15580,6 +15902,7 @@ joele	4,
 joelle	4,
 joels	4,
 joffroy	0,geoffroy
+joggings	7,
 joies	4,
 joignais	3,ndre
 joignait	3,ndre
@@ -15685,6 +16008,7 @@ journalieres	10,
 journaliers	10,
 journalismes	11,
 journalistes	11,
+journalistiques	14,
 journaux	6,l
 journees	7,
 jours	4,
@@ -15731,7 +16055,7 @@ julyen	3,ien
 jumeaux	6,
 jumelle	4,au
 jumelles	4,au
-jument	0,cheval
+jument	0,cheval|0,etalon
 jungles	6,
 juniore	6,
 juniors	6,
@@ -15776,6 +16100,7 @@ justin	6,e
 justine	6,
 k7	0,cassette
 kaeven	0,kevin
+kaiak	0,kayak
 kaili	0,kelly
 kailie	0,kelly
 kailly	0,kelly
@@ -15783,8 +16108,9 @@ kaily	0,kelly
 kan	0,khan
 kanton	0,canton
 kanzas	3,sas
+karen	3,ine
 karens	5,
-karina	3,en
+karina	3,en|5,e
 karine	3,en|0,catherine
 karman	5,
 karmas	5,
@@ -15793,6 +16119,8 @@ karolyn	0,caroline
 karolyne	0,caroline
 kas	0,ka
 katar	0,qatar
+kayac	4,k
+kayaks	5,
 kayleigh	0,kelly
 kayli	0,kelly
 kaylie	0,kelly
@@ -15867,6 +16195,8 @@ l'on	0,on
 la	0,de|0,le|0,les
 labels	5,
 laboratoires	11,
+laborieuse	8,x
+laborieuses	8,x
 labos	4,
 labyrinthes	10,
 lacets	5,
@@ -15882,6 +16212,7 @@ lacherai	6,
 lacherons	6,
 lachers	6,
 laches	5,|5,r
+lachetes	7,
 lachez	5,r
 lachiez	4,er
 lachons	4,er
@@ -16059,6 +16390,7 @@ lectrice	4,eur
 lectures	7,
 legale	5,
 legales	5,
+legalisations	12,
 legalites	8,
 legaux	4,l
 legendaires	10,
@@ -16075,6 +16407,7 @@ legislative	9,f
 legislatives	9,f
 legislatrice	8,eur
 legislatrices	8,eur
+legislatures	11,
 legitimes	8,
 legitimites	10,
 legos	4,
@@ -16154,12 +16487,14 @@ leviers	6,
 leviez	3,er
 levons	3,er
 levres	5,
+levures	6,
 levy	3,i
 lexandre	0,alexandre
 leyna	0,lena
 leynah	0,lena
 leynna	0,lena
 lez	0,les
+lezards	6,
 lfi	0,fi
 lgbts	4,
 lgt	0,logement|0,longtemps
@@ -16213,6 +16548,7 @@ lieus	4,
 lieutenante	10,
 lieutenants	10,
 lieux	4,
+lievres	6,
 liez	3,r
 ligaments	8,
 lights	5,
@@ -16253,6 +16589,7 @@ lirez	4,
 lirons	3,e
 liront	3,e
 lis	0,lire
+lisable	3,ible
 lisaient	0,lire
 lisais	0,lire
 lisait	0,lire
@@ -16261,32 +16598,27 @@ lise	0,lire
 lisent	0,lire
 lisente	0,sente
 lises	0,lire
-liseur	5,se
-liseuses	7,
 lisez	0,lire
+lisibles	7,
 lisiez	0,lire
 lisions	0,lire
 lisons	0,lire
 lisse	0,lice
 lisses	5,
-listages	7,
-listant	4,er
-liste	5,r
-listees	5,r
-listes	5,|5,r
-listez	5,r
-listons	4,er
+listes	5,
 lit	0,lire
 litier	0,laitier
 litiges	6,
 litres	5,
 lits	3,
 litteraires	10,
+litterale	8,
+litterales	8,
 litteratures	11,
+litteraux	7,l
 littorale	8,
 littorales	8,
 littoraux	7,l
-livrables	8,
 livraient	4,er
 livraisons	9,
 livrait	4,er
@@ -16328,7 +16660,6 @@ logent	4,r
 logeons	4,r
 loges	4,|4,r
 logez	4,r
-logiciel-socles	14,
 logicielle	8,
 logicielles	8,
 logiciels	8,
@@ -16344,6 +16675,9 @@ lois	3,
 loisirs	6,
 loix	3,
 loki	0,loge
+lombarde	7,
+lombardes	7,
+lombards	7,
 londonienne	9,
 londoniennes	9,
 londoniens	9,
@@ -16420,6 +16754,7 @@ lucat	4,s
 lucaud	4,s
 lucca	3,as
 lucides	6,
+lucidites	8,
 lucienne	6,
 luciens	6,
 lucka	3,as
@@ -16446,6 +16781,7 @@ lumineuse	7,x
 lumineuses	7,x
 luminosites	10,
 lunaires	7,
+lundi-saint	5, saint
 lundis	5,
 lunes	4,
 lunettes	7,
@@ -16492,9 +16828,7 @@ maconne	5,
 maconneries	10,
 maconnes	5,
 macons	5,
-macro-instructions	17,
 macrons	6,
-macroordinateurs	15,
 macros	5,
 macs	3,
 madame	0,monsieur
@@ -16526,9 +16860,13 @@ magiciennes	8,
 magiciens	8,
 magies	5,
 magiques	7,
+magistrale	9,
+magistrales	9,
 magistrate	9,
 magistrats	9,
 magistratures	12,
+magistraux	8,l
+magner	0,manier
 magnetiques	10,
 magnifaik	6,ique
 magnifiques	10,
@@ -16555,7 +16893,6 @@ main-gauche	4, gauche
 mainant	4,tenant
 mains	4,
 mainte	5,
-maintenabilites	14,
 maintenait	7,ir
 maintenances	11,
 maintenant	7,ir
@@ -16595,6 +16932,8 @@ maitrisons	7,er
 maitrisons-nous	7,er
 maja	0,maya
 majestes	7,
+majestueuse	9,x
+majestueuses	9,x
 majeur	6,e
 majeure	6,
 majeures	6,|7,
@@ -16621,6 +16960,7 @@ malgaches	8,
 malheureuse	9,x
 malheureuses	9,x
 malheurs	7,
+malhonnetes	10,
 malienne	6,
 maliens	6,
 maligne	4,n
@@ -16689,10 +17029,13 @@ manges	5,r
 mangez	5,r
 mangiez	4,er
 mangions	4,er
+maniant	4,er
+manie	5,r
 manieree	7,
 manierees	7,
 manieres	7,
-manies	5,
+manies	5,|5,r
+maniez	5,r
 manifesta	8,er
 manifestant	8,er
 manifestante	11,
@@ -16706,6 +17049,7 @@ manifestes	9,|9,r
 manifestez	9,r
 manifestons	8,er
 manifs	5,
+manions	4,er
 manipulait	7,er
 manipulant	7,er
 manipulateurs	12,
@@ -16758,10 +17102,20 @@ manufactures	11,
 manuscrite	9,
 manuscrites	9,
 manuscrits	9,
-mappes	5,
 maque	0,mac
 maquettes	8,
+maquilla	7,er
 maquillages	10,
+maquillais	7,er
+maquillant	7,er
+maquille	8,r
+maquillee	8,r
+maquillees	8,r
+maquillent	8,r
+maquilles	8,r
+maquillez	8,r
+maquilliez	7,er
+maquillons	7,er
 marathons	8,
 marbree	6,
 marbrees	6,
@@ -16815,6 +17169,7 @@ mariannes	8,
 mariant	4,er
 marie	5,r
 marie-anne	4,anne
+marie-jeanne	4,juana
 marie-jose	0,joseph
 marie-josee	0,joseph
 mariee	5,
@@ -16832,8 +17187,10 @@ marierons	6,
 marieront	6,
 maries	5,|5,r
 mariez	5,r
+marihuana	4,juana
 mariiez	4,er
 mariions	4,er
+marijuanas	9,
 marinas	6,
 marine	5,
 marinee	6,
@@ -16852,7 +17209,6 @@ marocaine	8,
 marocaines	8,
 marocains	8,
 marqua	5,er
-marquages	8,
 marquaient	5,er
 marquant	5,er
 marque	6,r
@@ -16890,14 +17246,13 @@ martiales	7,
 martiaux	6,l
 martine	6,
 martyre	6,
-martyres	6,
+martyres	6,|7,
 martyrs	6,
 marxistes	8,
 mary	3,ie
 masculine	8,
 masculines	8,
 masculins	8,
-masquages	8,
 masquaient	5,er
 masquait	5,er
 masquant	5,er
@@ -16925,6 +17280,12 @@ massons	4,er
 mastaire	4,er
 mastere	6,
 masters	6,
+masturbaient	7,er
+masturbais	7,er
+masturbant	7,er
+masturbe	8,r
+masturbez	8,r
+masturbons	7,er
 mata	3,er
 matait	3,er
 matant	3,er
@@ -16994,6 +17355,14 @@ mechante	7,
 mechantes	7,|8,
 mechants	7,
 meches	5,
+meconnais	8,tre
+meconnais-toi	8,tre
+meconnaissant	8,tre
+meconnaissez	8,tre
+meconnaissez-vous	8,tre
+meconnaissons	8,tre
+meconnaissons-nous	8,tre
+meconnu	6,aitre
 mecontente	9,
 mecontentements	14,
 mecontentes	9,
@@ -17014,6 +17383,7 @@ medianes	6,|7,
 medians	6,
 medias	5,
 mediateurs	9,
+mediatheques	11,
 mediations	9,
 mediatiques	10,
 mediatrice	6,eur
@@ -17040,6 +17410,7 @@ meditons	5,er
 medium	4,a
 mediums	6,
 meetings	7,
+mefaits	6,
 mefiaient	4,er
 mefiait	4,er
 mefiances	8,
@@ -17048,8 +17419,6 @@ mefient	5,r
 mefies	5,r
 mefiez	5,r
 mefions	4,er
-megacollectes	12,
-megadonnee	10,s
 megas	4,
 meilleure	8,
 meilleures	8,
@@ -17075,6 +17444,7 @@ melodies	7,
 melodine	6,e
 melody	5,ie
 melons	3,er|5,
+melos	0,milo
 membranes	8,
 membres	6,
 membresse	6,
@@ -17252,7 +17622,6 @@ mesures	6,|6,r
 mesurez	6,r
 mesurons	5,er
 met	3,tre
-metadonnees	10,
 metalliques	10,
 metamorphoses	12,
 metaphores	9,
@@ -17269,6 +17638,7 @@ metisse	5,
 metisses	5,
 metrages	7,
 metres	5,
+metriques	8,
 metropoles	9,
 metropolitain	0,montrealais
 metropolitaine	13,
@@ -17334,15 +17704,6 @@ michael	4,el
 michele	6,
 michelles	8,
 michels	6,
-micro-ondes	10,
-micro-ordinateur	5,ordinateur
-microblog	9,ue
-microblogages	12,
-microblogues	11,
-microonde	5,-onde
-microondes	5,-onde
-microordinateurs	15,
-microprocesseurs	15,
 micros	5,
 midis	4,
 miels	4,
@@ -17383,10 +17744,6 @@ militez	6,r
 militons	5,er
 millan	3,an
 millenaires	10,
-milleniale	9,
-milleniales	9,
-millenials	9,
-milleniaux	8,l
 milles	5,
 milliardaires	12,
 milliards	8,
@@ -17394,9 +17751,10 @@ milliers	7,
 millimetres	10,
 millionnaires	12,
 millions	7,
+milon	4,
+milos	4,
 mimis	4,
 minables	7,
-minages	6,
 minces	5,
 minerais	7,
 minerale	7,
@@ -17413,13 +17771,14 @@ mineur·e	6,|6,e
 mineuse	5,r
 mineuses	5,r
 miniatures	9,
-minieres	7,
+miniere	6,
+minieres	6,|7,
+miniers	6,
 minima	5,um
 minimale	7,
 minimales	7,
 minimaux	6,l
 minimes	6,
-minimessages	11,
 minimette	6,
 minimisant	7,er
 minimise	8,r
@@ -17438,6 +17797,9 @@ minuits	6,
 minuscules	9,
 minutes	6,
 miracles	7,
+miraculeuse	9,x
+miraculeuses	9,x
+mirages	6,
 mirent	0,mettre
 miriam	0,myriam
 miriame	0,myriam
@@ -17485,6 +17847,7 @@ mobilisera	9,
 mobilisez	8,r
 mobilisons	7,er
 mobilites	8,
+moche	0,motte
 moches	5,
 modalites	8,
 mode	3,
@@ -17514,6 +17877,7 @@ modifiees	7,r
 modifies	7,r
 modifiez	7,r
 modifions	6,er
+modos	4,
 mods	3,
 modules	6,
 moe	0,moi
@@ -17564,6 +17928,7 @@ monnier	0,meunier
 monnoie	4,aie
 monnoye	4,aie
 monopoles	8,
+monos	4,
 mons	3,
 monsieur	0,madame
 monsieurs	8,
@@ -17574,6 +17939,8 @@ monstrueuses	9,x
 monta	4,er
 montages	7,
 montagnes	8,
+montagneuse	9,x
+montagneuses	9,x
 montai	4,er
 montaient	4,er
 montais	4,er
@@ -17676,7 +18043,7 @@ morialais	0,montrealais
 morialiste	0,montrealais
 morice	0,maurice
 moris	0,maurice
-morphoses	8,
+morphologies	11,
 morris	0,maurice
 mort	0,mourir
 mortalites	9,
@@ -17711,6 +18078,7 @@ motos	4,
 motrice	3,eur
 motrices	3,eur
 mots	3,
+mottes	5,
 mouches	6,
 mouchoirs	8,
 mouillait	6,er
@@ -17760,19 +18128,9 @@ muette	4,
 muettes	4,
 mules	4,
 mulet	4,
-multi-tache	5,tache
-multi-taches	5,tache
-multibandes	10,
-multifils	8,
 multimedias	10,
 multinationales	14,
 multiples	8,
-multiplexages	12,
-multiplexant	9,er
-multiplexe	10,r
-multiplexeurs	12,
-multiplexez	10,r
-multiplexons	9,er
 multipliant	8,er
 multiplications	14,
 multiplie	9,r
@@ -17783,9 +18141,6 @@ multiplierai	10,
 multiplies	9,|9,r
 multipliez	9,r
 multiplions	8,er
-multiprocesseurs	15,
-multitaches	10,
-multitraitements	15,
 multitudes	9,
 municipale	9,
 municipales	9,
@@ -17828,6 +18183,9 @@ musiques	7,
 musulmane	8,
 musulmanes	8,
 musulmans	8,
+mutante	6,
+mutantes	6,
+mutants	6,
 mutations	8,
 mutuelle	6,
 mutuelles	6,
@@ -18056,7 +18414,6 @@ nettoyiez	6,er
 nettoyions	6,er
 nettoyons	6,er
 neufs	4,
-neuromorphiques	14,
 neurones	7,
 neutralisant	9,er
 neutralise	10,r
@@ -18094,6 +18451,9 @@ nient	3,r
 nierai	4,
 nies	3,r
 niez	3,r
+nigeriane	8,
+nigerianes	8,
+nigerians	8,
 niker	0,niquer
 nikol	0,nicole
 nils	3,
@@ -18137,7 +18497,6 @@ nominaux	6,l
 nominee	6,
 nomines	6,
 nomma	4,er
-nommages	7,
 nommaient	4,er
 nommait	4,er
 nommant	4,er
@@ -18159,6 +18518,8 @@ non-binaire	0,femme|0,homme
 non-genre	3, genre
 non-seulement	3, seulement
 nons	3,
+norah	4,
+noras	4,
 nord-est-demi-est	8, demi-est
 nordiques	8,
 nords	4,
@@ -18196,6 +18557,7 @@ notez	4,r
 notices	6,
 notifications	12,
 notions	3,er|6,
+notoires	7,
 notons	3,er
 notorietes	9,
 notr'	4,e
@@ -18208,6 +18570,7 @@ nouee	4,r
 nouel	0,noel
 nouent	4,r
 nouez	4,r
+nouilles	7,
 nouons	3,er
 nourri	6,r
 nourrie	6,r
@@ -18268,16 +18631,12 @@ nulle	3,
 nulles	3,
 nuls	3,
 numeriques	9,
-numerisant	7,er
-numerise	8,r
-numeriseurs	10,
-numerisez	8,r
-numerisons	7,er
 numeros	6,
 nune	0,nul
 nuques	5,
 nus	0,nu
 nutritions	9,
+nyora	0,nora
 nº	0,no
 nᵒ	0,no
 nᵒˢ	0,no
@@ -18304,6 +18663,7 @@ objectifs	8,
 objections	9,
 objective	7,f
 objectives	7,f
+objectivites	11,
 objets	5,
 obligations	10,
 obligatoires	11,
@@ -18391,7 +18751,6 @@ occupons	5,er
 occurrences	10,
 oceans	5,
 octaves	6,
-octets	5,
 octobres	7,
 octroie	5,yer
 octrois	6,
@@ -18425,6 +18784,10 @@ offensons	6,er
 offert	3,rir
 offertes	7,
 offices	6,
+officialisant	10,er
+officialise	11,r
+officialisez	11,r
+officialisons	10,er
 officiant	6,er
 officie	7,r
 officielle	8,
@@ -18530,6 +18893,9 @@ opposez	6,r
 oppositions	10,
 opposons	5,er
 oppressions	10,
+opprimee	7,
+opprimees	7,
+opprimes	7,
 opta	3,er
 optant	3,er
 opte	4,r
@@ -18556,6 +18922,7 @@ orangee	6,
 orangees	6,
 oranges	6,
 orateurs	7,
+oratoires	8,
 oratrice	4,eur
 oraux	3,l
 orbites	6,
@@ -18678,6 +19045,7 @@ osti	0,hostie
 ostie	0,hostie
 otages	5,
 otais	0,oter
+otaiti	0,tahiti
 otant	0,oter
 ote	3,r
 otee	3,r
@@ -18802,6 +19170,7 @@ pacifiques	9,
 packs	4,
 pactes	5,
 paedophile	0,pedophile
+page-titre	4, de titre
 pages	4,
 pagesse	4,
 paie	0,paye|0,payer
@@ -18859,6 +19228,7 @@ panneaux	7,
 pannes	5,
 panoramas	8,
 pans	3,
+pansements	9,
 pantalons	8,
 pantheons	8,
 papa	0,maman
@@ -18897,6 +19267,7 @@ paralysee	8,r
 paralysees	8,r
 paralyses	8,r
 paralysez	8,r
+paralysies	9,
 paralysons	7,er
 parametres	9,
 paranos	6,
@@ -18938,7 +19309,6 @@ pardonniez	7,er
 pardonnons	7,er
 pardons	6,
 pare	4,r
-pare-feux	8,
 paree	4,r
 parees	4,r
 pareil	6,le
@@ -19014,6 +19384,9 @@ parlons	4,er
 parodies	7,
 parois	5,
 paroisses	8,
+paroissiale	10,
+paroissiales	10,
+paroissiaux	9,l
 paroles	6,
 parons	3,er
 parquets	7,
@@ -19120,9 +19493,9 @@ parvenez	6,ir
 parveniez	7,r
 parvenions	7,r
 parvenons	6,ir
-parvenu	6,ir
+parvenu	6,ir|7,e
 parvenue	7,
-parvenues	7,
+parvenues	7,|8,
 parvenus	7,
 parviens	4,enir
 pas-a-pas	3, a pas
@@ -19161,7 +19534,6 @@ passee	5,|5,r
 passees	5,|5,r
 passege	4,age
 passent	5,r
-passepartout	5,-partout
 passeports	9,
 passera	6,
 passerai	6,
@@ -19204,6 +19576,7 @@ pastorales	8,
 pastoraux	7,l
 pastoresse	4,eur
 patates	6,
+patchs	5,
 patente	6,
 patentes	6,
 patents	6,
@@ -19223,6 +19596,7 @@ patientes	7,|8,|8,r
 patientez	8,r
 patientiez	7,er
 patients	7,
+patinages	8,
 patinoires	9,
 patins	5,
 patisseries	10,
@@ -19248,6 +19622,7 @@ patryck	4,ick
 patryk	4,ick
 pats	3,
 pattes	5,
+paturages	8,
 paul	4,ine
 paula	4,
 paule	4,
@@ -19296,8 +19671,9 @@ payions	3,er
 payons	3,er
 payons-nous	3,er
 paysages	7,
+paysan	6,ne
 paysanne	6,
-paysannes	6,
+paysannes	6,|8,
 paysans	6,
 payse	4,
 pbs	0,pb
@@ -19352,6 +19728,7 @@ pelerins	7,
 pelles	5,
 pellicules	9,
 pelotons	7,
+pelou	0,rafle
 pelouses	7,
 peluches	7,
 penale	5,
@@ -19539,8 +19916,6 @@ peripheries	10,
 peripheriques	12,
 periples	7,
 peris	4,
-peritelephonies	14,
-peritelevisions	14,
 perles	5,
 perm	4,ission
 permanences	10,
@@ -19568,7 +19943,6 @@ permis	4,ettre
 permise	6,
 permises	6,
 permissions	10,
-permutations	11,
 perpete	0,a perpetuite
 perpetuant	7,er
 perpetue	8,r
@@ -19584,6 +19958,7 @@ perquisitions	12,
 perruques	8,
 persecutions	11,
 perses	5,
+perseverances	12,
 persista	7,er
 persistait	7,er
 persistant	7,er
@@ -19656,7 +20031,11 @@ pesticides	9,
 pet'	3,
 peta	3,er
 petait	3,er
+petalee	6,
+petalees	6,
+petales	6,
 petant	3,er
+petards	6,
 pete	3,|4,r
 petee	4,|4,r
 petees	4,
@@ -19722,7 +20101,6 @@ photographies	12,|12,r
 photographiez	12,r
 photographions	11,er
 photographiques	14,
-photoniques	10,
 photos	5,
 phrasee	6,
 phrasees	6,
@@ -19800,8 +20178,10 @@ pionniere	8,
 pionnieres	8,
 pionniers	8,
 pions	4,
+pipe-line	4,line
 pipee	4,
 pipees	4,
+pipelines	8,
 pipes	4,
 pipeule	0,people
 pipis	4,
@@ -19910,18 +20290,22 @@ plaisez	4,re
 plaisirs	7,
 plaisons	4,re
 plait	4,re
+plana	4,er
+planait	4,er
+planant	4,er
 planchant	6,er
 planche	7,r
 planchers	8,
 planches	7,
 planchez	7,r
 planchons	6,er
-plane	4,
+plane	4,|5,r
 planes	4,|5,
 planeste	5,te
 planetaires	10,
 planetes	7,
 planette	6,e
+planez	5,r
 planifia	7,er
 planifiaient	7,er
 planifiant	7,er
@@ -19934,6 +20318,7 @@ planifiez	8,r
 planifions	7,er
 plannette	4,ete
 plannings	8,
+planons	4,er
 plans	4,
 planta	5,er
 plantai	5,er
@@ -19960,6 +20345,7 @@ plants	5,
 plaquee	6,
 plaquees	6,
 plaques	6,
+plaquettes	9,
 plasmas	6,
 plastiques	9,
 plate	4,
@@ -19977,6 +20363,9 @@ plein-emploi	5, emploi
 pleine	5,
 pleines	5,
 pleins	5,
+pleniere	7,
+plenieres	7,
+pleniers	7,
 pleura	5,er
 pleurai	5,er
 pleuraient	5,er
@@ -20042,6 +20431,7 @@ pluriels	7,
 plus-part	3,part
 pluspart	3,part
 plut	0,plaire
+pneumatiques	11,
 pneus	4,
 po.	0,po
 poches	5,
@@ -20055,6 +20445,7 @@ poesies	6,
 poetes	5,
 poetesse	5,
 poetiques	8,
+pognons	6,
 poicon	3,sson
 poids-lourd	5, lourd
 poignarda	8,er
@@ -20083,8 +20474,6 @@ pointees	6,
 pointent	6,r
 pointers	7,
 pointes	6,|6,r
-pointeurs	8,
-pointeuse	7,r
 pointez	6,r
 pointons	5,er
 points	5,
@@ -20106,7 +20495,7 @@ pokez	4,r
 pokons	3,er
 pol	0,paul
 polaires	7,
-polarisations	12,
+polars	5,
 polemiques	9,
 poles	4,
 polices	6,
@@ -20150,6 +20539,13 @@ pompiers	7,
 ponctuelle	8,
 ponctuelles	8,
 ponctuels	8,
+pondaient	4,re
+pondant	4,re
+pondent	4,re
+pondez	4,re
+pondons	4,re
+ponds	4,re
+pondu	4,re
 ponette	4,y
 poneys	5,
 ponts	4,
@@ -20161,7 +20557,8 @@ populations	10,
 populistes	9,
 porcelaines	10,
 porcs	4,
-pornodivulgations	16,
+pornographies	12,
+pornographiques	14,
 pornos	5,
 porta	4,er
 portables	8,
@@ -20279,10 +20676,14 @@ postulez	7,r
 postulons	6,er
 postures	7,
 potables	7,
+potagere	7,
+potageres	7,
+potagers	7,
 poteaux	6,
 potentielle	9,
 potentielles	9,
 potentiels	9,
+poteries	7,
 potes	4,
 potesse	4,
 potit	0,petit
@@ -20302,6 +20703,7 @@ poumons	6,
 poupees	6,
 pourcentages	11,
 pourir	4,rir
+pourpres	7,
 pourra	3,voir
 pourrai	3,voir
 pourraient	5,ir|3,voir
@@ -20404,7 +20806,6 @@ pratiques	8,|8,r
 pratiquez	8,r
 pratiquons	7,er
 pre	0,pure race espagnole
-pre-production	3,production
 prealables	9,
 precaires	8,
 precarites	9,
@@ -20504,6 +20905,7 @@ preferiez	6,er
 preferons	6,er
 prefete	6,
 prefets	6,
+prehistoriques	13,
 prejudices	9,
 prejuges	7,
 prelatesse	6,
@@ -20588,7 +20990,6 @@ preparez	7,r
 prepariez	6,er
 preparions	6,er
 preparons	6,er
-preproductions	13,
 prerogatives	11,
 pres	3,|0,de pres
 prescriptions	12,
@@ -20698,6 +21099,8 @@ pretendue	8,|7,re
 pretendues	8,|7,re
 pretendus	8,
 pretent	5,r
+pretentieuse	10,x
+pretentieuses	10,x
 pretentions	10,
 pretera	6,
 preterai	6,
@@ -20739,6 +21142,7 @@ prevoie	6,r
 prevoies	6,r
 prevois	6,r
 prevoit	6,r
+prevoyances	10,
 prevoyant	5,ir
 prevoyante	9,
 prevoyantes	9,
@@ -20770,9 +21174,10 @@ prieuse	5,r
 priez	4,r
 primaires	8,
 primes	5,
+primitif	7,ve
 primitifs	8,
 primitive	7,f
-primitives	7,f
+primitives	7,f|9,
 primordiale	10,
 primordiales	10,
 primordiaux	9,l
@@ -20840,6 +21245,7 @@ prochaines	8,
 prochains	8,
 proches	6,
 proclamant	7,er
+proclamations	12,
 proclame	8,r
 proclamee	8,r
 proclamerons	9,
@@ -20901,6 +21307,7 @@ profilez	7,r
 profilons	6,er
 profils	6,
 profita	6,er
+profitables	10,
 profitai	6,er
 profitant	6,er
 profite	7,r
@@ -20918,7 +21325,6 @@ profondes	7,
 profondeurs	10,
 profonds	7,
 profs	4,
-progiciels	9,
 programmant	8,er
 programmations	13,
 programme	9,r
@@ -21003,10 +21409,12 @@ promeus	4,ouvoir
 promis	4,ettre
 promos	5,
 promoteurs	9,
+promotionnelle	12,
+promotionnelles	12,
+promotionnels	12,
 promotions	9,
 promotrice	6,eur
 promotrices	6,eur
-promouvables	11,
 promouvant	7,oir
 promouvez	7,oir
 promouvons	8,ir
@@ -21014,7 +21422,13 @@ prompte	6,
 promptes	6,
 prompts	6,
 promu	4,ouvoir
+pronait	4,er
+pronant	4,er
+prone	5,r
+pronent	5,r
 prones	5,
+pronez	5,r
+pronoms	6,
 prononca	7,er
 prononcait	7,er
 prononcant	7,er
@@ -21027,6 +21441,7 @@ prononces	8,|8,r
 prononcez	8,r
 prononciations	13,
 prononcons	7,er
+pronons	4,er
 pronostics	9,
 propagandes	10,
 propagations	11,
@@ -21084,10 +21499,11 @@ prostitue	9,e
 prostituees	10,
 prostitutions	12,
 protagonistes	12,
+protecteur	7,rice
 protecteurs	10,
 protections	10,
 protectrice	7,eur
-protectrices	7,eur
+protectrices	7,eur|11,
 protege	7,r
 protegea	7,r
 protegeais	7,r
@@ -21155,7 +21571,6 @@ provinces	8,
 provinciale	10,
 provinciales	10,
 provinciaux	9,l
-provisionnements	15,
 provisions	9,
 provisoires	10,
 provocations	11,
@@ -21278,6 +21693,11 @@ purgeons	5,r
 purgerez	6,
 purges	5,
 purgez	5,r
+purifiant	6,er
+purifie	7,r
+purifiee	7,r
+purifiez	7,r
+purifions	6,er
 purs	3,
 pus	0,plus|0,pouvoir
 put	0,pouvoir
@@ -21292,7 +21712,6 @@ pyjamas	6,
 pyramides	8,
 q	0,cul
 q.i.	0,qi
-qbit	0,qubit
 qu	0,ku
 qu'	0,que
 quais	4,
@@ -21322,6 +21741,7 @@ quants	5,
 quarantaines	11,
 quarte	5,
 quartes	5,
+quartier-general	8, general
 quartiers	8,
 quarts	5,
 quasis	5,
@@ -21331,7 +21751,6 @@ quatre-quatre	0,4x4
 quatres	6,
 quatriemes	9,
 quatuors	7,
-qubits	5,
 quebecoise	9,
 quebecoises	9,
 quedalle	3, dalle
@@ -21345,7 +21764,7 @@ quelques	7,
 quelques-unes	6,'un
 quelques-uns	6,'un
 quels	4,
-queque	3,lque
+queque	0,cake|3,lque
 querelles	8,
 quesque	0,qu'est-ce que
 questionna	9,er
@@ -21393,6 +21812,7 @@ quittez	6,r
 quittiez	5,er
 quittions	5,er
 quittons	5,er
+quizz	4,
 quoi	0,de quoi
 quoiqu'	6,e
 quotas	5,
@@ -21459,24 +21879,19 @@ radiations	9,
 radicale	7,
 radicales	7,
 radicaux	6,l
-radio-diffusion	5,diffusion
-radio-guidage	5,guidage
-radio-identifiants	17,
-radio-identifications	20,
 radio-pilote	5, pilote
 radioactifs	10,
 radioactive	9,f
 radioactives	9,f
-radiocassettes	13,
-radiocommandes	13,
-radiogoniometries	16,
-radioguidages	12,
 radios	5,
 rafael	0,raphael
 rafales	6,
+raffe	3,le
 raffinee	7,
 raffinees	7,
 raffines	7,
+raffle	3,le
+rafles	5,
 rafraichi	9,r
 rafraichies	9,r
 rafraichis	9,r
@@ -21495,9 +21910,10 @@ raisonnables	11,
 raisonnait	7,er
 raisonnant	7,er
 raisonne	8,r
-raisonnee	8,r
+raisonnee	8,|8,r
+raisonnees	8,
 raisonnements	12,
-raisonnes	8,r
+raisonnes	8,|8,r
 raisonnez	8,r
 raisonnons	7,er
 raisons	6,
@@ -21525,6 +21941,7 @@ ralez	4,r
 ralliant	5,er
 rallie	6,r
 ralliee	6,r
+ralliements	10,
 rallierent	7,
 ralliez	6,r
 rallions	5,er
@@ -21630,8 +22047,10 @@ rapprocherent	10,
 rapproches	9,|9,r
 rapprochez	9,r
 rapprochons	8,er
+raquettes	8,
 rare	0,a la mords-moi-le-noeud
 rares	4,
+raretes	6,
 rasa	3,er
 rasais	3,er
 rasant	3,er
@@ -21683,6 +22102,10 @@ rateras	5,
 raterez	5,
 rates	3,|4,|4,r
 ratez	4,r
+ratifiant	6,er
+ratifie	7,r
+ratifiez	7,r
+ratifions	6,er
 rationnelle	9,
 rationnelles	9,
 rationnels	9,
@@ -21707,9 +22130,21 @@ rattrapes	8,r
 rattrapez	8,r
 rattrapons	7,er
 ravages	6,
-ravie	4,
-ravies	4,
-ravis	4,
+raves	3,ir
+ravi	4,r
+ravie	4,|4,r
+ravies	4,|4,r
+raviront	5,
+ravis	4,|4,r
+ravissait	4,r
+ravissant	4,r
+ravissante	9,
+ravissantes	9,
+ravissants	9,
+ravissent	4,r
+ravissez	4,r
+ravissons	4,r
+ravit	4,r
 ravitaillements	14,
 ravy	3,i
 rayee	4,
@@ -21788,10 +22223,6 @@ realisons	6,er
 realistes	8,
 realites	7,
 reals	4,
-reamorcant	7,er
-reamorce	8,r
-reamorcez	8,r
-reamorcons	7,er
 reaux	3,l
 rebelles	7,
 rebellions	9,
@@ -21799,6 +22230,7 @@ rebondi	7,r
 rebondies	7,r
 rebondis	7,r
 rebondissant	7,r
+rebondissements	14,
 rebondissez	7,r
 rebondissons	7,r
 rebondit	7,r
@@ -21832,6 +22264,7 @@ recevra	5,oir
 recevrai	5,oir
 recevrais	5,oir
 recevrait	5,oir
+rechanges	8,
 recharge	8,r
 rechargea	8,r
 rechargeant	8,r
@@ -21952,7 +22385,9 @@ reconforte	10,r
 reconfortent	10,r
 reconfortez	10,r
 reconfortons	9,er
+reconforts	9,
 reconnais	8,tre
+reconnaissables	14,
 reconnaissances	14,
 reconnaissant	8,tre
 reconnaissante	13,
@@ -21981,6 +22416,7 @@ reconstruisant	10,re
 reconstruisez	10,re
 reconstruisons	10,re
 reconstruit	10,re
+reconversions	12,
 records	6,
 recourant	6,ir
 recourent	6,ir
@@ -22002,6 +22438,9 @@ recouvrent	7,ir
 recouvrez	7,ir
 recouvrit	8,r
 recouvrons	7,ir
+recree	6,r
+recreons	5,er
+recrire	0,reecrire
 recrues	6,
 recruta	6,er
 recrutaire	6,eur
@@ -22018,6 +22457,7 @@ recruteur·euse	9,
 recruteuse	8,r
 recrutez	7,r
 recrutons	6,er
+rectangles	9,
 rectangulaires	13,
 recteurs	7,
 rectifiant	7,er
@@ -22083,6 +22523,10 @@ redecouvrant	9,ir
 redecouvre	9,ir
 redecouvrez	9,ir
 redecouvrons	9,ir
+redemarrant	8,er
+redemarre	9,r
+redemarrez	9,r
+redemarrons	8,er
 redescendant	9,re
 redescendez	9,re
 redescendit	9,re
@@ -22092,6 +22536,7 @@ redescendu	9,re
 redescendue	9,re
 redescendues	9,re
 redescendus	9,re
+redevables	9,
 redevances	9,
 redige	6,r
 redigeait	6,r
@@ -22137,6 +22582,12 @@ reduit	5,re
 reduite	6,
 reduites	6,
 reduits	6,
+reecris	6,re
+reecrit	6,re
+reecrivant	6,re
+reecrivez	6,re
+reecrivons	6,re
+reeducations	11,
 reelis	5,re
 reelisant	5,re
 reelisez	5,re
@@ -22145,9 +22596,6 @@ reelle	4,
 reelles	4,
 reels	4,
 reelu	4,ire
-reemetteurs	10,
-reemettrice	7,eur
-reemettrices	7,eur
 reentrer	0,rentrer
 refais	5,re
 refaisant	5,re
@@ -22161,18 +22609,9 @@ referait	5,er
 referant	5,er
 referas	5,er
 refere	6,r
-referencant	8,er
-reference	9,r
-references	9,|9,r
-referencez	9,r
-referenciations	14,
-referencier	8,er
-referencons	8,er
+references	9,
 referenda	8,um
 referendums	10,
-referentielle	11,
-referentielles	11,
-referentiels	11,
 referez	6,r
 referma	6,er
 refermant	6,er
@@ -22221,6 +22660,7 @@ reformees	7,
 reformes	7,|7,r
 reformez	7,r
 reformons	6,er
+refractaires	11,
 refrains	7,
 refroidi	8,r
 refroidira	9,
@@ -22311,7 +22751,6 @@ regissant	4,r
 regissent	4,r
 regissez	4,r
 regissons	4,r
-registraires	11,
 registres	8,
 regit	4,r
 regla	4,er
@@ -22393,10 +22832,6 @@ regulons	5,er
 rehabilitations	14,
 reine	0,roi
 reines	5,
-reinitialisant	11,er
-reinitialise	12,r
-reinitialisez	12,r
-reinitialisons	11,er
 reins	4,
 reintegrant	8,er
 reintegre	9,r
@@ -22469,12 +22904,13 @@ relances	7,
 relancez	7,r
 relancons	6,er
 relatifs	7,
-relationnelle	11,
-relationnelles	11,
-relationnels	11,
 relations	8,
 relative	6,f
 relatives	6,f
+relativisant	9,er
+relativise	10,r
+relativisez	10,r
+relativisons	9,er
 relaxant	5,er
 relaxe	5,|6,r
 relaxez	6,r
@@ -22488,6 +22924,13 @@ relayez	6,r
 relayez-vous	6,r
 relayons	5,er
 relayons-nous	5,er
+relegua	6,er
+releguant	6,er
+relegue	7,r
+releguee	7,r
+releguees	7,r
+releguez	7,r
+releguons	6,er
 releva	5,er
 relevant	5,er
 releve	6,r
@@ -22524,6 +22967,7 @@ reloues	5,
 relous	5,
 relu	3,ire
 remakes	6,
+remaniements	11,
 remarqua	7,er
 remarquables	11,
 remarquai	7,er
@@ -22752,13 +23196,11 @@ renie	5,r
 renieraient	6,
 renies	5,r
 reniez	5,r
-renifleurs	9,
-renifleuse	8,r
-renifleuses	8,r
 renions	4,er
 renommee	7,
 renommees	7,|8,
 renommes	7,
+renoms	5,
 renonca	6,er
 renoncait	6,er
 renoncant	6,er
@@ -22934,8 +23376,6 @@ repeterai	7,
 repeterais	7,
 repeterait	7,
 repetes	6,r
-repeteurs	8,
-repeteuse	7,r
 repetez	6,r
 repetiez	5,er
 repetitions	10,
@@ -22952,9 +23392,6 @@ repondant	6,re
 reponde	6,re
 repondent	6,re
 repondes	6,re
-repondeurs	9,
-repondeuse	8,r
-repondeuses	8,r
 repondez	6,re
 repondiez	6,re
 repondirent	6,re
@@ -23070,6 +23507,7 @@ reproduisant	8,re
 reproduisez	8,re
 reproduisons	8,re
 reproduit	8,re
+reptiles	7,
 republicaine	11,
 republicaines	11,
 republicains	11,
@@ -23085,7 +23523,6 @@ requises	6,
 rescapee	7,
 rescapees	7,
 rescapes	7,
-reseautiques	11,
 reseaux	6,
 reserva	6,er
 reservais	6,er
@@ -23328,7 +23765,6 @@ resume	6,r
 resumes	6,
 resumez	6,r
 resumons	5,er
-resurgences	10,
 resurrections	12,
 retabli	7,r
 retablie	7,r
@@ -23383,7 +23819,6 @@ retombent	7,r
 retomberai	8,
 retombez	7,r
 retombons	6,er
-retouches	8,
 retourna	7,er
 retournai	7,er
 retournaient	7,er
@@ -23395,6 +23830,7 @@ retourne	8,r
 retourne-toi	8,r
 retournee	8,r
 retournees	8,r
+retournements	12,
 retournent	8,r
 retournera	9,
 retournerai	9,
@@ -23417,9 +23853,6 @@ retraitee	8,
 retraitees	8,
 retraites	7,|8,
 retraits	7,
-retro-ingenieries	16,
-retroingenierie	5,-ingenierie
-retroliens	9,
 retros	5,
 retrospectives	13,
 retrouva	7,er
@@ -23450,7 +23883,6 @@ reuni	5,r
 reunie	5,r
 reunies	5,r
 reunions	5,r|7,
-reunions-bilan	7,-bilan
 reunirent	6,
 reunirons	6,
 reunis	5,r
@@ -23496,7 +23928,7 @@ revant	3,er|3,oir
 revasse	3,er
 reve	4,r
 revecu	3,ivre
-revee	4,r|4,nir
+revee	4,r|4,nir|4,tir
 reveilla	7,er
 reveillai	7,er
 reveillais	7,er
@@ -23564,8 +23996,14 @@ reverais	5,
 reveras	5,
 reverez	5,
 reves	4,|4,r|3,oir
-revet	4,nir
+revet	4,nir|5,ir
+revetait	5,ir
+revetant	5,ir
 revetements	10,
+revetez	5,ir
+revetons	5,ir
+revets	5,ir
+revetu	5,ir
 reveurs	6,
 reveuse	5,r
 reveuses	5,r
@@ -23619,6 +24057,10 @@ riais	0,rire
 riait	0,rire
 rian	0,rien
 riant	0,rire
+riante	5,
+riantes	5,
+riants	5,
+ribeau	0,rafle
 richarde	7,
 richards	7,
 riches	5,
@@ -23660,15 +24102,11 @@ rigueurs	7,
 rimes	4,
 rings	4,
 rions	0,rire
-ripant	3,er
-ripe	4,r
-ripez	4,r
-ripons	3,er
+ripostes	7,
 ripoue	5,
 ripoues	5,
 ripous	5,
 ripoux	5,
-ripper	3,er
 rira	3,e
 rirai	3,e
 rirais	3,e
@@ -23741,6 +24179,12 @@ rois	3,
 rolande	6,
 roles	4,
 rolland	3,and
+rollant	4,er
+rolle	5,r
+rollers	6,
+rolleur	5,r
+rollez	5,r
+rollons	4,er
 romaine	6,
 romaines	6,|7,
 romains	6,
@@ -23751,6 +24195,7 @@ romane	5,
 romanes	5,
 romans	5,
 romantiques	10,
+romantismes	10,
 rompais	4,re
 rompait	4,re
 rompant	4,re
@@ -23771,6 +24216,7 @@ rompues	4,re
 rompus	4,re
 roms	3,
 ronde	4,
+rondelles	8,
 rondes	4,|5,
 ronds	4,
 ronge	5,r
@@ -23820,8 +24266,6 @@ rousseautes	8,
 rousseaux	8,
 rousses	3,x
 routes	5,
-routeurs	7,
-routeuse	6,r
 routier	7,e
 routiere	7,
 routieres	7,|8,
@@ -23876,6 +24320,7 @@ rusees	4,
 ruses	4,
 russes	5,
 russies	6,
+rustiques	8,
 rvenir	0,revenir
 rvnir	0,revenir
 rythmee	6,
@@ -23907,6 +24352,7 @@ s'administrer	0,administrer
 s'adresser	0,adresser
 s'affaiblir	0,affaiblir
 s'afficher	0,afficher
+s'affiner	0,affiner
 s'affirmer	0,affirmer
 s'affranchir	0,affranchir
 s'affronter	0,affronter
@@ -23926,10 +24372,10 @@ s'allumer	0,allumer
 s'alterer	0,alterer
 s'ameliorer	0,ameliorer
 s'amener	0,amener
-s'amorcer	0,amorcer
 s'amplifier	0,amplifier
 s'amuser	0,amuser
 s'analyser	0,analyser
+s'ancrer	0,ancrer
 s'aneantir	0,aneantir
 s'annoncer	0,annoncer
 s'annuler	0,annuler
@@ -23967,6 +24413,7 @@ s'avancer	0,avancer
 s'averer	0,averer
 s'avoir	0,avoir
 s'avouer	0,avouer
+s'axer	0,axer
 s'ecarter	0,ecarter
 s'echouer	0,echouer
 s'eclaircir	0,eclaircir
@@ -23985,7 +24432,6 @@ s'embarquer	0,embarquer
 s'embaucher	0,embaucher
 s'embeter	0,embeter
 s'embrasser	0,embrasser
-s'embrouiller	0,embrouiller
 s'emmerder	0,emmerder
 s'emparer	0,emparer
 s'empecher	0,empecher
@@ -24029,6 +24475,7 @@ s'etouffer	0,etouffer
 s'etranger	0,etranger
 s'etre	0,etre
 s'etudier	0,etudier
+s'evader	0,evader
 s'eveiller	0,eveiller
 s'eviter	0,eviter
 s'exagerer	0,exagerer
@@ -24056,6 +24503,7 @@ s'injecter	0,injecter
 s'inquieter	0,inquieter
 s'inscrire	0,inscrire
 s'inserer	0,inserer
+s'insinuer	0,insinuer
 s'inspirer	0,inspirer
 s'installer	0,installer
 s'intituler	0,intituler
@@ -24085,6 +24533,7 @@ sabines	6,
 sablee	5,
 sablees	5,
 sables	5,
+sabots	5,
 sabres	5,
 sachant	0,savoir
 sache	0,savoir
@@ -24169,6 +24618,7 @@ salauds	6,
 salee	4,
 salees	4,
 sales	4,|3,ir
+saletes	6,
 salez	3,ir
 sali	4,r
 salie	4,r
@@ -24228,7 +24678,7 @@ sanglieres	8,
 sangliers	8,
 sangs	4,
 sanguine	7,
-sanguines	7,
+sanguines	7,|8,
 sanguins	7,
 sanitaires	9,
 sans-faute	4, faute
@@ -24250,6 +24700,7 @@ sarimonie	0,ceremonie
 sarra	3,ah
 satans	5,
 satellites	9,
+satiriques	9,
 satisfactions	12,
 satisfais	8,re
 satisfaisant	8,re
@@ -24263,6 +24714,7 @@ satisfaites	9,|8,re
 satisfaits	9,
 saturait	5,er
 saturant	5,er
+saturations	10,
 sature	6,r
 saturez	6,r
 saturons	5,er
@@ -24359,9 +24811,7 @@ scandaleuses	9,x
 scandinaves	10,
 scannant	5,er
 scanne	6,r
-scanner	6,ur
 scanners	7,
-scanneurs	8,
 scannez	6,r
 scannons	5,er
 sceaux	5,
@@ -24405,12 +24855,16 @@ scripte	6,
 scriptes	6,
 scripts	6,
 scrupules	8,
-scrutations	10,
 scrutins	7,
+sculptant	6,er
+sculpte	7,r
+sculptent	7,r
 sculpteure	9,
 sculpteurice	9,
 sculpteurs	9,
 sculpteuse	8,r
+sculptez	7,r
+sculptons	6,er
 sculptrice	6,eur
 sculptures	9,
 sdfs	3,
@@ -24641,6 +25095,7 @@ septentrionaux	12,l
 septiemes	8,
 septs	4,
 sepultures	9,
+sequelles	8,
 sequences	8,
 sera	0,etre
 serai	0,etre
@@ -24699,8 +25154,10 @@ servants	7,
 serve	3,f|4,ir
 servent	4,ir
 serves	3,f|4,ir
+serveur	6,se
 serveurs	7,
 serveuse	6,r
+serveuses	8,
 servez	4,ir
 servi	5,r
 services	7,
@@ -24725,11 +25182,6 @@ serviteuse	8,r
 servons	4,ir
 ses	0,sa|0,son
 sessions	7,
-seuillages	9,
-seuillant	6,er
-seuille	7,r
-seuillez	7,r
-seuillons	6,er
 seuils	5,
 seul-en-scene	4, en scene
 seule	4,
@@ -24747,7 +25199,6 @@ sexys	4,
 shakspeare	4,espeare
 shampoing	6,oing
 shampooings	10,
-shannons	7,
 shaykh	0,cheik
 sheikh	0,cheik
 shelcy	0,chelsea
@@ -24782,6 +25233,7 @@ siennes	0,la sienne
 siens	0,la sienne
 sierras	6,
 siestes	6,
+sieurs	5,
 siffla	5,er
 sifflaient	5,er
 sifflais	5,er
@@ -24815,7 +25267,6 @@ signerent	6,
 signerons	6,
 signeront	6,
 signes	5,|5,r
-signets	6,
 signez	5,r
 signifia	7,er
 signifiait	7,er
@@ -24840,6 +25291,7 @@ silences	7,
 silencieuse	9,x
 silencieuses	9,x
 silhouettes	10,
+silvestre	0,sylvestre
 silvi	0,sylvie
 silvie	0,sylvie
 silvy	0,sylvie
@@ -24903,6 +25355,8 @@ sixieme	0,6e
 sixiemes	7,
 sketches	6,
 sketchs	6,
+skieurs	6,
+skieuse	5,r
 skis	3,
 skypant	4,er
 skype	5,r
@@ -24961,6 +25415,7 @@ soirees	6,
 soirs	4,
 sois	0,etre
 soit	0,etre
+soixantaines	11,
 sojas	4,
 solaires	7,
 soldate	6,
@@ -24981,6 +25436,7 @@ solitaires	9,
 solitudes	8,
 sollicita	8,er
 sollicitant	8,er
+sollicitations	13,
 sollicite	9,r
 sollicitent	9,r
 sollicitez	9,r
@@ -25000,9 +25456,6 @@ somptueuses	8,x
 son	0,sa
 sondages	7,
 sondes	5,
-sondeurs	7,
-sondeuse	6,r
-sondeuses	6,r
 songe	5,r
 songea	5,r
 songeai	5,r
@@ -25037,6 +25490,7 @@ sonnes	5,
 sonnez	5,r
 sonnons	4,er
 sonores	6,
+sonorites	8,
 sons	3,
 sont	0,etre
 sophistiquee	11,
@@ -25233,6 +25687,12 @@ souperons	6,
 soupers	6,
 soupes	5,|5,r
 soupez	5,r
+soupira	6,er
+soupirames	6,er
+soupirant	6,er
+soupire	7,r
+soupirez	7,r
+soupirons	6,er
 soupirs	6,
 souples	6,
 souplesses	9,
@@ -25253,7 +25713,6 @@ sourions	5,re
 sourires	7,
 souris	5,re
 sous	3,
-sous-adressages	14,
 souscriptions	12,
 souscris	7,re
 souscrit	7,re
@@ -25292,8 +25751,9 @@ souveniez	7,r
 souvenirs	8,
 souvenons	6,ir
 souvenu	6,ir
+souverain	9,e
 souveraine	9,
-souveraines	9,
+souveraines	9,|10,
 souverainetes	12,
 souverains	9,
 sovietiques	10,
@@ -25363,6 +25823,7 @@ sprints	6,
 spyder	0,spider
 squelettes	9,
 stabilisant	8,er
+stabilisations	13,
 stabilise	9,r
 stabilisee	9,r
 stabilisez	9,r
@@ -25420,11 +25881,13 @@ stimulant	6,er
 stimulante	9,
 stimulantes	9,
 stimulants	9,
+stimulations	11,
 stimule	7,r
 stimulent	7,r
 stimulera	8,
 stimulez	7,r
 stimulons	6,er
+stipules	7,
 stockages	8,
 stockames	5,er
 stockant	5,er
@@ -25456,6 +25919,7 @@ streamings	9,
 stricte	6,
 strictes	6,
 stricts	6,
+strings	6,
 structurant	8,er
 structure	9,r
 structurelle	10,
@@ -25593,6 +26057,9 @@ suggerons	6,er
 suggestions	10,
 suicida	6,er
 suicidaires	10,
+suicidant	0,se suicider
+suicide	0,se suicider
+suicide-toi	0,se suicider
 suicidees	7,r
 suicident	7,r
 suicidera	8,
@@ -25600,6 +26067,8 @@ suiciderai	8,
 suiciderais	8,
 suicides	7,|7,r
 suicidez	7,r
+suicidez-vous	0,se suicider
+suicidons-nous	0,se suicider
 suis	0,etre|3,vre
 suisse	0,alene
 suisses	6,
@@ -25635,6 +26104,7 @@ sujets	5,
 sujette	5,
 sujettes	5,
 sultans	6,
+sunnites	7,
 suons	0,suer
 supant	3,er
 supe	4,r
@@ -25703,6 +26173,7 @@ supposee	7,|7,r
 supposees	7,|7,r
 supposes	7,|7,r
 supposez	7,r
+suppositions	11,
 supposons	6,er
 suppressions	11,
 supprimant	7,er
@@ -25717,11 +26188,7 @@ supremes	7,
 sur-le-champ	3, le champ
 sur-mesure	3, mesure
 sur-tout	3,tout
-surbrillances	12,
-surcadencant	9,er
-surcadence	10,r
-surcadencez	10,r
-surcadencons	9,er
+surcharges	9,
 surcroits	8,
 sure	3,
 surent	0,savoir|3,gir
@@ -25840,7 +26307,6 @@ survole	7,r
 survolent	7,r
 survolez	7,r
 survolons	6,er
-survols	6,
 sus	0,savoir
 susceptibles	11,
 suscita	6,er
@@ -25869,11 +26335,13 @@ suspendues	8,|7,re
 suspendus	8,|7,re
 suspenses	8,
 suspensions	10,
+suspicions	9,
 sut	0,savoir
 syllabes	7,
 sylvaine	7,
 sylvaines	7,
 sylvains	7,
+sylvestres	9,
 symboles	7,
 symboliques	10,
 symbolisant	8,er
@@ -25881,22 +26349,24 @@ symbolise	9,r
 symbolisent	9,r
 symbolisez	9,r
 symbolisons	8,er
+symetriques	10,
 sympas	5,
 sympathies	9,
 sympathiques	11,
 symphonies	9,
+symphoniques	11,
 symptomes	8,
 synagogues	9,
 syndicale	8,
 syndicales	8,
 syndicalistes	12,
-syndications	11,
 syndicats	8,
 syndicaux	7,l
 syndics	6,
 syndique	5,c
 syndromes	8,
 synonymes	8,
+syntaxes	7,
 syntheses	8,
 synthetiques	11,
 syrienne	6,
@@ -25904,6 +26374,7 @@ syriennes	6,
 syriens	6,
 systematiques	12,
 systemes	7,
+systemiques	10,
 sᵒⁿ	0,son
 sᵗ	0,st
 sᵗˢ	0,st
@@ -25923,7 +26394,6 @@ tabassons	6,er
 tableaux	7,
 tables	5,
 tablettes	8,
-tableurs	7,
 tabliere	7,
 tabliers	7,
 taboue	5,
@@ -25956,15 +26426,20 @@ tais	3,re
 taisant	3,re
 taisez	3,re
 taisons	3,re
+taiti	0,tahiti
 takes	4,
 talents	6,
 talentueuse	9,x
 talentueuses	9,x
+talibane	7,
+talibanes	7,
+talibans	7,
 talons	5,
 tambours	7,
 tampons	6,
 tangos	5,
 tanks	4,
+tans	3,
 tante	0,oncle
 tantes	5,
 tantots	6,
@@ -25981,6 +26456,7 @@ tapes	4,r
 tapez	4,r
 tapisseries	10,
 tapons	3,er
+tarant	3,er
 tarbeman	0,terriblement
 tarda	4,er
 tardait	4,er
@@ -25998,7 +26474,10 @@ tardive	5,f
 tardives	5,f
 tardons	4,er
 tards	4,
+tare	4,r
+tarez	4,r
 tarifs	5,
+tarons	3,er
 tartes	5,
 tasses	5,
 tatouages	8,
@@ -26033,12 +26512,9 @@ teille	0,bouteille
 teinte	5,
 teintes	5,|6,
 teints	5,
+teintures	8,
 tekos	0,technicien
 tel	0,un tel
-teleassistances	14,
-teleassistante	13,
-teleassistants	13,
-telebornes	9,
 telecharge	10,r
 telechargea	10,r
 telechargeait	10,r
@@ -26051,19 +26527,7 @@ telechargerai	11,
 telechargez	10,r
 telecommandes	12,
 telecommunications	17,
-teleconferences	14,
-telecopiant	8,er
-telecopie	9,r
-telecopies	9,
-telecopieurs	11,
-telecopieuse	10,r
-telecopiez	9,r
-telecopions	8,er
-teleecritures	12,
-telemaintenances	15,
-telematiques	11,
-telemesures	10,
-telemetries	10,
+telegrammes	10,
 telephona	8,er
 telephonai	8,er
 telephonais	8,er
@@ -26082,11 +26546,9 @@ telephoniez	8,er
 telephoniques	12,
 telephonons	8,er
 teles	4,
-teleservices	11,
+telescopes	9,
 telespectateurs	14,
 telespectatrice	11,eur
-teletextes	9,
-teletraitements	14,
 televisee	8,
 televisees	8,
 televises	8,
@@ -26109,12 +26571,17 @@ temointe	6,
 temouine	4,in
 temperaments	11,
 temperatures	11,
+temperee	7,
+temperees	7,
+temperes	7,
 tempetes	7,
+tempi	4,o
 temples	6,
 temporaires	10,
 temporelle	8,
 temporelles	8,
 temporels	8,
+tempos	5,
 tenaient	3,ir
 tenais	3,ir
 tenait	3,ir
@@ -26214,9 +26681,8 @@ terroirs	7,
 terrorismes	10,
 terroristes	10,
 tertiaires	9,
-tes	0,ta|0,te|0,ton
+tes	0,ta|0,te|0,tan
 teslas	5,
-testages	7,
 testaments	9,
 testant	4,er
 teste	5,r
@@ -26235,6 +26701,8 @@ textes	5,
 textiles	7,
 textos	5,
 textures	7,
+thailandaise	11,
+thailandaises	11,
 theatrale	8,
 theatrales	8,
 theatraux	7,l
@@ -26248,8 +26716,11 @@ themes	5,
 theodor	7,e
 theodora	7,e
 theodorine	7,e
+theologienne	10,
+theologiens	10,
 theologies	9,
 theologiques	11,
+theologue	7,ien
 theoremes	8,
 theories	7,
 theoriques	9,
@@ -26302,6 +26773,7 @@ tibeaut	0,thibault
 tibeaux	0,thibault
 tickets	6,
 tics	3,
+tiedes	5,
 tien	0,les tiens
 tiendra	0,tenir
 tiendrai	0,tenir
@@ -26428,11 +26900,13 @@ tombons	4,er
 tomes	4,
 tomme	3,e
 ton	0,ta
+tonalites	8,
 tonneaux	7,
 tonnerres	8,
 tonnes	5,
 tons	3,
 tontons	6,
+topics	5,
 tops	3,
 torches	6,
 tordue	5,
@@ -26458,6 +26932,11 @@ toscanes	6,
 toscans	6,
 totale	5,
 totales	5,|6,
+totalisant	7,er
+totalise	8,r
+totalisent	8,r
+totalisez	8,r
+totalisons	7,er
 totalites	8,
 totaux	4,l
 toucha	5,er
@@ -26483,6 +26962,7 @@ touchiez	5,er
 touchons	5,er
 touite	0,tweet
 tour-a-tour	4, a tour
+tourbillons	10,
 tourismes	8,
 touristes	8,
 touristiques	11,
@@ -26519,17 +26999,35 @@ tournois	7,
 tournons	5,er
 tournures	8,
 tours	4,
-tous	3,t
-toussa	3,t ca
+tous	3,t|3,x
+toussa	5,er|3,t ca
+toussaient	5,er
+toussais	5,er
+toussait	5,er
+toussant	5,er
+tousse	6,r
+tousserent	7,
+tousses	6,r
+toussez	6,r
+toussiez	5,er
+toussions	5,er
+toussons	5,er
+toustes	3,x
+tout	3,x
 tout-a-fait	4, a fait
 toutafe	4, a fait
-toute	4,
-toutes	4,
+toute	4,|3,x
+toutes	4,|3,x
+toutexs	3,x
 touts	4,
+toutxes	3,x
+toutxs	3,x
+tout·e·xs	3,x
+tout·e·x·s	3,x
+touz	3,x
 toxiques	7,
 tqt	0,tkt
 traca	4,er
-tracages	7,
 tracant	4,er
 tracasse	4,er
 trace	5,r
@@ -26545,10 +27043,16 @@ tractions	8,
 tractrice	5,eur
 tractrices	5,eur
 tracts	5,
+tradant	4,er
+trade	5,r
+traders	6,
+tradeur	5,r
+tradez	5,r
 traditionnelle	12,
 traditionnelles	12,
 traditionnels	12,
 traditions	9,
+tradons	4,er
 traductaire	7,eur
 traducteurice	10,
 traducteurs	10,
@@ -26596,7 +27100,7 @@ trainais	5,er
 trainait	5,er
 trainant	5,er
 traine	6,r
-trainees	6,r
+trainees	7,|6,r
 trainent	6,r
 trainer	7, dans la boue
 trainerent	7,
@@ -26675,10 +27179,10 @@ transformerait	11,
 transformeras	11,
 transformerent	11,
 transformes	10,|10,r
-transformeurs	12,
 transformez	10,r
 transformons	9,er
 transitions	10,
+transitoires	11,
 transits	7,
 translations	11,
 transmets	8,tre
@@ -26723,6 +27227,7 @@ traquaient	5,er
 traquant	5,er
 traque	6,r
 traquee	6,r
+traques	6,
 traquez	6,r
 traquons	5,er
 traumatisee	10,
@@ -26808,6 +27313,10 @@ tria	3,er
 triangles	8,
 triangulaires	12,
 triant	3,er
+tribale	6,
+tribales	6,
+tribals	6,
+tribaux	5,l
 tribunaux	7,l
 tribunes	7,
 tribus	5,
@@ -26937,6 +27446,7 @@ tsarine	4,
 tsars	4,
 tsirer	0,tirer
 tsu	0,tu
+tsunamis	7,
 tu	0,ti|0,taire
 tua	0,tuer
 tuai	0,tuer
@@ -26972,7 +27482,6 @@ tunisiens	8,
 tunnels	6,
 tuons	0,tuer
 turbines	7,
-turbocodes	9,
 turbos	5,
 turcs	4,
 turk	3,c
@@ -26980,12 +27489,10 @@ turque	3,c
 turques	3,c
 turquesse	3,c
 turquesses	3,c
+turquoises	9,
 tutele	5,le
 tutelles	7,
 tuteurs	6,
-tutorielle	8,
-tutorielles	8,
-tutoriels	8,
 tutrice	3,eur
 tuyaux	5,
 tweetant	5,er
@@ -27005,6 +27512,7 @@ u.r.s.s.	0,urss
 u.s.a.	0,usa
 ubers	4,
 ugene	0,eugene
+ugh	0,hugh
 ui	0,oui
 uii	0,oui
 ukraines	7,
@@ -27028,7 +27536,14 @@ unes	3,|0,unir
 uni	3,r
 unie	3,r
 unies	3,r
+unifiant	5,er
+unifie	6,r
+unifiez	6,r
+unifions	5,er
 uniformes	8,
+unilaterale	10,
+unilaterales	10,
+unilateraux	9,l
 unions	5,
 uniques	6,
 unirait	4,
@@ -27119,10 +27634,20 @@ vacances	7,
 vacante	6,
 vacantes	6,
 vacants	6,
+vaccinant	6,er
 vaccinations	11,
+vaccine	7,r
+vaccinee	7,r
+vaccinees	7,r
+vaccines	7,r
+vaccinez	7,r
+vaccinons	6,er
 vaccins	6,
 vache	0,boeuf|0,taureau
 vaches	5,
+vagabonde	8,
+vagabondes	8,
+vagabonds	8,
 vagins	5,
 vagon	0,wagon
 vagues	5,
@@ -27247,9 +27772,6 @@ veganes	5,
 vegans	5,
 vegetale	7,
 vegetales	7,
-vegetalienne	10,
-vegetaliennes	10,
-vegetaliens	10,
 vegetarienne	10,
 vegetariennes	10,
 vegetariens	10,
@@ -27334,7 +27856,10 @@ venitiennes	8,
 venitiens	8,
 venons	3,ir
 ventes	5,
+ventilateurs	11,
 ventilations	11,
+ventilatrice	8,eur
+ventilatrices	8,eur
 ventres	6,
 vents	4,
 venu	3,ir
@@ -27346,6 +27871,7 @@ verbales	6,
 verbaux	5,l
 verbes	5,
 verdicts	7,
+verdures	7,
 verge	5,r
 vergeant	5,r
 vergeons	5,r
@@ -27382,6 +27908,7 @@ verriez	0,voir
 verrions	0,voir
 verrons	0,voir
 verront	0,voir
+verrous	6,
 vers	3,
 versa	4,er
 versai	4,er
@@ -27402,6 +27929,9 @@ versions	4,er|7,
 versons	4,er
 vert-bouteille	4, bouteille
 verte	4,
+vertebrale	9,
+vertebrales	9,
+vertebraux	8,l
 vertes	4,
 verticale	8,
 verticales	8,|9,
@@ -27462,8 +27992,6 @@ vidais	3,er
 vidant	3,er
 vide	4,r
 videe	4,r
-videofrequences	14,
-videographies	12,
 videos	5,
 viderent	5,
 vides	4,|4,r
@@ -27526,12 +28054,15 @@ vigilances	9,
 vigilante	8,
 vigilantes	8,
 vigilants	8,
+vigiles	6,
 vigneronne	8,
 vigneronnes	8,
 vignerons	8,
 vignes	5,
 vignettes	8,
 vignobles	8,
+vigoureuse	8,x
+vigoureuses	8,x
 vigueurs	7,
 viiiᵉ	0,8e
 viiᵉ	0,7e
@@ -27541,6 +28072,8 @@ vikingue	6,
 vilaine	6,
 vilaines	6,
 vilains	6,
+vile	3,
+viles	3,
 villageoise	10,
 villageoises	10,
 villages	7,
@@ -27550,6 +28083,7 @@ ville-lumiere	5, lumiere
 villes	5,
 villiaume	0,guillaume
 villon	0,guillaume
+vils	3,
 vimes	0,voir
 vinaigres	8,
 vincente	7,
@@ -27561,6 +28095,7 @@ vingts	5,
 vinrent	0,venir
 vins	3,|0,venir
 vint	0,venir
+vintages	7,
 vinyl	5,e
 vinyles	6,
 violant	4,er
@@ -27597,6 +28132,7 @@ virerais	5,
 virerent	5,
 vires	4,|4,r
 virez	4,r
+virgules	7,
 virile	5,
 viriles	5,
 virils	5,
@@ -27616,15 +28152,12 @@ vises	4,r
 visez	4,r
 visibilites	10,
 visibles	7,
-visioconferences	15,
+visionnaires	11,
 visionnant	7,er
 visionne	8,r
-visionneurs	10,
 visionnez	8,r
 visionnons	7,er
 visions	3,er|6,
-visiophones	10,
-visiophonies	11,
 visita	5,er
 visitai	5,er
 visitaient	5,er
@@ -27662,6 +28195,7 @@ vitamines	8,
 vitaux	4,l
 vites	4,
 vitesses	7,
+vitraux	5,il
 vitree	5,
 vitrees	5,
 vitres	5,
@@ -27703,13 +28237,18 @@ voie	3,r
 voient	3,r
 voierie	3,rie
 voies	4,|3,r
-voilee	5,
-voilees	5,
+voilant	4,er
+voile	5,r
+voilee	5,|5,r
+voilees	5,|5,r
+voilent	5,r
 voiles	5,
+voilez	5,r
 voili	4,a
 voiliere	7,
 voilieres	7,
 voiliers	7,
+voilons	4,er
 voilou	4,a
 voiries	6,
 vois	3,r
@@ -27751,6 +28290,7 @@ voleuse	5,r
 voleuses	5,r
 volez	4,r
 voliez	3,er
+volleys	6,
 volons	3,er
 volontaires	10,
 volontes	7,
@@ -27882,6 +28422,7 @@ w	0,double v
 w.c.	0,w.-c.
 wagons	5,
 wahou	0,waouh
+wallaces	7,
 wallonne	6,
 wallonnes	6,
 wallons	6,
@@ -27904,6 +28445,7 @@ wiking	0,viking
 wikipedias	9,
 willem	0,guillaume
 william	0,guillaume
+winters	6,
 woir	0,voir
 wow	0,waouh
 wsh	0,wesh
@@ -27948,6 +28490,7 @@ zarbie	5,
 zarbies	5,
 zarbis	5,
 zaricot	0,haricot
+zdeus	0,zeus
 zen	0,chan
 zenit	5,h
 zeniths	6,

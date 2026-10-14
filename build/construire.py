@@ -91,8 +91,10 @@ LANGUES = commun.LANGUES
 
 # Combien d'entrées par langue dans le noyau livré avec l'application. Tout mot
 # affiché est cliquable ; en dessous de ce seuil, trop de clics tombaient à
-# vide dans Wortschatz.
-TAILLE_NOYAU = 14000
+# vide dans Wortschatz. L'anglais en a davantage : c'est la langue qu'on
+# apprend, et ses fiches sont celles qu'on lit ; les fiches françaises, réduites
+# à leurs traductions, ne servent qu'à trouver le mot anglais.
+TAILLE_NOYAU = {"en": 20000, "fr": 14000}
 
 # Bornes des bandes de fréquence, en rang. Ce ne sont pas des niveaux du CECRL
 # (les listes officielles sont sous droits) : ce sont des rangs d'usage
@@ -138,6 +140,108 @@ def couper(texte, limite=DEFINITION_MAX):
         return texte
     coupe = texte[:limite].rsplit(" ", 1)[0].rstrip(" ,;:—-")
     return (coupe or texte[:limite]) + "…"
+
+
+# --- Le français, pont vers l'anglais ---------------------------------------
+#
+# Vocabulary sert un francophone qui apprend l'anglais. Une fiche française
+# n'a donc qu'une question à résoudre : comment le dire en anglais. La
+# définition du mot en français, les citations de romans, la conjugaison, la
+# prononciation, les synonymes et la famille du mot ne l'aident en rien — il
+# les sait. On ne garde que ce qui mène à l'anglais : les traductions, sens par
+# sens, avec un **repère** de quelques mots pour distinguer les sens quand il
+# y en a plusieurs (« maison » : le bâtiment → house ; le foyer → home), et les
+# phrases de Tatoeba, dont l'autre moitié est en anglais.
+
+# Les étiquettes de tête qui ne distinguent pas un sens d'un autre : on les
+# laisse, avec la fin de la définition.
+ETIQUETTES_MUETTES = {
+    "par extension", "en particulier", "par analogie", "par métonymie", "spécialement",
+    "absolument", "par ellipse", "sens propre", "didactique", "par hyperbole",
+    "par plaisanterie", "par euphémisme", "généralement", "en général", "souvent",
+    "le plus souvent", "rare", "vieilli", "désuet", "familier", "populaire", "argot",
+    "littéraire", "soutenu", "courant", "proprement", "au propre", "en apposition",
+    "ellipse", "dénombrable", "indénombrable", "ou",
+}
+ETIQUETTES_ABREGEES = {"sens figuré": "figuré", "au figuré": "figuré"}
+REPERE_MAX = 55
+
+
+def repere(definition):
+    """Une définition française → le repère d'un sens, en quelques mots.
+
+    « (Construction) Bâtiment servant de logis, d’habitation, de demeure »
+    → « (construction) bâtiment servant de logis » ; « Ménage, foyer ; tout ce
+    qui a rapport aux affaires domestiques… » → « ménage, foyer ». On garde
+    l'étiquette de domaine, qui distingue souvent mieux que le texte (« tour »
+    aux échecs, en informatique), et la première proposition, coupée à une
+    virgule plutôt qu'au milieu d'un mot."""
+    texte = (definition or "").strip()
+    etiquettes = []
+    while True:
+        m = re.match(r"^\(([^()]{1,40})\)\s*", texte)
+        if not m:
+            break
+        for morceau in re.split(r"\s*[,;]\s*", m.group(1)):
+            bas = morceau.strip().lower()
+            if bas and bas not in ETIQUETTES_MUETTES:
+                bas = ETIQUETTES_ABREGEES.get(bas, bas)
+                if bas not in etiquettes:
+                    etiquettes.append(bas)
+        texte = texte[m.end():]
+    texte = re.sub(r"^ou\s+", "", texte)
+    # La première proposition : avant « ; » ou la fin de la phrase. Les
+    # parenthèses intérieures sont des précisions, et les renvois « → voir »
+    # des invitations à lire le Wiktionnaire.
+    texte = re.split(r"\s*;\s*|\.(?:\s|$)|\s*→", texte, maxsplit=1)[0].strip().rstrip(".")
+    texte = re.sub(r"\s*\([^()]*\)", "", texte).strip()
+    if len(texte) > REPERE_MAX:
+        coupe = texte[:REPERE_MAX]
+        virgule = coupe.rfind(", ")
+        if virgule >= 15:
+            texte = coupe[:virgule]
+        else:
+            texte = coupe.rsplit(" ", 1)[0].rstrip(" ,:—-") + "…"
+    # Une minuscule en tête, sauf pour un sigle : c'est un repère, pas une
+    # phrase.
+    if texte and not texte[:2].isupper():
+        texte = texte[0].lower() + texte[1:]
+    if etiquettes:
+        return f"({etiquettes[0]}) {texte}".strip()
+    return texte
+
+
+def pont_vers_l_anglais(entrees, journal):
+    """Retire des entrées françaises les sens qui n'ont aucune traduction
+    anglaise, puis les entrées qui n'ont plus de sens : un mot français qu'on
+    ne sait pas dire en anglais n'a rien à apprendre à un francophone."""
+    sens_retires = entrees_retirees = sens_fusionnes = 0
+    for mot in list(entrees):
+        entree = entrees[mot]
+        for lecture in entree["lectures"]:
+            avant = len(lecture[4])
+            lecture[4] = [bloc for bloc in lecture[4] if bloc[1]]
+            sens_retires += avant - len(lecture[4])
+            # Sans leur définition, deux sens qui donnent la même traduction
+            # avec les mêmes marques ne se distinguent plus : « prendre »
+            # alignait « catch », « catch », « catch ». Le premier reste, avec
+            # son repère.
+            gardes, vus = [], set()
+            for bloc in lecture[4]:
+                empreinte = (tuple(sorted(commun.cle(t) for t in bloc[1])),
+                             tuple(sorted(bloc[3] if len(bloc) > 3 else ())))
+                if empreinte in vus:
+                    sens_fusionnes += 1
+                    continue
+                vus.add(empreinte)
+                gardes.append(bloc)
+            lecture[4] = gardes
+        entree["lectures"] = [l for l in entree["lectures"] if l[4]]
+        if not entree["lectures"]:
+            del entrees[mot]
+            entrees_retirees += 1
+    journal.update({"sens_retires": sens_retires, "entrees_retirees": entrees_retirees,
+                    "sens_fusionnes": sens_fusionnes})
 
 
 def elaguer_citations(entree):
@@ -710,21 +814,35 @@ def entree_ecrite(entree, rang_de_bande, attribution, voisins, citations_max, la
     rang = 0
     for lecture in entree["lectures"]:
         sens = []
+        # Une fiche française ne garde que le chemin vers l'anglais (voir
+        # `repere`) : ni citation française, ni définition entière — un repère
+        # seulement, et seulement s'il y a des sens à distinguer.
+        plusieurs = len(lecture[4]) > 1
         for bloc in lecture[4]:
             citations = bloc[2][:citations_max] if len(bloc) > 2 else []
+            definition = bloc[0]
             if langue == "en":
                 citations = citations_traduites.reprendre(
                     entree["mot"], bloc[0], citations, bool(par_sens.get(rang)), EXEMPLES_REPRIS)
+            else:
+                citations = []
+                definition = repere(definition) if plusieurs else ""
             codes = list(bloc[3]) if len(bloc) > 3 else []
             crues = bloc[4] if len(bloc) > 4 else 0
-            ecrit = [bloc[0], bloc[1], citations, par_sens.get(rang, []), codes]
+            ecrit = [definition, bloc[1], citations, par_sens.get(rang, []), codes]
             if crues:
                 ecrit.append(crues)
             sens.append(ecrit)
             rang += 1
-        lectures.append([lecture[0], lecture[1], lecture[2], lecture[3], sens,
-                         lecture[5] if len(lecture) > 5 else [],
-                         lecture[6] if len(lecture) > 6 else []])
+        if langue == "en":
+            lectures.append([lecture[0], lecture[1], lecture[2], lecture[3], sens,
+                             lecture[5] if len(lecture) > 5 else [],
+                             lecture[6] if len(lecture) > 6 else []])
+        else:
+            # Nature et genre restent (ils séparent « livre » l'ouvrage de
+            # « livre » le poids) ; prononciation, formes, conjugaison et
+            # synonymes français s'en vont.
+            lectures.append([lecture[0], lecture[1], "", [], sens, [], []])
 
     ecrite = [entree["mot"], rang_de_bande, lectures, attribution["libres"], voisins]
     infos = {}
@@ -1048,6 +1166,15 @@ def main():
           f"{journal_crus['entrees_crues_fr']} françaises entièrement crues ; "
           f"{journal_crus['traductions_crues']} traductions crues rangées en fin de liste")
 
+    print("\nLe français, pont vers l'anglais")
+    journal_pont = {}
+    pont_vers_l_anglais(dictionnaires["fr"], journal_pont)
+    ordres["fr"] = [e for e in ordres["fr"] if e["mot"] in dictionnaires["fr"]]
+    positions["fr"] = {e["mot"]: i for i, e in enumerate(ordres["fr"])}
+    print(f"  {journal_pont['sens_retires']} sens français sans traduction anglaise retirés, "
+          f"{journal_pont['sens_fusionnes']} fondus dans un sens aux mêmes traductions, "
+          f"{journal_pont['entrees_retirees']} entrées restées sans aucun sens")
+
     print("\nFamilles de mots")
     journal_familles = {}
     voisinages = familles.construire(dictionnaires, positions, journal_familles)
@@ -1105,9 +1232,9 @@ def main():
             if borne is None:
                 selections[langue] = ordres[langue]
                 continue
-            base = ordres[langue][:borne]
+            base = ordres[langue][:borne[langue]]
             cles_du_noyau = {commun.cle(e["mot"]) for e in base}
-            en_plus = [e for e in ordres[langue][borne:]
+            en_plus = [e for e in ordres[langue][borne[langue]:]
                        if expressions.va_au_noyau(e, cles_du_noyau)
                        or commun.cle(e["mot"]) in force[langue]]
             selections[langue] = base + en_plus
@@ -1123,11 +1250,13 @@ def main():
                 if any(bloc[1] for lecture in e["lectures"] for bloc in lecture[4]))
             formes = formes_restreintes(index_formes[langue], selections[langue])
             presents = {e["mot"] for e in selections[langue]}
+            # La famille d'un mot français n'apprend rien à un francophone :
+            # seuls les mots anglais montrent la leur (happy, happiness…).
             voisins = {
                 mot: [v for v in liste_voisins if v in presents]
                 for mot, liste_voisins in voisinages.get(langue, {}).items()
                 if mot in presents
-            }
+            } if langue == "en" else {}
             liste, poids, nombre = ecrire_paquet(
                 dossier, langue, selections[langue], positions[langue],
                 attributions[langue], voisins, citations_max, formes=formes,

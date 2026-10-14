@@ -1,4 +1,5 @@
-# Argot et français familier — vedettes françaises.
+# Argot et français familier — vedettes françaises : des ponts vers l’anglais
+# (« comment dire « relou » en anglais ? »). Le verlan rejoint le thème fr-argot.
 # Rédigé pour Vocabulary.
 module: argot
 langue: fr
@@ -573,7 +574,7 @@ v: bet
 # ————— Verlan —————
 
 @ meuf
-t: verlan
+t: fr-argot
 tr: girl, woman, girlfriend
 mq: arg
 nat: n
@@ -584,7 +585,7 @@ x: Il est venu avec sa meuf. | He came with his girlfriend.
 v: mec
 
 @ keuf
-t: verlan
+t: fr-argot
 tr: cop, pig
 mq: arg, pej
 nat: n
@@ -595,7 +596,7 @@ x: Attention, v’là les keufs ! | Watch out, here come the cops!
 v: flic
 
 @ relou
-t: verlan
+t: fr-argot
 tr: annoying, a pain, tiresome
 mq: arg, pej
 nat: adj
@@ -605,7 +606,7 @@ x: Il est trop relou avec ses questions. | He’s so annoying with his questions
 v: long
 
 @ chelou
-t: verlan
+t: fr-argot
 tr: dodgy, weird, sketchy
 mq: arg
 nat: adj
@@ -615,7 +616,7 @@ x: C’est chelou, cette histoire. | This story is weird.
 v: sus, dodgy
 
 @ ouf
-t: verlan
+t: fr-argot
 tr: crazy, insane, amazing
 mq: arg
 nat: adj
@@ -626,7 +627,7 @@ v: lit
 
 @ venere
 w: vénère
-t: verlan
+t: fr-argot
 tr: fuming, furious, raging
 mq: arg
 nat: adj
@@ -635,7 +636,7 @@ d-en: Verlan of “énervé”: very angry.
 x: Il était vénère qu’on soit en retard. | He was fuming that we were late.
 
 @ zarbi
-t: verlan
+t: fr-argot
 tr: weird, odd
 mq: arg
 nat: adj
@@ -644,7 +645,7 @@ d-en: Verlan of “bizarre”.
 x: Il a un style zarbi. | He’s got a weird style.
 
 @ teuf
-t: verlan
+t: fr-argot
 tr: party, do
 mq: arg
 nat: n
@@ -654,7 +655,7 @@ d-en: Verlan of “fête”: a party.
 x: Y a une teuf chez Julie samedi. | There’s a party at Julie’s on Saturday.
 
 @ reuf
-t: verlan
+t: fr-argot
 tr: bro, bruv
 mq: arg
 nat: n
@@ -666,7 +667,7 @@ al: frérot
 v: bruv
 
 @ daron
-t: verlan
+t: fr-argot
 tr: dad, old man
 mq: arg
 nat: n
@@ -678,7 +679,7 @@ al: daronne
 
 @ chanme
 w: chanmé
-t: verlan
+t: fr-argot
 tr: great, awesome, sick
 mq: arg
 nat: adj
@@ -687,7 +688,7 @@ d-en: Verlan of “méchant”, meaning great.
 x: Ton nouveau vélo est chanmé. | Your new bike is sick.
 
 @ ripou
-t: verlan
+t: fr-argot
 tr: bent, corrupt
 mq: arg
 nat: adj

@@ -2,6 +2,7 @@ en:-core
 en:.git
 en:.gitattributes
 en:.gitignore
+en:2D code
 en:2FA
 en:A&E
 en:AAB
@@ -11,9 +12,12 @@ en:AGI
 en:AI
 en:AI Act
 en:AI assistant
+en:AI audio generation
 en:AI chatbot
+en:AI image generation
 en:AI safety
 en:AI slop
+en:AI text generation
 en:AI-generated
 en:AMA
 en:API
@@ -29,7 +33,9 @@ en:Android
 en:Android permission
 en:April
 en:August
+en:BAP tag
 en:BFF
+en:BIM manager
 en:BOM
 en:BRB
 en:BTS
@@ -52,6 +58,7 @@ en:Build
 en:Bundler
 en:Byte
 en:Bytecode
+en:CB user
 en:CDN
 en:CI/CD
 en:CLI
@@ -76,9 +83,11 @@ en:Closure
 en:Cloud
 en:Commit
 en:Cookie
+en:DDoS attack
 en:DIY
 en:DM
 en:DNS
+en:DNS registrar
 en:DOM
 en:December
 en:Design pattern
@@ -96,6 +105,7 @@ en:Embedding
 en:Endianness
 en:Endpoint
 en:Event loop
+en:FAIR data
 en:FOMO
 en:FR
 en:FWIW
@@ -123,6 +133,7 @@ en:Gamma
 en:Gamut
 en:Garbage collector
 en:Gen Z
+en:GenAI
 en:Git
 en:Git object
 en:GitHub
@@ -161,12 +172,16 @@ en:IKR
 en:ILY
 en:IMHO
 en:IMO
+en:IMSI catcher
 en:IP
 en:IRL
 en:IYKYK
 en:Index (Git)
 en:IndexedDB
 en:Intent
+en:Internet access provider
+en:Internet network
+en:Internet of Things
 en:I’ll get back to you
 en:I’m afraid…
 en:I’m good, thanks
@@ -190,10 +205,12 @@ en:LOL
 en:Lambda
 en:Lazy loading
 en:Legacy
+en:Li-Fi
 en:Linter
 en:Log
 en:MCP
 en:MIME type
+en:MMS message
 en:MP
 en:MVC
 en:Machine learning
@@ -225,6 +242,7 @@ en:OOO
 en:OP
 en:ORM
 en:OSI model
+en:OTA programming
 en:Observer
 en:October
 en:Open Graph
@@ -255,6 +273,7 @@ en:Pull
 en:Pull request
 en:Push
 en:QR code
+en:QR phishing
 en:RAG
 en:REST
 en:RGB
@@ -276,6 +295,9 @@ en:Runtime
 en:SDK
 en:SEO
 en:SHA
+en:SIM card
+en:SIM swapping
+en:SIM unlocking
 en:SMH
 en:SPA
 en:SPOF
@@ -327,6 +349,7 @@ en:Thursday
 en:Timeout
 en:Timestamp
 en:Token
+en:Trojan horse
 en:Tuesday
 en:UDP
 en:URL
@@ -338,7 +361,9 @@ en:Vibe coding
 en:Viewport
 en:WFH
 en:WYD
+en:Web
 en:Web Worker
+en:Web service
 en:WebAssembly
 en:WebP
 en:WebSocket
@@ -368,18 +393,32 @@ en:a tad
 en:above
 en:abusive
 en:acceptance testing
+en:access line
+en:access network
+en:access provider
 en:accessibility
 en:account
+en:accounting rate
 en:achievement
+en:acquisition
 en:actions speak louder than words
+en:active RFID tag
 en:activewear
 en:actually
 en:ad blocker
 en:adb
 en:add insult to injury
+en:add-in
+en:address
+en:advanced persistent threat
+en:adversarial machine learning
+en:advertising software
+en:advice of charge
 en:aeroplane mode
 en:affair
+en:affective computing
 en:afford
+en:affordance
 en:after you
 en:afternoon
 en:ageing population
@@ -391,21 +430,36 @@ en:ago
 en:air fryer
 en:airport
 en:algorithm
+en:algorithmics
+en:aliasing
 en:alignment
 en:all that glitters is not gold
+en:all-purpose
 en:allergy
 en:allow it
 en:alpha channel
 en:already
 en:ambulance
 en:an apple a day keeps the doctor away
+en:analog signal
+en:analog switching
+en:analog transmission
+en:anchor
 en:angry
 en:ankle
 en:annual leave
+en:anonymise
+en:antialiasing
+en:antivirus program
 en:anxiety
 en:anxious
+en:anycast
 en:app
+en:applet
 en:application ID
+en:application framework
+en:application programming interface
+en:application service provider
 en:apply
 en:appointment
 en:apprenticeship
@@ -413,7 +467,12 @@ en:argument
 en:arm
 en:armchair
 en:array
+en:array processor
 en:artefact
+en:artificial intelligence
+en:artificial intelligence of things
+en:artificial neural network
+en:artificial neuron
 en:as far as I know
 en:ashamed
 en:ask out
@@ -422,29 +481,47 @@ en:assertion
 en:assetlinks.json
 en:assist
 en:asylum seeker
+en:asymmetric digital subscriber line
 en:async / await
+en:asynchronous transfer mode
 en:at
 en:at the drop of a hat
 en:at the end of the day
+en:at-sign
 en:ate
 en:attachment
+en:attachment file
 en:attend
+en:attenuation
 en:aubergine
 en:audiobook
+en:audioconference
+en:audiofrequency
 en:aunt
 en:aura
 en:authentication and authorisation
+en:automatic call-back
+en:automatic data processing
 en:automation
+en:autonomous underwater vehicle
 en:autumn
 en:aye
 en:baby
 en:back
+en:back office
 en:back to square one
 en:back to the drawing board
 en:back up
+en:back-up
+en:backbone
+en:backdoor
+en:background
+en:backhaul
 en:backup
+en:badge
 en:bae
 en:bake
+en:balloon effect
 en:ballpark figure
 en:band
 en:bandwidth
@@ -452,12 +529,16 @@ en:bank account
 en:bank holiday
 en:bank transfer
 en:banter
+en:barcamp
 en:bare
 en:bargain
 en:bark up the wrong tree
+en:base station
 en:based
+en:baseware
 en:basic
 en:batch cooking
+en:batch processing
 en:bath
 en:bathroom
 en:battery
@@ -467,19 +548,24 @@ en:be on the same page
 en:be on thin ice
 en:be quids in
 en:beach
+en:bearer service
 en:beat about the bush
 en:bedroom
 en:beggars can’t be choosers
 en:behind
 en:beige flag
 en:belt
+en:benchmarking
 en:bend over backwards
 en:benefits
+en:best practice
 en:bet
 en:better late than never
 en:better safe than sorry
 en:between
 en:bias
+en:big data
+en:big tech
 en:big yikes
 en:bike
 en:bill
@@ -487,8 +573,12 @@ en:billion
 en:bills included
 en:bin
 en:binary
+en:binary character
+en:binary digit
 en:binge-watch
 en:biodiversity
+en:biomimetics
+en:biomimicry
 en:birds of a feather flock together
 en:biscuit
 en:bite off more than one can chew
@@ -497,10 +587,14 @@ en:bite the dust
 en:bite your tongue
 en:bits and bobs
 en:bitter
+en:blacklist
 en:blended family
 en:bless you
 en:blimey
 en:block
+en:block chain
+en:block validation
+en:blog
 en:bloke
 en:blood
 en:blood is thicker than water
@@ -516,10 +610,14 @@ en:boil
 en:boiler
 en:boiling
 en:bollocks
+en:bombing
 en:bone
 en:book club
+en:bookmark
 en:boomer
 en:booster
+en:boot
+en:bootleg
 en:boots
 en:bored
 en:boundaries
@@ -535,23 +633,40 @@ en:break down
 en:break the bank
 en:break the ice
 en:break up
+en:break-out session
 en:breakdown
 en:breakfast
 en:brekkie
+en:bridge
+en:brief
+en:briefing
+en:brightening
 en:bring up
+en:bring your own device
+en:broadcast
+en:broadcast videography
 en:brolly
 en:brother
 en:browser
+en:browsing
 en:brunch
+en:brute force attack
 en:bruv
 en:bucket list
+en:bug bounty
 en:bugger off
+en:building automation system
+en:building information management
+en:building management system
+en:bundle
+en:bureautics
 en:burn out
 en:burn the midnight oil
 en:burnout
 en:bury the hatchet
 en:bus
 en:bus lane
+en:business-as-usual scenario
 en:bussin
 en:butter
 en:button
@@ -559,11 +674,24 @@ en:buy now, pay later
 en:by and large
 en:by the book
 en:by the skin of one’s teeth
+en:cabled distribution system
+en:cache memory
 en:cake
 en:call back
+en:call center
+en:call deflection
+en:call forwarding busy
+en:call forwarding no reply
+en:call forwarding unconditional
+en:call hold
 en:call it a day
 en:call off
+en:call scam
 en:call the shots
+en:call transfer
+en:call waiting
+en:caller ID
+en:calling line identification restriction
 en:calm
 en:calm down
 en:camping
@@ -574,12 +702,15 @@ en:cancel culture
 en:candid
 en:cap
 en:capsule wardrobe
+en:captcha
 en:car park
 en:car sharing
 en:carbon footprint
 en:carbon neutral
 en:carbon offsetting
+en:card reader
 en:carer
+en:carrier
 en:carry on
 en:cash
 en:cashback
@@ -591,20 +722,27 @@ en:catfish
 en:caught in 4K
 en:cave
 en:ceiling
+en:cell
 en:cellar
+en:cellular system
+en:centralised technical management
 en:centre
 en:certificate
 en:chain of thought
 en:chance
+en:channel
 en:char
 en:character encoding
+en:charge
 en:charger
 en:charging point
 en:charity
 en:charity shop
+en:chat
 en:chatbot
 en:check in
 en:check out
+en:check point
 en:check-up
 en:checkout
 en:cheek
@@ -616,14 +754,19 @@ en:cheers
 en:cheers for that
 en:cheese
 en:cheesed off
+en:chemical informatics
 en:chemist’s
 en:chest
 en:chest of drawers
 en:chicken
+en:chief data officer
+en:chief information officer
+en:chief technology officer
 en:chill out
 en:chilly
 en:chin
 en:chinwag
+en:chip
 en:chips
 en:chmod
 en:chock-a-block
@@ -631,28 +774,46 @@ en:chronically online
 en:chuffed
 en:cinema
 en:circle back
+en:circle of trust
+en:circuit switching
+en:citizen's band
+en:citizens' band radio
 en:city break
 en:city centre
 en:class
 en:clean up
 en:clever
+en:click
 en:click and collect
+en:click and talk
 en:clickbait
+en:clickstream
 en:client-server
 en:climate change
+en:cloaking
 en:closed testing
+en:closed user group
 en:clothes
 en:cloud
+en:cloud computing
 en:cloudy
+en:cluster
+en:co-benefit
 en:co-parenting
 en:coat
 en:cock-up
+en:code division multiple access
+en:code division multiplexing
+en:code element
 en:code review
 en:coding assistant
+en:cognitive radio
 en:coin
 en:cold
 en:colleague
+en:collect call
 en:college
+en:color gamut
 en:colour
 en:come across
 en:come back
@@ -660,32 +821,64 @@ en:come rain or shine
 en:come up with
 en:comment
 en:commit message
+en:commonality
 en:commute
 en:commuter
+en:compact disc
+en:compact disk read-only memory
+en:compact disk-interactive
 en:comparative
 en:compilation
 en:complexity
 en:compost
 en:comprehensive
+en:compress
 en:compression
+en:computational grid
 en:compute
+en:computer
+en:computer engineering
+en:computer illiteracy
+en:computer literacy
+en:computer network
+en:computer network attacks
+en:computer network defence
+en:computer network exploitation
+en:computer science ontology
+en:computer telephony integration
 en:computer vision
 en:condition
+en:conditional access television
+en:conference call
 en:confident
+en:configure
 en:congestion charge
+en:connected city
+en:connected line identification presentation
+en:connected line identification restriction
+en:connected television
+en:connectivity
 en:consent
 en:console.log
 en:conspiracy theory
 en:constant
+en:contact tracing
 en:contactless
 en:content creator
+en:content curation
+en:content curator
+en:content delivery network
 en:context window
 en:contrast ratio
+en:conversational mode
 en:cook
 en:cooked
 en:cooker
 en:cookie
 en:copper
+en:coprocessor
+en:cordless telephone
+en:core network
 en:corner
 en:cost an arm and a leg
 en:cost of living
@@ -698,18 +891,29 @@ en:count on
 en:countryside
 en:courgette
 en:cousin
+en:cover flow-like design
 en:cover letter
 en:coworking space
+en:cracker
 en:crap
+en:crawler
 en:crayon
+en:credential stuffing attack
+en:credentials
 en:credit card
 en:cringe
+en:crisis management
 en:crisps
 en:cron
 en:crossroads
 en:crossword
+en:crowdsensing
+en:crowdsourcing
 en:cry wolf
+en:crypto currency
+en:crypto exchange
 en:cryptocurrency
+en:cryptocurrency mining
 en:culture war
 en:cup
 en:cuppa
@@ -721,18 +925,59 @@ en:cut corners
 en:cut down on
 en:cut someone some slack
 en:cut to the chase
+en:cyber attack
+en:cyber defence
+en:cyber espionage
+en:cyber protection
+en:cyber resilience
+en:cyber security
+en:cyber-physical system
+en:cyberaddiction
 en:cyberbullying
+en:cybercrime
+en:cyberflashing
+en:cybernaut
+en:cyberspace
+en:cybersquatter
+en:cybersquatting
+en:cyberterrorism
+en:cyberwar
 en:cycle lane
 en:cycling
 en:dad
+en:daemon
 en:dairy-free
 en:damn
 en:damp
+en:dark fiber
 en:dark mode
+en:dark net
+en:dark pattern
+en:data
+en:data bank
+en:data base
+en:data base management system
+en:data center
 en:data centre
+en:data clustering
+en:data crunching
+en:data glove
+en:data hub
+en:data journalism
+en:data lake
+en:data privacy
+en:data protection
+en:data protection officer
 en:data safety
+en:data science
+en:data scientist
+en:data swamp
+en:data visualisation
+en:data warehouse
 en:database
 en:database schema
+en:datamart
+en:datamining
 en:date
 en:dating app
 en:daughter
@@ -740,7 +985,9 @@ en:deadass
 en:deadline
 en:deal with
 en:debit card
+en:debriefing
 en:debt
+en:debug
 en:debugger
 en:debugging
 en:decade
@@ -748,38 +995,92 @@ en:deceive
 en:deception
 en:decimal point
 en:decorate
+en:dedicated line
+en:deep fake
+en:deep generative model
 en:deep learning
 en:deepfake
+en:deepnet
+en:defacement
 en:deforestation
 en:degree
 en:delayed
 en:delicious
+en:deliverable
 en:delivery
 en:delulu
 en:demand
 en:demonstration
+en:demultiplex
+en:demultiplexer
+en:demultiplexing
+en:denial of service attack
+en:dense wavelength division multiplexing
 en:dependency
 en:deployment
 en:deposit
+en:descramble
+en:descrambler
+en:descrambling
+en:descriptor
+en:design fiction
+en:design thinking
+en:desktop computer
+en:desktop publishing
 en:dictionary
 en:diffusion model
+en:digital
+en:digital asset
+en:digital asset management
 en:digital detox
+en:digital forensics
+en:digital native
+en:digital satellite news gathering
+en:digital signal
 en:digital signature
+en:digital subscriber line
+en:digital switching
+en:digital tattoo
+en:digital transmission
+en:digital versatile disk
+en:digital workplace
+en:digitalisation
+en:digitize
+en:digitizer
 en:dining room
 en:dinner
+en:direct access
 en:direct debit
+en:direct dialing-in
+en:direct sequence spread spectrum modulation
 en:directions
+en:directory
 en:disappointed
 en:discount
+en:discovery
 en:disgrace
 en:dishwasher
+en:disinfestation
+en:disk cache
+en:diskette
+en:diskette formatting
+en:display
+en:display paging
+en:display unit
+en:dissensus
 en:dissertation
+en:distributed ledger
+en:distributed ledger technology
 en:diversion
 en:diversity
 en:divorce
 en:do one
+en:document facsimile telegraphy
 en:dodgy
+en:dolphin attack
+en:domain
 en:domain name
+en:domain name system
 en:don’t bite the hand that feeds you
 en:don’t count your chickens before they hatch
 en:don’t judge a book by its cover
@@ -789,37 +1090,68 @@ en:door
 en:doorbell
 en:dosh
 en:down-to-earth
+en:downlink
 en:download
+en:downloading
 en:downstairs
+en:downstream
+en:doxing
+en:drag and drop
 en:draw
 en:draw the line
+en:drawing software
 en:dress
 en:dress code
 en:dressing gown
+en:driver
 en:driving licence
 en:drizzle
+en:drone
 en:drop off
 en:drop out
 en:drop the ball
 en:drought
+en:dual band
+en:dual mode
+en:dump
 en:during
+en:dynamic random-access memory
+en:e-book reader
+en:e-conference
+en:e-ink
+en:e-magazine
+en:e-mail
+en:e-mail address
+en:e-mail spoofing
+en:e-printing
 en:e-reader
 en:e-scooter
 en:ear
 en:earbuds
+en:earcon
 en:early
 en:easier said than done
 en:easy come, easy go
 en:easy-going
 en:echo chamber
 en:eco-anxiety
+en:edge computing
+en:editor
+en:educational software
 en:egg
 en:elbow
 en:election
 en:electric car
 en:electrician
+en:electromagnetic disturbance
+en:electronic data interchange
+en:electronic directory
+en:electronic paper
+en:electronic sell through
 en:embarrassed
+en:embed code
 en:emoji
+en:emoticon
 en:empty nester
 en:emulator
 en:encryption
@@ -840,23 +1172,35 @@ en:esports
 en:estate agent
 en:evening
 en:event
+en:event handler
 en:eventually
 en:every cloud has a silver lining
 en:every dog has its day
+en:everything as a service
 en:exception
 en:excited
 en:excuse me
 en:exhibition
 en:exit code
+en:exit scam
 en:expensive
+en:expert system
 en:extra
+en:extranet
 en:eye
 en:eyebrow
 en:fabric
 en:face
+en:face swap
 en:face the music
+en:facilities management
+en:facsimile
+en:facsimile equipment
+en:fact book
 en:factory reset
+en:fading
 en:faff
+en:failure
 en:fair enough
 en:fake news
 en:fall in love
@@ -865,24 +1209,39 @@ en:fam
 en:family
 en:fancy
 en:fast fashion
+en:fast track
+en:fault
+en:fault tolerance
+en:fault tolerant
+en:fax
 en:feed
 en:feel blue
 en:feel like
 en:feel sick
+en:femtocell
 en:festival
+en:fiber in the loop
+en:fiber to the building
+en:fiber to the home
+en:fiber-optic
 en:figure out
 en:fill in
 en:film
 en:find out
 en:finger
+en:fintech
 en:fire
 en:firewall
+en:firmware
 en:first date
 en:fish
 en:fit
 en:fit as a fiddle
 en:fiver
+en:fixed layout
+en:flame
 en:flash flood
+en:flash mob
 en:flat
 en:flat tyre
 en:flat-pack furniture
@@ -890,6 +1249,7 @@ en:flatmate
 en:flex
 en:flexitime
 en:flight
+en:flight case
 en:flight shame
 en:flood
 en:floor
@@ -897,7 +1257,9 @@ en:flour
 en:flower
 en:flu
 en:fog
+en:folksonomy
 en:follower
+en:font
 en:food bank
 en:food waste
 en:foot
@@ -908,17 +1270,33 @@ en:forecast
 en:forehead
 en:foreign key
 en:fork
+en:format
 en:formidable
+en:formjacking
 en:fortnight
 en:fortune favours the bold
+en:forward
 en:four-day week
+en:frame
+en:frame relay
 en:freak out
+en:free software
 en:free time
 en:freelancer
+en:freemium
+en:freephone service
+en:freeware
 en:freezer
 en:freezing
+en:frequency division multiple access
+en:frequency division multiplexing
+en:frequency hopping spread spectrum modulation
+en:frequency re-use
+en:frequently asked questions
 en:fridge
 en:friend
+en:front office
+en:front-end engineering design
 en:frost
 en:fruit
 en:frustrated
@@ -927,22 +1305,33 @@ en:frying pan
 en:fuck
 en:full English breakfast
 en:full stop
+en:full-text search
 en:fully remote
 en:function
 en:funny
 en:furniture
 en:gaff
+en:gain
+en:game changer
 en:gaming
+en:gap filler
 en:gap year
 en:garden
 en:gardening
 en:garlic
 en:gaslighting
 en:gassed
+en:gatekeeper
+en:gateway
+en:general packet radio service
 en:generative AI
 en:generous
 en:gentle
 en:gentrification
+en:geo-blocking
+en:geo-discrimination
+en:geofencing
+en:geotagging
 en:get away with
 en:get back
 en:get better
@@ -977,6 +1366,9 @@ en:give someone the benefit of the doubt
 en:give up
 en:glass
 en:glasses
+en:global public good
+en:global system for mobile communications
+en:global system for mobile communications for railways
 en:global warming
 en:gloves
 en:glow-up
@@ -997,27 +1389,37 @@ en:go viral
 en:go with the flow
 en:gobsmacked
 en:godparent
+en:governance
 en:graft
 en:grandchildren
 en:grandfather
 en:grandmother
 en:graph
+en:graphic facilitation
+en:graphics processing unit
+en:graphics software
 en:grass
 en:grateful
 en:great minds think alike
 en:green flag
+en:green inclination, no kids
+en:green information technology
 en:greenhouse gas
 en:greenwashing
 en:grep
 en:grotty
 en:ground floor
 en:group chat
+en:groupware
 en:grow up
 en:grumpy
 en:guardrails
 en:gut health
 en:gutted
 en:gym
+en:hackathon
+en:hacker
+en:hackerspace
 en:haggle
 en:hail
 en:hair
@@ -1027,18 +1429,24 @@ en:hallucination
 en:hammered
 en:hand
 en:hand in
+en:hand-off
 en:handbag
 en:hang in there
 en:hang on
 en:hang out
 en:hang up
 en:happy
+en:hard copy
 en:hard-working
+en:hardware
+en:hardware as a service
 en:hash
+en:hash code
 en:hash table
 en:hashtag
 en:hat
 en:hate speech
+en:hater
 en:have a chip on your shoulder
 en:have a frog in one’s throat
 en:have a good one
@@ -1057,22 +1465,30 @@ en:heartbroken
 en:heat pump
 en:heating
 en:heatwave
+en:help desk
 en:help yourself
 en:here you go
+en:heuristics
 en:hex colour
 en:hexadecimal
+en:high altitude platform
 en:high street
+en:highlighting
 en:hiking
 en:hip
+en:hit
 en:hit it off
 en:hit the nail on the head
 en:hit the road
 en:hit the sack
 en:hits different
+en:hoax
 en:hobby
 en:hold on
 en:holiday
 en:home
+en:home networking
+en:home page
 en:homelessness
 en:homesick
 en:honesty is the best policy
@@ -1080,8 +1496,13 @@ en:hoodie
 en:hoover
 en:hopeful
 en:hot
+en:hot key
+en:hot line
+en:hot liner
+en:hot spot
 en:hot take
 en:hot-desking
+en:hotlist
 en:hotspot
 en:house
 en:housework
@@ -1089,17 +1510,26 @@ en:housing crisis
 en:how do you do?
 en:how much is it?
 en:how’s it going?
+en:hub
+en:hub station
 en:humid
 en:hungry
 en:hurt
 en:husband
 en:hybrid working
+en:hypertext
 en:iOS
 en:ick
+en:icon
+en:iconomatic
+en:iconomatics
+en:iconometry
+en:id as a service
 en:idempotence
 en:if it ain’t broke, don’t fix it
 en:if you ask me
 en:image generator
+en:implement
 en:impulse buy
 en:in
 en:in a bit
@@ -1113,21 +1543,44 @@ en:in time
 en:in-laws
 en:inbox
 en:inclusive
+en:incoming call barring
+en:indefeasible rights of use
 en:index
 en:inference
+en:inference engine
 en:inflation
 en:influencer
+en:infobox
+en:information content
+en:information highway
+en:infrastructure as a service
 en:inheritance
+en:initial coin offering
 en:injure
 en:innit
 en:instance
+en:instant messaging
+en:instruction
+en:instruction set
 en:insulation
 en:integer and float
+en:integrated building
+en:integrated services digital network
 en:integration test
+en:intelligent maintenance
+en:interactive
+en:intercell hand-off
 en:interest rate
 en:interface
+en:interference
+en:international call-back
+en:international mobile subscriber identity
+en:internationalized resource identifier
 en:internship
+en:interpersonal messaging service
 en:interpretation
+en:intracell hand-off
+en:intranet
 en:is this seat taken?
 en:issue
 en:it depends
@@ -1140,6 +1593,7 @@ en:it’s spitting
 en:it’s up to you
 en:jab
 en:jacket
+en:jackpotting
 en:jailbreak
 en:jammy
 en:jealous
@@ -1149,6 +1603,7 @@ en:job hunting
 en:job interview
 en:join
 en:journey
+en:joystick
 en:jump on the bandwagon
 en:jump the gun
 en:jumper
@@ -1159,24 +1614,35 @@ en:keep up with
 en:keep your chin up
 en:kettle
 en:key
+en:key word
 en:key-value store
+en:keylogger
 en:keyword
 en:kick off
+en:kick-off meeting
 en:kill two birds with one stone
+en:killer app
 en:kilobyte, megabyte
 en:kind
 en:kind regards
+en:kiosk service
 en:kip
 en:kitchen
 en:knackered
 en:knee
 en:knife
 en:know the ropes
+en:knowledge base
 en:knowledge cutoff
+en:knowledge graph
 en:knowledge is power
+en:label
 en:lad
+en:land station
 en:landing
 en:landlord
+en:lap top computer
+en:large language model
 en:lass
 en:last-minute
 en:late
@@ -1184,6 +1650,8 @@ en:latency
 en:laughter is the best medicine
 en:lazy
 en:leak
+en:lean administration
+en:leased circuit
 en:least privilege
 en:leave no stone unturned
 en:lecture
@@ -1203,15 +1671,21 @@ en:like
 en:like two peas in a pod
 en:line break
 en:line manager
+en:link
+en:linked data
 en:linked list
 en:lip
+en:list
+en:listing
 en:lit
+en:live CD
 en:live rent-free in someone’s head
 en:livestream
 en:living room
 en:load balancer
 en:loaded
 en:loan
+en:local area network
 en:localStorage
 en:localhost
 en:location
@@ -1222,6 +1696,9 @@ en:lodger
 en:loft
 en:log in
 en:log off
+en:logic bomb
+en:logical partition
+en:logical qubit
 en:loneliness
 en:lonely
 en:long
@@ -1240,6 +1717,7 @@ en:loop
 en:loop in
 en:lorry
 en:lose
+en:low power wide area network
 en:low-emission zone
 en:low-hanging fruit
 en:lowkey
@@ -1247,13 +1725,24 @@ en:loyalty card
 en:luggage
 en:lunch
 en:lung
+en:lurker
 en:lush
 en:machine translation
+en:macroinstruction
+en:magnetic random access memory
+en:magnetic storage
+en:mail box
+en:mailer daemon
+en:mailing list
 en:main
 en:main character energy
 en:main course
+en:mainframe
+en:maintainability
 en:make ends meet
 en:make up
+en:malicious call identification
+en:malicious logic
 en:manager
 en:mandem
 en:many
@@ -1271,39 +1760,64 @@ en:mean
 en:meat
 en:meeting
 en:meme
+en:memorandum of understanding
 en:mental health
 en:mess up
 en:message queue
+en:message switching
+en:metadata
+en:microblog
+en:microblogging
+en:microcomputer
 en:microplastics
+en:microprocessor
 en:microwave
+en:microwave frequency
 en:mid
 en:midnight
 en:migration
 en:mild
+en:milestone report
 en:milk
 en:millennial
 en:minSdk, targetSdk, compileSdk
+en:mind map
 en:mind your head
 en:mindfulness
 en:minging
 en:minification
 en:minimum wage
+en:mining
 en:minted
 en:mirror
+en:mirroring
 en:miserable
 en:misinformation
 en:miss
 en:miss the boat
+en:mixed pixel
 en:mobile
+en:mobile service
+en:mobile station
+en:mobile switching centre
+en:mobile virtual network operator
 en:model
+en:model card
+en:model checking
+en:model-checker
+en:modem
+en:moderator
 en:money doesn’t grow on trees
+en:monitor
 en:month
 en:moody
 en:morning
+en:morphing
 en:mortgage
 en:motorway
 en:mould
 en:mountain
+en:mouse
 en:mouth
 en:move
 en:move in
@@ -1312,17 +1826,36 @@ en:move the needle
 en:moving mad
 en:much
 en:mug
+en:multi-factor authentification
+en:multiband
+en:multicast
+en:multimedia
+en:multimedia message service
 en:multimodal
+en:multiple access
+en:multiple subscriber number
+en:multiplex
+en:multiplexer
+en:multiplexing
+en:multiprocessing
+en:multiprocessor
 en:multitask
+en:multithreading
 en:mum
 en:muscle
 en:museum
 en:mushroom
+en:must carry
 en:mutability
 en:mute
 en:my bad
 en:naff
+en:naming
+en:naming and shaming
 en:nappy
+en:narrowcast
+en:native advertising
+en:near field communication
 en:necessity is the mother of invention
 en:neck
 en:neighbour
@@ -1330,10 +1863,18 @@ en:neighbourhood
 en:nephew
 en:nepo baby
 en:nervous
+en:net neutrality
 en:net zero
+en:netcasting
+en:network attached storage
+en:network slicing
 en:networking
 en:neural network
+en:neuromorphic
 en:never mind
+en:news article
+en:newsbar
+en:newsgroup
 en:next to
 en:nice
 en:nice to meet you
@@ -1346,13 +1887,17 @@ en:no use crying over spilt milk
 en:no way!
 en:no worries
 en:no-brainer
+en:no-cloning theorem
 en:no-code
+en:non volatile memory
 en:non-binary
 en:noon
 en:noreply address
 en:normalisation
 en:nose
 en:not my cup of tea
+en:notebook computer
+en:notepad computer
 en:notice
 en:notice period
 en:notification
@@ -1360,31 +1905,47 @@ en:novel
 en:nowadays
 en:npm
 en:null
+en:number portability
+en:number porting
 en:o'clock
 en:oat milk
+en:obfuscation
 en:object
+en:object-oriented language
+en:object-oriented programming
 en:occasion
+en:off line
 en:off the top of my head
 en:office
 en:oil
 en:on
 en:on brand
 en:on cloud nine
+en:on line
 en:on the ball
 en:on time
 en:onboarding
 en:once bitten, twice shy
 en:once in a blue moon
+en:one stop shopping
 en:onion
 en:online shopping
 en:only child
+en:open data
 en:open-minded
 en:open-plan office
 en:open-weight model
+en:operating body
+en:operating system
+en:operation
 en:operator
 en:opposite
 en:opt out
+en:opt-in
+en:opt-out
+en:optical disk
 en:organise
+en:organizer
 en:origin
 en:out of office
 en:out of order
@@ -1393,10 +1954,14 @@ en:out of stock
 en:out of the blue
 en:out of the woods
 en:outfit
+en:outgoing call barring
+en:outreach
 en:oven
 en:over my dead body
 en:over the moon
+en:over the top
 en:overcast
+en:overclock
 en:overdraft
 en:overfitting
 en:oversized
@@ -1405,8 +1970,13 @@ en:overwhelmed
 en:package
 en:package.json
 en:packet
+en:packet switching
+en:pad
 en:padel
+en:paging service
+en:paid search
 en:painkiller
+en:palmtop computer
 en:pants
 en:parameter
 en:parasocial
@@ -1417,31 +1987,52 @@ en:parking ticket
 en:partner
 en:party
 en:pass out
+en:passive RFID tag
 en:passport
 en:password
 en:pasta
+en:patentability
 en:path
+en:pattern
+en:pattern matching
 en:pavement
 en:pay back
 en:pay gap
 en:pay rise
+en:pay-per-view
+en:payload
 en:payslip
 en:paywall
 en:peak
 en:peckish
 en:pedestrian crossing
+en:peer-to-peer
+en:peering
+en:penetration tester
 en:peng
 en:pension
 en:pepper
 en:performance review
+en:peritelephony
+en:permanent virtual circuit
+en:personal computer
+en:personal digital assistant
 en:pet
 en:petition
 en:petrol
+en:pharming
 en:phishing
+en:photonic
+en:photonics
+en:phreaking
+en:physical qubit
 en:pick someone’s brains
 en:pick up
 en:pick-me
+en:picture element
+en:picture facsimile telegraphy
 en:pie in the sky
+en:pig butchering
 en:ping
 en:pint
 en:piss off
@@ -1450,23 +2041,35 @@ en:plant-based
 en:plaster
 en:plate
 en:platform
+en:platform as a service
 en:play it by ear
 en:playlist
+en:plug-and-play
 en:plumber
 en:pocket
+en:pocket calculator
 en:podcast
 en:point out
 en:pointer
 en:polarisation
+en:polarization
 en:polite
+en:polling
 en:polling station
 en:polymorphism
+en:pooling
+en:pop-up window
+en:portable number
+en:portal
 en:portion
 en:posh
 en:post
+en:post-it note
+en:post-quantum cryptography
 en:postcode
 en:potato
 en:pound
+en:powerline carrier
 en:practice makes perfect
 en:pregnant
 en:prejudice
@@ -1474,24 +2077,43 @@ en:prescription
 en:present perfect
 en:preservative
 en:pretend
+en:pretrained model
 en:price cap
 en:primary key
+en:privacy by default
+en:privacy by design
+en:privacy shield
 en:process
+en:processor
 en:profile picture
 en:profiling
+en:promotable
 en:promotion
 en:prompt injection
+en:proof of stake
+en:proof of work
 en:proper
+en:proprietary system
 en:protest
+en:protocol
 en:proud
+en:provisioning
+en:proxy server
 en:pub
 en:pub quiz
 en:public and private keys
 en:pudding
 en:pull
 en:pull someone’s leg
+en:pull technology
 en:pull the plug
 en:pull yourself together
+en:pulse amplitude modulation
+en:pulse code modulation
+en:pulse position modulation
+en:pulse width modulation
+en:push technology
+en:push-to-talk
 en:put away
 en:put off
 en:put on
@@ -1499,26 +2121,66 @@ en:put one’s foot in it
 en:put up with
 en:put your cards on the table
 en:pyjamas
+en:quadruple play
+en:quantum accelerator
+en:quantum advantage
+en:quantum bit
+en:quantum computer
+en:quantum cryptography
+en:quantum decoherence
+en:quantum emulator
+en:quantum entanglement
+en:quantum gate
+en:quantum interference
+en:quantum key distribution
+en:quantum memory
+en:quantum parallelism
+en:quantum processor
+en:quantum register
+en:quantum simulator
+en:quantum superposition
+en:quantum teleportation
 en:quarter past
 en:quarter to
 en:queue
 en:quid
 en:quiet quitting
 en:radiator
+en:radio broadcasting
+en:radio data system
+en:radio direction finding
+en:radio frequency identification
+en:radio frequency identification tag
+en:radio-control
+en:radio-over-fiber
+en:radiofrequency channel
+en:radioguidance
+en:radiorecorder
 en:railcard
 en:rain
 en:rainbow
 en:raisin
+en:random-access memory
+en:range finding
 en:rank
+en:ransomware
 en:ratio
+en:ray tracing
 en:reach out
 en:read the room
+en:read-only memory
 en:ready meal
+en:real time
 en:realise
+en:reality check
+en:really simple syndication
 en:reasoning model
+en:reboot
+en:rebroadcast station
 en:receipt
 en:recipe
 en:recommendation algorithm
+en:records management
 en:recursion
 en:recycle
 en:red flag
@@ -1526,45 +2188,67 @@ en:redirection
 en:redundant
 en:referendum
 en:refill
+en:reflowable
 en:refugee
 en:refund
 en:register
+en:register recall
 en:regression
 en:reinforcement learning
+en:relational
 en:relatives
 en:relieved
+en:remote batch teleprocessing
+en:remote data processing
+en:remote maintenance
+en:remote radio head
 en:remote working
+en:remotely-operated vehicle
 en:renewable energy
 en:rent
+en:repeater
 en:resign
 en:resolution
 en:rest
+en:restart
 en:resume
 en:return
 en:returns policy
 en:reusable
+en:revenge porn
+en:reverse engineering
 en:revise
 en:rewilding
 en:rice
 en:ring a bell
+en:rip
 en:rip off
 en:rip-off
+en:risk management
+en:risk manager
 en:river
 en:rizz
 en:road
 en:roadworks
 en:roaming
+en:roaming subscriber
+en:robotics
 en:roll out
+en:rolling ball
 en:roof
 en:room
+en:rootkit
 en:roundabout
+en:router
 en:rubber
 en:rubbish
 en:rude
+en:rug pull
 en:rule of thumb
 en:run into
 en:run out of
 en:running
+en:runtime software
 en:rush hour
 en:sRGB
 en:sad
@@ -1581,42 +2265,65 @@ en:savings
 en:savoury
 en:say less
 en:scalability
+en:scalable
 en:scam
+en:scanner
 en:scared
 en:scarf
 en:scope
+en:scramble
+en:scrambler
+en:scrambling
 en:scran
 en:screen density
 en:screen fatigue
 en:screen time
 en:screenshot
 en:scroll
+en:scrolling
 en:sea
 en:sea level rise
+en:seamless service
+en:search engine
+en:search engine optimization
 en:season ticket
 en:second-hand
 en:secret
 en:see eye to eye
 en:see you later
+en:selecting
 en:self-care
+en:self-documented
 en:self-employed
+en:self-supervised learning
 en:selfie
 en:selfish
+en:semantic web
 en:sensible
+en:serial access
 en:serialisation
 en:series
+en:server
+en:service provider
 en:session
 en:set off
+en:set top box
 en:set up
 en:settle down
+en:settlement rate
+en:sextortion
+en:shannon
 en:share
 en:sharenting
+en:shareware
 en:shattered
 en:shelf
 en:shirt
 en:shit
 en:shoes
 en:shook
+en:short message
+en:short message service
 en:shoulder
 en:show off
 en:show up
@@ -1628,11 +2335,14 @@ en:sick
 en:sick leave
 en:sick note
 en:side effect
+en:side event
 en:side hustle
 en:sign up
 en:simp
+en:simultaneous multithreading
 en:since
 en:single
+en:single sign on
 en:single-use plastic
 en:singleton
 en:sink
@@ -1641,27 +2351,36 @@ en:sit on the fence
 en:sit tight
 en:situationship
 en:size
+en:sketchnote
 en:skew-whiff
 en:skin
 en:skint
 en:skirt
 en:skive
 en:sky
+en:skyscraper
+en:slamming
 en:slaps
 en:slay
 en:sleep on it
 en:sleet
 en:sleeve
+en:slot
 en:slow cooker
 en:slow down
 en:smart casual
+en:smart contract
+en:smart electric meter
 en:smart meter
 en:smart speaker
+en:smartphone
 en:smartwatch
 en:smell a rat
+en:smishing
 en:snack
 en:snatched
 en:sneakers
+en:sniffer
 en:snog
 en:snow
 en:so far so good
@@ -1669,6 +2388,10 @@ en:social media
 en:socket
 en:socks
 en:sofa
+en:software
+en:software as a service
+en:software engineering
+en:software-defined radio
 en:solar panel
 en:son
 en:song
@@ -1679,30 +2402,46 @@ en:sorry to bother you
 en:sorry?
 en:sort out
 en:sorted
+en:sound broadcasting
 en:sounds good
 en:sour
+en:space-division switching
 en:spam
+en:spamdexing
+en:spammer
+en:spamming
 en:spare room
 en:speak of the devil
 en:speak your mind
+en:spear phishing
 en:speech recognition
+en:speech-to-text
 en:speed camera
+en:speed date
 en:spicy
 en:spill the beans
 en:spill the tea
+en:splash screen
 en:split the bill
 en:split up
 en:splurge
 en:spoiler
+en:sponsored data
 en:spoon
+en:spouseware
 en:sprain
+en:spread spectrum modulation
+en:spreadsheet
 en:spring
+en:spyware
 en:stack
 en:stage
+en:staging
 en:stairs
 en:stan
 en:stand out
 en:stand up for
+en:standing wave ratio
 en:starter
 en:state machine
 en:station
@@ -1715,9 +2454,13 @@ en:stepmother
 en:still
 en:still water
 en:stomach
+en:storage area network
+en:storage as a service
+en:storage memory
 en:storm
 en:story
 en:straight on
+en:streamer
 en:streaming
 en:street
 en:street food
@@ -1728,29 +2471,41 @@ en:strop
 en:stubborn
 en:student loan
 en:studio flat
+en:sub-addressing
 en:subagent
 en:subscription
+en:subscription video on demand
 en:sudo
 en:sugar
 en:suit
 en:summer
 en:sunny
+en:supercomputing
 en:superlative
 en:supervised learning
+en:supplementary service
 en:support
 en:surprised
 en:sus
+en:sustainability
 en:sustainable
+en:sustainable development
 en:sw.js
+en:swap
+en:swatting
 en:sweets
 en:swimming costume
 en:swimming pool
 en:swipe
+en:switched virtual circuit
+en:symmetric digital subscriber line
 en:sympathetic
 en:symptom
 en:sync
+en:syndication
 en:syntax
 en:synthetic data
+en:system of engagement
 en:system prompt
 en:ta
 en:table
@@ -1774,15 +2529,33 @@ en:tea
 en:team
 en:team up
 en:technical debt
+en:technology readiness level
+en:technology readiness level scale
 en:teenager
 en:tekkers
+en:telecommunication circuit
+en:teleconferencing
+en:telematics
+en:telemeasuring
+en:telephony denial of service
+en:telepoint base station
+en:teleprocessing
+en:teleservice
+en:television broadcasting
+en:television environment
+en:telewriting
 en:tell off
 en:telly
 en:temperature
+en:template
 en:tenner
 en:tense
 en:terminal
 en:test coverage
+en:testing
+en:tethering
+en:text processing
+en:text token
 en:text-to-speech
 en:thanks in advance
 en:that’s a shame
@@ -1809,6 +2582,9 @@ en:thermostat
 en:think outside the box
 en:thirsty
 en:thoughtful
+en:three-party call
+en:threshold
+en:thresholding
 en:throat
 en:through thick and thin
 en:throw a wobbly
@@ -1816,11 +2592,18 @@ en:throw away
 en:throw in the towel
 en:throw someone under the bus
 en:thumb
+en:thumbnail
 en:thunder
 en:ticket
 en:tie
+en:time division multiple access
+en:time division multiplexing
 en:time flies
 en:time is money
+en:time slicing
+en:time-division switching
+en:time-multiplex switching
+en:time-slot
 en:timetable
 en:tip
 en:tired
@@ -1831,15 +2614,26 @@ en:toaster
 en:today
 en:toe
 en:toilet
+en:tokenisation
+en:toll television
+en:toll-free data
 en:tomorrow
+en:toner
 en:too many cooks spoil the broth
 en:tooth
+en:top-level domain
+en:top-level domain registrar
 en:torch
 en:touch base
 en:touch grass
+en:touch pad
+en:touch screen
 en:touch wood
+en:tour
 en:town
 en:toxic
+en:trackback
+en:tracking
 en:tracksuit
 en:traffic jam
 en:traffic lights
@@ -1848,17 +2642,26 @@ en:trainers
 en:training
 en:training data
 en:transaction
+en:transfer learning
+en:transformer
+en:transmission channel
 en:transpilation
+en:transponder
 en:tree
 en:trend
 en:trending
 en:trillion
 en:trip
+en:triple play
 en:troll
+en:troubleshooting
 en:trousers
+en:trunked system
+en:trust environment
 en:try on
 en:try out
 en:tuition fees
+en:turbo code
 en:turn a blind eye
 en:turn down
 en:turn into
@@ -1867,12 +2670,19 @@ en:turn off
 en:turn on
 en:turn right
 en:turn up
+en:tutorial
 en:twee
 en:twins
 en:two heads are better than one
 en:two-factor authentication
+en:two-factor authentification
+en:two-way messaging
 en:type
+en:ultra narrow band
+en:ultra wideband
 en:umbrella
+en:umbrella agreement
+en:unbundling
 en:uncle
 en:under
 en:under the radar
@@ -1883,18 +2693,31 @@ en:underwear
 en:unemployed
 en:unfollow
 en:uni
+en:unicast
+en:uniform resource identifier
+en:uniform resource locator
 en:union
 en:unit test
+en:universal mobile telecommunication system
+en:universal personal telecommunication
+en:universal service
+en:unlocking
 en:until
 en:up in the air
 en:up to scratch
 en:upcycling
 en:update
+en:upgrade
+en:uplink
 en:upload
 en:upset
 en:upskill
 en:upstairs
 en:upstream
+en:user experience
+en:user interface
+en:user-friendliness
+en:user-to-user signaling
 en:username
 en:vaccine
 en:valid
@@ -1902,17 +2725,38 @@ en:variable
 en:vector and raster
 en:vector database
 en:vegan
+en:veganism
 en:vegetables
 en:vegetarian
 en:versatile
 en:versionCode et versionName
+en:versioning
+en:very small aperture terminal
 en:vibe
 en:vibe check
+en:video
 en:video call
 en:video game
+en:video on demand
+en:videoconference
+en:videofrequency
+en:videography
+en:videophone
+en:videophony
+en:viewer
 en:vintage
+en:virtual circuit
+en:virtual dedicated server
 en:virtual machine
+en:virtual network
+en:virtual private network
+en:virtual reality
+en:virus
+en:virus signature
+en:voice mail
 en:voice note
+en:voice over Internet Protocol
+en:volatile memory
 en:volunteer
 en:voucher
 en:vulnerability
@@ -1932,9 +2776,21 @@ en:waste
 en:wasteman
 en:watch
 en:watermark
+en:wave interference
 en:wear
 en:wear out
+en:wearable device
 en:weather
+en:web agency
+en:web cache
+en:web harvesting
+en:web mail
+en:web page
+en:web site
+en:web widget
+en:webcamera
+en:webmaster
+en:webring
 en:wedding
 en:wee
 en:week
@@ -1945,6 +2801,7 @@ en:well done
 en:wellbeing
 en:wellness
 en:we’ll cross that bridge when we come to it
+en:whale phishing
 en:what do you mean?
 en:what’s up?
 en:when in Rome, do as the Romans do
@@ -1962,12 +2819,21 @@ en:wind up
 en:window
 en:windy
 en:winter
+en:wireless Internet access
+en:wireless access
+en:wireless microphone
+en:wizard
 en:woke
 en:wonky
 en:wood
+en:word processor
 en:work out
+en:work package
 en:work-life balance
+en:workflow
 en:workload
+en:workshop
+en:worm
 en:worried
 en:would you mind…?
 en:wrist
@@ -1985,92 +2851,16 @@ en:you’re breaking up
 en:you’re on mute
 en:you’re welcome
 en:zero waste
+en:zero-day
 en:zero-hours contract
 en:zip
 en:zone out
 en:zonked
-fr:abonné itinérant
-fr:accord parapluie de protection des données personnelles
-fr:accréditation
-fr:accès
-fr:accès direct
-fr:accès hertzien
-fr:accès multiple
-fr:accès multiple par répartition en code
-fr:accès multiple par répartition en fréquence
-fr:accès multiple par répartition temporelle
-fr:accès sans fil à l'internet
-fr:accès séquentiel
-fr:accélérateur quantique
-fr:acquisition
-fr:actif numérique
 fr:actuellement
-fr:administrateur
-fr:administration allégée
-fr:adressage dispersé
-fr:adresse de courrier électronique
-fr:adresse informatique
-fr:adresse universelle
-fr:affaiblissement
-fr:affichage
-fr:afficher
-fr:agenda électronique
-fr:agent
-fr:aide au dépannage
-fr:alerte malveillante
-fr:algorithmique
-fr:amorce
-fr:amorcer
-fr:ancre
-fr:anneau de sites
-fr:annuaire électronique
-fr:anticrènelage
-fr:antémémoire
-fr:appairage
-fr:appariement de formes
-fr:appel-piège
 fr:appeler un chat un chat
-fr:application phare
-fr:appliquette
-fr:apportez votre équipement personnel de communication
-fr:apprentissage antagoniste
-fr:apprentissage automatique
-fr:apprentissage autosupervisé
-fr:apprentissage non supervisé
-fr:apprentissage par renforcement
-fr:apprentissage par transfert
-fr:apprentissage profond
-fr:apprentissage supervisé
 fr:apéro
-fr:ardoise électronique
-fr:arrière-guichet
-fr:arrière-plan (d')
-fr:arrobe
-fr:arrosage
-fr:arroseur
-fr:article de forum
 fr:askip
-fr:assistant
-fr:assistant électronique de poche
 fr:assister à
-fr:atelier
-fr:atelier numérique ouvert
-fr:attaque aux ultrasons
-fr:attaque collective par saturation de service
-fr:attaque par interruption de service
-fr:attaque par saturation téléphonique
-fr:audio
-fr:audioconférence
-fr:audiofréquence
-fr:authentification unique
-fr:authentification unique à la demande
-fr:authentification à deux étapes
-fr:authentification à étapes
-fr:automate exécuteur de clauses
-fr:autonome
-fr:autoroutes de l'information
-fr:avantage connexe
-fr:avantage quantique
 fr:avoir du pain sur la planche
 fr:avoir d’autres chats à fouetter
 fr:avoir la dalle
@@ -2088,437 +2878,67 @@ fr:avoir un poil dans la main
 fr:avoir une dent contre quelqu’un
 fr:bader
 fr:bagnole
-fr:balise
 fr:balle
-fr:bande de fréquences banalisée
-fr:bande ultralarge (à)
-fr:bande ultraétroite (à)
-fr:bannière
-fr:banque de données
-fr:barre d'actualités
-fr:base de connaissances
-fr:base de données
 fr:baskets
 fr:bcp
 fr:bg
-fr:bibande
-fr:bien public mondial
-fr:bimode
-fr:biomimétique
-fr:biomimétisme
 fr:bisous
 fr:blesser
-fr:bloc
-fr:bloc-notes électronique
-fr:blogue
-fr:bloqueur de publicités
-fr:bogue
 fr:boire comme un trou
 fr:bolosse
-fr:bombardement
-fr:bombe programmée
 fr:bosser
-fr:bouclier de protection des données personnelles
 fr:bouffe
-fr:boule de commande
 fr:boulot
 fr:bouquin
-fr:boîte aux lettres
-fr:boîtier adaptateur
-fr:brevetabilité
-fr:bribe
-fr:brouillage
-fr:bureautique
-fr:bâti immobilier modélisé
-fr:bâtiment intelligent
-fr:cache
-fr:cache-disque
-fr:cache-toile
-fr:cadre
-fr:calcul intensif
-fr:calculateur
-fr:calculette
-fr:canal banalisé
-fr:canal de fréquences
-fr:canal radioélectrique
-fr:canular
-fr:capacité de suggestion
 fr:car
-fr:carillon
-fr:carrousel
-fr:carte SIM
-fr:carte heuristique
-fr:cartouche
 fr:casser les pieds
 fr:cc
 fr:ce n’est pas la mer à boire
-fr:cellule
-fr:centre d'appels
-fr:centre d'assistance
-fr:centre de commutation du service des mobiles
-fr:centre de données
-fr:cercle de confiance
 fr:chanmé
-fr:chantage sexuel
-fr:charge utile
-fr:chaîne de blocs
 fr:cheh
 fr:chelou
 fr:chercher la petite bête
-fr:cheval de Troie
-fr:chiffre binaire
-fr:chimioinformatique
-fr:circuit de télécommunication
-fr:circuit virtuel
-fr:circuit virtuel commuté
-fr:circuit virtuel permanent
-fr:clicher
-fr:cliquer
-fr:cliquer-parler
 fr:clope
-fr:code 2D
-fr:code d'intégration
-fr:code à octets
-fr:codet
 fr:coin
-fr:collage
-fr:collecteur
-fr:communication en champ proche
-fr:communité
-fr:commutation analogique
-fr:commutation de circuits
-fr:commutation de messages
-fr:commutation de paquets
-fr:commutation numérique
-fr:commutation spatiale
-fr:commutation spatiale multiplexée
-fr:commutation temporelle
-fr:complément de service
-fr:compresser
-fr:compteur connecté
-fr:compteur électrique connecté
 fr:con
-fr:concentrateur
-fr:conception d'interfaces adaptatives
-fr:confidentialité des données personnelles
-fr:confidentialité par défaut
-fr:confidentialité programmée
-fr:configurer
-fr:conférence informelle
-fr:conférence téléphonique
 fr:connard
-fr:connectabilité
-fr:connecteur logiciel
-fr:connexion
-fr:connexité
-fr:conservation du numéro
-fr:console de visualisation
-fr:conversation à trois
-fr:convivialité
-fr:coprocesseur
-fr:couplage de la téléphonie et de l'informatique
-fr:courriel
 fr:coûter les yeux de la tête
 fr:crevé
-fr:criminalistique numérique
-fr:cryptographie postquantique
-fr:cryptographie quantique
-fr:crènelage
-fr:créneau temporel
-fr:cyberattaque
-fr:cyberattaque par cassage de mot de passe
-fr:cyberattaque par envoi massif d'identifiants
-fr:cyberattaque persistante
-fr:cybercaméra
-fr:cyberconférence
-fr:cybercriminalité
-fr:cyberdéfense
-fr:cyberdépendance
-fr:cyberespace
-fr:cyberespionnage
-fr:cyberexhibitionnisme
-fr:cyberguerre
-fr:cyberharcèlement
-fr:cyberjeton
-fr:cybermonnaie
-fr:cyberprotection
-fr:cyberrenseignement
-fr:cyberrésilience
-fr:cybersquat
-fr:cybersquatteur
-fr:cybersécurité
-fr:cyberterrorisme
-fr:cébiste
-fr:cédérom
-fr:cédérom autonome
-fr:cédérom interactif
 fr:c’est chaud
 fr:c’est du gâteau
 fr:c’est la fin des haricots
 fr:daron
-fr:descendant
-fr:descripteur
-fr:descriptif
-fr:desserte par fibre
-fr:desserte par fibre de l'abonné
-fr:desserte par fibre de l'immeuble
-fr:dialogue en ligne
-fr:dialogueur
-fr:diffusion ciblée
-fr:diffusion groupée
-fr:diffusion générale
-fr:diffusion systématique sur la toile
 fr:dinguerie
-fr:directeur
-fr:directeur des systèmes d'information
-fr:directeur des techniques informatiques
-fr:dispositif d'enregistrement électronique partagé
-fr:disque compact
-fr:disque numérique polyvalent
-fr:disque optique
-fr:disquette
-fr:dissensus
-fr:distribution quantique de clés
-fr:distribution sélective
-fr:divulgation malveillante d'informations personnelles
-fr:documentation intégrée (à)
-fr:domaine
-fr:domaine de premier niveau
 fr:donner sa langue au chat
 fr:donner un coup de main
-fr:donnée
-fr:données FAIR
-fr:données liées
-fr:données ouvertes
 fr:dormir comme un loir
-fr:droit irrévocable d'usage
-fr:drone
-fr:drone sous-marin filoguidé
-fr:drone sous-marin téléguidé
 fr:dsl
-fr:duplication d'écran
-fr:durabilité
-fr:déblocage
-fr:débogage
-fr:déboguer
-fr:débogueur
-fr:débrider
 fr:déception
-fr:décohérence quantique
-fr:découpage en réseaux virtuels
-fr:découpage temporel
-fr:défaillance
-fr:défiguration
-fr:défilement
-fr:définition
-fr:dégroupage
-fr:délégué
-fr:démarche inspirée du design
-fr:démon
-fr:démon de messagerie
-fr:démultiplexage
-fr:démultiplexer
-fr:démultiplexeur
-fr:désembrouillage
-fr:désembrouiller
-fr:désembrouilleur
-fr:désinfestation
-fr:détournement
-fr:détournement de formulaire
-fr:développement durable
-fr:déverrouillage SIM
-fr:déviation d'appels
-fr:dévideur
-fr:dévoiement
-fr:embrouillage
-fr:embrouiller
-fr:embrouilleur
 fr:en PLS
 fr:en avoir ras le bol
 fr:en mode
-fr:encre en poudre
-fr:encre électronique
-fr:enfant du numérique
-fr:enregistreur de frappe
-fr:entreprise de finance technologique
-fr:entrepôt de données
-fr:environnement de développement
-fr:envoi individuel
-fr:envoi à la cantonade
-fr:escroquerie au commerce en ligne
-fr:escroquerie aux cyberjetons
-fr:escroquerie par séduction en ligne
-fr:escroquerie téléphonique
-fr:espace de confiance
-fr:espace numérique
-fr:expert
-fr:exploitation
-fr:explorateur de modèle
-fr:exploration de données
-fr:exploration de modèle
-fr:expérience de l'utilisateur
-fr:extensibilité
-fr:extranet
-fr:facilitation graphique
-fr:faille non corrigée
 fr:faire chier
 fr:faire d’une pierre deux coups
 fr:faire la bise
 fr:faire la grasse matinée
 fr:faire la tête
-fr:faire-savoir
-fr:femtocellule
-fr:fenêtre
-fr:fenêtre d'attente
-fr:fenêtre intruse
-fr:fibre noire
-fr:fibronique
-fr:fil d'exécution
-fr:fil de la discussion
-fr:finance technologique
 fr:flic
-fr:flux (en)
-fr:flux de dépêches
-fr:flux de travaux
-fr:foire aux questions
-fr:fonction modem
-fr:forfait
-fr:format
-fr:formatage d'une disquette
-fr:formater
-fr:forme
-fr:forum
-fr:fouineur
-fr:fournisseur d'accès
-fr:fournisseur d'accès à l'internet
-fr:fournisseur d'applications en ligne
-fr:fournisseur de services
 fr:fric
 fr:frimer
-fr:frimousse
-fr:fureteur
-fr:fusionner
-fr:gain
 fr:galère
 fr:galérer
-fr:gamme de couleurs
-fr:gant numérique
 fr:genre
 fr:gentil
-fr:gestion de crise
-fr:gestion de l'archivage
-fr:gestion de versions
-fr:gestion des actifs numériques
-fr:gestion des risques
-fr:gestion immotique globale
-fr:gestion immotique monofonctionnelle
-fr:gestionnaire d'évènement
-fr:gestionnaire des risques
-fr:glisser-déposer
 fr:gosse
-fr:gouvernance
-fr:graduation
-fr:gradué
-fr:grand modèle de langage
-fr:graphe de connaissances
-fr:grapheur
-fr:grappe
-fr:gratuit-payant
 fr:grave
-fr:grille informatique
-fr:groupe
-fr:groupe fermé d'usagers
-fr:guichet
-fr:guichet unique
-fr:géant du numérique
-fr:génie informatique
-fr:génie logiciel
-fr:génération automatique d'audio
-fr:génération automatique d'image
-fr:génération automatique de texte
-fr:géoblocage
-fr:géodiscrimination
-fr:géomarquage
-fr:géorepérage
-fr:gérance de l'informatique
 fr:gênant
-fr:habileté numérique
 fr:habit
-fr:hachage
-fr:haineur
-fr:hameçonnage
-fr:hameçonnage ciblé
-fr:hameçonnage par code 2D
-fr:hameçonnage par minimessage
-fr:harponnage
 fr:hasard
 fr:haut comme trois pommes
-fr:heuristique
-fr:hors offre du fournisseur d'accès à l'internet
-fr:hyperfréquence
-fr:hypertexte
-fr:hypertextuel
-fr:iconomatique
-fr:iconométrie
-fr:icône
-fr:identifiant de ressource internationalisé
-fr:identifiant universel de ressource
-fr:identification des appels malveillants
-fr:identification des contacts
-fr:identité internationale d'abonnement mobile
 fr:il ne faut pas pousser mémé dans les orties
 fr:il n’y a pas le feu
 fr:il pleut des cordes
 fr:il y a anguille sous roche
-fr:imagette
-fr:immotique
-fr:implanter
-fr:implémenter
-fr:impression en ligne
-fr:imputation
-fr:imputation à l'arrivée
-fr:imputer
-fr:incendier
-fr:indexation personnelle
-fr:indication d'appel en instance
-fr:indication de prix
-fr:informatique affective
-fr:informatique en nuage
-fr:informatique en périphérie
-fr:infox vidéo
-fr:infrastructure à la demande
-fr:ingénierie de base
-fr:inhabileté numérique
-fr:instruction
-fr:instruction générative
-fr:instructions
-fr:instruire
-fr:intelligence artificielle
-fr:intelligence artificielle embarquée
-fr:intelligence artificielle générative
-fr:interactif
-fr:intercepteur d'IMSI
-fr:interdiction d'appels au départ
-fr:interdiction d'appels à l'arrivée
-fr:interface
-fr:interface avec l'utilisateur
-fr:interface de programmation d'application
-fr:interface trompeuse
-fr:interférence
-fr:interférence quantique
-fr:internaute
-fr:internet
-fr:internet clandestin
-fr:internet des objets
-fr:intranet
-fr:intrication quantique
-fr:investigation informatique
-fr:invitation à recevoir
-fr:invitation à émettre
-fr:invite
-fr:jeton textuel
-fr:jeu d'instructions
-fr:journalisme de données
 fr:jpp
 fr:jsp
 fr:jtm
@@ -2526,599 +2946,87 @@ fr:keuf
 fr:kiffer
 fr:la hess
 fr:la loose
-fr:lac de données
-fr:lancer de rayons
-fr:langage à objets
 fr:large
-fr:lecteur
 fr:lecture
 fr:les carottes sont cuites
-fr:liaison descendante
-fr:liaison louée
-fr:liaison montante
-fr:liaison numérique asymétrique
-fr:liaison numérique symétrique
-fr:liaison spécialisée
 fr:librairie
-fr:lien
-fr:ligne (en)
-fr:ligne d'accès
-fr:ligne d'accès numérique
-fr:liseuse
-fr:listage
-fr:liste de diffusion
-fr:liste de signets
-fr:lister
-fr:livrable
 fr:location
-fr:logement
-fr:logiciel
-fr:logiciel antivirus
-fr:logiciel de dessin
-fr:logiciel de groupe de travail
-fr:logiciel de navigation
-fr:logiciel de traitement de texte
-fr:logiciel espion
-fr:logiciel gratuit
-fr:logiciel libre
-fr:logiciel malveillant
-fr:logiciel médiateur
-fr:logiciel passe-droit
-fr:logiciel publicitaire
-fr:logiciel rançonneur
-fr:logiciel traqueur
-fr:logiciel à contribution
-fr:logiciel à la demande
-fr:logiciel éducatif
-fr:logiciel-socle
-fr:lot de travaux
-fr:lutte informatique défensive
-fr:lutte informatique offensive
-fr:machine virtuelle
-fr:macro-instruction
-fr:macroordinateur
-fr:magasin de données
-fr:magazine en ligne
-fr:maintenabilité
-fr:malle renforcée
-fr:manche à balai
-fr:manifestation parallèle
-fr:mappe
-fr:marathon de programmation
-fr:marquage
-fr:marécage de données
-fr:masquage
-fr:matériel
-fr:matériel à la demande
 fr:mdr
 fr:mec
-fr:meilleures pratiques
 fr:merde
-fr:message incendiaire
-fr:message multimédia
-fr:messagerie instantanée
-fr:messagerie instantanée vocale
-fr:messagerie interpersonnelle
-fr:messagerie vocale
-fr:messagerie électronique
-fr:metteur en toile
 fr:mettre de l’eau dans son vin
 fr:mettre la main à la pâte
 fr:mettre la puce à l’oreille
 fr:mettre les pieds dans le plat
-fr:mettre sur liste noire
 fr:meuf
-fr:micro-onde
-fr:microblogage
-fr:microblogue
-fr:microordinateur
-fr:microphone sans fil
-fr:microprocesseur
-fr:microprogramme
-fr:microrécit vidéo
-fr:microstation terrienne
-fr:millénial
-fr:minage
-fr:minage pirate
-fr:minimessage
-fr:mise au pilori
-fr:mise en attente
-fr:mise en commun
-fr:mise en page adaptative
-fr:mise en page fixe
-fr:mise à jour à distance
-fr:mise à niveau
-fr:mobile multifonction
-fr:mobilisation éclair
-fr:mode de transfert asynchrone
-fr:mode dialogué
-fr:modem
-fr:modulation d'impulsions en amplitude
-fr:modulation d'impulsions en durée
-fr:modulation d'impulsions en position
-fr:modulation par impulsions et codage
-fr:modulation à spectre étalé
-fr:modulation à spectre étalé à sauts de fréquence
-fr:modulation à spectre étalé à séquence directe
-fr:module complémentaire
-fr:modèle
-fr:modèle génératif
-fr:modèle préentraîné
-fr:modèle à bruit statistique
-fr:modérateur
-fr:moissonnage de données
-fr:moniteur
 fr:monnaie
-fr:montant
-fr:morphose
-fr:mot clé
-fr:mot-dièse
-fr:moteur d'exécution
-fr:moteur d'inférence
-fr:moteur de recherche
 fr:mtn
-fr:multibande
-fr:multifil
-fr:multifil simultané
-fr:multimédia
-fr:multiplex
-fr:multiplexage
-fr:multiplexage dans le temps
-fr:multiplexage en code
-fr:multiplexage en fréquence
-fr:multiplexage en longueur d'onde
-fr:multiplexer
-fr:multiplexeur
-fr:multiprocesseur
-fr:multitraitement
-fr:multitâche
 fr:mytho
-fr:mégacollecte
-fr:mégadonnées
-fr:mémoire
-fr:mémoire magnétique
-fr:mémoire morte
-fr:mémoire non volatile
-fr:mémoire quantique
-fr:mémoire tampon
-fr:mémoire vive
-fr:mémoire vive dynamique
-fr:mémoire vive magnétique
-fr:mémoire volatile
-fr:mémorandum d'entente
-fr:métadonnée
 fr:naze
 fr:ne pas être sorti de l’auberge
-fr:neuromorphique
-fr:neurone artificiel
-fr:neutralité de l'internet
 fr:nickel
-fr:niveau de maturité technologique
-fr:nommage
-fr:non-clonage quantique
-fr:notes graphiques
-fr:notice de modèle préentraîné
-fr:nuage
-fr:numérique
-fr:numériser
-fr:numériseur
-fr:numéro conservable
-fr:numéro d'urgence
-fr:numéros multiples
-fr:objet personnel connecté
-fr:obligation de diffusion
 fr:occasion
-fr:octet
-fr:office d'enregistrement
-fr:offre au public de cyberjetons
-fr:offre groupée
 fr:oklm
-fr:ontologie informatique
-fr:option d'adhésion (à)
-fr:option de retrait (à)
-fr:opérateur de télécommunication
-fr:opérateur de téléphonie mobile sans réseau
-fr:ordinateur
-fr:ordinateur de bureau
-fr:ordinateur de poche
-fr:ordinateur individuel
-fr:ordinateur portable
-fr:ordinateur quantique
-fr:ordre du jour
 fr:osef
 fr:ouf
-fr:page d'accueil
-fr:page sur la toile
-fr:paiement à la séance
-fr:pair à pair
-fr:panne
-fr:papier électronique
-fr:papillon
-fr:paquet
-fr:parallélisme quantique
-fr:parcours sur la toile
-fr:pare-feu
-fr:partition logique
-fr:passe
-fr:passe-partout
 fr:passer du coq à l’âne
-fr:passerelle
-fr:pavé tactile
-fr:permutation
-fr:perturbation électromagnétique
-fr:photonique
 fr:phrase
 fr:piaule
 fr:piger
-fr:pilote de périphérique
-fr:piratage de distributeur automatique
-fr:pirate
-fr:pixel
-fr:pixel mixte
-fr:pièce jointe
-fr:piège à clics
 fr:pk
-fr:plateforme de données
-fr:plateforme de développement à la demande
-fr:plateforme à haute altitude
-fr:point de contrôle
-fr:pointeur
-fr:polarisation
-fr:polarisation d'une antenne
-fr:police de caractères
-fr:pont
-fr:pornodivulgation
-fr:portail
-fr:portail de messagerie
-fr:porte dérobée
-fr:porte quantique
-fr:porteuse
-fr:portier
 fr:poser un lapin
-fr:poste de contrôle
-fr:poste téléphonique sans cordon
-fr:postuler
 fr:pote
 fr:prendre la mouche
-fr:prestataire de services liés aux actifs numériques
-fr:preuve de travail
-fr:preuve par l’enjeu
-fr:prime à la faille détectée
-fr:processeur
-fr:processeur graphique
-fr:processeur quantique
-fr:processeur vectoriel
-fr:procédure accélérée
-fr:production participative
-fr:progiciel
-fr:programmation par objets
-fr:programme d'action
-fr:promouvable
-fr:prospective inspirée du design
-fr:protection des données personnelles
-fr:protocole
-fr:provisionnement
 fr:prune
 fr:préjudice
-fr:préproduction
-fr:présentation de la ligne appelante
-fr:présentation de la ligne obtenue
 fr:préservatif
-fr:prêt à l'emploi
 fr:ptdr
 fr:ptn
-fr:publication assistée par ordinateur
-fr:publicité caméléon
-fr:publier
 fr:putain
-fr:péage
-fr:péritéléphonie
-fr:péritélévision
-fr:quadruple service
 fr:quand les poules auront des dents
 fr:quand on parle du loup
-fr:quantité d'information
-fr:qubit
-fr:qubit logique
-fr:qubit physique
-fr:raccourci au clavier
 fr:raconter des salades
-fr:radio intelligente
-fr:radio logicielle
-fr:radio par fibre
-fr:radio-identifiant
-fr:radio-identifiant actif
-fr:radio-identifiant passif
-fr:radio-identifiant semi-actif
-fr:radio-identification
-fr:radiocassette
-fr:radiocommande
-fr:radiodiffusion
-fr:radiodiffusion de données de service
-fr:radiodiffusion sonore
-fr:radiodiffusion visuelle
-fr:radiogoniométrie
-fr:radioguidage
-fr:radiomessagerie bilatérale
-fr:radiomessagerie unilatérale
 fr:raisin
-fr:rappel automatique
-fr:rappel d'enregistreur
-fr:rapport d'onde stationnaire
-fr:rapport d'étape
 fr:rdv
-fr:recherche en texte intégral
-fr:recherche individuelle
-fr:refus de présentation de la ligne appelante
-fr:refus de présentation de la ligne obtenue
-fr:registraire
-fr:registre partagé
-fr:registre quantique
-fr:relais de trames
-fr:relancer
-fr:relationnel
 fr:relou
-fr:rencontre express
-fr:rendre anonyme
 fr:rendre la monnaie de sa pièce
-fr:renifleur
-fr:renvoi des appels en cas d'occupation
-fr:renvoi des appels sans réponse
-fr:renvoi systématique des appels
-fr:restaurer
 fr:rester
-fr:retouche
 fr:reuf
 fr:revenons à nos moutons
-fr:riper
 fr:ripou
-fr:robotique
-fr:routeur
 fr:rude
 fr:râler
-fr:réalité de synthèse
-fr:réamorcer
-fr:référencement abusif
-fr:référencement non payant
-fr:référencement payant
-fr:référencer
-fr:référenciation
-fr:référentiel
-fr:réinitialiser
-fr:répertoire
-fr:répondeur
-fr:répéteur
-fr:réseau d'accès
-fr:réseau d'infrastructure
-fr:réseau de collecte
-fr:réseau de diffusion de contenu
-fr:réseau de neurones artificiels
-fr:réseau de stockage
-fr:réseau de télédistribution
-fr:réseau dorsal
-fr:réseau informatique
-fr:réseau local
-fr:réseau local d'entreprise
-fr:réseau numérique à intégration de services
-fr:réseau privé virtuel
-fr:réseau radioélectrique à ressources partagées
-fr:réseau virtuel
-fr:réseau à bande ultraétroite étendu
-fr:réseautique
-fr:réseautique domestique
-fr:résurgence
-fr:rétro-ingénierie
-fr:rétroappel international
-fr:rétrolien
-fr:réunion de démarrage
-fr:réunion préparatoire
-fr:réunion-bilan
-fr:réutilisation de fréquence
-fr:révision
-fr:réémetteur
-fr:réémetteur bouche-trou
 fr:sale
-fr:sans enfant par choix écologique
-fr:scanneur
-fr:science des données
-fr:script
-fr:scrutation
-fr:scénario tendanciel
 fr:se barrer
 fr:se casser
 fr:se faire rouler dans la farine
 fr:se mettre le doigt dans l’œil
 fr:se planter
 fr:se prendre un râteau
-fr:secours (de)
-fr:secours informatique
 fr:sensible
-fr:serveur
-fr:serveur mandataire
-fr:serveur virtuel
-fr:service GPRS
-fr:service de kiosque
-fr:service de la toile
-fr:service de libre appel
-fr:service de messages multimédias
-fr:service de minimessages
-fr:service de recherche de personne
-fr:service des mobiles
-fr:service support
-fr:service unifié
-fr:service universel
-fr:seuillage
-fr:seuiller
-fr:shannon
-fr:signal analogique
-fr:signal numérique
-fr:signalisation d'usager à usager
-fr:signature de virus
-fr:signet
-fr:simulateur quantique
-fr:site
 fr:slip
 fr:slt
-fr:sondeur
-fr:souris
-fr:sous-adressage
 fr:stage
-fr:station de base
-fr:station mobile
-fr:station mobile de transmission par satellite
-fr:station pivot
-fr:station terrestre
-fr:station terrienne dépendante
-fr:stockage à la demande
 fr:stp
 fr:stylé
-fr:substitution de visage
-fr:superposition quantique
-fr:surbrillance
-fr:surcadencer
-fr:survol
 fr:sympathique
-fr:syndication
-fr:synthèse vocale de texte
-fr:système GSM
-fr:système GSM du rail
-fr:système UMTS
-fr:système cellulaire
-fr:système cyberphysique
-fr:système d'adressage par domaines
-fr:système d'engagement
-fr:système de gestion de base de données
-fr:système d’exploitation
-fr:système exclusif
-fr:système expert
-fr:séance en ateliers
-fr:sélection directe à l'arrivée
 fr:s’enjailler
-fr:tablette
-fr:tableur
 fr:taf
-fr:tarif de règlement
-fr:tarif de répartition
-fr:tatouage numérique
-fr:technique des courants porteurs en ligne
-fr:temps de latence
-fr:temps réel
-fr:terminal
-fr:test captcha
-fr:test de performance
-fr:testage
 fr:teuf
 fr:thune
-fr:tirage
-fr:titrisation en cyberjetons
 fr:tkt
-fr:toile
-fr:toile profonde
-fr:toile sémantique
-fr:tolérance aux pannes
-fr:tolérant aux pannes
 fr:tomber dans les pommes
-fr:tournant décisif
 fr:tourner autour du pot
-fr:tout-à-la-demande
-fr:trafic gratuit
-fr:trafic parrainé
-fr:traitement automatique de données
-fr:traitement de texte
-fr:traitement par lots
-fr:trame
-fr:transcription automatique de la parole
-fr:transfert
-fr:transfert de communication
-fr:transfert intercellulaire
-fr:transfert intracellulaire
-fr:transformation numérique
-fr:transformeur
-fr:transférer
-fr:transmission analogique
-fr:transmission numérique
-fr:transmission par diode électroluminescente
-fr:transport du numéro
-fr:traçage
-fr:triple service
-fr:triturage de données
 fr:trop
-fr:turbocode
-fr:tutoriel
-fr:téléassistance
-fr:téléassistant
-fr:téléborne
-fr:téléchargement
-fr:télécommunication personnelle universelle
-fr:téléconférence
-fr:télécopie
-fr:télécopie contrastée
-fr:télécopie nuancée
-fr:télécopier
-fr:télécopieur
-fr:téléinformatique
-fr:télémaintenance
-fr:télémaintenance d'objet connecté
-fr:télématique
-fr:télémesure
-fr:télémétrie
-fr:téléportation quantique
-fr:téléservice
-fr:télétexte
-fr:télétraitement
-fr:télétraitement par lots
-fr:téléviseur connecté
-fr:télévision à accès conditionnel
-fr:télévision à péage
-fr:téléécriture
-fr:témoin de connexion
-fr:tête radio distante
 fr:t’inquiète
-fr:unité de stockage en réseau
-fr:usurpation d'adresse électronique
-fr:usurpation de carte SIM
-fr:validation de bloc
 fr:vendre la mèche
-fr:ver
-fr:version
-fr:vidéo
-fr:vidéo à la demande
-fr:vidéo à la demande en téléchargement définitif
-fr:vidéo à la demande par abonnement
-fr:vidéofréquence
-fr:vidéographie
-fr:vignette active
-fr:ville intelligente
-fr:virus
-fr:visioconférence
-fr:visionneur
-fr:visiophone
-fr:visiophonie
-fr:visite
-fr:visualisation de données
-fr:voie de transmission
-fr:voix par le protocole de l'internet
-fr:végétalien
-fr:végétalisme intégral
 fr:vénère
 fr:wesh
 fr:zarbi
-fr:zone d'accès sans fil
 fr:à+
 fr:ça gère
 fr:ça marche
 fr:ça ne mange pas de pain
-fr:échange de données informatisé
-fr:échelle de maturité technologique
-fr:écotechniques de l'information et de la communication
-fr:écran tactile
-fr:éditeur
-fr:édition de contenu
-fr:élément binaire
-fr:émulateur quantique
-fr:état des lieux
-fr:étiquette
-fr:évanouissement
 fr:éventuellement
 fr:être dans la lune
 fr:être sur les nerfs

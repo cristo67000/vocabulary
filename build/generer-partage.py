@@ -53,11 +53,11 @@ def main():
 
     x = 480
     dessin.text((x, 150), "Vocabulary", font=police(96, gras=True), fill=CREME)
-    dessin.text((x, 270), "Dictionnaire anglais – français", font=police(44, gras=True), fill=CREME)
-    dessin.text((x, 325), "hors ligne, pour apprendre dans les deux sens", font=police(34), fill=GRIS)
+    dessin.text((x, 270), "Apprendre l’anglais", font=police(44, gras=True), fill=CREME)
+    dessin.text((x, 325), "hors ligne, pour les francophones", font=police(34), fill=GRIS)
     dessin.text((x, 400), "Mots d’aujourd’hui · Argot · IA et code", font=police(32), fill=ROUGE_CLAIR)
     dessin.text((x, 442), "Expressions · Phrases · Exercices", font=police(32), fill=ROUGE_CLAIR)
-    dessin.text((x, 510), "Voix britannique et voix de France · sans compte · sans publicité",
+    dessin.text((x, 510), "Voix britannique · sans compte · sans publicité",
                 font=police(24), fill=GRIS)
 
     chemin = os.path.join(RACINE, "icons", "apercu-1200x630.png")

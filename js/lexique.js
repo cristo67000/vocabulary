@@ -381,6 +381,9 @@
      * n'en est pas encombrée. */
     if (!!a.perso !== !!b.perso) return a.perso ? -1 : 1;
     if (a.bande !== b.bande) return a.bande - b.bande;
+    /* À fréquence égale, l'anglais devant : « pain », « table », « place »
+     * existent dans les deux langues, et c'est l'anglais qu'on apprend. */
+    if (a.langue !== b.langue) return a.langue === 'en' ? -1 : 1;
     if (a.cle.length !== b.cle.length) return a.cle.length - b.cle.length;
     return a.cle < b.cle ? -1 : (a.cle > b.cle ? 1 : 0);
   }
@@ -558,6 +561,8 @@
     resultats.sort((a, b) => {
       if (a.exact !== b.exact) return a.exact ? -1 : 1;
       if (a.sansEquivalent !== b.sansEquivalent) return a.sansEquivalent ? 1 : -1;
+      // L'anglais, qu'on apprend, devant le français, qui y mène.
+      if (a.langue !== b.langue) return a.langue === 'en' ? -1 : 1;
       if (a.bande !== b.bande) return a.bande - b.bande;
       if (a.mot.length !== b.mot.length) return a.mot.length - b.mot.length;
       return a.mot < b.mot ? -1 : (a.mot > b.mot ? 1 : 0);
@@ -568,12 +573,18 @@
   /* Les expressions qui contiennent une vedette donnée, pour le bas de sa
    * fiche. On cherche le mot exact, dans sa langue et — s'il figure dans des
    * traductions — dans l'autre. La vedette elle-même est écartée : « à petit
-   * feu » ne se propose pas à sa propre fiche. */
+   * feu » ne se propose pas à sa propre fiche.
+   *
+   * L'anglais d'abord, puisque c'est lui qu'on apprend : une fiche anglaise
+   * ne propose que des expressions anglaises (« house » : on the house, full
+   * house), une fiche française d'abord les anglaises que ses traductions
+   * atteignent (« maison » : at home), puis les françaises, qui ont toutes
+   * leur équivalent. */
   function expressionsAvec(entree, plafond) {
     const k = cle(entree.mot);
     const sortie = [];
     const vues = new Set();
-    for (const langue of ['en', 'fr']) {
+    for (const langue of entree.langue === 'en' ? ['en'] : ['en', 'fr']) {
       for (const ref of expressionsPar(langue, k)) {
         if (!ref.exact) continue;
         const empreinte = ref.langue + ' ' + ref.mot;
@@ -587,11 +598,11 @@
       }
     }
     sortie.sort((a, b) => {
-      // La langue de la fiche d'abord, puis les traduites, puis les plus
-      // courantes, puis les courtes.
-      const memeLangueA = a.langue === entree.langue ? 0 : 1;
-      const memeLangueB = b.langue === entree.langue ? 0 : 1;
-      if (memeLangueA !== memeLangueB) return memeLangueA - memeLangueB;
+      // L'anglais d'abord, puis les traduites, puis les plus courantes, puis
+      // les courtes.
+      const anglaisA = a.langue === 'en' ? 0 : 1;
+      const anglaisB = b.langue === 'en' ? 0 : 1;
+      if (anglaisA !== anglaisB) return anglaisA - anglaisB;
       if (a.sansEquivalent !== b.sansEquivalent) return a.sansEquivalent ? 1 : -1;
       if (a.bande !== b.bande) return a.bande - b.bande;
       return a.mot.length - b.mot.length;

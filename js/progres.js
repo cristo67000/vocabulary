@@ -20,15 +20,27 @@
 (function (racine) {
 
   /* Les exercices où l'on produit **la vedette** de mémoire, par opposition à
-   * ceux où on la reconnaît parmi d'autres.
+   * ceux où on la reconnaît parmi d'autres. Le pluriel et la conjugaison
+   * demandent bien une forme qu'il a fallu retenir. (`saisie-article` est
+   * celui d'une version d'avant, qui reste dans les journaux.)
    *
-   * `saisie-traduction` n'y figure pas, et ce n'est pas un oubli : écrire
-   * « maison » en voyant « das Haus » est de la compréhension mise au clavier,
-   * pas de la production. La ranger ici gonflerait le compteur qui se veut
-   * précisément celui qui ne flatte pas. Le pluriel et la conjugaison, eux,
-   * demandent bien une forme qu'il a fallu retenir. */
+   * Ce qui compte pour « su par cœur » est de **produire l'anglais** : une
+   * carte `vers-en` réussie par l'un de ces exercices — ou, pour un mot
+   * français, par `saisie-traduction`, qui fait écrire « house » en voyant
+   * « maison ». Écrire « maison » en voyant « house » est de la compréhension
+   * de l'anglais mise au clavier, pas de la production : la compter
+   * gonflerait le compteur qui se veut précisément celui qui ne flatte pas. */
   const PRODUCTION = ['saisie', 'saisie-article', 'trou', 'ecoute',
                       'pluriel', 'conjugaison'];
+
+  function anglaisProduit(ligne) {
+    /* Les journaux d'avant le type de carte n'ont pas `type` : on les lit
+     * comme avant. */
+    if (!ligne.type) return PRODUCTION.indexOf(ligne.exercice) !== -1;
+    if (ligne.type !== 'vers-en') return false;
+    return PRODUCTION.indexOf(ligne.exercice) !== -1
+      || (ligne.langue === 'fr' && ligne.exercice === 'saisie-traduction');
+  }
 
   const JOUR = 24 * 60 * 60 * 1000;
 
@@ -83,7 +95,7 @@
       }
       const mot = cleDuMot(ligne);
       if (ligne.qualite >= 2) {
-        (PRODUCTION.indexOf(ligne.exercice) !== -1 ? produits : reconnus).add(mot);
+        (anglaisProduit(ligne) ? produits : reconnus).add(mot);
       } else if (ligne.qualite === 0) {
         echecs.set(mot, (echecs.get(mot) || 0) + 1);
       }

@@ -14,8 +14,14 @@ Trois sources, chacune dite sur chaque fiche (`src`) :
                   termes nommés en français ;
   franceterme     les termes recommandés au Journal officiel par la
                   Commission d'enrichissement de la langue française
-                  (Licence Ouverte) : l'équivalent français officiel d'un terme
-                  anglais du numérique, avec sa définition.
+                  (Licence Ouverte) : un terme anglais du numérique, mis en
+                  vedette, avec son équivalent français officiel et sa
+                  définition.
+
+Vocabulary apprend l'anglais à des francophones : les fiches à vedette
+française (expressions, français familier, faux amis) ne sont là que comme
+ponts — « comment dire *poser un lapin* en anglais ? » — et l'application les
+montre l'anglais d'abord.
 
 ── Le format des fiches rédigées ──────────────────────────────────────────
 
@@ -362,12 +368,22 @@ def date_iso(brute):
 
 
 def items_franceterme(chemin):
+    """Les termes de FranceTerme, **retournés** : la vedette est le terme
+    anglais, l'équivalent officiel français sa traduction.
+
+    FranceTerme part du français (« mot-dièse », « collecteur ») et donne
+    l'anglais qu'il remplace (« hashtag », « crawler »). Pour un francophone qui
+    apprend l'anglais, c'est l'anglais qui est à apprendre : il passe en
+    vedette, l'équivalent officiel en traduction, la définition française
+    explique le terme. Les autres graphies anglaises (« e-mail », « electronic
+    mail ») servent à la recherche et sont nommées dans une note."""
     if not chemin.exists():
         print("  ! FranceTerme absent")
         return []
     racine = ET.parse(chemin).getroot()
     items = []
-    vus = set()
+    vus = {}
+    idents = set()
     for article in racine.findall("Article"):
         if article.get("annule") == "1" or article.get("publie") == "0":
             continue
@@ -407,29 +423,79 @@ def items_franceterme(chemin):
             module = "tech"
         else:
             theme, module = "officiel", "actuel"
-        # « rendre anonyme » → rendre-anonyme ; les doublons de vedette (un
-        # même terme dans deux domaines) ne donnent qu'une fiche.
-        ident = re.sub(r"[^\w]+", "-", commun.cle(vedette)).strip("-")[:60]
-        cle = (module, ident)
+        francais = vedette.replace(", -", ", ").split(", ")[0] if ", -" in vedette else vedette
+        anglais = equivalents[0]
+        # Un même terme anglais dans deux articles (« scalability » :
+        # graduation et scalabilité) ne donne qu'une fiche, qui reçoit les deux
+        # équivalents officiels.
+        cle = (module, commun.cle(anglais))
         if cle in vus:
+            deja = vus[cle]
+            if francais not in deja["tr"]:
+                deja["tr"].append(francais)
             continue
-        vus.add(cle)
+        # « rendre anonyme » → rendre-anonyme. L'identifiant suit le terme
+        # français, comme avant le retournement, sous un autre préfixe : les
+        # révisions d'une fiche française ne passent pas à son pendant anglais.
+        ident = re.sub(r"[^\w]+", "-", commun.cle(francais)).strip("-")[:60]
+        # Un même terme français pour deux termes anglais (« administrateur » :
+        # administrator, BIM manager) : deux fiches, deux identifiants.
+        base, numero = ident, 2
+        while ident in idents:
+            ident = f"{base}-{numero}"
+            numero += 1
+        idents.add(ident)
         sens = {"d": {"fr": definition}} if definition else {}
+        notes_fr = []
+        if len(equivalents) > 1:
+            notes_fr.append("Aussi : " + ", ".join(f"« {e} »" for e in equivalents[1:4]) + ".")
         if notes:
-            sens["n"] = {"fr": notes[:600]}
+            notes_fr.append(notes[:600])
+        if notes_fr:
+            sens["n"] = {"fr": " ".join(notes_fr)}
         item = {
-            "id": f"{module}:ft-{ident}",
+            "id": f"{module}:fte-{ident}",
             "m": module,
             "t": theme,
-            "l": "fr",
-            "w": vedette.replace(", -", ", ").split(", ")[0] if ", -" in vedette else vedette,
-            "tr": equivalents[:4],
+            "l": "en",
+            "w": anglais,
+            "tr": [francais],
             "s": [sens] if sens else [],
             "src": "franceterme",
             "date": date,
         }
+        if len(equivalents) > 1:
+            item["al"] = equivalents[1:4]
+        vus[cle] = item
         items.append(item)
     return items
+
+
+def fusionner_franceterme(items, officiels):
+    """Une fiche FranceTerme dont le terme anglais a déjà sa fiche rédigée ou
+    de Code en clair (« bug », « chatbot », « streaming ») ne fait pas
+    doublon : la fiche existante reçoit l'équivalent officiel parmi ses
+    traductions, et la fiche FranceTerme s'efface."""
+    existantes = {}
+    for it in items:
+        if it["l"] == "en":
+            existantes.setdefault(commun.cle(it["w"]), it)
+    gardes, fusionnes = [], 0
+    for it in officiels:
+        deja = existantes.get(commun.cle(it["w"]))
+        if deja is None:
+            gardes.append(it)
+            continue
+        # « dialogueur » est déjà là sous « un dialogueur » : on compare sans
+        # l'article.
+        sans_article = lambda t: re.sub(r"^(?:un|une|des|le|la|les|l')\s*", "", commun.cle(t))
+        connus = {sans_article(t) for t in deja["tr"]}
+        for francais in it["tr"]:
+            if sans_article(francais) not in connus:
+                deja["tr"].append(francais)
+                connus.add(sans_article(francais))
+        fusionnes += 1
+    return gardes, fusionnes
 
 
 # ── Contrôles ────────────────────────────────────────────────────────────────
@@ -484,11 +550,12 @@ def main():
     items.extend(tech)
     print(f"  Code en clair            {len(tech):5d} termes")
 
-    officiels = items_franceterme(SOURCES / "FranceTerme.xml")
+    officiels, fusionnes = fusionner_franceterme(items, items_franceterme(SOURCES / "FranceTerme.xml"))
     items.extend(officiels)
     print(f"  FranceTerme              {len(officiels):5d} termes "
           f"({sum(1 for i in officiels if i['m'] == 'tech')} techniques, "
-          f"{sum(1 for i in officiels if i['m'] == 'actuel')} généraux)")
+          f"{sum(1 for i in officiels if i['m'] == 'actuel')} généraux) ; "
+          f"{fusionnes} versés dans une fiche anglaise existante")
 
     fautes = controler(modules, items)
     if fautes:

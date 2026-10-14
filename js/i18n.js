@@ -2,11 +2,10 @@
 /*
  * Textes de l'interface, en français et en anglais.
  *
- * L'application s'adresse aux deux publics : un francophone qui apprend
- * l'anglais, et un anglophone qui apprend le français. La langue de
- * l'interface est donc un réglage à part entière, sans rapport avec le sens de
- * traduction — on peut très bien chercher un mot anglais dans une interface
- * anglaise.
+ * L'application apprend l'anglais à un francophone. L'interface se lit en
+ * français d'ordinaire ; elle peut passer à l'anglais pour qui veut s'y
+ * plonger tout entier — c'est un réglage à part, sans rapport avec ce qu'on
+ * cherche ou révise.
  *
  * Dans le HTML, un élément porte `data-t="clé"` pour son contenu, `data-t-ph`
  * pour son texte indicatif, `data-t-aria` pour son étiquette d'accessibilité.
@@ -23,7 +22,7 @@
 
     fr: {
       'app.nom': 'Vocabulary',
-      'app.sous-titre': 'anglais ⇄ français',
+      'app.sous-titre': 'apprendre l’anglais',
 
       'onglet.chercher': 'Chercher',
       'onglet.modules': 'Modules',
@@ -32,14 +31,14 @@
       'onglet.reglages': 'Réglages',
       'onglet.mesmots': 'Mes mots',
 
-      'chercher.champ': 'Un mot ou une expression, en anglais ou en français…',
-      'chercher.aria': 'Chercher un mot en anglais ou en français',
+      'chercher.champ': 'Un mot anglais, ou un mot français à dire en anglais…',
+      'chercher.aria': 'Chercher un mot anglais, ou l’anglais d’un mot français',
       'chercher.vider': 'Effacer la recherche',
       'chercher.rien': 'Aucun mot ne commence ainsi.',
       'chercher.rien.conseil': 'Vérifiez l’orthographe. Le dictionnaire complet se télécharge en arrière-plan : il trouvera davantage.',
       'chercher.rien.complet': 'Vérifiez l’orthographe : le dictionnaire complet est déjà installé.',
-      'chercher.accueil.titre': 'Cherchez dans les deux langues à la fois',
-      'chercher.accueil.texte': 'Tapez en anglais ou en français : les deux dictionnaires répondent ensemble. Tout fonctionne sans réseau.',
+      'chercher.accueil.titre': 'Cherchez en anglais, ou en français pour trouver l’anglais',
+      'chercher.accueil.texte': 'Un mot anglais ouvre sa fiche complète ; un mot français donne sa traduction anglaise, sens par sens. Tout fonctionne sans réseau.',
       'chercher.decouvrir': 'À découvrir',
       'chercher.essayez': 'Essayez',
       'chercher.resultats': 'Consultés récemment',
@@ -54,7 +53,9 @@
 
       'fiche.fermer': 'Fermer',
       'fiche.ecouter': 'Écouter',
+      'fiche.ecouter-anglais': 'Écouter en anglais',
       'fiche.apprendre': 'Apprendre ce mot',
+      'fiche.apprendre.fr': 'Apprendre à le dire en anglais',
       'fiche.appris': 'Dans mes révisions',
       'fiche.retirer': 'Retirer de mes révisions',
       'fiche.formes': 'Formes :',
@@ -208,7 +209,7 @@
 
       // ————— Modules —————
       'modules.titre': 'Modules',
-      'modules.intro': 'Des sélections écrites pour apprendre : les mots d’aujourd’hui, l’argot et les abréviations, la technique, les expressions. Chaque fiche a sa définition dans les deux langues, son registre et un exemple traduit.',
+      'modules.intro': 'Des sélections écrites pour apprendre l’anglais : les mots d’aujourd’hui, l’argot et les abréviations, la technique, les expressions. Chaque fiche a sa définition, son registre et un exemple traduit.',
       'modules.fiches': '{n} fiches',
       'modules.fiches.un': '{n} fiche',
       'modules.conversation.accroche': 'Ce qu’on dit au restaurant, à la gare, au téléphone — à écouter et à jouer.',
@@ -252,16 +253,14 @@
       'atelier.longueur.20': '20',
       'atelier.longueur.40': '40',
       'atelier.raison.anglais': 'Ne concerne que l’anglais.',
-      'atelier.raison.francais': 'Ne concerne que le français.',
       'atelier.raison.voix': 'Aucune voix installée pour cette langue.',
+      'atelier.raison.reponse-fr': 'La réponse serait en français.',
       'atelier.reconnaitre': 'Reconnaître',
       'atelier.reconnaitre.detail': 'Le sens, parmi quatre',
       'atelier.produire': 'Retrouver',
       'atelier.produire.detail': 'Le mot, parmi quatre',
       'atelier.ecrire': 'Écrire',
       'atelier.ecrire.detail': 'Le mot, au clavier',
-      'atelier.article': 'Nom et article',
-      'atelier.article.detail': '« une maison », d’un seul geste',
       'atelier.traduire': 'Traduire',
       'atelier.traduire.detail': 'La traduction, au clavier',
       'atelier.famille': 'Même famille',
@@ -276,8 +275,6 @@
       'atelier.ecoute.detail': 'Entendre, puis écrire',
       'atelier.pluriel': 'Pluriels irréguliers',
       'atelier.pluriel.detail': 'mouse → mice',
-      'atelier.conjugaison': 'Conjugaison',
-      'atelier.conjugaison.detail': 'Une forme précise du verbe',
       'atelier.synonyme': 'Synonymes',
       'atelier.synonyme.detail': 'Le mot le plus proche',
 
@@ -290,9 +287,9 @@
 
       'reglages.sens': 'Sens de travail',
       'reglages.sens.les-deux': 'Les deux',
-      'reglages.sens.vers-en': 'Vers l’anglais',
-      'reglages.sens.vers-fr': 'Vers le français',
-      'reglages.sens.note': 'Un mot appris dans les deux sens compte deux cartes : reconnaître et produire s’oublient séparément. Ce réglage ne vaut que pour les mots ajoutés ensuite — vos révisions en cours ne changent pas.',
+      'reglages.sens.vers-en': 'Dire en anglais',
+      'reglages.sens.vers-fr': 'Comprendre l’anglais',
+      'reglages.sens.note': 'Un mot appris dans les deux sens compte deux cartes : comprendre l’anglais et savoir le dire s’oublient séparément. Ce réglage ne vaut que pour les mots ajoutés ensuite — vos révisions en cours ne changent pas.',
 
       'genre.masc': 'masculin',
       'genre.fem': 'féminin',
@@ -354,14 +351,11 @@
       'reglages.partager': 'Partager',
       'reglages.partager.detail': 'L’application est gratuite, sans compte et sans publicité. Ce lien suffit pour l’installer.',
       'reglages.partager.bouton': 'Partager le lien',
-      'reglages.partager.texte': 'Dictionnaire anglais ⇄ français hors ligne : argot, IA et code, expressions, exercices. Gratuit, sans compte.',
+      'reglages.partager.texte': 'Apprendre l’anglais hors ligne : dictionnaire, argot, IA et code, expressions, exercices. Gratuit, sans compte.',
       'reglages.partager.copie': 'Adresse copiée.',
       'reglages.rythme': 'Rythme',
       'reglages.rythme.nouveautes': 'Nouveaux mots par jour',
       'reglages.rythme.note': 'Dix par jour font trois mille par an, et demandent une dizaine de minutes. Mieux vaut peu tous les jours que beaucoup une fois par semaine : c’est l’espacement qui fait tenir, pas la quantité.',
-      'reglages.exigence': 'Exigence',
-      'reglages.exigence.article': 'Écrire les noms français avec un / une',
-      'reglages.exigence.note': 'Pour qui apprend le français : un nom se révise alors avec son article — « une maison », et non « maison ». L’article oublié compte comme presque juste, l’article de l’autre genre comme faux.',
       'reglages.voix': 'Prononciation',
       'reglages.voix.active': 'Lire les mots à voix haute',
       'reglages.voix.note': 'Les voix sont celles de l’appareil et lisent sans réseau. L’anglais est lu par une voix britannique, le français par une voix de France, choisies d’office. Un texte n’est jamais lu par une voix d’une autre langue : s’il en manque une, rien n’est lu, plutôt que mal.',
@@ -459,7 +453,6 @@
       'exercice.consigne.qcm-comprendre': 'Quelle est sa traduction en {langue} ?',
       'exercice.consigne.qcm-produire': 'Comment le dit-on en {langue} ?',
       'exercice.consigne.saisie': 'Écrivez-le en {langue}.',
-      'exercice.consigne.saisie-article': 'Écrivez-le en {langue}, avec un / une.',
       'exercice.consigne.trou': 'Complétez la phrase.',
       'exercice.consigne.paire-phrase': 'Quelle traduction en {langue} convient ?',
       'exercice.consigne.ecoute': 'Écoutez, puis écrivez le mot.',
@@ -475,10 +468,7 @@
       'exercice.voir-fiche': 'Voir la fiche',
       'exercice.remarque.majuscule': 'En anglais, les jours, les mois, les langues et les nationalités prennent une majuscule : {mot}.',
       'exercice.remarque.accents': 'Attention aux accents : {mot}.',
-      'exercice.remarque.article-manque': 'Il manque l’article : {mot}.',
       'exercice.remarque.autre-sens': 'Juste pour un autre sens ; ici ({sens}) : {reponse}.',
-      'exercice.remarque.article-forme': 'On apprend le nom sous cette forme : {mot}.',
-      'exercice.remarque.article-faux': 'Le mot est juste ; c’est l’article qui ne l’est pas.',
 
       'progres.titre': 'Progrès',
       'progres.suivis': 'mots suivis',
@@ -551,7 +541,7 @@
       'perso.champ.traductions.note': 'Séparez-les par des virgules. La première sert de réponse attendue.',
       'perso.champ.nature': 'Nature',
       'perso.champ.genre': 'Genre',
-      'perso.champ.genre.note': 'Pour un nom français seulement : un / une.',
+      'perso.champ.genre.note': 'Pour un nom français seulement : un / une — utile pour distinguer deux homonymes.',
       'perso.champ.pluriel': 'Pluriel',
       'perso.champ.pluriel.note': 'Sans pluriel, l’exercice de pluriel ne sera pas proposé.',
       'perso.champ.formes': 'Autres formes utiles',
@@ -743,7 +733,7 @@
 
     en: {
       'app.nom': 'Vocabulary',
-      'app.sous-titre': 'English ⇄ French',
+      'app.sous-titre': 'learn English',
 
       'onglet.chercher': 'Search',
       'onglet.modules': 'Modules',
@@ -752,14 +742,14 @@
       'onglet.reglages': 'Settings',
       'onglet.mesmots': 'My words',
 
-      'chercher.champ': 'A word or phrase, in English or French…',
-      'chercher.aria': 'Search for a word in English or French',
+      'chercher.champ': 'An English word, or a French word to say in English…',
+      'chercher.aria': 'Search for an English word, or the English for a French word',
       'chercher.vider': 'Clear the search',
       'chercher.rien': 'No word starts like that.',
       'chercher.rien.conseil': 'Check the spelling. The full dictionary downloads in the background and will find more.',
       'chercher.rien.complet': 'Check the spelling: the full dictionary is already installed.',
-      'chercher.accueil.titre': 'Search both languages at once',
-      'chercher.accueil.texte': 'Type in English or French: both dictionaries answer together. Everything works offline.',
+      'chercher.accueil.titre': 'Search in English, or in French to find the English',
+      'chercher.accueil.texte': 'An English word opens its full entry; a French word gives its English translation, meaning by meaning. Everything works offline.',
       'chercher.decouvrir': 'Discover',
       'chercher.essayez': 'Try',
       'chercher.resultats': 'Recently viewed',
@@ -774,7 +764,9 @@
 
       'fiche.fermer': 'Close',
       'fiche.ecouter': 'Listen',
+      'fiche.ecouter-anglais': 'Listen in English',
       'fiche.apprendre': 'Learn this word',
+      'fiche.apprendre.fr': 'Learn to say it in English',
       'fiche.appris': 'In my reviews',
       'fiche.retirer': 'Remove from my reviews',
       'fiche.formes': 'Forms:',
@@ -924,7 +916,7 @@
       'flexion.imp6': 'ils, elles',
 
       'modules.titre': 'Modules',
-      'modules.intro': 'Selections written for learning: today’s words, slang and abbreviations, tech, phrases and idioms. Every entry has a definition in both languages, its register and a translated example.',
+      'modules.intro': 'Selections written for learning English: today’s words, slang and abbreviations, tech, phrases and idioms. Every entry has a definition, its register and a translated example.',
       'modules.fiches': '{n} entries',
       'modules.fiches.un': '1 entry',
       'modules.conversation.accroche': 'What people say at the restaurant, the station, on the phone — to listen to and act out.',
@@ -967,16 +959,14 @@
       'atelier.longueur.20': '20',
       'atelier.longueur.40': '40',
       'atelier.raison.anglais': 'For English only.',
-      'atelier.raison.francais': 'For French only.',
       'atelier.raison.voix': 'No voice installed for this language.',
+      'atelier.raison.reponse-fr': 'The answer would be in French.',
       'atelier.reconnaitre': 'Recognise',
       'atelier.reconnaitre.detail': 'The meaning, out of four',
       'atelier.produire': 'Recall',
       'atelier.produire.detail': 'The word, out of four',
       'atelier.ecrire': 'Write',
       'atelier.ecrire.detail': 'The word, on the keyboard',
-      'atelier.article': 'Noun and article',
-      'atelier.article.detail': '“une maison”, in one go',
       'atelier.traduire': 'Translate',
       'atelier.traduire.detail': 'The translation, on the keyboard',
       'atelier.famille': 'Word family',
@@ -991,8 +981,6 @@
       'atelier.ecoute.detail': 'Hear it, then write it',
       'atelier.pluriel': 'Irregular plurals',
       'atelier.pluriel.detail': 'mouse → mice',
-      'atelier.conjugaison': 'Conjugation',
-      'atelier.conjugaison.detail': 'A specific form of the verb',
       'atelier.synonyme': 'Synonyms',
       'atelier.synonyme.detail': 'The closest word',
 
@@ -1005,9 +993,9 @@
 
       'reglages.sens': 'Direction',
       'reglages.sens.les-deux': 'Both',
-      'reglages.sens.vers-en': 'Into English',
-      'reglages.sens.vers-fr': 'Into French',
-      'reglages.sens.note': 'A word learnt both ways counts as two cards: recognising and producing are forgotten separately. This setting only applies to words added afterwards — your current reviews don’t change.',
+      'reglages.sens.vers-en': 'Say it in English',
+      'reglages.sens.vers-fr': 'Understand English',
+      'reglages.sens.note': 'A word learnt both ways counts as two cards: understanding English and saying it are forgotten separately. This setting only applies to words added afterwards — your current reviews don’t change.',
 
       'genre.masc': 'masculine',
       'genre.fem': 'feminine',
@@ -1069,14 +1057,11 @@
       'reglages.partager': 'Share',
       'reglages.partager.detail': 'The app is free, with no account and no ads. This link is all you need to install it.',
       'reglages.partager.bouton': 'Share the link',
-      'reglages.partager.texte': 'Offline English ⇄ French dictionary: slang, AI and coding terms, phrases, exercises. Free, no account.',
+      'reglages.partager.texte': 'Learn English offline: dictionary, slang, AI and coding terms, idioms, exercises. Free, no account.',
       'reglages.partager.copie': 'Address copied.',
       'reglages.rythme': 'Pace',
       'reglages.rythme.nouveautes': 'New words per day',
       'reglages.rythme.note': 'Ten a day make three thousand a year, and take about ten minutes. Better a little every day than a lot once a week: spacing is what makes words stick, not quantity.',
-      'reglages.exigence': 'Strictness',
-      'reglages.exigence.article': 'Write French nouns with un / une',
-      'reglages.exigence.note': 'For learners of French: a noun is then reviewed with its article — “une maison”, not “maison”. A missing article counts as nearly right, the wrong gender as wrong.',
       'reglages.voix': 'Pronunciation',
       'reglages.voix.active': 'Read words aloud',
       'reglages.voix.note': 'The voices are the device’s own and work offline. English is read by a British voice, French by a voice from France, chosen automatically. Text is never read by a voice of another language: if one is missing, nothing is read, rather than read badly.',
@@ -1174,7 +1159,6 @@
       'exercice.consigne.qcm-comprendre': 'What is its translation in {langue}?',
       'exercice.consigne.qcm-produire': 'How do you say it in {langue}?',
       'exercice.consigne.saisie': 'Write it in {langue}.',
-      'exercice.consigne.saisie-article': 'Write it in {langue}, with un / une.',
       'exercice.consigne.trou': 'Fill in the gap.',
       'exercice.consigne.paire-phrase': 'Which translation in {langue} fits?',
       'exercice.consigne.ecoute': 'Listen, then write the word.',
@@ -1190,10 +1174,7 @@
       'exercice.voir-fiche': 'Open entry',
       'exercice.remarque.majuscule': 'In English, days, months, languages and nationalities take a capital letter: {mot}.',
       'exercice.remarque.accents': 'Mind the accents: {mot}.',
-      'exercice.remarque.article-manque': 'The article is missing: {mot}.',
       'exercice.remarque.autre-sens': 'Right for another meaning; here ({sens}): {reponse}.',
-      'exercice.remarque.article-forme': 'The noun is learnt in this form: {mot}.',
-      'exercice.remarque.article-faux': 'The word is right; the article isn’t.',
 
       'progres.titre': 'Progress',
       'progres.suivis': 'words learning',
@@ -1265,7 +1246,7 @@
       'perso.champ.traductions.note': 'Separate them with commas. The first is the expected answer.',
       'perso.champ.nature': 'Part of speech',
       'perso.champ.genre': 'Gender',
-      'perso.champ.genre.note': 'For a French noun only: un / une.',
+      'perso.champ.genre.note': 'For a French noun only: un / une — useful to tell two homonyms apart.',
       'perso.champ.pluriel': 'Plural',
       'perso.champ.pluriel.note': 'With no plural, the plural exercise won’t be offered.',
       'perso.champ.formes': 'Other useful forms',
@@ -1454,9 +1435,11 @@
     },
   };
 
-  /* Mots proposés sur l'écran d'accueil : trois dans chaque langue, choisis
-   * pour montrer ce que la fiche sait faire (registre, famille, module). */
-  const SUGGESTIONS = ['knackered', 'prompt', 'spill the beans', 'avoir la flemme', 'relou', 'maison'];
+  /* Mots proposés sur l'écran d'accueil : quatre anglais, choisis pour
+   * montrer ce que la fiche sait faire (registre, expression, verbe à
+   * particule, module), puis deux français, pour montrer qu'on trouve aussi
+   * l'anglais en partant du français. */
+  const SUGGESTIONS = ['knackered', 'spill the beans', 'give up', 'prompt', 'avoir la flemme', 'maison'];
 
   let courante = 'fr';
 

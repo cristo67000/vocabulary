@@ -253,16 +253,19 @@
     return bouton;
   }
 
-  /* Les deux définitions, la langue de l'interface d'abord : on lit dans sa
-   * langue, puis dans celle qu'on apprend. */
-  function definitions(sens) {
+  /* Les définitions d'une fiche. L'anglais d'abord : c'est la langue qu'on
+   * apprend, et une définition anglaise est déjà de la lecture ; l'explication
+   * française suit, en appui. Sur une fiche à vedette française — un pont,
+   * « avoir le cafard », « relou » —, la définition française dirait en
+   * français ce qu'un francophone sait déjà : seule l'anglaise reste. */
+  function definitions(sens, it) {
     const bloc = element('div', 'module-definitions');
-    const premiere = I18n.langue;
-    const seconde = premiere === 'fr' ? 'en' : 'fr';
-    for (const langue of [premiere, seconde]) {
+    const langues = it && it.l === 'fr' ? ['en'] : ['en', 'fr'];
+    for (const langue of langues) {
       const valeur = sens.d && sens.d[langue];
       if (!valeur) continue;
-      const p = element('p', 'module-definition');
+      const p = element('p', 'module-definition' + (langue === 'fr' && bloc.childNodes.length
+        ? ' module-definition-appui' : ''));
       p.appendChild(element('span', 'pastille', I18n.t('langue.' + langue + '.court')));
       p.appendChild(document.createTextNode(' '));
       p.appendChild(MotsVifs.tisser(valeur, langue, {}));
@@ -328,10 +331,10 @@
         source.appendChild(boutonEcoute(en, 'en'));
         ex.appendChild(source);
       }
+      // La traduction française se lit ; on n'écoute que l'anglais.
       if (fr) {
         const cible = element('p', 'exemple-cible');
         cible.appendChild(MotsVifs.tisser(fr, 'fr', {}));
-        cible.appendChild(boutonEcoute(fr, 'fr'));
         ex.appendChild(cible);
       }
       bloc.appendChild(ex);
@@ -425,7 +428,7 @@
     for (const sens of it.s || []) {
       const s = element('div', 'module-sens');
       if (sens.lib) s.appendChild(element('p', 'module-sens-titre', texte(sens.lib)));
-      s.appendChild(definitions(sens));
+      s.appendChild(definitions(sens, it));
       const litteral = paragrapheBilingue(sens.lit, 'module-litteral', I18n.t('module.litteral'));
       if (litteral) s.appendChild(litteral);
       const note = paragrapheBilingue(sens.n, 'module-note', null, it.l);
@@ -712,11 +715,12 @@
     ouvrirModule(etat.vue.module, etat.vue.theme);
   }
 
-  /* Pour l'accueil : quelques fiches au hasard, prises dans les mots
-   * d'aujourd'hui et l'argot, jamais crues ni péjoratives. */
+  /* Pour l'accueil : quelques fiches anglaises au hasard, prises dans les mots
+   * d'aujourd'hui, l'argot et les expressions, jamais crues ni péjoratives. */
   function suggestions(combien) {
     const candidats = (etat.donnees && etat.donnees.items || []).filter((it) =>
       (it.m === 'actuel' || it.m === 'argot' || it.m === 'expressions') && it.src === 'claude'
+      && it.l === 'en'
       && !it.cru && !(it.mq || []).some((m) => m === 'pej' || m === 'vulg' || m === 'inj'));
     return melanger(candidats).slice(0, combien || 6);
   }
