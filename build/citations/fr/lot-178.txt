@@ -1,0 +1,202 @@
+# lot 178 — mots de la bande « étendu » : spit, splash, stretching, successive, superhero, therapeutic, timely, tomato, tub, undergraduate, utter, Felix, Marina, Melissa, Miranda, Vermont, advertisement, atmospheric, creep, daylight, dee, disclose, elbow, enthusiastic, envy, exile, exploitation, gel, genetics, goose, grill, grounded, heroic, hut, monopoly, nash, nationally, outrage, paperwork, poisoning, ruler, sincere, skiing, slaughter, sperm, spill, supplier, swamp, synthesis, tasty, teammate, testify, tolerate, vanilla, violet, weighing, Afghan, Cyrus, Nepal, Persian, activation, applause, bald, breakthrough, convey, critique, crushing, decay, depressing, dessert, differential, discourse, dominance, entertain
+# écartés : paroles de chansons, notes « Near-synonyms », LaTeX, sens archaïques (Bible, Spenser, Shakespeare), mort violente et massacre
+8b0d352f96 Des souris frites ou rôties, embrochées sur des bâtonnets comme des brochettes, sont souvent vendues au bord des routes.
+30506b9852 Elle fait rôtir le rôti à la broche dans la cuisine.
+9b85f73654 […] il vit que les feux éparpillés dans tout le vaste camp dégageaient des fumées grasses provenant des carcasses des animaux embrochés au-dessus des flammes.
+578dc97be6 J’ai entendu un plouf quand la pierre est tombée dans l’étang.
+ac2ce2f089 Le nouveau film a fait beaucoup de bruit à sa sortie.
+355c16395b J’ai senti quelques gouttes de pluie, alors j’ai mis ma capuche.
+1364755d0e J’ai senti une giclée d’eau sur ma jambe quand la voiture a roulé dans la flaque voisine.
+5464ca1f86 Le peintre a mis une touche de bleu sur le mur pour le rendre plus coloré.
+c13942e55c s’asseoir et s’éclabousser dans la baignoire
+3ecc984053 ✗
+c755dcc61b J’ai renversé du café sur mon clavier par accident.
+0ac42ceb82 Elle s’est aspergé le visage d’eau.
+c10937b791 Le gros titre a fait la une de tous les journaux.
+387e24bd9f ✗
+5910f03f58 Les enfants s’éclaboussaient joyeusement dans la mer.
+8ff9e9de13 Quand elle entre, vaporise-la de parfum.
+ce6e283f63 = The physiotherapist’s gentle ⟦stretching⟧ eased the knee after the injury. | Les étirements doux du kinésithérapeute ont soulagé le genou après la blessure.
+f89e55e929 Ils avaient remporté le titre cinq années consécutives.
+9a4390fff2 Un mélange d’œufs bouillis avec de la myrrhe, du poivre et de la cannelle, pris pendant plusieurs jours successifs, est recommandé par les Arabes pour renforcer la vigueur amoureuse.
+49c43d824f Super-Homme : Quand il neige, si !
+dc778d1c32 Il n’y a plus d’électricité, mais tu regardes la télé ? Tu dois être un super-héros.
+606f4def26 Merci d’être venu jusqu’ici me sortir du fossé. Tu es un super-héros !
+ef702ed3b4 « Ces dix dernières années, nous avons travaillé sur des nanomachines », a déclaré Joseph Wang, président du département de nano-ingénierie à l’UCSD. « L’un des défis que nous avons envisagés est d’acheminer une charge thérapeutique en profondeur.
+931d3a9c3f Sa musique est très apaisante quand on l’écoute.
+b7d63e4e30 = The ⟦timely⟧ rain saved the harvest after weeks of drought. | La pluie opportune a sauvé la récolte après des semaines de sécheresse.
+9f75a7ab25 Il coupait une tomate pour la mettre dans la salade.
+e1652644d2 Il mangeait une tomate quand son patron l’a appelé.
+605d1b2069 Cette chemise te donne l’air d’une vraie tomate, quelle gloire !
+a5c418d622 Quand est-ce que ça s’est déjà produit, qu’une tomate qu’il connaît à peine se donne autant de mal ? Jamais ?
+326a34c1a2 Il a acheté une boîte de saindoux pour faire rôtir les pommes de terre.
+771cb116a8 = The ferry was an old ⟦tub⟧ that rolled in every swell. | Le bac était un vieux rafiot qui roulait à chaque vague.
+6e787e0afa Elle a ajouté une boîte de margarine dans le ragoût.
+261db59019 = After the long hike, she sank into the hot ⟦tub⟧ with relief. | Après la longue randonnée, elle s’enfonça avec soulagement dans le bain chaud.
+6e27dd1e8f Daniel Hajas est étudiant de premier cycle en physique à Sussex et est aveugle depuis l’âge de 16 ans. Il a entendu parler pour la première fois de Giles et des SSD lorsque Giles cherchait des étudiants aveugles pour tester les appareils.
+7657f52187 un bonheur total ; l’obscurité complète ; une ruine totale
+20644b80d1 = The jeweller polished the cup of ⟦utter⟧ silver until it shone. | Le bijoutier polissait la coupe d’argent pur jusqu’à ce qu’elle brille.
+ce04678b18 Ne dis plus un mot !
+3b0e458557 « Votre maître », déclara-t-il, « a proféré un mensonge abominable à propos d’un ami défunt. »
+e311b67756 = She could not ⟦utter⟧ a single word at the funeral. | Elle ne put prononcer un seul mot pendant l’enterrement.
+e12e817ec6 Elle donna naissance à un garçon, qu’elle appela Félix, ce qui signifie « bonheur ».
+99fb410572 Marina Ovsyannikova, née en 1978
+785bbc6209 « Eh bien, ce sont peut-être des sœurs », dit Nigel. « Ces prénoms classiques et élégants suggèrent un même père.
+fae19f7ac8 Mosaïque de terrains criblés de cratères et de formations plus jeunes et complexes, Miranda a peut-être été brisée à plusieurs reprises par des collisions puis réassemblée par la gravité.
+89a0cff496 = My daughter ⟦Miranda⟧ loves painting and music. | Ma fille Miranda adore la peinture et la musique.
+9f2a543e71 Avec la décision du sénateur du Vermont Bernie Sanders de mettre fin à sa campagne mercredi, c’est désormais officiel : l’ancien vice-président Joe Biden sera le candidat démocrate à la présidentielle cet automne.
+5d4f3baf3d Les entreprises tentent de vendre leurs produits par des publicités sous forme d’affiches, de spots télévisés et de publications imprimées.
+822e8dde61 Le conseil municipal a fait paraître une annonce dans le journal local pour informer les habitants des travaux à venir.
+65445f8463 Les bonnes manières et l’intelligence des élèves sont une vitrine pour l’école.
+74776653a8 un sombre thriller atmosphérique
+737df9444a Lézards et serpents rampaient sur le sol.
+b4f028dd90 Il a essayé de se faufiler devant le garde sans être vu.
+ccf6056fa0 Elle monta les escaliers à pas de loup, en restant bien sur le côté, car elle savait que les marches y craquaient moins.
+e030cf7fc3 « Ouais, Trevor, quel lâche : il est rentré chez lui à la mi-temps comme ça », dit Frankie.
+a7f7ffcada Nous devrions rentrer avant la tombée du jour.
+23b549cb7e ✗
+190e0044a7 À cette époque, toute l’usine n’était éclairée que par la lumière du jour et fermait la nuit.
+c192b18c66 Nous n’avions que deux heures pour travailler avant la tombée de la nuit.
+783c3603ef « IED » se prononce « i-e-dé » au lieu de « I SPELL India Echo Delta Romeo ».
+0c2940d91b le pommeau est muni d’anneaux.
+a5a548d5b1 Les anneaux sont en vue.
+43f0e05fa9 Le deuxième jour, il s’est fait tabasser par les flics pour avoir dit à un agent de police que sa maison n’était pas en ordre […].
+80643ba4c1 Son rideau brun n’était tiré qu’à moitié, laissant voir les jambes élégantes, habillées de noir transparent, d’une femme assise à l’intérieur.
+2a4261920d Certains jouets pour nids s’ouvrent pour dévoiler un ensemble de bébés, des poupées culbutantes lestées, ou des vieillards peuvent s’ouvrir pour servir de tirelires.
+cb7af7722f les côtés des fenêtres, là où le montant fait un coude avec le dos de la fenêtre
+ee78514635 Dans le genre « franc-jeu », ce coude que Barrie McDermott a envoyé dans la figure de Paul Sironen méritait quatre mois de mise à l’écart.
+4cdbf016f5 ✗
+37817d370d Il s’est frayé un chemin à travers la foule à coups de coude.
+f9a46272d0 Trumper m’a donné un coup de coude dans les côtes et m’a fait signe de la tête. Il semblait maintenant agacé par notre retard.
+dc29dbcc2d Soudain, Kate désira de tout son cœur rentrer à la maison, retrouver la ferme, participer à la bousculade bruyante quand la fête de fin de saison s’est frayé un chemin jusqu’au parc.
+7867707f4e un passionné d’art enthousiaste
+7255ed1134 Théodore assure à Socrate qu’aucune jalousie n’empêchera l’Étranger de répondre
+6a651cd539 = Its harbour was the ⟦envy⟧ of every town along the coast. | Son port faisait l’envie de toutes les villes du littoral.
+bf6e99ff34 Nous devrions écrire un nouveau chapitre de l’histoire entre le Nord et le Sud en reflétant notre nouvelle histoire sur ce lac du Ciel.
+d3dc70d947 Ils ont choisi l’exil plutôt que l’assimilation.
+2b5082e50a Il vécut en exil.
+79ff006970 Elle vécut en exilée et fit de son mieux pour tirer le meilleur parti de cette existence.
+200ca3df22 l’exploitation des ressources naturelles
+bf4200820c l’exploitation des enfants dans les concours de beauté
+24e01379c1 La deuxième fonction concerne les voyants qui ont utilisé la magie, sans connaître la deuxième fonction. Ce critère sélectionne les initiés tout en empêchant l’exploitation préméditée de cette fonction.
+0f1e105479 Les migrants sans papiers sont vulnérables à l’exploitation.
+9d86f167f3 Des chercheurs ont mis au point un nouveau gel qu’ils disent aussi solide que le métal, doté de la souplesse de la gélatine, et qui pourrait révolutionner la manière dont notre corps guérit et vieillit.
+c529139955 La génétique a montré que les gens sont différents, et que ces différences se regroupent selon la géographie et la culture, mais jamais de façon qui corresponde aux concepts traditionnels de races humaines.
+ab1fcd6bbc Anthony savait qu’il pouvait exceller en boxe grâce à ses gènes. Il combattait dans la catégorie des 76 kilos et disputait des combats dans la région des Tri-Cities.
+ee59a8d991 Melzer et Luke C. Pilling, chercheur en épidémiologie génomique à la faculté de médecine de l’université d’Exeter, ont également étudié la génétique qui sous-tend la longévité.
+c51c75539d Il y a une volée d’oies sur l’étang.
+90b637f094 Un groupe d’oies s’appelle une gaggle.
+ead0d969d0 Vous êtes-vous arrêtés une seconde pour réfléchir, bande de crétins, au fait qu’Andy ne souhaite peut-être pas que vous le donniez ?
+b0222d3def = The bay window was divided by fine ⟦grilles⟧ of painted wood. | La baie vitrée était divisée par de fins croisillons de bois peint.
+8a6b307a54 J’ai mis des poivrons et des champignons sur le gril pour accompagner le dîner.
+c9bb40b891 Ces coupons vous donneront une réduction au Johnny’s Bar and Grill.
+9eb376291b C’était un petit grill appelé Pete’s, sombre et convivial.
+38430846ce un paquet de gratins de chou-fleur surgelés
+1696f95606 Et si on se retrouvait samedi pour faire griller des hamburgers ?
+3cbd7957a3 = Tonight I will ⟦grill⟧ the salmon under the top element of the oven. | Ce soir, je vais faire griller le saumon sous la résistance supérieure du four.
+a5d72d3dd5 La police l’a soumis à un interrogatoire serré sur ses déplacements au moment du crime.
+949c934ff7 Le policier blanc m’a passé un savon. Il était grand, mais avec un ventre de femme enceinte. Les deux autres étaient frères, et ils avaient l’air de ne pas vouloir être là.
+2843b9c952 Sam, attends. Tu n’es pas vraiment privé de sortie. Je veux juste que tu écoutes mieux quand je te dis quelque chose.
+9c823ef14e ✗
+97d6755998 « Je suis celui qui fuit à la fois les vivants et les morts », dit-il dès le début — un sentiment pas vraiment héroïque.
+d4ea9c5a70 une hutte en chaume ; une hutte en terre ; une cabane de berger
+2098bbad8a la cabane du jardinier
+eb466142a0 Ciudadanos veut lutter contre les monopoles et mener de vigoureuses réformes du travail à la scandinave pour aider les chômeurs à se reconvertir et à trouver un emploi.
+99499861d3 Pour les entreprises de construction, [Sam] Altman a souvent appliqué la stratégie du « monopole » de [Peter] Thiel, la conviction que tous les fondateurs devraient « viser le monopole » pour réussir.
+6ba18f591c Un monopole sur la terre rend son ou ses détenteurs quasiment tout-puissants dans une société agricole.
+0bd594f7db Mon arrière-grand-père avait le monopole des œufs dans toute la Chine, et ma grand-mère était très riche, vivant dans un manoir, quand la Révolution culturelle a eu lieu et que le communisme lui a tout pris.
+e5defa5d49 Accorder des monopoles en concession constitue, pour l’État, une alternative compatible avec le marché à l’impôt, tandis que la Couronne accordait parfois un monopole comme un cadeau scandaleux.
+b14568143f Oui, exactement, tu es frileux, alors tu avais besoin d’encouragement.
+2ca6274353 Le discours a été retransmis à l’échelle nationale.
+888f0cf4bb L’USCIS précise que, pour obtenir un visa O-1, le bénéficiaire doit démontrer une capacité extraordinaire reconnue à l’échelon national ou international.
+c59cac0a8a L’entretien […] outrage toutes les règles de la décence.
+97908159bd Des esprits vils et insolents […] outragent les hommes lorsqu’ils espèrent le faire sans en subir de retour.
+aefaf12400 Les propos du sénateur ont outragé la communauté.
+b70e6a3f6c La source a déclaré que les présumées victimes voulaient que le dossier soit rendu public après le règlement, mais avec les noms et les identifiants supprimés.
+f306316a56 avoir un dossier administratif défavorable
+5a5ee08bf9 Le nombre de jeunes enfants américains décédés d’une overdose d’opioïdes a fortement augmenté, selon une nouvelle étude sur les intoxications accidentelles des enfants de cinq ans et moins.
+4714ee5d82 Ils vivent dans le Chung Nan Hai, un parc clos de murs, voisin de la Cité interdite, d’où les anciennes dynasties régnaient sur l’Empire céleste.
+c9c97bba77 Les requins carcharhinidés sont incontestablement les maîtres des mers, en raison de leur abondance, de leur force et de leur vitesse, et de leur position incontestée de premiers prédateurs de l’écosystème marin.
+0c721d6521 Je crois qu’il est sincère dans son offre d’aide.
+842cb7c8a3 Elle y a mis un effort sincère, quoique mal orienté.
+8e24d03eaf Le message selon lequel, par un teshouva sincère et une résolution, la lumière et la joie peuvent être atteintes par tous, convient parfaitement à l’ouverture de l’office de Kippour.
+b06f7d5f3a Le rédacteur en chef John Torinus pourrait nous éclairer sur l’œnologie, le ski de fond, la voile et les joies et peines d’être rédacteur.
+cd228edb0a = The ⟦slaughter⟧ of the herd by the wolves shocked the farmers. | Le carnage du troupeau par les loups a horrifié les éleveurs.
+e8dd744d44 Il y a eu une mise au rebut massive de locomotives à vapeur W.R. à la fin de l’horaire d’été. Au total, 169 locomotives ont été condamnées.
+e066b17903 Il en saisit d’autres, un ou deux à la fois, jusqu’à en avoir abattu trente parmi les comtes les plus vaillants d’Hrothgar.
+bd3f4dff58 ✗
+3cf7362d8c Le sperme de cerf était utilisé par les Romains comme aphrodisiaque.
+600aac79d8 Cependant, chez certains hommes, le liquide préséminal peut contenir des spermatozoïdes ; il faut donc utiliser une protection adéquate pour éviter une grossesse.
+604a046aaf « La femelle peut accepter les spermatozoïdes du mâle qui peuvent la propulser, mais épuisent ceux du mâle qu’elle peut facilement attraper », a-t-il déclaré.
+848d1e4689 = The candle was made of ⟦sperm⟧ oil, which gave a bright white flame. | La bougie était faite d’huile de cachalot, qui donnait une flamme blanche et vive.
+4ba9e04c56 J’ai renversé du jus collant sur le sol de la cuisine.
+cc42a01f30 Du jus collant s’est répandu sur le sol de la cuisine.
+e31884234f La foule a déferlé sur l’avenue Maple.
+ee4c7e7528 L’ecchymose vient d’une mauvaise chute qu’il a faite la semaine dernière.
+8cbb7217d8 L’habituel fournisseur Barton a joué dans un autre coin plein de promesses, centré vers le but par l’impressionnant Ameobi, et redirigé au but par le renard des surfaces Nolan.
+22d0464a2d Nous deux… dans ce bourbier d’iniquité… ensemble, nous pouvons réparer un monde injuste.
+92b8929c52 Sur InfoWars, Alex Jones a dit à son public : « C’est écœurant au possible. Ensuite, ils diront que Jeffrey Epstein n’a jamais existé. Le marécage gagne. Personne n’achète ça. »
+4733e67e9f Je suis submergé de paperasse depuis qu’ils utilisent le nouveau système.
+717f64c846 La victoire de M. Spitzer sur son adversaire démocrate […] a clôturé une saison de primaires où Hillary Rodham Clinton a largement battu un candidat antiguerre pour sa réinvestiture au Sénat.
+d395103f3a Le bateau a été submergé pendant la tempête.
+cefdd4ba51 = He ⟦swamped⟧ his career by chasing one bad investment after another. | Il a englouti sa carrière en poursuivant un mauvais placement après l’autre.
+97548f06d7 ✗
+ab6e67cc7a Tu pourrais préparer ce plat savoureux pour le petit-déjeuner.
+23bba11086 Les fans de country se souviennent sans doute de Stu surtout pour un air savoureux qu’il a écrit et enregistré, mais qu’il ne voulait pas voir sortir.
+3a37431d78 Passe le ballon à ton coéquipier.
+6fd3e36f4c C’est seulement après dix ans loin de Skipton que j’ai enfin trouvé le courage de revenir et de témoigner contre mon agresseur.
+83ed0934c7 = The witness ⟦testified⟧ that he had seen the car leave the scene. | Le témoin a déclaré qu’il avait vu la voiture quitter les lieux.
+cb3a8e4865 Le parti tolérait la corruption dans ses rangs.
+08d30edd84 Je peux supporter de travailler le samedi, mais pas le dimanche.
+2988af3f07 L’ascenseur peut supporter jusqu’à 360 kilogrammes.
+a6107062fd ✗
+9b9a67662c La vanille elle-même a été transplantée de Madagascar, principal producteur de l’épice, vers la Polynésie il y a un siècle.
+0ad2739fc5 Une masse de dossiers et de classeurs. Un, de couleur vanille, attire son regard.
+e11efef6b5 Sebastian n’aurait jamais pu faire cela, être marié à une femme sans fantaisie.
+013abebf0c Un triolisme inhabituellement sage et une représentation réaliste peu esthétique, dérivée paradoxalement du décalquage de dessins plutôt que de photographies.
+b1f3689dd1 une version sage du concerto
+5ad2abd704 Albert le Grand, philosophe et occultiste du XIIIᵉ siècle, affirme que la coriandre, la valériane et la violette sont des herbes qui favorisent l’amour.
+d2f2434915 « Tom, dit-il, tu regardes une violette écrasée, un œuf vidé, un tube pressé. »
+c752a2d10e Elle emmenait son bébé à la clinique pour des pesées régulières.
+4e22ebc953 Après la plus grande évacuation militaire de l’histoire, l’administration Biden va désormais réinstaller plus de 60 000 réfugiés afghans sur le territoire américain au cours des prochaines semaines.
+71d3adc72c = ⟦Cyrus⟧, the king of Persia, allowed the exiles to return home. | Cyrus, roi de Perse, autorisa les exilés à rentrer chez eux.
+5344c009a9 L’écriture newa, également appelée nepaalalipi au Népal et newar dans les pays anglophones, est une écriture de type brahmi qui remonte au Xᵉ siècle de notre ère.
+cb90878c61 Les recrues (des Gardiens de la révolution islamique) étaient en général des Perses ethniques ou des Azéris âgés de 17 à 28 ans, et venaient généralement de familles plus pauvres ou religieuses.
+b5a684cd23 = The ⟦Persian⟧ empire built roads that linked its distant provinces. | L’empire perse a construit des routes reliant ses provinces lointaines.
+973a3da6ad Les déclenchements d’alarme obligent le conducteur à arrêter le train, et dans certains cas à revenir à pied pour le réinitialiser. Ces déclenchements ont causé 1 032 minutes de retard et neuf suppressions.
+41263829a5 utiliser l’activation des acheteurs pour transformer les clients en acheteurs
+6eed4957a0 Les célébrations de Rice après son but étaient contrôlées, discrètes. Pas celles de Grealish, qui se délectait des applaudissements des supporters anglais derrière le but.
+48f3738cc6 Mon oncle est chauve.
+9e5613168a un homme chauve à moustache
+36ea981008 Toutes mes grands-mères étaient chauves, en remontant jusqu’à Tilly. Grand-mère Tilly, en 1721. Une tête pleine de cheveux chauves.
+caad66fc58 une avancée technologique majeure
+f7b2eb4f89 Albert Einstein est reconnu pour avoir réalisé certaines des plus grandes avancées de la physique moderne.
+55913276e3 Elle prenait deux antiépileptiques depuis cinq ans, mais a ensuite eu une crise imprévue.
+e2aceb3975 Il gérait son inconfort avec des antalgiques courants, mais un matin, une douleur soudaine l’a empêché d’aller travailler.
+594ef64a16 transmettre une impression ; transmettre des informations
+37245ce22a L’air transmet le son. L’eau est acheminée par la conduite.
+3984d91259 Je n’étais pas toujours d’accord avec Malcolm X, en particulier avec ses critiques du docteur [Martin Luther] King et de la philosophie de la résistance non violente.
+c67e868d41 Bob a apprécié la plupart de ma présentation, mais il a formulé trois remarques mineures.
+5d17ee7d70 Je voudrais que tu critiques cette nouvelle idée à moi.
+ee59646430 Alors que beaucoup ont commenté le côté touchant de la vidéo, d’autres se sont empressés de critiquer ses choix éducatifs, l’un d’eux écrivant : « Donner ce genre de nourriture à un enfant est de la maltraitance. »
+cfbfb42df0 Pendant la précédente administration, des contraintes réglementaires environnementales écrasantes ont fait grimper le coût moyen des véhicules.
+35c8d7fb63 Le syndicat TSSA a déclaré qu’il effectuait la maintenance et qu’il est mort de blessures par écrasement.
+e376fc6c62 Oh, ton chien a une leucémie ? C’est accablant.
+78a91753cf carie dentaire ; pourriture du bois ; décomposition bactérienne ; dégradation photochimique
+ba288ea1a5 décadence civique et morale ; décadence systémique ; tomber en décadence ; déclin urbain ; décomposition arrêtée ; oubli progressif
+1140bfa1ea Le couple adorait prendre des photos dans l’hôpital délabré de la quarante-troisième rue.
+19435a1539 L’uranium se désintègre en radium à travers une longue série d’étapes, avec une demi-vie cumulée de 4,4 milliards d’années.
+6623bc5cd8 Endommagé au décollage, Skylab est resté en orbite jusqu’à ce que son orbite se dégrade.
+c8bca35044 Le corps du chat s’est rapidement décomposé.
+47fe9745f2 Les informations télévisées étaient déprimantes, alors plutôt que de me mettre à pleurer, j’ai éteint.
+2471e110a1 Cette politique peut avoir un effet déprimant sur certaines branches de l’industrie.
+c37a9b7cc9 Le trifle est un dessert favori des Anglais, mais la pavlova le dispute en Australie et en Nouvelle-Zélande.
+d2202069b2 Puis-je voir la carte des desserts, s’il vous plaît ?
+f0db64308d J’ai commandé du houmous en entrée, un steak en plat principal et un gâteau au chocolat en dessert.
+c4d721908e J’ai économisé de l’espace disque en faisant des sauvegardes différentielles, qui ne stockaient que les données modifiées.
+14956b1762 ✗
+4ca31fe469 Le prédicateur nous a tenu un long discours sur le devoir.
+c745806d5d = The lawyer’s ⟦discourse⟧ on the evidence lasted until midnight. | Le discours de l’avocat sur les preuves a duré jusqu’à minuit.
+7634d0046c Mais, grâce au dynamisme de Dos Santos, qui tirait les ficelles derrière les attaquants Pavlyuchenko et Defoe, Spurs a dominé la première mi-temps sans trouver la percée que sa domination méritait.
+8caa0a3bf1 Homme illusoire : la technologie de cette base aurait pu assurer la domination humaine dans la galaxie. Contre les Moissonneurs, et au-delà.
+d4fc9a80fc Le conférencier motivant n’a pas seulement instruit le public, il l’a aussi diverti.

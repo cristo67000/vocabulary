@@ -1,0 +1,202 @@
+# lot 206 — mots de la bande « étendu » : alteration, aspiration, awaken, barb, beak, breeder, broaden, cadet, censor, complication, contradict, cosy, cupcake, decorate, discredit, escalate, exert, fling, fumble, giggle, glare, glide, grieve, hinge, ignite, instruct, intimidate, intrigue, invoke, itch, learner, linger, loom, millennial, nurture, ornament, pancake, perish, pervert, ponder, rattle, recycle, revert, ridicule, rooster, shred, slay, soften, supervise, surpass, tailor, torment, transformer, weld, wrench, weep, woe, carb, classmate, appliance, allocate, allergy, inflict, inhibit, ornament
+# écartés : sexe et insultes (breeder, quean), paroles de chansons (smoker, woe), notes « Near-synonyms » et « Holonyms »
+1d0439be20 L’ancien élève difficile a dépassé les attentes de son professeur et obtenu la meilleure note à l’examen.
+b76152c638 Les fortes pluies menaçaient de dépasser les capacités de la digue, mettant en danger la ville de l’autre côté.
+4f0c54a1c7 Si les premiers rapports de jeudi attribuaient la lueur à l’explosion ou à l’incendie d’un transformateur, M. McGee a déclaré qu’il n’y avait pas eu d’incendie et qu’aucun transformateur n’était impliqué.
+c903a47272 Transformer est un modèle d’apprentissage profond fondé sur l’architecture de réseau encodeur-décodeur, utilisé principalement dans le domaine du TAL (traitement automatique des langues).
+96a64dfb39 En privé, beaucoup chez Google se sont hérissés face aux critiques concernant ses compétences en IA, d’autant qu’elle a fait éclore la technologie sous-jacente et l’a publiée en 2017 dans l’article sur les transformers.
+afe5379453 ✗
+af2721b182 = The villagers ⟦wept⟧ over the loss of their harvest. | Les villageois se lamentaient sur la perte de leur récolte.
+c912eacff9 une source qui pleure, qui laisse s’écouler lentement l’eau
+286169f50f Dans un élan d’adrénaline, elle a arraché la portière de la voiture et a sorti l’homme blessé.
+fd6ed0b720 Attention à ne pas vous tordre la cheville en marchant sur ces pierres instables !
+0597de2402 Le directeur était un censeur encore plus sévère de la correspondance de ses pensionnaires que ne l’avaient été les censeurs ennemis de la sienne pendant l’occupation du pays.
+f3840ea9ef J’ai tenté d’utiliser un mot grossier comme pseudonyme pour le jeu en ligne, mais le filtre l’a refusé.
+afd06f48da Les censeurs de la Rome antique faisaient partie du cursus honorum, une série de fonctions publiques exercées au cours d’une carrière politique, comme les consuls et les préteurs.
+2d5353de7b Les puissances occupantes censurent généralement tout ce qui sent la résistance.
+121b208696 Les personnes chargées de censurer les films ont vu des choses étonnantes au cours de leur carrière.
+a54c5412c6 L’abandon scolaire précoce est l’une des causes de la censure à droite.
+77d196545d Nous avons décoré le sapin de Noël de guirlandes et de boules.
+19b43313b1 Il reste de la peinture de quand nous avons décoré la chambre d’amis.
+bce3f89c45 Nous avons emménagé il y a plus d’un mois, mais nous n’avons pas encore commencé la décoration.
+a9c1fcc01c Les gens ont tendance à décorer pour les fêtes ou les événements spéciaux.
+8eddaf92a9 Le candidat a tenté de discréditer son adversaire.
+0f51631ebb Les preuves tendraient à discréditer une telle théorie.
+185ad379dd = The judge’s ⟦discredit⟧ of the witness astonished everyone. | L’incrédulité du juge envers le témoin étonna tout le monde.
+59b494ecdf Des récits ultérieurs ont discrédité l’histoire.
+65868f43b4 Les enseignants inadéquats, indisciplinés et peu dévoués sont un discrédit pour les écoles qu’ils servent.
+52d9bf02e2 Je me suis donné à fond lors de l’entraînement d’aujourd’hui.
+6f2763d1f4 Il envisageait d’exercer son influence sur John pour en tirer un avantage personnel.
+4f77e0f32e En attendant l’entretien, il tripotait sa cravate.
+085bcc1370 Il a maladroitement enfoncé la clé dans la serrure.
+0c9d6ce5bd Il a tâtonné jusqu’à l’interrupteur.
+047b68f320 Il a fouillé à tâtons pour trouver ses clés.
+8d424c9415 Il a bafouillé son discours préparé.
+359492b6e4 chercher maladroitement une excuse
+d4bff3738f une plaque de verglas
+a5d35df003 Sa trahison fut le début d’une intrigue complexe destinée à lui donner le contrôle de l’entreprise.
+78719a5e83 L’intrigue du film était ennuyeuse et rappelait mille autres films bien meilleurs.
+6898755929 Je soupçonne Suzanne et son mystérieux ami d’être impliqués dans une intrigue.
+4009a0f0c2 En 1679 et 1680, des rumeurs persistantes évoquaient une intrigue entre Mary, Lady Grey, et le duc de Monmouth.
+7bc8a6d003 Les illusions scéniques, comme celles causées par la brume, ou la diminution apparente de l’échelle où tout était immense, intriguaient Dutton.
+ff99206850 = Lies can ⟦intrigue⟧ the lives of a whole village. | Les mensonges embrouillent la vie de tout un village.
+9b9415369b = She had an ⟦itch⟧ to travel the world. | Elle avait une envie irrépressible de parcourir le monde.
+b33a2a73ac Il a commencé à apprendre à conduire, et il ne cesse depuis lors de guetter les occasions de s’entraîner.
+6fd384b5e1 Ma tête me démange soudain comme un fou.
+dc5fce7855 Ramollissez le beurre avant de battre le sucre.
+1c11c89eba Avant l’invasion, nous avons affaibli l’ennemi à l’artillerie.
+870aa29188 Réfléchissant à deux fois, j’ai adouci mes critiques.
+25caeba8cf J’ai récemment refait le parement de la façade sud-ouest de mon cottage d’un seul niveau […]. Je veux maintenant planter quelques grimpantes de dimensions plus raisonnables pour adoucir le bâtiment.
+193a4f34db Il était aigri par les tourments du divorce.
+9c8077b130 J’ai traversé un véritable tourment.
+37f7dcfbda L’enfant tourmentait les mouches en leur arrachant les ailes.
+64bfc5c1d5 De nombreux incendies domestiques sont causés par des appareils défectueux, comme les réfrigérateurs, les lave-linge et les sèche-linge.
+719c264c3a Dans une société de consommation
+dc2a6d01ae Chaque matin, il s’éveille avec le sourire aux lèvres.
+4b440fa2c0 Pour ce groupe grandissant, l’idée que nous aurions une durée de vie naturelle fixe relève du pur défaitisme, voire du « défaitisme de la mort », un sortilège dont nous devons nous éveiller pour réaliser notre plein potentiel.
+579eb81038 Nous espérons éveiller votre intérêt pour notre programme.
+4ceace3e46 Éveillez votre esprit d’entreprise !
+4c94e69ba0 Je vais regretter la mer. Mais on a besoin de nouvelles expériences. Elles font surgir quelque chose de profond en nous, et permettent de grandir. Sans changement, quelque chose dort en nous et s’éveille rarement. Le dormeur doit s’éveiller.
+4d0cac1ec9 Les éleveurs ont compris que s’ils peuvent prélever un jeu haploïde de chromosomes d’un croisement et le copier (ou le doubler en créant un double haploïde), ils obtiennent presque instantanément une lignée pure.
+5e3177af58 Un motif émetteur de planeurs peut sans doute aussi être construit dans cette règle, qui rayonnerait bien davantage que n’importe quel motif chaotique.
+ab35053b46 ✗
+00f761dd86 Qu’est-ce que ce truc de naturel et de non naturel, au fait ? Ça ressemble à une rationalisation pour cet hétéro.
+45c57bcbce = As a ⟦cadet⟧ of the family, he had no claim to the estate. | En tant que cadet de la famille, il n’avait aucun droit sur le domaine.
+cfa3154371 une branche cadette de la famille
+e012b50b32 Son témoignage contredit le sien.
+022123512c […] les ministres du Christ en ce monde n’ont aucun pouvoir, à ce titre, de punir quiconque ne croit pas, ou contredit ce qu’ils disent ;
+c9b114b2fd Tout ce qu’il dit me contredit.
+da8603d853 = The new evidence ⟦contradicts⟧ the earlier report. | Les nouveaux éléments contredisent le rapport précédent.
+1eae76f932 Quoi que cette cupcake puisse manigancer, elle n’était pas du genre à reculer.
+a8c91b8430 « Écoute, ma belle », tenta de la calmer Cash. « Parfois, quand les grandes personnes se fâchent, elles disent des choses qu’elles ne pensent pas. Je suis sûr que ta mère… »
+7a69d7e5ce Une petite bagarre s’est transformée en grosse bagarre.
+aab59acfe8 La fusillade a aggravé l’hostilité existante.
+9c68bc7128 Le technicien 1 a transféré l’appel au technicien 2.
+f8126a3cb5 Ils sont montés à l’étage, vers les tables basses du centre commercial.
+c1ac7e5f54 Nous montions de quelques centaines de pieds dans le canyon.
+8f4d8ad806 Des escaliers mécaniques se succédaient vers les hauteurs au-dessus […] Dov montait à mes côtés, renfrogné.
+b1f3948f60 Monter l’escalator de la station de métro Green Park était cent fois mieux que de gravir deux volées de marches à Oxford Circus.
+ef16443d8d Les blagues les faisaient glousser toute la soirée comme des petites filles.
+2ad2a168ed Je n’ai pas pu m’empêcher de glousser un peu.
+72551c5d68 Nous avons mis de la poudre à gratter dans sa chemise, pour rire.
+014356f565 Les femmes ont trouvé que ce serait une bonne farce d’engager une strip-téléphoniste pour l’enterrement de vie de jeune fille de la mariée.
+d45c5c16a4 éveiller l’intérêt de quelqu’un
+60d37fce92 Leur mélange de harpe de concert, de vibraphone, de basse et de percussions latines a enflammé une bonne partie du public.
+aab024506c faire rougir le fer ou le platine
+4797188feb Elle est encore novice, elle fait donc facilement des erreurs.
+f1eaf56a85 Cambridge University Press a publié une nouvelle collection destinée aux jeunes apprenants atteints d’épilepsie.
+96c668550a Mme America tient une assiette de crêpes d’une main et une fourchette avec une part de crêpe dans l’autre.
+14e485d66c Et nous, moi avec du fond de teint et les sourcils récemment épilés avec art, réalisé par Little Amber, l’étudiante-drag de l’école de beauté, à Bryant Park.
+383e4d0176 Certains jours, toute la colonie de crabes sortait de ses trous et dévisageait les Fishers comme si une tempête se préparait.
+de8ecabe6c J’ai passé des jours à méditer sur le sens de la vie.
+7b3ca5dc1d Secoue la boîte de friandises pour chats si tu cherches Fluffy.
+f5864a3b9d faire cliqueter une chaîne
+4a80ae9b01 Les autorités allemandes tentent encore de déterminer les dégâts que leur taupe a pu causer. Mais la découverte d’un agent double a secoué les cercles politiques allemands.
+87aa0f09d8 J’aimerais que le tableau de bord de ma voiture arrête de cliqueter.
+bd3f9f9ab2 La majorité des serpents ont été tués sur place, puisqu’il suffisait à un chasseur de serpents de présenter les grelots pour toucher la prime.
+3dc333fa04 Le grelot du serpent à sonnette est composé des écailles terminales durcies, qui se détachent successivement sans tomber, et prennent une forme telle qu’elles forment une série d’articulations creuses et mobiles.
+b07d43d846 J’aimerais qu’ils réparent le cliquetis sous mon tableau de bord.
+eaa2cf6fc6 = The ⟦rattles⟧ of the temple and the cymbals of the orchestra sounded alike. | Les hochets du temple et les cymbales de l’orchestre se ressemblaient presque.
+82a7dd0e26 Le papier comme le plastique peuvent être recyclés.
+7f647a1476 Le recyclage et la réutilisation du matériau suppriment le besoin d’importer des granulats, une stratégie qui a évité plus de 50 000 passages de camions sur les routes locales.
+192da9a5f9 Il [Huw Jones] a été plaqué dans le 22 anglais, mais lorsque le ballon a été vite recyclé, la passe manquée de [Finn] Russell a offert à Sean Maitland l’espace nécessaire pour marquer dans le coin gauche.
+2b0355e744 La plupart des canettes, bouteilles et pots doivent être rincés, alors recyclez-les pendant que vous faites la vaisselle.
+82826ea3cd Le recyclage n’est plus une corvée lorsque ce centre de tri pratique devient un élément fixe de votre cuisine.
+a8533d38f9 Le soufre se recycle dans le cycle du soufre.
+07b74b0d22 = The arrows would have ⟦reverted⟧ to my bow again. | Les flèches seraient revenues à mon arc.
+af9977535e Vous pouvez utiliser l’historique des pages pour annuler facilement la modification inappropriée d’un autre éditeur.
+b9d435d9cb Cela a du sens, car vous avez validé les modifications localement, mais vous les avez ensuite annulées au niveau du serveur.
+7229f30400 Tous nos ennemis doivent être abattus.
+076f745869 Le chevalier terrassa le dragon.
+f77cd2c1aa Vous devez écarter ces pensées.
+d89ca5fc4d Elle était votre camarade de classe à l’école du village depuis le CP.
+8713c3c9cd Danny et moi sommes camarades de classe depuis cinq ans, mais je ne lui ai jamais parlé en dehors des cours.
+2049527e9b La Classe 87 est le seul membre de la flotte britannique encore certifié pour les lignes principales, bien que 21 de ses semblables soient en service à l’étranger […]
+982f5fd502 Ils lui ont infligé d’affreuses souffrances pour obtenir des aveux.
+6432553e2a L’artillerie de l’ennemi a infligé de lourdes pertes aux forces ennemies.
+13c65677ea entraver la liberté de quelqu’un
+f40fc6f7a3 entraver la formation de quelqu’un
+89d9ff1e70 Hector, voyant Andromaque submergée par la terreur, l’envoie se consoler au métier à tisser et à la quenouille.
+d4a7ff0482 Pendant ce temps, le personnel de SWR a averti en privé qu’une pénurie aiguë de matériel roulant se profile, les nouvelles rames n’étant pas prêtes.
+788b50859a Les nuages s’amoncelaient sur les montagnes.
+0ed28091ce Son aîné le tournait constamment en ridicule par des remarques sarcastiques.
+7755f22120 = Such an ⟦alteration⟧ of the plan was unexpected. | Une telle modification du plan était inattendue.
+6529680970 Les médecins ne constatent aucune modification de l’état du patient.
+126c79c14d Elle a retiré le pouce du carburateur et respiré la fumée épaisse.
+4d2dfb5dda J’ai eu une aventure avec une fille rencontrée pendant les vacances.
+0f7800a308 la ruade d’un cheval
+98e69b3eb5 Là encore, la vapeur fait ses derniers sursauts, et les conducteurs « double bielle » du dépôt de Brunswick, à Liverpool, alternent déjà les services vapeur et diesel.
+3dffb42be7 = The door ⟦flung⟧ open in the storm. | La porte s’ouvrit brusquement sous la tempête.
+7bdb61f733 Mais c’est Giggs, âgé de 37 ans, qui avait l’air d’un adolescent insouciant lorsqu’il glissait sur la pelouse qu’il connaît si bien, avec un effet à couper le souffle.
+f2d8454ccf = Her death ⟦grieved⟧ the whole village. | Sa mort affligea tout le village.
+6f93a4222a déplorer son destin
+678cdda3c3 Même si le directeur exécutif rejette l’appel du salarié, celui-ci peut encore contester le licenciement auprès du surintendant, puis faire appel devant le conseil d’administration…
+284785eb9c Quelles que soient les pressions qui ont provoqué le diktat du ministre, le résultat est gilbertien.
+10fd050967 L’envoyé en appela à la magnanimité du Roi des rois pour réduire le tribut de sa province après une nouvelle sécheresse.
+73cb36c0ad Dans certains cercles chrétiens, invoquer la Bible constitue une preuve irréfutable.
+95ca6dc17d Il a invoqué l’empoisonnement cadavérique comme raison du taux de mortalité élevé parmi les prêtres et les moines […]
+81a678f42f = The ancient oak had ⟦millennial⟧ roots. | Le vieux chêne avait des racines millénaires.
+5b45027693 Quant à l’évocation par M. [Thomas] Pynchon d’un New York millénariste, c’est un vrai fouillis.
+0aca851307 Mais je vous invite à résister à la tentation de vous pâmer devant « Waking Life » comme s’il s’agissait d’un retour vertigineux et millénariste aux films trip des années 60.
+68f550a830 = The sect preached a ⟦millennial⟧ return of Christ. | La secte prêchait un retour millénariste du Christ.
+9162e5d3d9 Un jour, espèrent les baby-boomers, les millennials bâtiront selon de grands idéaux que leurs parents ne peuvent qu’imaginer, et agiront sur des enjeux vitaux que leurs parents ne peuvent que méditer.
+83a1dbacc3 Selon le New York Post, de plus en plus de millennials et de membres de la génération Z choisissent de louer indéfiniment, ce qui oblige les gestionnaires immobiliers à repenser la satisfaction et la fidélisation des locataires à long terme.
+5ec1c29404 L’essai de résistance à la traction est conçu pour tester la résistance du joint soudé.
+adf0598471 J’ai soudé une sculpture en métal.
+b34f44214b Les flèches ont transpercé les rangs serrés de l’armée adverse.
+6a845d4cdf souder une alliance
+91155c7374 = The shell’s ⟦hinge⟧ is strong enough to hold both halves together. | La charnière de la coquille est assez solide pour maintenir les deux valves réunies.
+947d846ed3 Cet argument était le pivot sur lequel tournait la question.
+15d06a9e8c Ces enfants devenus adultes se trouvaient à ce tournant de la vie où les parents commencent à rétrécir et à se replier.
+5d8a5295d4 L’éclat s’est rompu en pivot sur une inclusion du noyau.
+d08cbf5a48 Je considère le temps comme un trésor qui diminue chaque nuit ; et ce qui diminue chaque jour périt bientôt à jamais.
+c86eb46c65 = The old clock is more an ⟦ornament⟧ than an instrument. | Cette vieille horloge sert plus d’ornement que d’instrument.
+96a3dd2a3b = When the storm came, many sailors ⟦perished⟧ at sea. | Lorsque la tempête éclata, de nombreux marins périrent en mer.
+1c79678fd7 Le problème est que les aliments frais se dégradent à cause de la multiplication des bactéries nocives qui s’y développent.
+583ecd8b83 Ces pervers essayaient de nous espionner pendant que nous nous changions !
+071ff54c4c Je connais un tas de pervers, dans les écoles et ailleurs, plus que n’importe qui, et ils se comportent toujours de manière perverse quand je suis là.
+87e2f426d1 Selon le Saint Coran, ceux qui rejettent les signes de Dieu et suivent Satan et leurs caprices sont des dévoyés ; ils sont comparés à des chiens […]
+b50853cb5b = A ⟦shred⟧ of cloth hung from the fence. | Un lambeau de tissu pendait à la clôture.
+3ab7f4197f Il n’existe pas la moindre preuve à l’appui de ses affirmations.
+90c0971aee = Add a few ⟦shreds⟧ of lemon peel to the drink. | Ajoutez quelques lamelles de zeste de citron au cocktail.
+a55669d6fd = The clerk ⟦shredded⟧ the confidential documents. | L’employé a déchiqueté les documents confidentiels.
+ed6a85a337 = The cook ⟦shredded⟧ the cabbage finely. | Le cuisinier a émincé finement le chou.
+880c1e4a81 Sans quelqu’un pour les superviser, le groupe manquera de direction.
+611e219312 […] affaires de griefs et d’arbitrabilité ; supervise le déroulement des élections de représentation ; et tient des audiences comme […]
+554c3360a4 Dans le cadre du Medicare Benefits Schedule, les médecins ne peuvent pas réclamer au gouvernement le paiement d’une vaccination contre la Covid-19 effectuée dans leur clinique par une infirmière, sauf si un médecin généraliste est présent sur place pour superviser.
+bdc8ad3cc0 Ne mange pas la meringue, elle est réservée pour le dîner de demain.
+5cd6497627 En mars 1994, elle avait été transférée à Cardiff Canton, où elle était toujours affectée lorsque ses plaques ont été retirées en mars 1997.
+5b250fa0cf La majeure partie des fonds de l’enseignement de la maternelle à la terminale est allouée aux districts scolaires, qui paient à leur tour le coût de fonctionnement des écoles.
+db78b31e42 Le gestionnaire de mémoire alloue la mémoire aux processus qui la demandent, jusqu’à ce qu’il n’y en ait plus de disponible ou qu’il n’y ait plus de processus en attente de mémoire.
+425a13189d = The ⟦barb⟧ of the hook held the fish firmly. | L’ardillon de l’hameçon retenait fermement le poisson.
+703bbaa162 « Peut-être que je voulais simplement venir voir par moi-même si tu étais réel. Ou si tu étais une invention de mon imagination. » La pointe a fait mal, mais elle ne lui en voulut pas.
+676b8363ef = The fish has long ⟦barbs⟧ near its mouth. | Le poisson a de longs barbillons près de la bouche.
+32283dfbde Obsédé, il cherchait une montre qui contienne le plus grand nombre de complications dans les combinaisons les plus audacieuses, dans l’espace le plus réduit qui soit.
+7ca830f3a4 Au cours de leur dernière année, chaque étudiant doit fabriquer sa propre montre avec une complication, du tourbillon au mode carillon, en passant par l’affichage de la date.
+cf7e0183bb Je me sens très bien ici, bien au chaud dans mon lit.
+95bbd9896f Écoutez attentivement quand quelqu’un vous explique comment assembler les meubles.
+af0aae1a0f […] la vocation de la tragédie est d’instruire en émouvant les passions,
+ea749e811e Note d’usage : « instruct » est moins impératif que « order », mais plus solennel que « advise ».
+e6d26ebaa6 Le médecin m’a ordonné de garder le bras immobilisé et de commencer la kinésithérapie.
+83168abd58 Si vous n’y prenez pas garde, je vais saisir un avoué à ce sujet.
+0f18c08600 Il essaie de vous intimider. Si vous l’ignorez, il finira peut-être par arrêter.
+2ea2adb1da Son père a tenté d’intimider son fils pour qu’il reste, le menaçant de bannissement et d’une possible correction.
+8f18d8ddcb Il tient compte […] des prévisions sur la durée pendant laquelle les contaminants radioactifs resteront dans le sol et l’eau près de l’installation nucléaire.
+ff1735eb03 = The old king ⟦lingered⟧ for months before he died. | Le vieux roi a agonisé pendant des mois avant de mourir.
+5311235c82 Trump ne s’attarde pas sur le sondage.
+1900e1ed4d = He was neither wise by nature nor by ⟦nurture⟧. | Il n’était sage ni par nature ni par éducation.
+06acf14d83 Le problème est aggravé par le fait qu’une grande partie de la sous-culture gay n’est pas propice à l’épanouissement de l’intégrité du moi radical dont parle Erikson.
+23a5e8e609 Les relations entre les normes universelles et les normes spécifiques favorisent le développement du droit international.
+12f4f6c4ff = The ⟦rooster⟧ of bats hung silently from the cave roof. | Le perchoir de chauves-souris pendait en silence au plafond de la grotte.
+0c757f16d3 = The children played ⟦roosters⟧ with wild violets in the meadow. | Les enfants jouaient aux « coqs » avec des violettes sauvages dans le pré.
+19b914048f ✗
+5e51c63b53 Oh, malheur à moi !
+d821f1f504 Riley aspire à devenir médecin.
+04be1a6fac Morgan aspire à gagner la partie.
+9c38ceed0d = The lighthouse stood at the tip of the rocky ⟦beak⟧. | Le phare se dressait à la pointe du promontoire rocheux.
+ea86f02bfe ✗
+181eefd0e9 élargir ses connaissances
+6f4acf94d9 = He broke free from the crowd with a sharp ⟦wrench⟧. | Il s’est dégagé de la foule d’un coup sec.
+71cb087a67 = The sun’s ⟦glare⟧ on the water hurt my eyes. | L’éclat du soleil sur l’eau me faisait mal aux yeux.
+a186915340 = She gave him a fierce ⟦glare⟧ across the table. | Elle lui lança un regard furieux par-dessus la table.
+6f38adf21c = The cathedral ⟦looms⟧ high over the old square. | La cathédrale se dresse haut au-dessus de la vieille place.

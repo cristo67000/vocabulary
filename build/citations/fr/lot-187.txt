@@ -1,0 +1,202 @@
+# lot 187 — mots de la bande « étendu » : glove, greed, greet, hank, hose, impacted, imposing, lava, magnet, metaphor, negro, notify, oops, pact, paramount, paranoid, patron, popcorn, proxy, quantitative, resemble, retarded, revolt, roasted, saddle, schooling, shrine, shrink, sniper, solitary, sorrow, termination, thigh, thrive, troll, unpaid, unsuccessful, vest, vine, warranty, Almighty, Ernest, Vanessa, aisle, apparel, atom, awakening, bleed, brace, caption, choke, cholesterol, classy, condemn, contributor, deluxe, devastated, disguise, downstairs, empathy, ensemble, feasible, flawed, forged, grease, homosexual, hulk, hydraulic, impulse, incapable
+# écartés : insultes et slurs, paroles de chansons, victimes nommées ou sexuelles, violence (fusillade, coupe-gorge), drogue, sens archaïques (Bible, Shakespeare, Spenser, Chaucer), notes « Near-synonyms »
+0c6612c3eb = The bride’s mother stood at the door to ⟦greet⟧ every guest. | La mère de la mariée se tenait à la porte pour accueillir chaque invité.
+e4ac5ded9f Le champion de boxe lace ses gants avant le grand combat.
+ec33d64be8 Frederico avait un excellent gant, mais il ne savait pas frapper une balle courbe, alors il n’a jamais percé chez les professionnels.
+46466cf1b4 jeter le gant, c’est-à-dire lancer un défi ; relever le gant, c’est l’accepter
+d348d2251a ✗
+b2811f7106 Sa cupidité fut sa perte.
+f23bc36a58 Elle ne montre pas de voracité ni d’avidité comme un certain nombre de patients […], et elle n’a manifesté aucune tendance significative à la possessivité, au ressentiment, à la paranoïa ou à la manie.
+3a4bd047e3 Je peux rester active tant que je reste dans le placard. Si j’assume qui je suis, je me heurterai à des portes fermées.
+eea0e50def Il trouva un écheveau de corde à linge sur un comptoir.
+ffd179462e = The actor wore tight ⟦hose⟧ and a velvet doublet for the play. | L’acteur portait des chausses moulantes et un pourpoint de velours pour la pièce.
+3d8e8e1c10 Les dents de sagesse, qui sont les dernières à faire éruption dans la cavité buccale, sont souvent incluses.
+86dd3f2c7c Le tableau A3-1 compare les capacités (1) des communautés et des circonscriptions scolaires fortement touchées à financer les améliorations de leurs équipements sur leurs propres ressources […]
+58c5b02b2c Comme beaucoup de mes collègues, je représente l’une des écoles les plus fortement touchées du pays. Cet établissement dépend du programme d’aide aux districts touchés.
+04c2f39859 Le château était une silhouette imposante au sommet de la colline.
+9886d049b5 Il avait une silhouette imposante et une voix grave.
+1fa05fed55 Les iguanes marins bordent les rivages des îles et sont généralement vus étendus sur les roches de lave près de la mer.
+2fcf427a7d = The path was strewn with black ⟦lava⟧ from the old eruption. | Le chemin était jonché de lave noire de l’ancienne éruption.
+c2b8dc9965 Encore toi, mec ? Tu es un véritable aimant à ennuis !
+43d07466c7 Il avait toujours une fille au bras : c’est un vrai aimant à jolies filles.
+7f26bfd7a2 Le groupe suivant d’approches informatiques de la métaphore part du principe qu’elle est essentiellement une analogie cachée.
+130da02825 = The poet’s ⟦metaphor⟧ compared the river to a silver ribbon. | La métaphore du poète comparait la rivière à un ruban d’argent.
+9b3c9330c3 la métaphore du bureau, la métaphore de la corbeille à papier
+dc3424af4b ✗
+585bf8ead9 Il a immédiatement alerté les pompiers volontaires de l’appel d’urgence.
+db8c4e7a81 Une fois la décision prise et notifiée aux parties, elle devient contraignante.
+f502836752 Oups ! J’ai laissé le couvercle du ketchup ouvert.
+6f3eea4410 ✗
+2796b21efc conclure un pacte
+e9462fcfc1 Les nouvelles sœurs de la confrérie doivent accepter le pacte établi par les anciennes membres.
+3d71edb496 En réponse, les sept nations de la communauté baltique ont signé la convention d’Helsinki de 1974, premier pacte mondial visant à protéger une mer entière contre la pollution, quelle qu’en soit la source.
+e83d8949a0 = The king’s word was ⟦paramount⟧ in every matter of the realm. | La parole du roi primait sur toute affaire du royaume.
+5d219d5bb3 Régler ces cartes de crédit est primordial.
+7fbfbce58f Mais les gens à la télé peuvent-ils me voir, ou suis-je simplement paranoïaque ?
+557763b77c Les gens veulent généralement croire aux bonnes nouvelles, et Max était tellement paranoïaque au sujet des microbes qu’il aurait vraiment aimé croire que l’île de Plum projetait des antibiotiques et des vaccins dans l’air.
+d8a0c2032b = The gardener is the ⟦patron⟧ of the local orchid society. | Le jardinier est le protecteur de la société d’orchidophiles locale.
+ec3bd07750 Saint Joseph est le patron de nombreux lieux différents.
+44830b8fa0 Mes amis et moi avons commandé du pop-corn pendant l’entracte du film.
+5b6472ebc9 Cette ferme cultive du maïs à pop-corn.
+af7a40884c Je prendrai un petit pop-corn.
+49c2af4d07 Chaque mercredi soir est la soirée des amoureux : pour 10 $, les tourtereaux peuvent avoir deux billets, deux pop-corns et deux sodas.
+ecbf5e110d = She voted by ⟦proxy⟧ since she could not attend the meeting. | Elle a voté par procuration, car elle ne pouvait pas assister à la réunion.
+cc8dc996c5 ✗
+3e7e4b3f60 Un champ de données oui/non est qualitatif, alors qu’un champ à valeur numérique est quantitatif.
+0e6fd1188f Les jumeaux se ressemblent.
+3da2f671cc Mais ce que vous venez de décrire ressemble bien à une personne de ce genre.
+c46846c5d1 Ce type de plante présente généralement une croissance retardée.
+f0e4702402 L’hormone de croissance, mise au point à l’origine pour aider les enfants à croissance retardée, est réputée particulièrement prisée des sprinters.
+2640b60784 ✗
+66a8c0e025 Les spécialistes du domaine estiment qu’il y a aujourd’hui aux États-Unis au moins 200 000 personnes déficientes intellectuelles de plus de 60 ans.
+c39ce9a8dc En regardant Jack, Gabbie demanda : « Quoi ? » « C’est le pont des Trolls. » Elle grogna au jeu de mots. « C’est débile. »
+932e61e563 ✗
+7538fd84b4 Les agriculteurs ont dû se révolter contre le gouvernement pour obtenir ce qui leur était dû.
+5b2991a8b0 Ton frère me dégoûte !
+0cb23476fe Trouver du plaisir à ce qui inflige une douleur à un être sensible révoltait sa conscience et offensait sa raison.
+803d1be940 ✗
+f38cb383ab « Non, Sire, c’est une révolution… »
+ef618a6406 L’arôme agréable qui se dégage des grains de café torréfiés pendant le broyage est aussi attirant que celui du café fraîchement infusé pour les produits alimentaires aromatisés au café.
+ee64f2f7a9 = The young riders were eager for the ⟦saddle⟧ and the open road. | Les jeunes cavaliers avaient hâte d’être en selle et de prendre la route.
+4547e803f2 Avec Lizzie en tête, ils ont vite gravi plusieurs faux sommets en direction du col.
+a8fe9853e8 = While the grooms were ⟦saddling⟧ the horses, the guests gathered in the yard. | Pendant que les palefreniers sellaient les chevaux, les invités se rassemblaient dans la cour.
+88b80ab40d = The farmer ⟦saddled⟧ his mule before dawn to reach the market. | Le fermier sella sa mule avant l’aube pour rejoindre le marché.
+43dda4effc Je n’ai jamais laissé ma scolarité nuire à mon éducation.
+69341f653c En entrant dans le tunnel, nous passons devant une petite niche au-dessus de nos têtes qui contient une statue de sainte Barbe, patronne des mineurs de tunnel. Il est d’usage d’avoir de telles niches sur chaque chantier de tunnel.
+f8bd49b192 un sanctuaire d’art
+d98b2c2a83 Le sèche-linge a rétréci mon pull.
+662602aad7 En bref : pour réduire votre ventre, vous devez commencer à écouter votre corps.
+b2c2283239 Depuis 1982, il a rétréci de 250 mètres.
+2b11c9e3e9 Ce vêtement rétrécit à l’eau.
+64a1e17fd7 Molly se recroquevilla sous les coups de fouet.
+2d0c8ceecb = The mouse ⟦shrank⟧ back into its hole at the sound of footsteps. | La souris se recroquevilla dans son trou au bruit des pas.
+ea9e72e35f Tu as besoin de voir un psy, espèce de fou !
+c978b0649c Mon psy disait que j’étais complice de mes propres travers, ce qui était mauvais pour moi.
+202dc81d2a = A sudden ⟦shrink⟧ of the fabric after washing ruined the shirt. | Un rétrécissement soudain du tissu après le lavage a gâché la chemise.
+4689e8badc Le tireur d’élite l’a atteint à la tête.
+8199cc4627 ✗
+10f8169787 Ils se lançaient toujours des piques en public. Les tireurs allemands étaient une bande de mauviettes comparés à Lester et sa femme.
+6fb9386f29 Il ruminait et tramait de manière fantastique. Il devenait l’un des grands solitaires. Or il n’était pas fait pour la solitude. Il était fait pour la vie active, c’était un être social.
+c0bacd5f6b ✗
+39ea9b0de2 Même si nous n’atteignons pas tous le nirvana en nageant, la natation peut bien être ce dernier refuge loin de la connexion — et, pour certains, le seul moyen de trouver le moi solitaire.
+85dbe8d353 une résidence ou un lieu isolé
+6472e69e7a Le remède sûr et général contre le chagrin est le travail.
+9573cfde05 La séparation est une si douce tristesse.
+9681396759 Sur toutes les gares terminus, où les vitesses de circulation sont faibles, un équipement à caténaire simple fixe a été installé.
+e92c12b071 = The ⟦termination⟧ -ed marks the past tense of regular English verbs. | La désinence -ed marque le passé des verbes réguliers de l’anglais.
+0997557615 « Pourquoi ne pas payer maintenant, mon petit ? » suggéra-t-il avec magnanimité, en me tapotant la cuisse.
+e8dbd568b9 Il y a une dizaine de jours, en armant un pistolet dans le corps de garde de Macao, il s’est tiré accidentellement une balle dans la cuisse.
+1a42807f6a Ajoutez les cuisses de poulet, refermez le sac et écrasez la marinade pour enrober le poulet.
+e6f4c6890b Le dinosaure nouvellement découvert Brontomerus mcintoshi a peut-être utilisé ses énormes cuisses musclées pour repousser ses prédateurs et ses rivaux.
+e0886b3875 Tous les animaux ne prospèrent pas en captivité.
+d880b4ae34 prospérer grâce au travail acharné
+07d429a2d7 Depuis son expansion en juin, l’entreprise a vraiment prospéré.
+8c8f610190 Edwin Baer était un homme disgracieux. Il mesurait à peine un mètre soixante-huit et pesait peut-être 63 kilos tout mouillé.
+ebe3d49cb0 Dans cette œuvre, l’objet abject — une sculpture d’une femme grosse et poilue — est tristement réconforté par un texte qui revendique l’amour de l’artiste et son désir de protéger le « laid » monstre.
+6e9c2aa5c8 Les habitants de la péninsule supérieure — la UP, ou les Yoops — appellent parfois les habitants du nord du Michigan des « trolls », parce qu’ils vivent « sous le pont ».
+54deb0de81 = The boys ⟦trolled⟧ the ball down the lawn toward the goal. | Les garçons faisaient rouler le ballon sur la pelouse jusqu’au but.
+42091b4d64 = The barrel ⟦trolled⟧ down the hill and into the river. | Le tonneau dévala la colline et tomba dans la rivière.
+733333c2de Un nombre croissant de villes américaines alertent leurs habitants d’une vaste escroquerie par hameçonnage, impliquant de faux SMS au sujet d’amendes de stationnement impayées.
+58665dfaeb Sa tentative infructueuse lui a valu de la compassion, des condoléances et parfois une moquerie bon enfant.
+a679043915 Par exemple, un déodorant pour hommes peu performant a été remis sur le marché avec succès par un nouvel emballage, une publicité plus soutenue, un prix plus élevé et une nouvelle marque, « Brut ».
+849cf5a531 = The priest put on his white ⟦vest⟧ before the service. | Le prêtre revêtit sa chasuble blanche avant l’office.
+ffc1a012e2 = She appeared in a splendid ⟦vest⟧ of silk and gold. | Elle apparut dans une somptueuse tenue de soie et d’or.
+2dd37d3d10 J’aurais pu facilement être au Congo. Des arbres, des lianes à la Tarzan, des bestioles rampantes, des araignées et encore des araignées.
+341fc074a2 C’était une vraie jungle, pleine de choses effrayantes : serpents, araignées. Ils s’attendaient à voir Tarzan arriver en se balançant à une liane.
+e8dacf9714 Ils ont cueilli les raisins sur la vigne.
+46a3a2c172 J’ai souscrit une garantie prolongée pour mon téléviseur sur cinq ans, pour 100 $.
+4f122c8a92 C’est toujours une bonne idée de bien se garantir pour tout achat qui risque de tomber en panne.
+268f6d1bd5 Toutefois, la gouvernance n’est pas un remède universel aux maux des entreprises ; c’est un avertissement, pas une garantie contre l’échec.
+9d26f2c4cd L’expression « Statistiques nationales », en majuscules, est une garantie que les statistiques en question sont produites par des statisticiens neutres et sont à l’abri des ingérences politiques.
+a50b124bb6 Le Tout-Puissant nous a souri et comblés de bonne fortune.
+87f4754fb6 ✗
+db372ef048 Vanessa aime le prénom Madison, ultra-populaire pour une fille, ce qui en dit long sur sa personnalité.
+0b8cfd425f Tu veux une place côté fenêtre ou côté couloir ?
+61c7a70a6e ✗
+97a5ed3d5d = The soldiers were proud in their new ⟦apparel⟧. | Les soldats étaient fiers dans leur nouvel uniforme.
+335a4edbe0 = The garden’s ⟦apparel⟧ of roses in June was a delight. | La parure de roses du jardin, en juin, était un régal.
+ac654af2b8 ✗
+7fe18838fb = There was not an ⟦atom⟧ of truth in what he said. | Il n’y avait pas une parcelle de vérité dans ce qu’il disait.
+54d70330a3 Lorsque j’ai invité les femmes à décider elles-mêmes du rite de passage dont elles voulaient parler ou écrire, je n’ai trouvé que quelques-unes pour choisir leur éveil sexuel.
+cf3a48c6fa Si son nez saigne, essayez d’utiliser de la glace.
+008a9e1aa0 L’entreprise perdait ses talents.
+3888b64436 À bas régime moteur, des valves s’ouvrent pour purger une partie de l’air très comprimé des derniers étages du compresseur, ce qui aide à éviter le pompage du moteur.
+b62cd91577 L’air haute pression prélevé sur l’APU sert à lancer les moteurs, à faire fonctionner le générateur de l’APU et la pompe hydraulique, et peut également servir à pressuriser la cabine si nécessaire.
+73e81f863a Tu n’as pas encore eu tes règles. Ça fait plus d’un mois que tu es arrivée, et tu n’as pas saigné.
+763d864d11 Lors du décollage à haute altitude ou à poids proche du maximum, les prélèvements doivent être temporairement coupés, car ils réduisent quelque peu la puissance du moteur.
+e67fc645b3 = The hunter returned with a ⟦brace⟧ of pheasants over his shoulder. | Le chasseur revint avec une paire de faisans sur l’épaule.
+19a99ee27b un vilebrequin et une mèche
+42f4a394db Tout le monde, à vos postes, préparez-vous à l’impact !
+adda3449a4 Le garçon n’a aucune idée de ce qui s’est passé. Tu dois le préparer à ce qui va arriver.
+cade023b6a border les vergues
+f2eeec8794 étayer une poutre dans un bâtiment
+9626bd6338 Elle appuya son dos contre le mur.
+da1cdde0e5 Il s’arc-bouta contre la foule.
+1c7ccc93ac Pendant que l’agent Fancy recueille des indices dans son appartement, Morse et moi tenons Valdemar en respect.
+58635405cd Juste à ce moment-là, le jeune garçon qui nous avait toisés à notre arrivée lâcha un juron et se précipita vers la porte.
+df01e45425 Certaines photos sont nouvelles et intéressantes, mais beaucoup de légendes sont amateurs, peu informatives ou simplement négligées.
+65d2a3bd97 (Théâtre, production de spectacles) Par analogie, texte dans un système similaire utilisé dans une salle de spectacle pour la transcription d’un événement en direct.
+d58c00d5f6 Ce n’est qu’une fois le dessin achevé que le lettreur le légende.
+0600c31068 Depuis qu’il s’est étouffé avec une arête, il refuse de manger du poisson.
+8b5c0e050f ✗
+93a876f40e Le col de cette chemise est trop serré, il m’étrangle.
+fcc2310214 obstruer un passage de grotte avec des blocs et de la boue
+336f432842 La cascade n’est plus qu’un filet d’eau, et le bassin est encombré d’algues, de feuilles mortes et de branches cassées.
+8050c8d31c Mais l’avoine et le ray-grass étouffent le maïs qui pousse.
+a6f80c99ed J’ai coupé des tiges de maïs ou des plantes vertes avec lesquelles il veut étouffer les flammes.
+2b72815a3d améliorer votre taux de cholestérol ; faire baisser votre cholestérol
+a61a191ed2 C’est une tenue très chic que vous portez.
+7380eeddb0 Ignorer ses insultes grossières était une réponse élégante.
+74b114a054 Le président a condamné les terroristes.
+b37d2e4e96 Elle a été condamnée à la prison à perpétuité.
+c9bf653134 Le juge l’a condamné à mort.
+af2ffdc4b0 La maison a été déclarée insalubre après avoir été gravement endommagée par un incendie.
+7004578a8e Trop de gens sont condamnés à une vie de pauvreté.
+7f45e74dcb Je suis un donateur de longue date d’Amnesty International.
+82c9a11c81 William Safire a longtemps été un contributeur notable des pages d’opinion du New York Times.
+f2e151cae3 Il était un participant régulier aux manifestations de Greenpeace.
+90f3670660 La nation a perdu deux grands défenseurs de la cause des droits humains avec les meurtres du maire George Moscone et du superviseur Harvey Milk, le 27 novembre.
+56b29e1375 Le méthane est un facteur majeur du réchauffement climatique.
+ae49a0e924 Il n’y a rien de plus luxueux que l’équipement de cuisine de cette maison.
+656de26c58 Et bien des cœurs nobles trouvent refuge sous des toits qui ne sont ni plus grands ni plus luxueux que celui-ci.
+9b3c9e7a84 Mary Ann était effondrée quand elle a découvert que son fils harcelait une fille à l’école.
+34e699b2fb cacher ses intentions perfides sous le masque de l’amitié
+435c7486ca Une cape et une moustache complétaient son déguisement.
+5f8ee8bd4c de vieilles idées sous un nouveau habillage
+7fd7f577eb Tout déguisement peut exposer les soldats à être considérés comme des espions ennemis.
+35b0047b56 Les espions se déguisent souvent.
+de31d0508b Il a dissimulé ses véritables intentions.
+abb9f2a5f0 Les enfants dorment dans la chambre du rez-de-chaussée ; nous dormons dans celle de l’étage.
+f72a8a78ef Je dois descendre l’escalier pour quitter l’immeuble.
+beec195d9c Le locataire habite au rez-de-chaussée.
+17daf06afd ✗
+760a07ea69 Nous avons visité la maison : le rez-de-chaussée était spacieux, mais l’étage était vraiment exigu.
+a0e91b237c La famille a essayé d’ignorer les commérages venus des domestiques.
+03dbccf367 Désormais, les deux vivaient seuls dans la vieille maison, même si son cabinet et sa petite clinique partageaient le rez-de-chaussée avec la cuisine, le salon et la salle à manger.
+b996d8598c Elle éprouvait beaucoup d’empathie pour sa voisine ; elle savait ce que c’est que de perdre un parent, elle aussi.
+37b43f8339 Si Musk dit croire à l’empathie et que « vous devriez vous soucier des autres », il pense aussi que celle-ci détruit la société.
+f01b2c7236 ✗
+f794474dc8 Son projet d’éliminer les pigeons de Trafalgar Square en faisant venir des faucons pèlerins pour les manger a été rejeté car il n’était pas réalisable.
+1f51b9c554 Les diamants défectueux ne sont généralement pas utilisés en bijouterie.
+351710d3c4 Son projet de machine à mouvement perpétuel est défectueux, car l’eau ne coule pas vers le haut.
+a10b4c51c1 Des documents d’identité falsifiés ont permis d’entrer dans le bâtiment.
+23dc2dd76f Le forgeron a fabriqué un fer à cheval forgé avec une grande habileté, en frappant le métal rouge vif avec son marteau.
+9a361f8ac2 Certaines des personnes à qui j’ai parlé ont dit que c’était faisable, mais que cela coûterait très cher : plus de graisse que je n’aurais jamais imaginé.
+1ac947f755 Tu te souviens qu’on l’a graissé à hauteur de cinq cents.
+e558b5c79f À ma grande surprise, j’ai réussi un atterrissage en douceur malgré les vents de travers.
+5b2a43bced ✗
+7f2131ac58 Non, cela ne ferait aucune différence si le candidat était homosexuel.
+8295a01862 Maher : Non. Pourquoi, tu es… ? Mais c’est tôt !
+da49a21c82 La plupart des pays occidentaux ont abrogé les lois contre les relations homosexuelles entre adultes consentants.
+e05fee36cc Une campagne de pétition visant à fermer tous les établissements homosexuels, en réaction à une supposée contagion générale du sida, a été lancée fin octobre, selon The Weekly News de Miami.
+89cdcc66a0 Il était impensable, pour ceux d’entre nous qui avaient trente ans ou plus, d’avoir eu un modèle ouvertement gay quand nous étions jeunes. Les homosexuels n’étaient pas représentés de façon positive dans les médias, ou pas du tout.
+1cf3f455d0 = The rusted ⟦hulk⟧ of the old freighter lay beached on the sand. | La carcasse rouillée du vieux cargo gisait échouée sur le sable.
+7a71b23f2c Le solide tronc de la tour Central Park s’élève à proximité — une grande carcasse de verre qui volera bientôt la couronne des résidences les plus vertigineuses de la planète.
+3febc7b9fa Une presse hydraulique fonctionne grâce à la pression différentielle de l’eau sur des pistons de dimensions différentes.
+8e907d20c8 plâtre hydraulique ; ciments hydrauliques
+415ae3986d Tout mouvement animal spontané est produit par une impulsion mécanique.
+ad668ae64f L’impulsion d’apprendre m’a poussé à étudier nuit et jour.
+81b90dd59d Quand j’ai vu le nouveau livre, je n’ai pas pu résister à l’envie de le feuilleter.
+4ce5b6bdfb L’impulsion totale du choc dépendra de l’énergie cinétique du projectile.
+33fe825a93 Je le considère incapable de malhonnêteté.
+4a48c73481 = The village lay ⟦solitary⟧ under the snow after the last family left. | Le village gisait isolé sous la neige depuis le départ de la dernière famille.

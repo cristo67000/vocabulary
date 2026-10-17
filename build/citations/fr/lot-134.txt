@@ -1,0 +1,201 @@
+# lot 134 — citations anciennes des mots courants : mate, noise, cable, client, sing, widely… ; sens morts, dialectaux ou offensants écartés
+9b8ed44ea8 = I’m going to the pub with a few ⟦mates⟧ from work. | Je vais au pub avec quelques potes du boulot.
+c4aaefa462 = The faint signal was lost in the background ⟦noise⟧. | Le faible signal se perdait dans le bruit de fond.
+dd5ae92808 ✗
+e8d82ffe03 = The crew released the mooring ⟦cables⟧ and the ferry pulled away. | L’équipage largua les amarres et le ferry s’éloigna.
+2aeeec28c1 = In ancient Rome, a patron was expected to protect his ⟦clients⟧. | Dans la Rome antique, un patron devait protéger ses clients.
+a1ffe4201d = She ⟦sang⟧ along to the radio all the way home. | Elle a chanté avec la radio pendant tout le trajet du retour.
+70cbca8d1d = The app is now ⟦widely⟧ used in schools. | L’appli est maintenant largement utilisée dans les écoles.
+cda581ba7c ✗
+575143c78d ✗
+6bc07b084e ✗
+cc2ee4770d ✗
+f901fc013d ✗
+6aabb27388 = Our ⟦ultimate⟧ goal is to make the town carbon-neutral. | Notre objectif ultime est de rendre la ville neutre en carbone.
+0008d5825a = The company blamed ⟦external⟧ factors for the drop in sales. | L’entreprise a imputé la baisse des ventes à des facteurs externes.
+2244768878 ✗
+78d569f75d = A local ⟦pilot⟧ guided the ship into the harbour. | Un pilote local a guidé le navire jusque dans le port.
+4585546407 = The ⟦principal⟧ in the robbery got eight years; his accomplices got less. | L’auteur principal du braquage a pris huit ans ; ses complices, moins.
+a1efcff077 ✗
+e00bd862f6 = He’s always telling ⟦tall⟧ stories about his time in the army. | Il raconte toujours des histoires à dormir debout sur son passage à l’armée.
+f19dd7735b = Missing the deadline would ⟦defeat⟧ the whole purpose of the exercise. | Rater l’échéance ferait perdre tout son sens à l’exercice.
+9dadbbd1a5 = The boat waited in the ⟦lock⟧ while the water rose. | Le bateau attendait dans l’écluse pendant que l’eau montait.
+aac4a700cd ✗
+1ac47ef289 = ⟦Organized⟧ labor has lost much of its power since the 1980s. | Le syndicalisme a perdu une grande partie de son pouvoir depuis les années 1980.
+43b4690fb2 = Clay is ⟦plastic⟧ when wet and hard once fired. | L’argile est malléable quand elle est humide, et dure une fois cuite.
+1be06b1e81 = The instructions were all ⟦Greek⟧ to me. | Pour moi, les instructions, c’était du chinois.
+e19c0fd8a9 ✗
+bdf5e3a88c = The ⟦burning⟧ of fossil fuels releases carbon dioxide. | La combustion des énergies fossiles libère du dioxyde de carbone.
+efe988b0af ✗
+a73f5100ae = A kilometre is the ⟦equivalent⟧ of about 0.6 miles. | Un kilomètre est l’équivalent d’environ 0,6 mile.
+6e43d65daa = We crossed the stream at a shallow ⟦ford⟧. | Nous avons traversé le ruisseau à un gué peu profond.
+45995ee4ff = Someone ⟦lifted⟧ my wallet on the bus. | Quelqu’un m’a piqué mon portefeuille dans le bus.
+949883c7a8 = The captain let his daughter take the ⟦wheel⟧ for a few minutes. | Le capitaine laissa sa fille prendre la barre quelques minutes.
+76bcb2dbc5 = They spent a week camping in the ⟦bush⟧ outside Sydney. | Ils ont passé une semaine à camper dans le bush, aux environs de Sydney.
+b3175f9c77 ✗
+e8e1ecf2c1 ✗
+b0f230da8e = The local ⟦hunt⟧ meets outside the pub on Boxing Day. | L’équipage de chasse local se retrouve devant le pub le lendemain de Noël.
+2d1398a9a0 ✗
+055965891f = His ⟦pride⟧ wouldn’t let him admit he was wrong. | Son orgueil l’empêchait d’admettre qu’il avait tort.
+28e5453da0 = She loves ⟦riding⟧ and takes her horse out every weekend. | Elle adore l’équitation et sort son cheval tous les week-ends.
+cf3de60ed6 ✗
+b4f3ba4520 ✗
+c20cc999ef = I don’t like your ⟦tone⟧, young man. | Je n’aime pas ce ton, jeune homme.
+7f3de53ff5 = Bats have long ⟦fingers⟧ that support their wings. | Les chauves-souris ont de longs doigts qui soutiennent leurs ailes.
+665d6295ad = The kids love fish ⟦fingers⟧ and chips. | Les enfants adorent les bâtonnets de poisson avec des frites.
+ea592b969f ✗
+c54fae34e3 = Turn ⟦sharp⟧ left after the bridge. | Tournez franchement à gauche après le pont.
+ebdefa421a = I need to ⟦bone⟧ up on my French before the trip. | Je dois réviser mon français avant le voyage.
+df933c82a2 ✗
+f946fdb108 = The wedding dress has a ⟦boned⟧ bodice. | La robe de mariée a un corsage baleiné.
+5e86545f42 = Please close the ⟦gate⟧ so the dog doesn’t get out. | Ferme le portail, s’il te plaît, pour que le chien ne sorte pas.
+947e534f88 = ‘No,’ she said ⟦shortly⟧, and closed the door. | « Non », dit-elle sèchement, et elle ferma la porte.
+17deeee2d3 = She quit her job to go in search of ⟦adventure⟧. | Elle a quitté son travail pour partir à l’aventure.
+9d1fe168ce = The ⟦atmosphere⟧ in the crowded room was hot and stuffy. | L’air de la salle bondée était chaud et étouffant.
+93a9dd7a34 ✗
+3279c931bc = ⟦Egg⟧ and breadcrumb the fish before frying it. | Passez le poisson dans l’œuf et la chapelure avant de le faire frire.
+d3e846eea7 = The set {1, 2, 3} has three ⟦elements⟧. | L’ensemble {1, 2, 3} compte trois éléments.
+34d581d7a4 ✗
+d30cc5b7df ✗
+38701e7fba ✗
+9ac24b3629 ✗
+710cc44d1a ✗
+ab29ff8d4b = I’ll be back in a ⟦flash⟧. | Je reviens en un éclair.
+f8ac116416 ✗
+b4834895ef = The town still performs its medieval ⟦mystery⟧ plays every summer. | La ville joue encore ses mystères médiévaux chaque été.
+c926662e78 = Many people are now paying the ⟦penalty⟧ for years of poor diet. | Beaucoup paient aujourd’hui le prix d’années de mauvaise alimentation.
+4b13e2b16d ✗
+a5742601b4 = Her father is a gentle, soft-⟦spoken⟧ man. | Son père est un homme doux, à la voix posée.
+08d634a2ba ✗
+1173fe8f8d = The Roman ⟦baths⟧ in Bath are open to visitors. | Les thermes romains de Bath sont ouverts au public.
+ac13823d51 = For him, the thrill of the ⟦chase⟧ mattered more than winning. | Pour lui, l’excitation de la traque comptait plus que la victoire.
+dcd3550ebb ✗
+d1e44fddcc ✗
+991ab856bb ✗
+65c8a7a2a4 ✗
+a0fdf7ea74 = She has stayed true to her ⟦ideals⟧ all her life. | Elle est restée fidèle à ses idéaux toute sa vie.
+2d7d6b4de7 = I pulled a ⟦muscle⟧ in my back lifting the sofa. | Je me suis froissé un muscle du dos en soulevant le canapé.
+29a29f1ec7 ✗
+3a33e56715 ✗
+f5675bf47f ✗
+d7aff5d3f7 = She ⟦threaded⟧ her way through the crowd. | Elle se faufila à travers la foule.
+7cdf3ac815 = ⟦Boring⟧ for oil began off the coast in the 1970s. | Les forages pétroliers ont commencé au large dans les années 1970.
+9cd405ab19 = In some countries, ⟦custom⟧ still governs who owns the land. | Dans certains pays, c’est encore la coutume qui régit la propriété des terres.
+5f31d32d99 = Coffee ⟦grounds⟧ make a good fertiliser for roses. | Le marc de café est un bon engrais pour les rosiers.
+e0620a0f9d = She has a ⟦horror⟧ of spiders. | Elle a horreur des araignées.
+dd9e985290 = It was ⟦plain⟧ that she didn’t want to talk about it. | Il était évident qu’elle ne voulait pas en parler.
+e21b724e70 ✗
+d3baba6b4e = The ruined castle looks very ⟦romantic⟧ in the mist. | Le château en ruine a l’air très romantique dans la brume.
+92a2a18e17 = Someone called the ⟦cops⟧ because the music was too loud. | Quelqu’un a appelé les flics parce que la musique était trop forte.
+f4bce4c38f ✗
+d084782997 ✗
+ac119635d3 = I always get ⟦nervous⟧ before exams. | Je suis toujours stressé avant les examens.
+52b55181f6 ✗
+0628fd86d5 = It was the first time he had set foot on French ⟦soil⟧. | C’était la première fois qu’il foulait le sol français.
+48a67f93f8 = After hours of ⟦studying⟧, she finally understood the theorem. | Après des heures d’étude, elle a enfin compris le théorème.
+22ba39d507 ✗
+8ab79ce978 = Many Australians see New Zealanders as their ⟦cousins⟧ across the Tasman. | Beaucoup d’Australiens voient dans les Néo-Zélandais leurs cousins de l’autre côté de la mer de Tasman.
+4cb50bd835 ✗
+5f4fd9820a = The doctor listened to her chest during a deep ⟦inspiration⟧. | Le médecin l’ausculta pendant une inspiration profonde.
+31ff0c1d6c ✗
+205c6402e9 ✗
+c7533bb668 ✗
+298e41ec5a = The ⟦desert⟧ gets bitterly cold at night. | Il fait un froid glacial la nuit dans le désert.
+9d44e4da59 = The little bird ⟦hopped⟧ across the lawn. | Le petit oiseau sautillait sur la pelouse.
+678b4731a2 = The dancers moved in one ⟦smooth⟧ motion. | Les danseurs bougeaient d’un seul mouvement fluide.
+b054dfc7c9 ✗
+a9e1cce06d = She rides a beautiful grey ⟦Arab⟧. | Elle monte un superbe pur-sang arabe gris.
+0af8a8a78c = The children’s pirate ship flies a Jolly ⟦Roger⟧ from its mast. | Le bateau pirate des enfants arbore un drapeau à tête de mort au sommet du mât.
+6684cbcfd1 = Oh, ⟦bother⟧! I’ve left my umbrella on the train. | Zut ! J’ai oublié mon parapluie dans le train.
+06bd917473 = Critics praised the painter’s loose, confident ⟦handling⟧. | Les critiques ont salué la touche libre et assurée du peintre.
+7afb4d4d94 ✗
+cf8397d020 = The heat in the desert was ⟦intense⟧. | La chaleur dans le désert était intense.
+c4f365bad4 = Tourists can try ⟦panning⟧ for gold in the river. | Les touristes peuvent s’essayer à chercher de l’or à la batée dans la rivière.
+7f090afd9d ✗
+71f4ef9678 ✗
+96a8c0979a ✗
+983d787458 ✗
+8905da9ec4 ✗
+41f6155c89 ✗
+558db1951d ✗
+08e88be73d ✗
+79a3d58052 = He ⟦paced⟧ up and down the corridor, waiting for news. | Il faisait les cent pas dans le couloir en attendant des nouvelles.
+fde523fc63 ✗
+4be0d23090 = Customs officers found large amounts of foreign ⟦currency⟧ in his suitcase. | Les douaniers ont trouvé d’importantes sommes en devises étrangères dans sa valise.
+7153fa5262 = The idea has gained ⟦currency⟧ among economists. | L’idée a gagné du crédit chez les économistes.
+a8d3e60b3b ✗
+55310d4f13 = My grandmother ⟦hooked⟧ rugs from old scraps of fabric. | Ma grand-mère confectionnait des tapis au crochet avec des chutes de tissu.
+0c9d1b6507 ✗
+41a68a94ee = I have no ⟦regrets⟧ about leaving the city. | Je n’ai aucun regret d’avoir quitté la ville.
+cdc5be2ee6 = The team suffered a ⟦reverse⟧ in the second half. | L’équipe a subi un revers en seconde période.
+b70ee6658a = It’s just a ⟦routine⟧ check, nothing to worry about. | C’est juste un contrôle de routine, rien d’inquiétant.
+ebadcb3671 ✗
+03fc481e5c = ⟦Daddy⟧, can you read me a story? | Papa, tu peux me lire une histoire ?
+64d62ce43a = They ⟦engaged⟧ a lawyer to handle the sale. | Ils ont engagé un avocat pour s’occuper de la vente.
+6d4116a912 = The café became the unofficial ⟦headquarters⟧ of the campaign. | Le café devint le quartier général officieux de la campagne.
+cafaf0a4bd = The festival celebrates the town’s Celtic ⟦heritage⟧. | Le festival célèbre l’héritage celtique de la ville.
+b5c05c4183 = The sign was written in Cyrillic ⟦script⟧. | Le panneau était écrit en alphabet cyrillique.
+899f3b0128 ✗
+280db2ac22 ✗
+cc086794ff ✗
+4f7ebbc6b7 ✗
+da885be2d6 ✗
+3d684d8067 = A cleaner is a ⟦luxury⟧ we can’t afford right now. | Une femme de ménage, c’est un luxe qu’on ne peut pas se permettre en ce moment.
+d03da65d45 ✗
+167b94e56c = You can still watch real ⟦tennis⟧ being played at Hampton Court. | On peut encore voir jouer au jeu de paume à Hampton Court.
+c594433322 ✗
+462cb2b082 = The fishing boats leave on the ⟦flood⟧ tide. | Les bateaux de pêche partent avec la marée montante.
+45483c3680 = She worked as a ⟦reader⟧ for a big publishing house. | Elle a travaillé comme lectrice pour une grande maison d’édition.
+b0cd73ca83 = The kids took turns on the ⟦swing⟧. | Les enfants se relayaient sur la balançoire.
+d32f88dd7f ✗
+cf1f34a199 = She works in water ⟦conservation⟧. | Elle travaille dans la préservation des ressources en eau.
+691c7502a5 ✗
+0a03054e44 = The ⟦dropping⟧ of all charges came as a relief to his family. | L’abandon de toutes les poursuites a été un soulagement pour sa famille.
+520ca708c8 = Let’s get the ⟦fundamentals⟧ right before we move on. | Maîtrisons d’abord les fondamentaux avant d’aller plus loin.
+ce4e6a3af4 = The minister arrived surrounded by her usual ⟦satellites⟧. | La ministre arriva entourée de ses satellites habituels.
+78a079befb = She cut her ⟦bangs⟧ herself and regretted it. | Elle s’est coupé la frange toute seule et l’a regretté.
+c2711ed1a7 = The nurses treated every patient with great ⟦humanity⟧. | Les infirmières traitaient chaque patient avec beaucoup d’humanité.
+b0054b4f82 ✗
+201d4fb809 = He has always preferred ⟦manual⟧ work to sitting in an office. | Il a toujours préféré le travail manuel au travail de bureau.
+d4ba5d0898 ✗
+cfe22d42d8 = A coffee in Cairo costs about fifty Egyptian ⟦pounds⟧. | Un café au Caire coûte environ cinquante livres égyptiennes.
+3ed4fd3e73 ✗
+622b44ef54 = The speech was clever but lacked ⟦punch⟧. | Le discours était habile mais manquait de punch.
+b84a737cb4 ✗
+13d24bc7cc = An old hay ⟦rick⟧ stood at the edge of the field. | Une vieille meule de foin se dressait au bord du champ.
+821ab471e7 ✗
+3a67d42996 ✗
+a632c86255 ✗
+2032fa17ea = Police are still ⟦investigating⟧. | La police poursuit son enquête.
+dd85218cd5 ✗
+61b30c8620 = The earthquake left much of the old city ⟦ruined⟧. | Le séisme a laissé une grande partie de la vieille ville en ruine.
+7619373a47 ✗
+e78fa2262d = Years of hardship had ⟦bowed⟧ him but not broken him. | Des années d’épreuves l’avaient courbé, sans le briser.
+527184b69d = Writing a good thriller takes a lot of ⟦craft⟧. | Écrire un bon thriller demande beaucoup de métier.
+de8822d4c4 = Chess is a real ⟦intellectual⟧ challenge. | Les échecs sont un vrai défi intellectuel.
+88d7a09d32 = The kids made a ⟦slide⟧ on the frozen pond. | Les enfants se sont fait une glissade sur la mare gelée.
+e7022c2f05 = In ‘running’, the ⟦stem⟧ is ‘run’. | Dans « running », le radical est « run ».
+996439240e ✗
+d28093fe75 = Winning the Booker Prize was the ⟦summit⟧ of her career. | Remporter le Booker Prize a été le sommet de sa carrière.
+84c090a193 = The ship was left ⟦disabled⟧ after the engine fire. | Le navire s’est retrouvé immobilisé après l’incendie du moteur.
+860755db74 ✗
+81deb7c942 ✗
+4acc711d91 = The procession went down the ⟦Mall⟧ to Buckingham Palace. | Le cortège descendit le Mall jusqu’au palais de Buckingham.
+a46c5e2186 ✗
+9f2fcd090b = Catholics speak of the Mass as a ⟦sacrifice⟧. | Les catholiques parlent de la messe comme d’un sacrifice.
+c2cd613319 ✗
+f0eaad896a ✗
+02358d9e51 = ‘Thank you, Your ⟦Worship⟧,’ said the defendant to the magistrate. | « Merci, monsieur le juge », dit le prévenu au magistrat.
+ad308c5079 = I was really ⟦bloody⟧ to my sister yesterday, and I feel awful. | J’ai été vraiment odieux avec ma sœur hier, et je m’en veux.
+d9e8f468dc = A ⟦galaxy⟧ of stars attended the premiere. | Une pléiade de stars a assisté à la première.
+d58a9d26db = The ⟦globe⟧ in the kitchen has blown. | L’ampoule de la cuisine a grillé.
+d18f8a1454 = The whisky is ⟦matured⟧ in oak casks for twelve years. | Le whisky vieillit douze ans en fûts de chêne.
+89dccbd138 = ⟦Prevention⟧ is better than cure. | Mieux vaut prévenir que guérir.
+e63c90ae70 ✗
+12c93b9d91 = The hunters ⟦spared⟧ the young deer. | Les chasseurs ont épargné le jeune cerf.
+f18e4e7cc6 = She remained calm and ⟦composed⟧ throughout the interview. | Elle est restée calme et posée pendant tout l’entretien.
+c4780aa8f0 = The two companies are in a legal ⟦dispute⟧ over the patent. | Les deux entreprises sont en litige au sujet du brevet.
+0c6cee8a72 ✗
+fa9e099c18 = There are ⟦frequent⟧ trains to London. | Il y a des trains fréquents pour Londres.
+965f776a54 ✗
+08585784b0 = The region has a ⟦moderate⟧ climate. | La région jouit d’un climat tempéré.

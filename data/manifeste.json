@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "construit": "2026-10-14",
+  "construit": "2026-10-17",
   "moutures": {
     "en": "2025.11.21",
     "fr": "2025.11.21"
@@ -52,7 +52,7 @@
         "fr": 0
       },
       "phrases": 59166,
-      "octets": 25875426,
+      "octets": 26844461,
       "fichiers": [
         "noyau/en.idx",
         "noyau/en-000.json",
@@ -196,7 +196,7 @@
         "fr": 0
       },
       "phrases": 78926,
-      "octets": 73070018,
+      "octets": 72248714,
       "fichiers": [
         "complet/en.idx",
         "complet/en-000.json",
@@ -514,5 +514,5 @@
       ]
     }
   },
-  "mouture": "2026-10-14-e229c8cc9b"
+  "mouture": "2026-10-17-a41c9098e3"
 }

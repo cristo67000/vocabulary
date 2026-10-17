@@ -1,0 +1,202 @@
+# lot 168 — mots de la bande « étendu » : needle, oval, pity, porter, prey, prophet, referendum, rounded, ruby, scales, seasonal, sensible, sequel, township, wade, whale, Hispanic, admire, amber, berry, bullying, caution, clash, compatible, configuration, convincing, curiosity, delight, fortunate, frontier, handy, headache, hers, incentive, inclusive, mandate, manga, portable, randomly, sexuality, slap, steak, suspicion, tactical, therapist, thereafter, thorough, tuition, wholesale, prénoms, canvas, cheek, circular, circulation, clearance, coincidence, comedian, concentrated, conscience, cooler, countless, curry
+# écartés : notes « Near-synonyms », paroles de chansons, sexe, injures, violence et politique, sens archaïques de la Bible et de Shakespeare
+1e4ebd4576 C’est peut-être dans la main, en piquant le pouce, l’index et la zone des premier et deuxième métacarpiens, que l’effet est le plus marqué.
+0409586414 Billy taquinait sans relâche sa sœur au sujet de ses boutons.
+15e028ba18 Pour agacer lady Leviathan, Hel a convaincu son mari d’accepter l’offre sincère.
+dc8a22f939 Du côté opposé de l’ovale de terre battue.
+9c8a886eab Au fond du long couloir se trouvaient les portes d’un service hospitalier. Les panneaux étaient dépolis, sauf des ovales de verre transparent à hauteur des visages.
+0430fc7b1c ✗
+3ef8a5dcd7 avoir pitié de quelqu’un
+b1ad21b477 Je n’éprouve aucune pitié pour cette bande, qui s’est blessée en tentant de cambrioler un appartement.
+7501408db9 Quel dommage que le groupe se sépare ! Je les adorais !
+011f42fb60 C’est dommage que tu ne te sentes pas bien, il y a une fête ce soir.
+be5aeefbf4 Il faut le plaindre : il a perdu sa femme, sa mère et son travail le même mois.
+3b919d2f52 ✗
+950f6b3725 Quand j’ai atteint la gare, j’étais épuisé, mais heureusement un porteur attendait.
+072cbbcb8a […] utile seulement si vous êtes un « porter » de Perl, c’est-à-dire un développeur qui adapte Perl à d’autres plates-formes, ou un implémenteur.
+5d20c45cfc Le cerf est devenu la proie du lion.
+ecc278e3b2 Sans armes et bloqués là, nous étions des proies très faciles.
+05c0d6e27f Le lapin a été mangé par le coyote : le lapin est donc la proie du coyote.
+35bf7c4ac2 Les musulmans croient que Mahomet fut le dernier prophète envoyé à l’humanité.
+2afba2b946 Dans certains cas, un référendum sur l’émission d’obligations proposée doit être organisé.
+1c930d0377 Bien que les îles Cook aient organisé un référendum en 1994, quand les électeurs ont rejeté un changement de nom, l’aspiration à une identité décolonisée n’a pas disparu.
+4c6d5e725a Mon père considère ma décision d’aller ou non à l’université comme un référendum sur ses qualités de parent, et c’est très stressant.
+d440d26a15 Le son /u/ est une voyelle arrondie.
+e449383bcd J’ai reçu une formation complète et équilibrée.
+bdce74ae32 Son personnage est beaucoup moins travaillé dans l’écriture, puisqu’il n’a qu’un seul objectif dans toutes ses scènes.
+fe22d2cf6a Ils réagissent instantanément au moindre froissement, dans les buissons, d’une liasse de billets de cinquante dollars, ou au tintement rustique d’une brouette pleine de rubis cahotant sur le sol d’une boîte de nuit.
+f034cbf6f9 = The wine had a deep ⟦ruby⟧ colour that caught the candlelight. | Le vin avait une profonde couleur rubis qui accrochait la lumière des bougies.
+17397eef6b Le boucher posa les saucisses sur la balance.
+4bd9f40be0 C’est une piscine saisonnière.
+e082e9f662 Le culte du camp de vacances a amené des trains express saisonniers vers de nouvelles destinations comme Penychain, au nord du pays de Galles ; plus de 250 000 personnes prennent chaque année le train pour les seuls camps Butlin’s.
+70981bc88d Q : Quel temps fait-il là-bas ? R : Le vent est assez fort, mais c’est normal pour la saison, donc rien à redire.
+e82c1a6a1d Ils posent des questions à quelqu’un qui croit avoir quelque chose de sensé à dire sur un sujet, alors qu’en réalité il n’a rien.
+46f93430c6 Je ne porte des talons hauts que pour les occasions officielles ; sinon, je préfère des chaussures confortables.
+2cd50fec47 ✗
+d1940aff14 Pour Platon, la croyance aux objets sensibles est faillible.
+5986f05880 = The ⟦sequel⟧ to the novel is even darker than the first book. | La suite du roman est encore plus sombre que le premier tome.
+f462eb28b8 ces tournis incontrôlables de la tête
+c1864eb587 Tondop a déclaré que la commune de Mendi retrouve lentement une vie normale.
+fa2e3ef1aa En outre, le conseil a achevé la planification d’une nouvelle township réservée aux « Coloured » (catégorie raciale de l’apartheid), sur le site de la township africaine existante.
+bc9a1e5761 lire péniblement un livre ennuyeux
+664d7dc4a1 traverser à gué marais et rivières
+48319b02c6 ✗
+2a3d35baf3 = Moving the piano up the stairs was a ⟦whale⟧ of a job. | Monter le piano à l’étage a été un sacré boulot.
+ddf1de3832 Les maisons du Nouveau-Mexique, de Californie et de Floride montrent une forte influence architecturale hispanique.
+6e34587e4c = My son ⟦Joel⟧ is studying engineering in Lyon. | Mon fils Joel étudie l’ingénierie à Lyon.
+14a9ece444 admirer une personne d’une grande valeur morale
+e57747315b Il avait toujours été (très) admiré de ses collègues.
+9458402d24 Les feux orange clignotants ne sont pas non plus en service à ce type de passage.
+ec38093203 Je ne les trouve pas du tout chronophages ; je les trouve identiques aux feux orange.
+b62d68cc46 Devant nous, une brise fraîche faisait glisser le pâle soleil du matin sur une prairie herbeuse teintée d’ambre par le givre.
+eff0c10c48 Ils ont tous franchi sans encombre le premier feu vert, puis le deuxième, mais quand le troisième est passé à l’orange, le taxi de Jack était le dernier à traverser le carrefour.
+076cb2b712 = Female lobsters carry their ⟦berries⟧ under the tail until the eggs hatch. | Les femelles homards portent leurs œufs sous la queue jusqu’à l’éclosion.
+2302bb7c7d ✗
+21cb3f0d6a Le harcèlement est une infraction passible de sanctions dans les établissements scolaires.
+e44a65e654 une extrême prudence est nécessaire pour circuler dans ce quartier dangereux
+9dc1c27678 lancer une mise en garde
+d454306f36 La recommandation mettait en garde contre un recours excessif à l’imagerie radiographique.
+1060971b20 = The tenant paid a ⟦caution⟧ of two months’ rent to secure the flat. | Le locataire a versé une caution de deux mois de loyer pour garantir l’appartement.
+b6c256f50d Oh, ce garçon, quel numéro ! Il me fait toujours rire.
+6e95c9f03f « Attention, Uwe », me prévient mon ami explorateur vénézuélien José Miguel Pérez, avec un sourire grave. « Tu es trop lourd pour qu’on puisse te redescendre. »
+31cdcd7e6b Ils sont en état d’arrestation. Vous voulez bien leur notifier leurs droits ?
+63e5eb36f1 Vous ne possédez pas les certifications requises pour ce poste.
+b302af1951 Seul au milieu des claquements de pluie contre la maison.
+0c5c27fe91 J’ai entendu un fracas venant de la cuisine et je me suis précipité : le chat avait fait tomber des casseroles.
+df8e4e475e ✗
+58b70b6f24 Mais le temps et l’inspiration ont manqué, et les Bleus ont décroché un affrontement de demi-finale mérité contre le pays de Galles.
+d383191fd0 Elle portait un horrible mélange de rouge et d’orange qui jurait.
+b5b3c5792a Des supporters des équipes adverses se sont affrontés dans les rues après le match.
+92637b91c4 Tu ne peux pas porter cette chemise ! Elle jure avec ton pantalon.
+018a2cf76c La chambre d’hôtel était moche, et le papier peint jurait avec la moquette.
+366eab3dbf Thorfinn fit heurter son bouclier contre celui de Vallon et fit tournoyer sa hache pour lui accrocher la cheville.
+2659f5dc6b Cette imprimante n’est pas compatible avec mon ordinateur.
+5c4d2d24b3 Mes voisins et moi ne sommes pas très compatibles : ils font du bruit, et je suis introverti.
+e40b691fe2 Elle risque aussi que son logement soit déclaré insalubre et condamné.
+51c4938308 Les ingénieurs ont testé plusieurs configurations du nouvel appareil.
+1c6d8fe8bd La chaîne de montagnes a une configuration unique.
+c084869669 Le logiciel nécessite une configuration spécifique pour fonctionner correctement.
+181a1c3973 Elle a conduit sans interruption pendant deux heures.
+8b9d64bf93 Le fleuve coule sans cesse vers la mer ; il ne s’arrêtera jamais pour nous laisser traverser à pied sec.
+7fd92ce610 Nos preuves convaincantes ont finalement suffi à gagner le procès.
+79f5e41cd9 Si l’équipe n’a encore connu qu’une seule défaite à domicile face à Tottenham en dix-neuf ans, cette victoire n’a pas été aussi convaincante que le score le laisse croire.
+b78ee071e9 Ils découvrent que lire, en plus d’être une activité scolaire, est aussi quelque chose qu’on peut faire seul, pour le plaisir, pour satisfaire sa curiosité, ou même pour « élargir ses horizons ».
+a04c0e3d47 Il a rangé la pierre à la forme étrange dans son cabinet de curiosités.
+6ff8a983cd = Our holiday in Provence was a constant ⟦delight⟧. | Nos vacances en Provence ont été un bonheur constant.
+addd2e6d62 Un beau paysage réjouit le regard.
+3766e80f5d Remarque : un jeu de règles qui produit (très probablement) une croissance explosive ; certainement en surface, sinon en population.
+5b77b01506 Il a un caractère explosif.
+6b05d788ba Les mots de ces chansons étaient soit dénués de sens, soit issus d’une langue que Watt, pourtant très bon linguiste, ne connaissait pas. La voyelle ouverte a dominait, ainsi que les occlusives k et g.
+4e5f7543d8 Les orages ont provoqué des inondations sur une vaste zone.
+1531408740 Nous avons eu la chance de ne pas être verbalisés pour excès de vitesse.
+d6c744ad7d C’est le moment où l’on pense à ceux qui ont moins de chance que nous.
+85e32f8636 C’est un heureux présage si le soleil brille sur un jeune couple marié.
+52ad421de0 Patrick, de manière improbable, a marqué le but décisif, et Berkeley a décroché une victoire chanceuse face à Chisolm.
+8d364b4982 Weiner reconnaît qu’un coup de chance l’a aidée à emprunter une voie plus favorable dès ses débuts dans la vie.
+2c183d6d7e Heureusement pour Sam, son hamster était vivant.
+c7cadf938e Ma mère a heureusement accepté de nous aider pour le projet de sciences de l’école.
+2096ab805d la frontière de la civilisation
+cf2b0dc885 Pendant deux ans, l’homme de l’Est avait cherché son frère disparu, dans les comptoirs et les forts de l’armée, tout au long de la frontière de l’Ouest.
+710c259391 ✗
+99ae54bd88 la frontière de l’électronique à l’état solide
+70d1f0ef9d Je n’ai jamais réussi à saisir le concept de l’infini.
+48aa63e94f Certaines personnes voient dans le ruban adhésif renforcé une solution pratique à tous les problèmes.
+4a6b4ede44 Tu n’aurais pas un tournevis sous la main, par hasard ?
+2723c9dd21 Je garde une trousse de secours à portée de main en cas d’urgence.
+8452008029 Elle est très adroite de ses mains : elle a fait toutes ses armoires de cuisine elle-même.
+f15588b87c Nous avions un sergent qui savait se montrer un peu musclé avec les éléments les plus turbulents. Il les traitait un peu différemment de ce que je fais.
+b4c2f079a4 Les Sloane ont déclaré qu’il n’avait rien contre eux, qu’il les menaçait et racontait beaucoup de mensonges. Il a essayé de les agresser et s’est un peu emporté.
+6c75ef7665 Porte un chapeau pour protéger ta peau des rayons nocifs du soleil.
+4e5a602770 Brûler des combustibles fossiles est nocif pour l’environnement.
+6ea0076681 J’ai un mal de tête épouvantable depuis la fête d’hier soir.
+c4cad1a03f Je te conseille de prendre un antidouleur pour ce mal de tête, ce n’est probablement rien de grave.
+c08856fa98 Le système de classement maladroit a été une énorme source de tracas.
+52878323c3 La tourbière domine désormais le paysage, et les ingénieurs ont dû surmonter bien des casse-tête pour trouver des fondations solides.
+ad7cc68e41 Ce sac à main est à elle. Ces gants sont aussi à elle.
+c1a8a8e1b6 Le mien est le bleu, et le sien est le rouge.
+beb72ae199 Allons chez elle.
+a197693112 Je n’ai aucune motivation pour faire le ménage en ce moment.
+9a38d99bca La direction a offert à l’équipe commerciale une prime de 500 $ pour chaque voiture vendue.
+569ba152bd une liste complète de formats de données
+56dcaaf314 Dans « Si tu veux, on pourrait rentrer chez moi prendre un café », le pronom est un « we » inclusif.
+9071f2d117 les nombres de 1 à 10 inclus
+92059cc567 ✗
+8200c0533a La loi fédérale impose qu’au moins un assureur hors groupe de votre État couvre tout le monde, quel que soit l’état de santé.
+efdcd38288 John Tyler et James K. Polk ont tous deux considéré le résultat des élections comme un mandat pour l’annexion du Texas.
+b45fcdb83e Tout au long de son dernier mandat, de 1980 à 1984, M. Trudeau a insisté pour que nous nous percevions uniquement comme Canadiens, et pour que nous mettions de côté les compromis historiques qui fondent le Canada en tant que fédération.
+21bf311ed4 Une conférence de délégués a été convoquée, et les garages ont été invités à mandater leurs représentants pour voter pour ou contre la poursuite.
+6d2b925f7b En juin dernier, l’Illinois a adopté une loi obligeant l’État à retracer les partenaires sexuels […], mais chargeant le ministère de préserver la confidentialité des signalements.
+70c0d882fb Je n’avais que cette soirée, de six heures jusqu’au sabbat, pour préparer mes deux sermons.
+dc1811911d Les mangas (bandes dessinées japonaises) sont partout, même ici à Auckland. On en trouve différents titres dans leur version originale, ainsi qu’en traduction chinoise, coréenne et anglaise.
+19bde26e3f Ces derniers temps, je lis un manga brésilien.
+319e7625e7 ✗
+8fd6963c3b ✗
+de12fb17c4 ✗
+7ef511daaa Comment Java et C# créent-ils des programmes multiplateformes et portables, et pourquoi C++ ne peut-il pas faire de même ?
+bbf1320ae0 un régime de retraite transférable
+f8907c9e88 Même si l’âge d’or de Houston s’estompait déjà à la fin des années 2000, sa culture hip-hop s’est révélée infiniment transposable et diffusable.
+16e2406fe0 À partir de la version 1.7, une version portable permet d’exécuter toutes les commandes du Host Attachment Kit sans l’installer.
+2555beb312 Je viens de me souvenir, sans raison, de ce rêve d’il y a deux ans.
+3315a8b390 Chaque microjeu dure cinq secondes, puis passe à un ensemble de règles suivant, tiré au sort.
+8360f5e04c Lorsqu’un fichier est accédé en accès aléatoire, le programmeur doit préciser le numéro d’enregistrement relatif.
+c591611b39 Le paysage devient extrêmement désolé à l’approche de la limite des arbres, et les bouleaux clairsemés ne sont guère plus que des buissons.
+8252d71482 Écouter des adolescentes discuter au téléphone pendant une heure de qui a tenu la main de qui à une fête révèle la fascination universelle des ados pour la sexualité naissante.
+c2ae711e55 Il m’a donné une tape amicale dans le dos, en signe de camaraderie.
+a0ba84b651 le claquement de mes pieds sur le carrelage de la salle de bains
+ebf1b96175 Havens enchaîne sur le formidable Freedom en rappel ; ce sera un moment fort du film, avec sa guitare hachée et ses claquements de conga qui annoncent le R&B de la fin des années 90.
+eb4b79f14d On ferait mieux de balancer une couche de peinture fraîche sur ce mur.
+69ad4c5b87 Gene Belcher : « Gifle murale. »
+312c63357e Elle l’a giflé en réponse à l’insulte.
+bbebb22058 steak de cerf, steak de porc, pavé de saumon ; steaks de chou-fleur, steaks d’aubergine
+d5e15eed65 « Quand il s’agit d’inconnus armés, lui ai-je dit, je pense que la méfiance a plus de chances de te garder en vie que la confiance. »
+a586f15279 une ombre de sourire
+b1feef65dd = The commander’s ⟦tactical⟧ plan focused on seizing the bridge before dawn. | Le plan tactique du commandant visait à s’emparer du pont avant l’aube.
+b4b3b8f47d Nous sommes des gens du Midwest. Nos psys, ce sont les barmen.
+ff65b7814c Il est parti ; après cela, nous ne nous sommes plus jamais revus.
+530a4a0141 ✗
+07e40037bc Le petit chien est parti comme une flèche, et les enfants se sont mis à courir après lui.
+ba0f489f32 Pas assez ! Ton travail doit être plus approfondi que ça.
+248eb4f96b C’est l’œuvre la plus soignée que j’aie jamais vue !
+c3e8506fa6 Les frais de scolarité vont augmenter de cinq pour cent l’année prochaine.
+9680e0107d Autrefois, le soutien scolaire ressemblait à une prise de médicament : on n’y envoyait les enfants que s’ils étaient en difficulté dans une matière.
+3e58c432c9 Le bombardement a entraîné une destruction massive.
+a6de58a438 Les pertes financières apparues en 1957 ont conduit la BTC à abandonner le programme pilote diesel au profit de commandes massives pour des modèles non éprouvés.
+9549b91776 ✗
+eeb3643c13 Je suis content d’avoir choisi le prénom Florence pour ma fille : un vrai prénom, avec une histoire, plutôt qu’un nom qui sonnerait comme inventé par l’équipe marketing d’une idole pop de quinze ans.
+7b922e4d6b De même, le PDG d’Alcoa (AA), Klaus Kleinfeld, a aussi renoncé à venir, mais l’entreprise participera, a déclaré la porte-parole Monica Orbe.
+2247d10ae5 = My youngest sister is called ⟦Rebecca⟧, after our grandmother. | Ma plus jeune sœur s’appelle Rebecca, comme notre grand-mère.
+d5cd365abb Les personnes en fauteuil roulant voient l’accès à de nombreux bâtiments et équipements publics restreint par des obstacles architecturaux.
+168e115cfd Les profils de charge sont un outil d’analyse standard : ils montrent l’activité des voyageurs (montées, descentes) et la charge à chaque arrêt d’une ligne, dans un seul sens.
+09c76d8f3a Elle peint un clair de lune sur la toile.
+dd67ab38c1 L’auteur prend la vie rurale du Midwest comme toile de fond d’une série d’études de personnages finement tissées.
+3d5b95594a Il a passé la nuit sous la tente.
+2a1fbe220e La neige lui remplissait la bouche. Elle rebondissait sur des obstacles qu’elle ne voyait pas, dégringolant dans un canyon encombré comme une bille d’acier qui tombe entre les clous d’un pachinko.
+7b1922fe98 Tu as un de ces culots, de me demander de l’argent !
+d9e3cfa11c les flasques d’un affût de canon
+79f129247a les mâchoires d’un étau
+f4a2b643ea ✗
+56d2c659f8 une formule circulaire dans un tableur
+e141760f08 Ton dictionnaire définit « brave » par « courageux », et « courageux » par « brave ». C’est une définition circulaire.
+3468792ee5 = The company sent a ⟦circular⟧ letter to all its members announcing the merger. | L’entreprise a envoyé une lettre circulaire à tous ses membres pour annoncer la fusion.
+cc96972873 Le casier était aussi bourré de circulaires et de prospectus.
+f50895da4d ✗
+45e655d1b2 = The doctor checked the patient’s blood ⟦circulation⟧ after the operation. | Le médecin a vérifié la circulation sanguine du patient après l’opération.
+3e68c3e527 Les nouveaux billets entreront en circulation vendredi prochain.
+6e055285ca En conclusion, il faut rappeler que le déneigement efficace relève largement d’une planification anticipée et d’une coopération entre services.
+0f4f742a34 La hauteur libre sous ces passages supérieurs d’autoroute est limitée : les gros camions doivent faire un détour.
+5d00a65bae Le transport de remorques sur wagons plats a posé de sérieux problèmes de gabarit à de nombreux chemins de fer.
+0fcffdfff9 L’avion a obtenu l’autorisation du contrôle aérien, et nous sommes partis.
+ae108e398c Il a obtenu l’autorisation de voyager aux États-Unis, alors qu’il avait déjà des liens avec des terroristes.
+cb7ef5bf5b C’est pure coïncidence si le dessin ressemble à l’homme politique local.
+04f06ed859 Que les deux écrivains soient nés et morts le même jour n’est qu’une coïncidence, même si beaucoup de théories du complot circulent à ce sujet.
+74b8ec0a35 = Our uncle is a natural ⟦comedian⟧ who can make the whole table laugh. | Notre oncle est un comédien-né qui fait rire toute la table.
+022a87145a Nous avons préparé une boisson avec du jus d’orange concentré.
+9e68f1f8be Le feu concentré de l’ennemi a détruit nos fortifications.
+1eeb86c138 Ne fais jamais rien contre ta conscience, même si l’État l’exige.
+056cad814c Ta conscience est ton autorité suprême.
+cfed86196e = The ice in the ⟦cooler⟧ kept the drinks cold all afternoon. | La glace de la glacière a gardé les boissons fraîches toute l’après-midi.
+d558d2fc68 On servait des « wine coolers », ces boissons au vin et au jus de fruit, dans l’après-midi.
+62ec31b321 Les étoiles dans le ciel sont innombrables.
+3ca621bdd8 Arrêtez-vous un instant et réfléchissez : le nombre incalculable de grains de sable du rivage ; le nombre incalculable de gouttes d’eau qui forment les eaux de la terre ; […]
+67361d0ba6 ✗
+f113407f4f ✗

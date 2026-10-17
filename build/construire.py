@@ -801,8 +801,10 @@ SANS_PHRASES = {"sens": {}, "libres": []}
 
 # Les exemples anglais repris à la main — traduits, remplacés quand ils
 # étaient anciens, ajoutés aux sens qui n'en avaient pas (voir citations.py).
-# Chargés une fois par main().
+# Chargés une fois par main(). Ce qui reste à reprendre s'accumule dans
+# EXEMPLES_EN_ATTENTE, écrit dans build/citations/attente.json.
 EXEMPLES_REPRIS = {}
+EXEMPLES_EN_ATTENTE = {}
 
 
 def entree_ecrite(entree, rang_de_bande, attribution, voisins, citations_max, langue):
@@ -819,15 +821,19 @@ def entree_ecrite(entree, rang_de_bande, attribution, voisins, citations_max, la
         # seulement, et seulement s'il y a des sens à distinguer.
         plusieurs = len(lecture[4]) > 1
         for bloc in lecture[4]:
-            citations = bloc[2][:citations_max] if len(bloc) > 2 else []
+            citations = bloc[2] if len(bloc) > 2 else []
             definition = bloc[0]
+            codes = list(bloc[3]) if len(bloc) > 3 else []
             if langue == "en":
+                # Le tri (ancienneté, plafond par bande) se fait sur toutes les
+                # citations du sens, avant la coupe du paquet.
                 citations = citations_traduites.reprendre(
-                    entree["mot"], bloc[0], citations, bool(par_sens.get(rang)), EXEMPLES_REPRIS)
+                    entree["mot"], bloc[0], citations, bool(par_sens.get(rang)),
+                    EXEMPLES_REPRIS, rang_de_bande, codes, lecture[0] or "?",
+                    EXEMPLES_EN_ATTENTE)[:citations_max]
             else:
                 citations = []
                 definition = repere(definition) if plusieurs else ""
-            codes = list(bloc[3]) if len(bloc) > 3 else []
             crues = bloc[4] if len(bloc) > 4 else 0
             ecrit = [definition, bloc[1], citations, par_sens.get(rang, []), codes]
             if crues:
@@ -1303,6 +1309,9 @@ def main():
     # La mouture nomme le cache du paquet complet : date et empreinte du
     # contenu, pour que deux constructions ne se confondent jamais.
     manifeste["mouture"] = f"{manifeste['construit']}-{empreinte_des_paquets()}"
+    citations_traduites.ecrire_attente(EXEMPLES_EN_ATTENTE)
+    print(f"\nExemples anglais encore à reprendre : {len(EXEMPLES_EN_ATTENTE)}"
+          f" (build/citations/attente.json)")
     ecrire(DATA / "manifeste.json", json.dumps(manifeste, ensure_ascii=False, indent=2) + "\n")
 
     fichiers = [f for f in (DATA / "noyau").rglob("*") if f.is_file()] + \

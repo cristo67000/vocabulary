@@ -1,0 +1,202 @@
+# lot 208 — mots de la bande « étendu » : allege, amplify, amuse, augment, avenger, bruise, chore, circulate, compress, confer, creditor, criticise, cripple, deepen, defer, demolish, deport, deteriorate, devise, dilute, diss, distort, electron volt, embody, enlarge, enlighten, entail, exaggerate, facet, flake, fishery, franc, grandchild, grate, hater, hijack, howl, intensify, minimise, misunderstand, nugget, oblige, organiser, overturn, overwhelm, pave, perk, plough, propel, protester, ration, rename, settler, shatter, signify, sprout, tangle, telecommunication, tempt, unveil, wield, whoop, wrinkle, Zachary, Texan, Kyiv, Muriel, lurk, unveil
+# écartés : paroles de chansons (cripple, lurk), sexe (plough), notes « Near-synonyms », « Meronyms », « Holonyms »
+1e96c29f7a Après la réunion, Jim a résumé les principales décisions prises.
+f592d6f3b7 Eh bien, je ne sais pas exactement ; ma mère aimait Zachary Scott au cinéma.
+77139f0cb3 Zachary Block discute avec Carrie Brownstein et Fred Armisen de leur nouvelle série, Portlandia, diffusée sur IFC, les vendredis à 22 h 30.
+acf7b794a9 La voiture piégée a estropié cinq passants.
+229d273cf9 Mes ambitions ont été brisées par le manque d’argent.
+9b8468144a Mais, pour ce qui est du traumatisme émotionnel infligé aux enfants, il me semble que les femmes ont été trop accusées pour le genre de mères qu’elles sont, et pas assez pour l’échec de leurs mariages.
+65d006d4c5 Mais le déclic commençait à se faire : même un chemin de fer prospère pouvait être paralysé par ses coûts d’investissement.
+5a71ac83d3 ✗
+12b256088b Il est revenu de la guerre estropié.
+1f03347649 Le soleil éclaire la Terre.
+b851ba2ae3 Voulez-vous m’éclairer, si vous me croyez si ignorant ?
+2952f6a46e Elle a tenté de leur expliquer les règles du programme, mais ils sont restés obstinément et pharisaïquement ignorants.
+d6cd4e1684 l’effondrement des pêcheries
+f83dac436a Cette pêcherie, qui produisait au plus fort plus de 80 000 tonnes par an, est aujourd’hui en déclin.
+2642941040 Dans un rapport pour le Sun on Sunday, Barak affirme qu’Andrew consulte des avocats pour faire annuler cet accord.
+9f03d78586 Harvey a été condamné à juste titre. Il est regrettable que le tribunal ait annulé sa condamnation. En tant que survivante, je suis plus que déçue.
+1c59a92cc1 Le vieux chêne a été fendu par la foudre.
+01ad3088a3 une voix aiguë capable de briser le verre
+05e0b8972a être brisé intellectuellement
+c0e6270c09 avoir une constitution ruinée
+0673a4b7d2 En se penchant, elle donne à l’oncle Oscar une tape affectueuse et furieuse qui signifie qu’il est un brave type et que nous l’aimons tous. Elle signifie aussi qu’il peut se taire.
+6dbbf826d2 « Voulez-vous signer un chèque, mamie ? » Les vieux yeux firent signe qu’elle acquiesçait.
+9742022b2e Elle m’a tenté de manger la pomme.
+6d14f6d3e9 Sa peau lisse me tentait.
+e78f20a9b7 La prochaine fois que vous pêcherez la truite et qu’aucune de vos cuillers ne tente le poisson, fumez un hameçon à cuillère et lancez-le.
+c1ca547c81 Ce serait tenter le destin.
+4a6f2629a6 Cette activité exigera une attention minutieuse aux détails.
+f5a32e21e1 L’immatérialité de Dieu implique l’attribut divin de l’incorporéité : Dieu n’est ni un corps ni incarné.
+64b1d879aa Leur permettre de grever leurs domaines d’une substitution.
+8fd85fbb50 = The ⟦entail⟧ kept the estate in the family for centuries. | La substitution a maintenu le domaine dans la famille pendant des siècles.
+308cdf28b4 = Under the custom of ⟦entail⟧, the land passed to the youngest daughter. | Selon la coutume de la substitution, la terre revenait à la plus jeune fille.
+9fc96197a3 Quelques écailles de peinture jonchaient le sol depuis que nous avions peint les murs.
+7d2986dfb3 Une légère volée de neige tomba ; je jetai un œil au ciel argenté, laissant les flocons tomber sur mon visage.
+cb28beca7d Elle a une conversation agréable, mais elle est un peu évaporée quand il faut passer à l’action.
+75d173b1c3 = The sailor coiled the rope in neat ⟦flakes⟧ on the deck. | Le marin enroula le cordage en couches régulières sur le pont.
+477ab4140b La peinture s’est écaillée au bout d’un an seulement.
+5002a2a94c Il avait promis de venir aider, mais il s’est défilé.
+b783614e60 La ligne est logée dans le conteneur pour une fixation et un déploiement faciles.
+f4968c6d85 Ils ont bétonné le paradis et construit un parking.
+f018bd7678 La question n’est pas de savoir si l’IA remodèlera la société humaine, mais si ses ingénieurs sauront manier ce pouvoir avec discernement.
+dfae6f3f03 Il a assassiné la réputation de son rival.
+32a92029c0 On le lui a reproché, lui reprochant de mettre en danger la vie des gens.
+8b75ab3ba6 L’homophobie repose sur la critique de toute expression sexuelle en dehors du sexe procréatif.
+3abb1e73b0 Nous allons reporter la décision jusqu’à ce que nous disposions de tous les faits.
+93552ae11c = He ⟦alleged⟧ illness as his reason for leaving early. | Il a invoqué la maladie comme raison de son départ anticipé.
+f28f248c9b Pour se faire une idée de l’ordre de grandeur, l’énergie nécessaire pour libérer complètement un électron de l’état fondamental d’un atome d’hydrogène est de 13,6 électronvolts.
+f5f70b0206 Il nous faudra élargir notre budget si nous voulons inclure le vol en hélicoptère dans nos vacances.
+1cebde0212 La connaissance élargit l’esprit.
+c4c57ac665 = The professor began to ⟦enlarge⟧ on the nature of the problem. | Le professeur entreprit de développer la nature du problème.
+d2bea64974 Le constructeur automobile va dévoiler le nouveau modèle de voiture de sport le mois prochain.
+0f2e5e9d4b En été 2020, les trains ont été dévoilés au dépôt de Wimbledon et baptisés Arterio. L’opérateur a expliqué que ce nom symbolisait son rôle d’artère reliant la capitale et au-delà.
+6bbf91fc19 Un grand cri de victoire a retenti lorsqu’ils ont enfin hissé le poisson sur la plage.
+d19deeb546 Le panneau « 98 MPH » se trouvait autrefois sur une série de bosses particulièrement vicieuses sur l’un des circuits préférés de John.
+a883f7c1e0 Pour franchir les bosses, il faut garder son poids vers l’arrière du quad […] et maintenir les roues avant hautes […]
+9ff21ea2ec = The children were ⟦whooping⟧ with delight in the yard. | Les enfants poussaient des cris de joie dans la cour.
+cc30dcf095 Le loyer d’une chambre libre peut compléter un salaire.
+d85ffef5fe L’augment est attesté en grec, en indo-iranien, en arménien et en phrygien.
+c6fa1b4944 Fondamentalement, l’augment caractérise une action verbale envisagée d’un point de vue non contemporain, soit le moment où l’on parle ou écrit, soit une autre action verbale.
+06db28b929 Le collège a conféré un doctorat honoris causa au premier ministre en visite.
+771bef8e89 Ils étaient en conciliabule, discutant de quelque chose.
+b7274297ff Les badges locaux ont fait sensation quand Henry Kissinger a visité Little Rock le mois dernier pour s’entretenir avec Fulbright des négociations pétrolières au Moyen-Orient.
+1bd41cb862 Ils ont creusé le puits de deux cents pieds de plus.
+6667b702f1 L’événement a aggravé l’atmosphère morose qui régnait.
+c4198e5674 La nouvelle de sa mort a aggravé mon chagrin.
+57be385986 L’eau devient plus profonde à mesure qu’on se dirige vers le milieu du chenal.
+43af38df70 L’accordeur a rendu le son de l’orgue plus grave.
+fb1b9b5bd1 ✗
+7302d409b8 forger un argument ; concevoir une machine, ou un nouveau système d’écriture
+d6b8843676 Je t’ai dit un milliard de fois de ne pas exagérer !
+6c82dfcac6 Il dit avoir couché avec des centaines de filles, mais je sais qu’il exagère. Le vrai chiffre est une dizaine.
+3d0fe0ec30 Le café gratuit fait partie des avantages du poste.
+c32eadd0f3 En 2012, plus de trois millions de Texans ont voté démocrate.
+03c2ec91ad Même si les contrôles obligatoires ont été supprimés, les Texans dont les véhicules sont immatriculés dans des comtés soumis à des contrôles d’émissions doivent passer un test antipollution.
+88895fab76 L’agence a allégué que mon historique de crédit présentait des problèmes.
+f7aac18a81 = The boxer ⟦bruised⟧ his opponent’s ribs with hard blows. | Le boxeur a meurtri les côtes de son adversaire à coups durs.
+b930f64052 = The young men took up ⟦bruising⟧ on the village green. | Les jeunes gens se mirent à se battre à coups de poing sur le pré communal.
+3d1eeb832f J’ai été meurtri par une critique aussi gratuite.
+88b1e4091d Ses remarques irréfléchies ont froissé mon amour-propre.
+efaaddfd96 Ils ont démoli le vieux moulin et construit quatre maisons de ville.
+084765a381 « Merci, Raj. » Frank avait trop faim pour se soucier de la bouillie gluante de Raj sur le comptoir, et il l’a engloutie avec plaisir en quelques secondes.
+d00186a845 Andrew Johnson a marqué un triplé lorsque Fulham a écrasé ses rivaux londoniens des Queens Park Rangers, remportant le match de Premier League de la saison.
+a75009a7db Boturini était accusé d’être entré dans le pays sans autorisation ; il a été emprisonné puis expulsé vers l’Espagne huit ans après son arrivée au Mexique.
+c5fe4255d5 Demandez-lui d’expulser tous les clandestins qui vivent dans cette ville sans carte verte ni les documents appropriés attestant de leur naturalisation.
+4c8d06e92f Il est sain d’avoir dans l’armée des gens qui préféreraient peut-être être ailleurs ; ils peuvent tempérer les militaires les plus va-t-en-guerre.
+2c10c6441d Nettoyez le panneau avec un nettoyant dilué et neutre.
+985a8d65a7 un chat à la robe écaille de tortue dilué
+a14d461f02 Cette facette du diamant a été taillée avec maîtrise pour en accroître la valeur.
+c79d1555e5 Nous venions presque de terminer le volet recherche du projet lorsque l’ordre d’annulation est arrivé.
+880643b728 La difficulté d’apprentissage de l’enfant n’était qu’un aspect des problèmes qui contribuaient à sa délinquance.
+86f4bfdee6 la facette articulaire d’un os
+63e8364e70 = A ⟦howl⟧ echoed across the valley at night. | Un hurlement résonna dans la vallée pendant la nuit.
+7606643029 Le hurlement du vent
+21bb52f83e = The dog began to ⟦howl⟧ under the window. | Le chien se mit à hurler sous la fenêtre.
+c13e17f87f Ils hurlaient de rire à la farce.
+cd67e88173 Lundi, Trump a signé un décret renommant le golfe du Mexique.
+f18cb368b7 Le comté de Taipei a été élevé au rang de municipalité spéciale en 2010 et rebaptisé Nouvelle-Taipei.
+522b885389 faire circuler l’argent ou les ragots
+e58c99da0f Lorsque le vendeur de voitures s’est approché, en costume à carreaux et cheveux plaqués en arrière, il semblait incarner la malhonnêteté.
+c32c324eb0 Une locomotive de manœuvre dotée d’une forme inhabituelle de transmission de puissance a été développée pour le National Coal Board.
+d2db8729e6 À l’exception de la Great Eastern Line, ceux-ci incarnent la systématisation la plus complète des services ferroviaires principaux à vapeur ou diesel jamais mise en place dans le pays.
+b6c1c93e63 griller une fenêtre
+09f9b12c91 Nous devons réduire le budget au minimum.
+0564df5d7e Essayez de minimiser vos préjugés.
+4245ce5920 Je n’ai rien fermé, mais j’ai réduit toutes les fenêtres pour voir le bureau.
+c08e5bcb10 L’expert en sinistres de l’assurance a tenté de minimiser l’étendue des dégâts pour réduire l’exposition de la compagnie à sa responsabilité.
+4c95ce905a […] un père qui ne l’avait jamais ouvertement dénigré, ni lui ni rien de ce qu’il faisait […]
+6b87619662 Jack rassembla sa maigre ration de nourriture.
+905fcd447f La ration d’essence de la ville devait être réservée aux véhicules nécessaires.
+65ada11afe Le troisième jour sur le radeau, nous avons dû rationner notre eau.
+246b9a7cdc Mais à mesure que nos vies urbaines sont devenues plus pressées, nous avons découpé nos coûts d’opportunité de plus en plus finement : des budgets en journées ou en tranches d’heures, nous en sommes venus à rationner les minutes.
+77726da84c Nous nous sommes rationnés à trois gorgées d’eau par jour jusqu’à notre sauvetage.
+0b7fea02a1 Je me suis rationné à une tasse de café par jour.
+642db6209c Notre système de santé actuel n’est accessible qu’à ceux qui peuvent se le permettre, en raison d’un coût inutilement élevé, de 47 millions de personnes non couvertes par une assurance, et de prix exorbitants des médicaments sur ordonnance.
+cdaa2c100f agrandir une image à l’écran
+4f5059d584 amplifier l’impact du projet
+0f3139cf21 GCN a demandé à Gill à qui cette loi était réellement destinée. « Aux abuseurs d’enfants », a-t-il répondu. Il n’a pas voulu développer ce qu’il entendait par abuseurs d’enfants.
+f852adc30a amplifier un signal. Il est amplifié pour que vous puissiez entendre le son.
+5b6b5c6459 intensifier la chaleur ou le froid
+d189137284 renforcer un négatif photographique
+573e3c6940 Jack étouffa un sourire face à la non-réaction impassible de l’enseigne. Lui-même avait été un bleu à son tour, le nouveau fraîchement sorti de l’entraînement.
+a7856669a1 À présent, nous espérons que vous avez dit « non » aux nuggets et aux doigts transformés. Pourquoi ne pas plutôt prendre du vrai poulet, le rouler dans de vrais œufs, une moutarde légèrement piquante et une panure croustillante de quinoa ?
+dd8ba3135f une parcelle de sagesse
+d7b1c35b30 une parcelle de vérité
+ae339f7212 Les femmes noires ont contribué à porter Harris et le président élu Joe Biden à la victoire, en augmentant la participation dans des villes comme Detroit, Milwaukee et Philadelphie.
+05650b86c0 Je peux discerner ta nature et voir que, même sans aucun argument (logoi) de ma part, elle te poussera vers ce que tu dis être ton attirance,
+48fcfbfe30 Une partie de l’inquiétude à Chelsea porte sur la question de savoir si d’autres sponsors suivront les opérateurs de télécommunications et fournisseurs d’accès à internet Three en retirant leur soutien, du moins temporairement.
+da7927d70a J’aimais être indépendant, mais c’est devenu une vraie corvée ces derniers temps.
+9095b0759c Les enfants devaient accomplir leurs corvées quotidiennes avant d’être autorisés à jouer.
+4b0dd708a8 Avant de vivre ensemble, mon compagnon et moi avons réparti les tâches ménagères : il cuisine et passe l’aspirateur, et je fais la vaisselle et la lessive.
+212d9a26f7 détériorer l’esprit
+1b30b2db1d L’après-midi tournait au désastre pour Newcastle, et la situation s’est encore dégradée quand Tiote a pété les plombs à cause de son tacle sur Jon Ashton.
+7615506213 Nous avons constaté que les jeunes conducteurs et le public méconnaissent largement le statut juridique de la consommation de cannabis, et ne mesurent pas pleinement les risques de conduite sous l’effet du cannabis.
+09959b00a7 Le canot a été submergé par la grande vague.
+2763493391 En décembre 1939, l’Union soviétique a attaqué la Finlande avec une force écrasante.
+3a22f093c6 Il était accablé de culpabilité.
+638c120293 La joie l’a submergée quand elle a réalisé qu’elle avait gagné un million de dollars.
+9b857cfd6c = The workers ⟦overwhelmed⟧ the pipe with a thick coat of tar. | Les ouvriers ont recouvert le tuyau d’une épaisse couche de goudron.
+58c724b999 les premiers colons de la Nouvelle-Angleterre
+4702eda646 = He poured a ⟦settler⟧ of rum after dinner. | Il servit un digestif de rhum après le dîner.
+1af258cff1 = He ⟦dissed⟧ the new manager in front of everyone. | Il a manqué de respect au nouveau directeur devant tout le monde.
+c52a675547 Mon livre ne vise pas à diaboliser les diaboliseurs, à détester les haineux, ni à démoniser les démonisateurs.
+26cf5d8062 À l’accusation de base selon laquelle les chrétiens étaient athées s’ajoutait celle d’être aussi des haïsseurs du genre humain.
+6eb02bf9b0 Un couple en Inde poursuit son fils et sa belle-fille pour ne pas leur avoir donné de petits-enfants après six ans de mariage.
+7ec04b13d3 Le célèbre quarterback de la NFL Joe Montana et sa femme ont affronté samedi une femme soupçonnée d’avoir tenté d’enlever leur petit-enfant, selon le département du shérif du comté de Los Angeles.
+7bbc4f26d7 Je regarde ces films parce qu’ils me divertissent.
+6033132e61 Il m’amuse toujours d’entendre les histoires drôles qui expliquent pourquoi les gens n’ont pas de billet, mais je ne les laisse jamais entrer sans payer.
+c233d8535e Ses blagues ne manquent presque jamais de m’amuser.
+6bb0f769e9 Passer du temps au soleil peut vous faire développer des rides plus tôt.
+98000f4ccf Nous devons régler les problèmes du plan avant de le mettre en œuvre.
+37f3f78736 Nous avons ajouté quelques nouveaux rebondissements à la politique.
+122fea7d85 Faites attention à ne pas froisser votre robe avant notre arrivée.
+b1d4a36f45 Une heure dans le bain fera plisser vos doigts.
+3bb53afe5a La peau est la substance qui se ride, vieillit, s’étire, cicatrise et se coupe.
+0c5a2f68ca Le dernier billet de 50 francs, émis en 1993, représente Saint-Exupéry et une vignette du Petit Prince.
+4fde86efb5 détourner l’émission de radio
+75a4ba1acc Une fois que le polyfill entre en jeu, il détourne le curseur de saisie de l’utilisateur et le place dans un autre champ, problème qui n’existe pas dans la mise en œuvre native de l’autofocus.
+5a785f81c7 J’ajouterai cette réunion à mon agenda.
+f619578e6e Les manifestants se sont massés sur Trafalgar Square et ont chanté des chansons contre la guerre.
+f4168ed147 Oh là là, comme tes jeunes pousses ont grandi !
+65e8ad496a Dans notre famille, nous ne mangeons des choux de Bruxelles qu’une fois par an, à Noël.
+db8d862427 Les crocus devraient pousser au bout de deux mois, à condition d’être bien entretenus.
+9597711397 J’ai fait germer des haricots et des radis que j’ai mis dans ma salade.
+072252c449 Des poils ont poussé sur le menton du vieil homme.
+421fed0a2a De nombreux cafés ont poussé dans ce quartier depuis la construction de l’immeuble.
+1137ada748 Dans ces premières années des années 1830 et 1840, les chemins de fer poussaient partout dans le pays, de manière désordonnée.
+6c97393705 Elle a rencontré ses créanciers pour négocier la dette.
+80d5203a25 Le créancier a engagé une action en justice contre l’entreprise en faillite.
+e9b0e39ad8 ✗
+555842f3c2 Mais dans le feu de l’action… Sammy a joué 40 QxPch????, croyant que c’était mat : il a complètement oublié ce fou noir qui se tenait innocemment à l’autre bout de l’échiquier.
+961934041a si nous trouvons le sophiste tapi, nous devons le traquer sur ordre royal de l’argument
+2508cedbd3 En tant que plus jeune de la bande, il s’est vu confier cette mission.
+315a764937 Ta négligence m’oblige à la fermeté.
+69124129e1 Je suis tenu de me présenter au commissariat chaque semaine.
+ca370317ea Il m’a rendu service en ne garant pas sa voiture dans l’allée.
+15d463df5a Le chanteur nous a accordé un rappel.
+066e6573eb Je vous suis très reconnaissant pour votre aide récente.
+6b57ce04a6 Ses cheveux étaient emmêlés après une journée au vent.
+cc430e73d9 Ne vous frottez pas à quelqu’un trois fois plus grand que vous.
+df2c78505f Il a eu affaire à la justice.
+dae95ba053 J’ai essayé de démêler cet écheveau et je n’ai abouti à rien.
+df47b2af75 un vengeur du sang
+8a8b5fe8ab La charrue tractée par des chevaux a eu un impact considérable sur l’agriculture.
+c497045b80 = The field needs a second ⟦plough⟧ before sowing. | Le champ a besoin d’un second labour avant le semis.
+9c650d6226 Je dois encore labourer ce champ.
+4a3a3a0821 Certains jours, je dois labourer du lever au coucher du soleil.
+387efbbf96 J’adore m’écrouler face contre mon lit.
+3d5ffcb1e4 ✗
+e065d0e659 Zarutska a obtenu son diplôme au Synergy College de Kiev, en art et restauration, selon son avis de décès.
+d088ea15fc « L’avenir de l’Ukraine est au sein de l’UE », a écrit le président ukrainien Volodymyr Zelensky sur Twitter après la décision, la qualifiant de « moment unique et historique » dans les relations de Kiev avec le bloc.
+3f2090c204 Après que Vladimir Poutine a annoncé la semaine dernière l’annexion de quatre provinces ukrainiennes, Kiev a déclaré avoir déposé sa demande d’adhésion à l’OTAN, et qu’elle ne négocierait pas avec la Russie tant que Poutine serait président.
+43349f6846 Dans leurs articles, les journalistes déforment parfois la vérité.
+daab6c1771 Drôle de prénom. Qui penserait à appeler un nouveau-né Muriel ?
+8e913f5515 La force nécessaire pour comprimer un ressort varie linéairement avec le déplacement.
+ed76e5e95d Notre nouveau modèle se compresse facilement, idéal pour le rangement et les voyages.
+2a647038a1 ✗
+c0baa2bbb9 ✗
+d7610be11c ✗
+695ef85c7f ✗
+3edc65dc48 = Many a man is a moral ⟦cripple⟧ without knowing it. | Bien des hommes sont des infirmes moraux sans le savoir.
+edf3a2baf9 = The judge will not ⟦defer⟧ the ruling any longer. | Le juge ne différera pas davantage sa décision.

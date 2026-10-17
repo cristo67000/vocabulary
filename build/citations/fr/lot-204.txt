@@ -1,0 +1,202 @@
+# lot 204 — mots de la bande « étendu » : ache, antiquity, betray, biscuit, boob, racer, clamp, commuter, compute, contemplate, contradiction, coop, crook, cracker, cultivate, defy, depict, diagnose, divert, endeavour, enact, entertainer, eater, finalist, gadget, gasp, glitch, hoop, hound, inject, manifestation, migrate, mould, mourn, muster, noodle, nipple, orient, override, reclaim, reflex, reinforcement, reopen, regent, relocate, riddle, rumble, sanction, sediment, seam, sew, simulate, sniff, stereotype, steward, stride, stump, stumble, subordinate, swarm, tanker, torpedo, trooper, Trojan, unfold, wavelength, reflex
+# écartés : sexe (genital), paroles de chansons (wavelength), notes « Near-synonyms » et « Meronyms »
+c8b022160a Si vous ne faites pas de scandale à propos du problème, rien ne sera fait.
+b4391d4b8a Les pots étaient empilés en tas, recouverts de copeaux et de brindilles, puis surmontés d’un dôme de mottes de gazon, en laissant quelques aérations sur les côtés. Une fois l’ensemble terminé, le clamp était cuit […]
+bbaba4384f Une fois la plage de profondeur bornée, la valeur de profondeur est lue dans le tampon de stencil, et les deux valeurs sont comparées à l’aide d’une fonction de comparaison de profondeur sélectionnable […]
+c1b5635c8d Je ne suis resté garé là que cinq minutes, mais mon véhicule était quand même bloqué par un sabot.
+50864218e2 Sa contestation de la proposition était très intéressante.
+5c3be2bf4a Il y a une contradiction dans ce que tu dis : elle ne peut pas être à la fois mariée et célibataire.
+3b10b581ff Marx pensait que les contradictions du capitalisme conduiraient au socialisme.
+a93ed13db5 = Serve the soup with prawn ⟦crackers⟧ on the side. | Servez la soupe avec des crackers de crevettes en accompagnement.
+3dc1e82825 Elle s’efforçait de nous enseigner les éléments d’un bon style de prose.
+563a71e4d4 Je ne suis pas du tout une animatrice-née. Je n’ai ni sous-verres ni verres à vin, et je préfère passer mon samedi soir à décider quoi faire de mon levain qu’à jouer les hôtesses.
+bff6a063e0 Soto avait déjà été finaliste en champ droit, en 2022, lorsqu’il avait perdu face à Mookie Betts des Los Angeles Dodgers.
+89729bb653 Si les disqualifications laissent un poste vacant dans le nombre complet de finalistes, des épreuves de départage seront organisées entre les nageurs disqualifiés jusqu’à ce que le nombre complet de finalistes soit assuré.
+c8d3e2d1fd Il a acheté un nouveau petit gadget pour râper les pommes de terre.
+694453ec67 Vous avez accumulé pas mal de gadgets ! Vous en utilisez certains ?
+9a811ff368 Du Marvel Mixmaster au Miracle Microwave, chaque fois qu’un nouveau gadget à la mode a fait son entrée dans la cuisine australienne, les mamans australiennes ont adapté leur façon de cuisiner en conséquence.
+5dc6e0fff2 Un gadget Spectre a été trouvé dans l’implémentation des interruptions système du noyau Linux.
+933340663f Le public a eu le souffle coupé lorsque le magicien a disparu.
+495ed8a498 Nous étions tous à bout de souffle en atteignant le sommet.
+4c0cbbde19 Elle suffoque et lutte désespérément pour sa vie.
+4988044750 Le vieil homme a exhalé ses dernières paroles.
+c15a50aecb Le public a poussé un cri d’étonnement.
+841360dc40 Je sors prendre l’air.
+6e755fe406 ✗
+f73c14aeb7 Ils essaient encore de corriger tous les bugs.
+b5c4fc1b21 Les bugs : le mot des astronautes pour désigner les perturbations gênantes.
+5d6afbb569 Réaliser ce bug vous donne des vies supplémentaires.
+06d27cc77f Puis de nouveau la navette, et retour au Normandy à partir d’ici.
+035fd73bce l’ovale de son visage
+4d3e1ca712 une dirigeante dans le moule de ses prédécesseures
+c4c3c3fc7a Tournez les écrous de rayon d’un seul tour pour chaque rayon de la nouvelle roue, tout autour, jusqu’à ce qu’ils soient tous bien serrés, puis vérifiez l’alignement.
+a61c37302a J’ai bien vu qu’il n’était pas d’accord, mais il est allé au coin et a pris son fusil à écureuil, sentant la cheminée pour y placer une capsule.
+1d241d3ad4 Il était pilote de moto dans sa jeunesse et un visiteur fréquent de l’île de Man, où il avait beaucoup d’amis.
+7686573abe Pour notre jeu de karting, nous commencerons par étudier les éléments communs à des jeux similaires que nous devrons faire vivre […]
+13dbb74220 Cette perception, cependant, ne rend pas justice aux régents de la ville d’Amsterdam.
+78549d58f2 J’ai cousu un bouton.
+5c04cbab4b Elle [Kate Spade] a pris l’étiquette, qui se trouvait à l’origine à l’intérieur du sac, et l’a cousue à l’extérieur.
+11bfd3022f coudre de l’argent dans un sac
+2f17823754 un administrateur laïc dans une église méthodiste
+4263320601 Les kibboutzniks gays que j’ai rencontrés étaient tous d’anciens kibboutzniks qui occupaient désormais des postes de stewards chez El Al, ou des métiers gays tout aussi classiques.
+e1b473f64c se remuer
+cf80761242 Elle était subordonnée à la raison, sans être asservie.
+71fd11540b Dans la phrase « The barbecue finished before John arrived », la subordonnée « before John arrived » précise le moment de la principale, « The barbecue finished ».
+e508aa48e4 Les manifestations au Brésil se déploient au moment même où son long boom économique tant vanté pourrait toucher à sa fin.
+fdb399495f déplier une carte ; déplier une nappe ; Elle déballe la nouvelle robe et la déplie soigneusement.
+e81da2a1c6 Les événements se sont déroulés de façon inattendue.
+7c8ef9fa9d Les rideaux se sont ouverts pour révéler la scène.
+f4ad60149b déployer ses projets ; dérouler les principes d’une science
+f2110b95d0 ✗
+ae27f7e97e Je crois que toi et moi ne sommes pas sur la même longueur d’onde.
+9a9bef8887 ✗
+7d63777f44 Ce sont les navetteurs, expliqua-t-il. « On ne peut pas plaire aux navetteurs, on peut seulement ne pas leur déplaire. »
+1cce0d203d Il prend le train de banlieue jusqu’au siège au moins une fois par semaine.
+23965bfcc7 L’infirmière a injecté un antalgique dans la veine de mon avant-bras.
+2df3a70f5f Maintenant, allongez-vous pendant que nous vous injectons l’anesthésique.
+416131eb9b injecter les vaisseaux sanguins
+5065fee66a Le punk a injecté un sens de l’urgence bien nécessaire dans la scène musicale britannique.
+e3931ab3ac Laissez-lui le temps de se situer dans la nouvelle hiérarchie.
+2c22e2defb Analyste système informatique II […] Détermine et résout les problèmes de traitement des données et coordonne le travail avec les programmeurs, les utilisateurs, etc. ; oriente le personnel utilisateur sur les procédures nouvelles ou modifiées.
+14f90b5d76 Les ouvriers ont orienté tous les panneaux vers la route.
+6e762d1eda = Your error, once ⟦reclaimed⟧, is pardonable. | Une fois que vous avez été ramené dans le droit chemin, votre erreur est pardonnable.
+c19f06bafe = The festival is a ⟦reflex⟧ of an ancient harvest rite. | Cette fête est le reflet d’un ancien rite de moisson.
+33ca66078c La forme en coréen moyen de mey était mwoy 뫼
+ae73b797c0 La HS2 passera en tranchée profonde, en plein carrefour routier très fréquenté qui devra être déplacé.
+cf7052f08e Nous avons dû déplacer le porte-revues, car nous nous cognions trop souvent les tibias contre lui lorsqu’il était près de la porte.
+69d2d04827 Alfred a déménagé à Colorado Springs pour profiter du boom de l’industrie de la défense.
+bd3fc22a62 J’ai déplacé l’oiseau que j’ai repéré la semaine dernière.
+738115a78e Voici une énigme : elle est noire, blanche et rouge partout. Qu’est-ce que c’est ?
+bae102cf00 = The engineer showed us the coal ⟦seam⟧ in the mine. | L’ingénieur nous a montré la veine de charbon dans la mine.
+1460270610 Les coutures peuvent être réalisées ou scellées de diverses manières, notamment par collage adhésif, soudure à air chaud, soudure par solvant, au moyen de bandes adhésives, de produit d’étanchéité, etc.
+d21a450a0d = The stitches formed a neat ⟦seam⟧ along the sleeve. | Les points formaient une couture nette le long de la manche.
+c918124488 Ce jeu vidéo simule un flipper.
+95662aea99 Nous utiliserons une machine à fumée pour simuler le brouillard que vous rencontrerez réellement.
+8912a3ea88 Le chien a reniflé dans le parc, cherchant une bonne odeur.
+e4eb30ca88 J’ai flairé la viande pour vérifier si elle était avariée.
+0d6d4719b8 On dirait que j’ai choisi la mauvaise semaine pour arrêter de sniffer de la colle.
+ab57638477 « Il ne reviendra jamais, n’est-ce pas ? » renifla-t-elle en regardant sa photo.
+9fa9e46b59 Cette occasion n’est pas à dédaigner.
+1663e861b6 un essaim de météorites
+2d8f2ca1da Les tremblements de terre étaient une autre source d’inquiétude, surtout après que des essaims sismiques ont été ressentis en Oklahoma.
+0f2d432e10 = The beach was ⟦swarming⟧ with tourists. | La plage grouillait de touristes.
+a3f27c498f = The boys tried to ⟦swarm⟧ up the greasy pole. | Les garçons essayaient de grimper au mât graissé.
+d57f74b4c9 Le chenal de Chan-chiang est dragué à une profondeur de 50 pieds pour permettre l’escale de pétroliers de 70 000 tonnes.
+1681f11633 Le gouvernement ne fait pas non plus face à une grève des chauffeurs de citernes, comme c’était le cas au début de 1979, pendant l’hiver du mécontentement.
+d82d02800b Le 19 février 1943, les tankistes américains ont ressenti toute la fureur de l’armée allemande en Afrique du Nord, lorsque sa pointe blindée a percé une brèche de deux miles de large dans les lignes américaines au col de Faïd, en Tunisie […]
+e6e7cb0449 « Une mésaventure d’enfance avec une torpille », confie Dixon en tournant brièvement la tête vers Mason, — d’où sa sensibilité à toute allusion, murmure-t-il, « électrique ! »
+f12a1692e6 La décision (5 voix contre 4) du banc de neuf juges a torpillé le gouvernement fragilisé de Srettha, qui n’a pas réussi à obtenir le soutien du parlement ni celui de l’opinion publique thaïlandaise.
+4c69a8c223 Mes pieds me faisaient mal pendant des jours après le marathon.
+f7dc164e71 Chaque muscle de son corps le faisait souffrir.
+830234ea2c Vous pourriez ressentir une légère douleur au côté.
+8b489c5de5 Les courbatures et les douleurs se sont atténuées après la prise d’un analgésique.
+d98d4f0a0c Cicéron était un orateur éloquent de l’Antiquité.
+0701799b78 Une nouvelle vidéo diffusée par l’État islamique montre des militants détruisant ce qu’ils affirment être des antiquités dans un musée de Mossoul, en Irak.
+77da1ded3e = The peoples of ⟦antiquity⟧ built the first cities. | Les peuples de l’Antiquité ont bâti les premières cités.
+2bd7128377 On attend l’effet pratique de la nouvelle loi gouvernementale anti-grève sur les conflits ferroviaires en Grande-Bretagne, depuis que la loi a été promulguée.
+35251e1fa6 = At school I once ⟦enacted⟧ Julius Caesar. | À l’école, j’ai une fois interprété Jules César.
+b4e8f22ccb = The magician ⟦enacted⟧ wonders before the crowd. | Le magicien accomplissait des prodiges devant la foule.
+f8255bda7b Les chiens de chasse aboyaient après un renard.
+d8dd94342f À la sortie du bâtiment, on m’a demandé mon autographe. Si j’avais su à qui le chasseur de signatures me prenait, j’aurais signé en conséquence.
+3c586416cc Je ne sais toujours pas s’il a accepté cette affaire parce qu’il est un chasseur de gloire, parce qu’il veut la publicité, ou s’il voulait simplement aider Anna.
+bee595f4bf = He was a ⟦hound⟧ who chased every girl in town. | C’était un coureur qui pourchassait toutes les filles de la ville.
+f88456b016 La dernière manifestation connue du fantôme remonte à plus de dix ans.
+eeb9966df2 Cette manifestation particulière ressemblait à une jeune fille qui pleurait.
+49ff6fb0a7 Il y a eu des émeutes antisémites dans plusieurs lycées, et des manifestations de diplômés au chômage sortant de ces établissements.
+f6b1ce8d36 Deux fois par an, les oies migrent : de la Floride au Canada, puis retour.
+f004d79631 Deux fois par an, les Minnésotains migrent de leur État vers le golfe du Mexique.
+1d0096d535 De nombreux groupes avaient migré vers l’Europe occidentale depuis les plaines de l’Europe orientale.
+1b2a931ec5 Pour échapper aux persécutions, ils ont émigré dans un pays neutre.
+410836ad3e Pendant deux mois, elle a pleuré la mort de son père.
+46c851ab46 Elle pleurait la perte de son indépendance.
+b955f98dc5 Dans cette société, on porte le deuil d’un conjoint pendant un an, et d’un parent pendant six mois.
+f836a592d2 Il existe un site web qui peut être un bon renfort pour l’apprentissage.
+dc6174c93c Tuchel avait exigé de l’énergie, un raffinement des liens entre ses joueurs, un renforcement de l’identité qu’il voulait voir émerger du programme d’automne. Cela ne s’est pas vraiment produit.
+c07bc70f5f Envoyez les renforts !
+2229940c4f Le grondement des camions qui passaient rendait le sommeil difficile la nuit.
+4650118d5f = The valet sat on the ⟦rumble⟧ at the back of the carriage. | Le valet était assis sur le siège arrière de la calèche.
+af8a78d40e Si je ne mange pas, mon ventre va gargouiller.
+f952fbddae J’entendais le tonnerre gronder au loin.
+5f0fa366b3 La police va faire une descente dans ta planque.
+7441418b89 Le camion roulait bruyamment sur la route cahoteuse.
+80c51d9462 Henderson, qui entamait une petite série dans l’équipe, David de Gea étant en congé paternité, a lancé sur l’aile gauche, et Shaw n’avait qu’une pensée : foncer vers l’avant.
+1423403da3 Les baleiniers opéraient dans les eaux contestées au large de l’île avec l’aval du gouvernement japonais.
+b3c5d01beb Les États-Unis ont adopté un nouveau train de sanctions contre le régime d’apartheid de l’Afrique du Sud.
+788d622c58 L’inaction de l’école sanctionne davantage cette mauvaise conduite.
+05dc017ef1 Tous les Zumbetoniens ne portent pas de tennis. Ce n’est qu’un stéréotype.
+3d56ae6c54 Réconfortant : une fille trans brise les stéréotypes en étant la pire de l’équipe de natation des filles.
+951dd5f239 figer la Bible dans des stéréotypes
+0e872a187c = Poverty tends to ⟦stereotype⟧ social divisions. | La pauvreté tend à figer les divisions sociales.
+190b9cf0fd La technologie ferroviaire a progressé pas à pas : l’électrification fut un bon pas en avant, plutôt qu’un petit pas.
+57de87cdae = The horse ⟦strides⟧ across the meadow. | Le cheval traverse la prairie à grandes enjambées.
+6c7772c66c = No one dared to ⟦stride⟧ over the line. | Personne n’osait franchir la ligne d’un pas.
+908f931b2f = The child tried to ⟦stride⟧ the ditch in one jump. | L’enfant essaya d’enjamber le fossé d’un bond.
+e9beb649a9 Elle s’éloigna d’une démarche déterminée.
+0005400c8e Cette valeur de pas est généralement égale à la largeur en pixels de la bitmap multipliée par le nombre d’octets par pixel, mais pour des raisons de performance elle peut être arrondie […]
+10f8df04ae Il a trahi sa propre sœur auprès de la police secrète.
+3a6e1296bd Un officier a trahi la ville.
+d66e6db56e Mes yeux me trahissent depuis mes soixante ans.
+e28175bff9 trahir une personne ou une cause
+6b947df696 Bien qu’il ait vécu de nombreuses années en Angleterre, un léger accent trahissait ses origines suédoises.
+9059a4045c La plupart des agriculteurs de cette région cultivent le maïs.
+7d2466704e Mon passe-temps consiste à récolter les spores de certaines des variétés sauvages les plus délicieuses de champignons, comme les morilles, les grosses vesses-de-loup et les pleurotes, puis à les cultiver.
+3f611ea6dc Ils ont tenté de cultiver le goût de l’apprentissage chez leurs élèves.
+53b760b182 défier un ennemi ; défier le pouvoir d’un magistrat ; réfuter les arguments d’un adversaire ; braver l’opinion publique
+6b7bfb4547 Si vous défiez votre professeur, vous risquez de finir en retenue.
+7a074aa7b7 Avant l’arrivée des forces de la coalition, l’Irak était gouverné par une dictature qui assassinait ses propres citoyens, menaçait ses voisins et défiait le monde.
+a888f5c080 Les ouvriers ont détourné le ruisseau de la route.
+b636a88b01 Beaucoup des trains restants ont été reprogrammés, et là où c’était possible, les trains de marchandises ont également été détournés vers d’autres itinéraires.
+9778f9b5e8 Mais, malgré des dialogues de bois, dénués d’humour, une caractérisation rigide et l’effroyable absurdité de l’ensemble, Good News parvient à nous distraire pendant ses trois heures.
+daa1c6b421 Ne le laisse pas te détourner l’attention ; garde les yeux sur la balle.
+fdd1260941 Je suis un mangeur lent mais méticuleux.
+7ecd9b912a un mangeur très difficile
+3a72c31c31 Pour le marché britannique, les pommes sont classées en précoces, de mi-saison ou tardives, et subdivisées en pommes à couteau ou à cuire.
+cba31fadda Le mangeur peut aussi détruire un escargot, mais il change de phase en le faisant.
+e814870f83 = The whole male population, men and boys, ⟦mustered⟧ on the top of the hill. | Toute la population masculine, hommes et garçons, s’était rassemblée au sommet de la colline.
+d7534b7cc9 Je n’ai pas trouvé le courage de le lui dire.
+ca5ef1a573 Elle rassemble un sourire pour son récit nostalgique.
+95ea646e6b = The ⟦muster⟧ of guests filled the hall. | Une foule d’invités remplissait la salle.
+95ff179d1f Pour raccourcir son chemin et se hâter jusqu’au rassemblement, il prend une route perdue depuis longtemps.
+b59896eb93 Elle aspira une longue nouille de sa soupe.
+83baf3f04a Il a apporté deux boîtes de nouilles instantanées mami.
+61a16b4b01 Une cinquantaine de personnes ont été évacuées d’une rame de l’Overground londonien en heure de pointe, le 12 octobre, après qu’un train de huit voitures a franchi les butoirs en gare d’Enfield Town.
+28d8bb1b03 Le Congrès a aussitôt annulé le veto du président, faisant passer le projet de loi en loi.
+bae8605e31 En conception automobile, la sécurité devrait primer sur des facteurs secondaires comme l’esthétique et les économies sur les finitions.
+b9166cc3f0 La façon dont le chat court est définie dans la méthode run() de la classe Cat, qui redéfinit la même méthode, avec la même signature, de la superclasse appelée Mammal.
+709885d041 Les commandes manuelles permettent à l’utilisateur de remplacer les réglages par défaut de l’appareil photo.
+eb1caf28eb Selon Barnes : « La priorité suivante [pour le conseil du comté de Devon] est la réouverture de la ligne de Tavistock à Plymouth. »
+acc250d02b Dès la déclaration de l’Allemagne, elle rouvrirait sa guerre inhumaine par l’emploi aveugle des sous-marins.
+eee8705e4b Pourtant, les responsables de la ville affirmaient que les sections non brûlées de la galerie haut de gamme Westfield Galleria, à Roseville, pourraient rouvrir dans quelques semaines, à temps pour la saison des achats de fêtes.
+c604276b73 Le delta du Nil est composé de sédiments charriés par le fleuve et déposés à son embouchure.
+21c2c0117e = The ⟦stumble⟧ on the icy path left him bruised. | Sa chute sur le chemin verglacé l’a laissé couvert de bleus.
+c004cd4135 Elle reconnaît quelques débuts difficiles, comme des bouteilles mal étiquetées.
+1e96b1e64e Il a trébuché sur une pierre.
+260dae0810 Hier soir, tu as titubé ivre jusqu’à la porte d’entrée, réveillant toute la maison.
+ee3b77042e = This clue ⟦stumbled⟧ the detective for hours. | Cet indice a égaré l’inspecteur pendant des heures.
+5be9a2bbe2 Je bute toujours sur les verbes en espagnol.
+f7e540bc98 = The ⟦trooper⟧ carried soldiers across the Atlantic. | Le transport de troupes a emmené des soldats à travers l’Atlantique.
+c83f82bd33 bosser comme un forcené
+cff22624e5 Laisse-moi tout gérer, et je te ferai traverser cela comme un guerrier de Troie.
+0b0751b3db Tu sais que tu devrais te lever, mais l’idée de te rendre à la salle de bains pour te laver est une tâche titanesque. À quoi bon ?
+a57fc92e81 Il disait qu’il s’était senti un vrai boulet à l’école, et que personne ne lui parlait.
+f0ebbb4a18 Quelqu’un ici peut-il calculer la racine carrée de 10201 ?
+5bc8426da5 Coxhead (2000) a calculé que l’AWL couvrait environ 10 % du corpus académique dont il était issu.
+c63a2004f6 Ça marche, ou dois-je expliquer davantage ?
+e8d4fe8c4d Et tu te sentirais complètement idiot si, quand tu demandais où est le biscuit, un message s’affichait : « Les biscuits ne calculent pas. Ta femme a programmé ton régime. »
+6b1cdccb19 J’ai envisagé de réaliser le projet moi-même, mais cela aurait pris trop de temps.
+d7ebc28dd6 « Eh bien, dit Calvin, on pourrait aller au poulailler cet après-midi, quand toutes les poules sont à l’intérieur en train de pondre. On trouverait peut-être des indices. »
+01079ff342 = The fishermen set their ⟦coops⟧ at the river mouth. | Les pêcheurs ont installé leurs nasses à l’embouchure de la rivière.
+a1c85a8793 coop. (argot, depuis env. 1880, en province) Prison : 1785, Sessions Papers of the Old Bailey, septembre, p. 1111, « Il a passé une semaine au trou » ; […]
+1050496ae6 Elle tenait le bébé au creux de son bras.
+278cf66cad Les gens doivent savoir si leur président est un escroc ou non. Eh bien, je ne suis pas un escroc. J’ai gagné tout ce que j’ai.
+a0312d9834 Dans ces premiers temps du cinéma muet, l’accent était surtout mis sur les frissons et le danger fournis par des locomotives prétendument imparables, avec des bandits ou des fous sur la plate-forme.
+d4b93ab35d Même si je marche dans une vallée obscure comme la mort, je ne crains aucun mal, car tu es avec moi ; ta houlette et ton bâton me rassurent.
+0fb973d703 le crochet d’une canne
+cf173df221 Il m’a fait signe du doigt.
+e38b0dc7f9 Des images informatiques en fausses couleurs montrent des poumons prélevés sur une souris.
+b8b61606f9 Ici, la musique dépeint le délicat motif de glace sur les vitres.
+cd09d29c3b Les mécaniciens utilisent cet outil très portable pour diagnostiquer les pannes moteur, effacer les codes d’erreur et exporter les données.
+e4796e0232 le cercle à fromage, ou cylindre dans lequel le caillé est pressé pour fabriquer le fromage
+cf31b3d737 un arceau entre les arbres
+a0971484f3 ✗
+e53bde7097 = The candidate went on the ⟦stump⟧ to rally voters. | Le candidat est parti en tournée électorale pour rallier les électeurs.

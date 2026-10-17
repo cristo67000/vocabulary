@@ -1,0 +1,201 @@
+# lot 133 — citations anciennes des mots courants : secret, senior, wear, address, sweet… et locutions (as you like, time was, of all people…) ; sens morts écartés
+81fa642a9b ✗
+ac911df155 = He’s named after his father, so people call them John ⟦Senior⟧ and John Junior. | Il porte le prénom de son père : on les appelle donc John père et John fils.
+19800065b2 = The museum offers free entry to ⟦seniors⟧ on Tuesdays. | Le musée est gratuit pour les seniors le mardi.
+be57eef2f0 = The carpet shows signs of ⟦wear⟧ near the door. | La moquette montre des signes d’usure près de la porte.
+801e3e545f = The president gave a televised ⟦address⟧ to the nation on Sunday evening. | Le président a prononcé une allocution télévisée dimanche soir.
+677c1040d4 = The air was ⟦sweet⟧ with the smell of cut grass. | L’air embaumait l’herbe coupée.
+ddabef1700 ✗
+70187a1a80 ✗
+212ac75ab1 ✗
+e304da5bb0 = He spent the weekend polishing his ⟦machine⟧, a vintage Triumph motorbike. | Il a passé le week-end à astiquer sa machine, une moto Triumph de collection.
+0f69c9628b ✗
+1a1ae28f03 = Rain began to ⟦spot⟧ the windscreen. | La pluie commença à moucheter le pare-brise.
+245ba7ab48 = Between performances, the wig is kept on a polystyrene ⟦block⟧. | Entre deux représentations, la perruque reste sur une tête en polystyrène.
+156d163002 = The ⟦killing⟧ of elephants for ivory is banned. | L’abattage des éléphants pour l’ivoire est interdit.
+50b0ddba7b ✗
+20e851f80b = Each anther has two ⟦cells⟧ that hold the pollen. | Chaque anthère comporte deux loges qui contiennent le pollen.
+b137bd3e5f = Use your little grey ⟦cells⟧, as Poirot would say. | Fais travailler tes petites cellules grises, comme dirait Poirot.
+058f7dd4b7 ✗
+15fc69efa1 = Her personal ⟦library⟧ runs to over three thousand books. | Sa bibliothèque personnelle compte plus de trois mille livres.
+12656d9645 ✗
+2ef611d70a ✗
+61896fa3bc = She buys clasps, hooks and other ⟦findings⟧ online for her earrings. | Elle achète en ligne des fermoirs, des crochets et autres apprêts pour ses boucles d’oreilles.
+d9b625e5dc ✗
+9fd604216d = Small businesses are the ⟦engine⟧ of the local economy. | Les petites entreprises sont le moteur de l’économie locale.
+ea34b887fb ✗
+981c5f3647 = Our youngest has always been a bit of a ⟦worry⟧. | Notre petit dernier nous a toujours donné du souci.
+f097045fec ✗
+bb7cd1b424 = The town has a ⟦score⟧ of restaurants, all within walking distance. | La ville compte une vingtaine de restaurants, tous accessibles à pied.
+b828926750 = The camera ⟦clicked⟧ and the photo appeared on the screen. | L’appareil a fait clic et la photo est apparue à l’écran.
+d4ac0842c3 = The shop only sells products made without ⟦animal⟧ ingredients. | La boutique ne vend que des produits sans ingrédients d’origine animale.
+cd56949be6 = You have the ⟦option⟧ of paying monthly or yearly. | Vous avez le choix entre un paiement mensuel et un paiement annuel.
+1374e9951e = Christians believe that Jesus is the ⟦Christ⟧ foretold by the prophets. | Les chrétiens croient que Jésus est le Christ annoncé par les prophètes.
+35424731d4 = He made a few ⟦casts⟧, but the fish weren’t biting. | Il fit quelques lancers, mais les poissons ne mordaient pas.
+02566c2c90 = The ⟦handle⟧ of my suitcase broke at the airport. | La poignée de ma valise a cassé à l’aéroport.
+7d182f306c ✗
+03ebe001b0 ✗
+f5809d0bef ✗
+c3601378c6 ✗
+6c827e106c = The nurse cleaned and ⟦dressed⟧ the wound. | L’infirmière a nettoyé et pansé la plaie.
+bb98836394 = The documentary ⟦woke⟧ a new interest in local history. | Le documentaire a réveillé l’intérêt pour l’histoire locale.
+e5b8f9133c = The government wants to ⟦develop⟧ renewable energy in the region. | Le gouvernement veut développer les énergies renouvelables dans la région.
+cead25fefa = The medium claimed that her spirit ⟦guide⟧ spoke through her. | La médium affirmait que son guide spirituel parlait par sa bouche.
+068c2441d8 = My old boss agreed to give me a ⟦reference⟧. | Mon ancien patron a accepté de me faire une lettre de recommandation.
+364e14d99b ✗
+126aa9e802 ✗
+0d4272236b ✗
+34ac5710ed ✗
+fd32866fc5 ✗
+2d5940dcaa = There was a general ⟦cry⟧ against the new parking charges. | Les nouveaux tarifs de stationnement ont provoqué un tollé général.
+b80062c619 ✗
+8ec202ca81 ✗
+6aa5d752a0 ✗
+22c2b04e74 = The new factory will be ⟦located⟧ near the motorway. | La nouvelle usine sera implantée près de l’autoroute.
+3cf90412ca ✗
+14367762ce = ‘Shall we take the train?’ ‘⟦As you like⟧.’ | « On prend le train ? — Comme tu veux. »
+b13280c5a5 = ⟦Time was⟧ when you could leave your door unlocked round here. | Il fut un temps où on pouvait laisser sa porte ouverte, par ici.
+83e9295f9e = Why did she ask him, ⟦of all people⟧, to organise the party? | Pourquoi lui a-t-elle demandé à lui, entre tous, d’organiser la fête ?
+890a81d835 = I can’t come tonight — ⟦you see⟧, my car’s at the garage. | Je ne peux pas venir ce soir : tu comprends, ma voiture est au garage.
+340d49e90d = ‘⟦There, there⟧,’ she said, hugging the crying toddler. | « Là, là, c’est fini », dit-elle en serrant dans ses bras le petit qui pleurait.
+f1cd9d1ec7 = We chatted about ⟦this, that, and the other⟧ until midnight. | On a parlé de tout et de rien jusqu’à minuit.
+65366bb5ee ✗
+5685fdedca = The internship could put her ⟦in the way of⟧ a permanent job. | Ce stage pourrait la mettre sur la voie d’un emploi stable.
+308f48e0aa = Is there anything ⟦in the way of⟧ vegetarian food on the menu? | Y a-t-il quelque chose de végétarien au menu ?
+3151a7658d ✗
+ede7ed8ef7 ✗
+ce04f26d2b = We got to the airport ⟦in good time⟧ for our flight. | Nous sommes arrivés à l’aéroport largement à temps pour notre vol.
+2ee31b3e81 = She decided ⟦then and there⟧ to quit her job. | Elle a décidé sur-le-champ de quitter son emploi.
+743db340f9 = The final is played over the ⟦best of⟧ five sets. | La finale se joue au meilleur des cinq sets.
+66e3f668a2 = ‘Is this the right button?’ ‘Yes, ⟦that’s it⟧!’ | « C’est ce bouton-là ? — Oui, c’est ça ! »
+317f166dac ✗
+3110a8cecb = ‘This is my colleague, Anna.’ ‘⟦How do you do⟧?’ | « Je vous présente ma collègue, Anna. — Enchanté. »
+c97e040611 ✗
+688b9adf56 = The skipper decided to ⟦come to⟧ and wait for the wind to drop. | Le skipper décida de mettre en panne et d’attendre que le vent tombe.
+be934f90cc = He looked ⟦for all the world⟧ like a lost tourist. | Il avait tout l’air d’un touriste égaré.
+3d7c0e122b = The doctor ⟦looked at⟧ my ankle and said it wasn’t broken. | Le médecin a examiné ma cheville et a dit qu’elle n’était pas cassée.
+09bf846759 = I’ll ⟦look out⟧ my old photos and send you a few. | Je vais ressortir mes vieilles photos et t’en envoyer quelques-unes.
+3e7fc73682 = It’s ⟦no use⟧ calling him — his phone’s off. | Ça ne sert à rien de l’appeler, son téléphone est éteint.
+2da5282c3c = The last bus has gone, so we ⟦may as well⟧ walk. | Le dernier bus est passé, autant rentrer à pied.
+44834cf198 = The power company has a ⟦right of way⟧ across the farm for its cables. | La compagnie d’électricité dispose d’une servitude de passage sur la ferme pour ses câbles.
+3fb826b5ac = ⟦Say what you like⟧, she’s a brilliant manager. | Tu diras ce que tu voudras, c’est une excellente gestionnaire.
+b3c517a272 = She married her ⟦first love⟧ after meeting him again at a school reunion. | Elle a épousé son premier amour après l’avoir retrouvé à une réunion d’anciens élèves.
+357b41bea4 ✗
+b63022a013 ✗
+4b79e914d6 ✗
+79901cc8fc = When the police showed him the CCTV footage, he knew ⟦the game was up⟧. | Quand la police lui a montré les images de vidéosurveillance, il a compris que les carottes étaient cuites.
+6da4267d38 = If that app takes off, she’ll be ⟦made for life⟧. | Si cette appli décolle, elle sera à l’abri du besoin pour le restant de ses jours.
+a5e4ccc7a3 = The new flat is better ⟦in every way⟧. | Le nouvel appartement est mieux à tous points de vue.
+1221595ad7 = Come on, who ⟦put you up to⟧ this? | Allez, qui t’a poussé à faire ça ?
+8efa4dc5b5 = We missed the train by a minute, but ⟦that’s life⟧. | On a raté le train d’une minute, mais c’est la vie.
+f39cdc4149 = The band ⟦marched⟧ down the high street. | La fanfare a défilé dans la grand-rue.
+4d9975cc9c ✗
+4ee3779e44 = The fox disappeared into its ⟦earth⟧ under the hedge. | Le renard disparut dans son terrier sous la haie.
+9b97466405 = She believed she had been put on ⟦earth⟧ to help others. | Elle pensait avoir été mise sur terre pour aider les autres.
+745e249ec7 ✗
+62d699cade ✗
+46e18378df = ⟦Brown⟧ the onions in a little butter. | Faites dorer les oignons dans un peu de beurre.
+57b6830630 = ⟦Smith⟧ is the most common surname in Britain. | Smith est le nom de famille le plus répandu en Grande-Bretagne.
+198881efa3 = After a night of ⟦broken⟧ sleep, I could barely keep my eyes open. | Après une nuit de sommeil haché, j’avais du mal à garder les yeux ouverts.
+1ae9550cad = She has published several ⟦learned⟧ articles on medieval music. | Elle a publié plusieurs articles savants sur la musique médiévale.
+02d2e419c0 ✗
+a8110e73a1 ✗
+79198a6132 ✗
+eb8b42c22d = Let’s meet for coffee ⟦mid⟧-afternoon. | Retrouvons-nous pour un café en milieu d’après-midi.
+726671a146 ✗
+2755520fde ✗
+8a6d1317cf = Strange, ⟦weird⟧ music drifted from the abandoned house. | Une musique étrange, inquiétante, s’échappait de la maison abandonnée.
+64324a1d75 ✗
+ce7b5f38b4 ✗
+f2f98be843 ✗
+4a180e7397 ✗
+098e606107 = How ⟦dear⟧ of you to remember my birthday! | Comme c’est gentil à toi de t’être souvenu de mon anniversaire !
+66e57fa54e = Seven is my ⟦lucky⟧ number. | Le sept est mon chiffre porte-bonheur.
+8e8f579446 = The library holds over a million ⟦volumes⟧. | La bibliothèque compte plus d’un million de volumes.
+b360675fd0 ✗
+90fa2beaf9 = A ⟦youth⟧ was arrested after the shop window was smashed. | Un jeune homme a été arrêté après le bris de la vitrine du magasin.
+83a56e6be7 = The fields are divided by ⟦dry⟧ stone walls. | Les champs sont séparés par des murets de pierres sèches.
+cb99335aaa = She took a seven ⟦iron⟧ for her approach shot. | Elle prit un fer 7 pour son approche.
+af2dcb5289 ✗
+824c323750 = ⟦Spanish⟧ grammar is easier than people think. | La grammaire espagnole est plus facile qu’on ne le croit.
+b2d7de1bdc ✗
+db03939542 = The ring is ⟦solid⟧ gold, not plated. | La bague est en or massif, pas plaqué.
+6cf5b1933a ✗
+54a9c5e536 = ‘Pride and Prejudice’ is a ⟦classic⟧ novel that every student reads. | « Orgueil et Préjugés » est un grand classique que tous les élèves lisent.
+9b0c78a51a = We stayed outside the city and only spent one day in Paris ⟦proper⟧. | Nous logions en dehors de la ville et n’avons passé qu’une journée dans Paris même.
+11e04d7977 ✗
+9e9a13c1c2 = Most of the world’s rainforests lie in the tropical ⟦zone⟧. | La plupart des forêts tropicales humides se trouvent dans la zone intertropicale.
+612fcecf7f ✗
+240cc93f73 ✗
+cf97608001 ✗
+107128944b ✗
+a910bc876f = She took ⟦command⟧ of the team after the coach resigned. | Elle prit la tête de l’équipe après la démission de l’entraîneur.
+ec13f775b4 = The fans ⟦chaired⟧ the goalkeeper off the pitch. | Les supporters portèrent le gardien en triomphe hors du terrain.
+045797c08c = Cats and dogs are the most popular ⟦domestic⟧ animals. | Les chats et les chiens sont les animaux domestiques les plus répandus.
+e6d968fea7 ✗
+253625f25e ✗
+16ce083600 ✗
+4cc36baf75 ✗
+e77a7b7310 = The speakers sat on the ⟦platform⟧ facing the audience. | Les orateurs étaient assis sur l’estrade, face au public.
+9314e5c8e9 = The party’s ⟦platform⟧ focuses on housing and transport. | Le programme du parti met l’accent sur le logement et les transports.
+38eb786e9b = There is no ⟦scientific⟧ evidence that the treatment works. | Il n’existe aucune preuve scientifique de l’efficacité du traitement.
+85f1aafa9b = A bomb disposal ⟦squad⟧ was called to the station. | Une équipe de déminage a été appelée à la gare.
+81553200b2 = We spent two weeks touring the west of ⟦Ireland⟧. | Nous avons passé deux semaines à sillonner l’ouest de l’Irlande.
+c24b825c17 ✗
+9e6b22cf03 ✗
+b217d2d120 = The herd is ⟦milking⟧ well this spring. | Le troupeau donne bien du lait ce printemps.
+ad4f96bbb9 ✗
+f079b708dd ✗
+8c1cf889e8 = Blossom ⟦snowed⟧ down from the cherry trees. | Les pétales tombaient des cerisiers comme de la neige.
+436f593576 ✗
+0dcd27a411 ✗
+b184ac7960 = My employer agreed to ⟦advance⟧ me a month’s salary. | Mon employeur a accepté de m’avancer un mois de salaire.
+0fa53c5c11 = She rejected his ⟦advances⟧ politely but firmly. | Elle repoussa ses avances poliment mais fermement.
+c48ce2b983 = Visitors can tour the queen’s private ⟦apartments⟧ in the palace. | Les visiteurs peuvent parcourir les appartements privés de la reine au palais.
+fb7bfb1fc7 = She founded the local ⟦chapter⟧ of the hiking club. | Elle a fondé la section locale du club de randonnée.
+9984a73676 = He ⟦faked⟧ his qualifications to get the job. | Il a falsifié ses diplômes pour obtenir le poste.
+da970beffb ✗
+c0ecc74bd9 = ⟦Numerous⟧ studies have shown the benefits of sleep. | De nombreuses études ont montré les bienfaits du sommeil.
+940672398b ✗
+823dcf2fde ✗
+fba897b404 = She ⟦smiled⟧ when she saw the photo of her grandchildren. | Elle a souri en voyant la photo de ses petits-enfants.
+a5b8c0c5a9 = He used a hand ⟦truck⟧ to move the washing machine. | Il a déplacé la machine à laver avec un diable.
+d3f149da63 ✗
+7bdd5edb89 ✗
+1f7b5cd63c ✗
+7c69a3ceba = With the ⟦passing⟧ of the years, the town has changed beyond recognition. | Avec le passage des années, la ville est devenue méconnaissable.
+02977a0c73 ✗
+92fa9cfdda = She painted the door a ⟦bright⟧ yellow. | Elle a peint la porte d’un jaune vif.
+990fddbf90 = It was a ⟦bright⟧, cold morning in January. | C’était un matin de janvier, clair et froid.
+51819d9bcd = My grandmother kept every newspaper ⟦cutting⟧ that mentioned our village. | Ma grand-mère gardait toutes les coupures de presse qui parlaient de notre village.
+4c23d9e86d = The train slowed down as it entered a deep ⟦cutting⟧. | Le train ralentit en entrant dans une profonde tranchée.
+02bf2b009c ✗
+e243f16a9b = The bacteria were grown in a nutrient ⟦medium⟧. | Les bactéries ont été cultivées dans un milieu nutritif.
+8e4ca8901d = The old ⟦salts⟧ in the harbour bar love telling stories. | Les vieux loups de mer du bar du port adorent raconter des histoires.
+3c4ba958bc = We had ⟦salt⟧ cod with potatoes for dinner. | Au dîner, nous avons mangé de la morue salée avec des pommes de terre.
+cd92f4ca3c = The streets were ⟦empty⟧ at five in the morning. | Les rues étaient désertes à cinq heures du matin.
+305558ad23 = The inquiry was opened at the ⟦instance⟧ of the victims’ families. | L’enquête a été ouverte à la demande des familles des victimes.
+49213422f5 = The negotiators hoped for a ⟦pacific⟧ settlement of the dispute. | Les négociateurs espéraient un règlement pacifique du différend.
+cf1ce8c485 = The tree ⟦branches⟧ low, so it’s easy to climb. | L’arbre se ramifie bas, il est donc facile à escalader.
+695241db4f ✗
+7ec690aa39 ✗
+d444f1ba59 = The course is ⟦framed⟧ for complete beginners. | La formation est conçue pour les grands débutants.
+451119239a ✗
+384ece2e1a ✗
+c8b28ffcba ✗
+76fa7b2c25 ✗
+8f5d8fcfd6 = She spent weeks ⟦scheming⟧ to get the promotion. | Elle a passé des semaines à manigancer pour obtenir la promotion.
+aae79aba6f = In the dry season, the cattle drink from the ⟦tank⟧ near the farmhouse. | À la saison sèche, le bétail s’abreuve à la retenue d’eau près de la ferme.
+1f6d87d797 = Regular exercise ⟦tends⟧ to improve sleep. | L’exercice régulier contribue à améliorer le sommeil.
+43087d70d6 ✗
+8b15f26999 = The new ⟦constitution⟧ was approved by referendum. | La nouvelle constitution a été approuvée par référendum.
+526f2a1551 = The ⟦crown⟧ is kept in the Tower of London. | La couronne est conservée à la Tour de Londres.
+1411ec958c = The ⟦employment⟧ of new technologies has cut costs. | Le recours aux nouvelles technologies a réduit les coûts.
+1e48b5c68b = My father ⟦golfs⟧ every Saturday morning. | Mon père joue au golf tous les samedis matin.
+6cabe4404e ✗
+e4996aca48 = The engine runs at 3,000 ⟦revolutions⟧ per minute. | Le moteur tourne à 3 000 tours par minute.
+b06f2538bb = My aunt keeps chickens and a couple of ⟦turkeys⟧ on her farm. | Ma tante élève des poules et deux ou trois dindes dans sa ferme.
+2424572385 ✗
+e386d5e327 = White trainers ⟦dirty⟧ so quickly. | Les baskets blanches se salissent si vite.
+ddfec4cfb7 = I think you’re in ⟦error⟧ on that point. | Je crois que vous faites erreur sur ce point.
+33af438b6a = He was ordered to pay ⟦maintenance⟧ for his two children. | Il a été condamné à verser une pension alimentaire pour ses deux enfants.

@@ -1,0 +1,202 @@
+# lot 181 — mots de la bande « étendu » : shotgun, sofa, spoil, spoiled, submarine, suburb, sympathetic, taxation, temper, Caesar, DIY, Eugene, Maggie, Midwest, Natalie, Sandra, aligned, altar, atlas, automation, cavalry, coffin, communism, conductor, confront, crow, decisive, decorative, definitive, epidemic, eternity, explode, extraction, fatty, filthy, flush, font, freestyle, glue, grandpa, hairy, homicide, inheritance, ironic, luggage, microwave, ounce, peel, performer, picnic, predominantly, primitive, providence, puppet, reproductive, restrict, righteous, rivalry, royalty, sausage, skeleton, spicy, sticky, sting, sufficiently, tick, unrelated, vacant, vent, vicinity, wan, wardrobe, warmth, wired, Baldwin, Brexit, Buddha
+# écartés : paroles de chansons, drogue, insultes, LaTeX, violence et meurtre, propos racistes, notes « Near-synonyms »
+d38f35887b ✗
+71db403d55 Le fils du fermier a rapporté une dinde de Thanksgiving qu’il avait abattue au fusil de chasse.
+53a2559a59 Nous sommes allés à vélo ce matin, moi, deux de mes frères, quatre autres enfants du quartier qui devaient être baptisés, et mon père avec quelques voisins adultes assis à l’arrière.
+4c5f4ea7b2 Elvis Presley est né dans une maison de deux chambres, une « shotgun house », à Tupelo, dans le Mississippi.
+076c78e8ca Il a acheté un grand canapé deux jours avant l’arrivée de ses proches.
+1b71efc274 Tout ce soleil me gâte pour les vacances dans le Grand Nord.
+9997ecd735 Assure-toi de remettre le lait au frigo, sinon il va tourner.
+019ea8ba96 = The soldiers returned home laden with the ⟦spoils⟧ of the campaign. | Les soldats rentrèrent chez eux chargés du butin de la campagne.
+e71361a976 Notre chat et le chien sont des monstres gâtés qui mendient à manger à chaque repas.
+146b719078 L’enfant était gâté par des cadeaux incessants.
+5bc06407d1 ✗
+770334c8d3 Moi : mais plutôt comme ça.
+e40d31dbd5 = The ⟦suburb⟧ of the castle was protected by a wooden wall. | Le faubourg du château était protégé par un mur de bois.
+c716102bef Vaublanc, à Saint-Domingue, était si sensible aux souffrances des travailleurs en France qu’il dut s’enfuir de Paris en août 1792 pour échapper à la colère des ouvriers français.
+459d72246c John avait l’air très contrarié. Je lui ai adressé un regard compatissant.
+302e725d97 La magie sympathique repose sur l’imitation ou la correspondance.
+d8fe863e1d = The healer used ⟦sympathetic⟧ magic, believing a lock of hair could cure the child. | Le guérisseur usait de magie sympathique, croyant qu’une mèche de cheveux pouvait guérir l’enfant.
+ead53f1a82 = Most of the ⟦taxation⟧ collected by the county is spent on schools and roads. | La plus grande partie des impôts levés par le comté sert à financer les écoles et les routes.
+0c786a453f être de bonne ou de mauvaise humeur, ou de caractère calme
+15a91655c9 Elle s’inclina devant lui pour le mettre de bonne humeur.
+b226510bae Il a un sacré caractère quand il a affaire à des vendeurs.
+bd3647c59c « Je suis désolé. L’alcool me met dans cet état. »
+cffa717f68 Quand j’ai appris la nouvelle, je me suis mis dans une colère terrible.
+d941813ae8 un accès de colère
+5f876c1b7e = The blacksmith ⟦tempered⟧ the blade in cold water to harden it. | Le forgeron a trempé la lame dans l’eau froide pour la durcir.
+9633703fec Surveille ton langage devant les enfants.
+876e42deef Il est bien beau de tempérer l’enthousiasme pour le rapport dans la plupart de ses détails, comme l’a fait depuis le débat la presse pensante […].
+396ea8aadd Pour les puissants, les Césars étaient flatteurs, déférents, sincèrement dévoués, prêts à tous les sacrifices, loyaux, empressés à servir.
+0bb34c0b38 Cinq des Césars furent tués entre 90 et 85 avant notre ère (D. G., 3, 114).
+292f6b9132 César peut discriminer injustement certaines races. Les chrétiens ne doivent pas contester les lois de César sur ces sujets ni les violer, mais s’y soumettre.
+5e986642da Des civils ukrainiens fabriquent des « hérissons » de fortune, soudant deux barres ou poutres en angle pour former une croix, puis en ajoutant une troisième pour qu’elle tienne debout même si elle est renversée.
+3589ef336e = My neighbour’s son ⟦Eugene⟧ is learning to play the violin. | Le fils de mon voisin, Eugène, apprend le violon.
+2a92ee86e4 Les villes d’Eugene et de Springfield ont annoncé vendredi soir qu’elles mettraient fin à l’utilisation de caméras de plaques d’immatriculation dotées d’IA et reliées à l’entreprise Flock Safety.
+48033033a6 J’ai bien vu que certains invités étaient déroutés par le prénom de Maggie — personne ne l’avait appelée ainsi, ce prénom lourd et démodé, depuis des années —
+5c502dfb96 « Maggie ». Elle n’avait jamais entendu sa mère appelée Maggie. C’était un prénom de sa jeunesse, cette époque morte dont Jerene n’avait jamais eu le droit de parler […]. Sa mère s’appelait désormais Margaret.
+6f1ad3466d Bon nombre des dynamiques actuelles en Virginie-Occidentale seraient familières dans les vieilles villes industrielles du Nord-Est, ou dans les communautés rurales du Midwest.
+cdc457e2a8 ELSTON. Un vrai nom d’espionne ! Ma femme Natasha a un nom d’espionne, et je ne cesse de lui dire […]
+6a238884d2 Une jeune étudiante en droit, Sandra Fluke, s’est présentée devant cette assemblée, devant les membres du Congrès, et a témoigné au sujet de la couverture des services de planification familiale et des contraceptifs.
+4fa5258131 La recherche et le développement en IA devraient être recentrés sur la rendre plus précise, sûre, interprétable, transparente, robuste, alignée, digne de confiance et loyale, pour les systèmes puissants et de pointe d’aujourd’hui.
+4928a0343f […] marquant désormais la fin du rationalisme ascétique, la monadologie n’impliquait plus un sacrifice de l’individualité sur l’autel de la rationalité.
+f50dbdf8a1 = The museum published an ⟦atlas⟧ of every species found on the island. | Le musée a publié un atlas de toutes les espèces trouvées sur l’île.
+2cbd076087 Les côtes et les vertèbres se distinguent à travers la fine couche de viande qui reste sur la carcasse, et, à la jonction de la tête et du corps, la première vertèbre cruciale — l’atlas — est mise à nu.
+3b10a43f39 La campagne présidentielle s’est davantage concentrée sur Bain Capital et sur une « tournée des excuses » que sur les défis créés par la mondialisation et l’automatisation.
+830a9302ad Lorsqu’elle est déployée par des monopoles ou des cartels, l’automatisation institutionnalise la médiocrité ; bientôt, plus personne ne se souvient de l’excellence et de la qualité, car plus personne n’en a l’expérience.
+b514d84fd3 faire appel à la cavalerie
+8c5e49693a Les projets de transport du cercueil de la reine d’Édimbourg à Londres par train ont été abandonnés au profit d’un transport à bord d’un avion-cargo de la Royal Air Force.
+69865a89dc Ce plan fiscal, c’est du communisme !
+9f285d53e4 […] Et ce qui me rassure, c’est de voir le contrôleur.
+705f702e84 Les conducteurs qui tombent peuvent entrer en contact avec des objets reliés à la terre ou des flaques d’eau.
+0572890dde La défaillance de la détection des défauts à haute impédance fait peser un danger potentiel sur les personnes et un risque d’incendie. Ces défauts sont généralement causés par des conducteurs tombés qui entrent en contact avec une surface peu conductrice.
+c4d93975d3 = The orchestra’s ⟦conductor⟧ raised his baton and the music began. | Le chef d’orchestre leva sa baguette et la musique commença.
+c4d4a81902 Si c est l’idéal conducteur de R dans R, alors les idéaux premiers ne contenant pas c correspondent à des localisations donnant des anneaux de valuation discrète.
+33e3231cb4 Il est important que les policiers apprennent à désamorcer les situations où quelqu’un les affronte de manière agressive.
+d7184b7b4f Nous devrions le confronter au sujet de l’argent manquant.
+3b733ffa1b L’Inter Milan doit affronter la Juventus en finale.
+8157a6fd6b Watt aurait pu enfoncer la porte à la hache, avec un pied-de-biche, ou avec une petite charge explosive, mais cela aurait pu éveiller les soupçons d’Erskine, et Watt ne voulait pas cela.
+17c1768614 Si tu veux entrer, tu vas devoir forcer cette porte au pied-de-biche.
+a6e26d37f2 = She was a ⟦decisive⟧ leader who acted quickly in every crisis. | C’était une dirigeante décidée, qui agissait vite dans chaque crise.
+9fc44d2a7f Les ornements décoratifs donnent à la maison une touche élégante.
+5af8733d24 Le téléphone du plateau de tournage ne fonctionne pas, il est purement décoratif.
+2196c73912 Elle aura le dernier mot dans cette affaire, après avoir consulté son conseil d’administration.
+a4677de33e = The ⟦definitive⟧ plan was approved by the board in March. | Le plan définitif a été approuvé par le conseil d’administration en mars.
+a93d4c1bd3 L’hystérie épidémique a éclaté à la réélection du titulaire.
+a41d685396 Cette proportion a augmenté d’environ 5 % entre 1988 et 1992 : à peine un changement de proportions épidémiques.
+efc669ca8e ✗
+0e01d4357b Ça fait une éternité qu’on ne s’est pas vus.
+e9bbe5c0d4 L’assassin a fait exploser la voiture au moyen d’une voiture piégée.
+70bb351743 Elle a explosé quand j’ai critiqué son chapeau.
+317e614bd2 = The perfume was made from the ⟦extraction⟧ of rare jasmine petals. | Le parfum était élaboré à partir de l’extraction de rares pétales de jasmin.
+597789dbb8 Cela signifie manger des fruits et des légumes et réduire les aliments gras.
+8582a6bc02 Le sixième jour, selles noires, grasses, visqueuses, fétides ; dormi, plus calme.
+bc6c67abdd Le répugnant Pat Robertson, qui se pavane, est arrivé deuxième aux primaires républicaines de l’Iowa.
+3f76e5ea34 = That ⟦filthy⟧ weather has ruined our picnic again. | Ce temps épouvantable a encore gâché notre pique-nique.
+bd28555e16 = A ⟦flush⟧ of ducks rose from the marsh when the dog ran in. | Une volée de canards s’envola du marais quand le chien se rua dedans.
+02ff68fa52 Les chiens ont fait sortir le cerf des bois.
+bb3e86a7fe Une compagnie de cailles a jailli des sous-bois.
+91addd6fcb Poncez l’excédent jusqu’à ce qu’il affleure la surface.
+96ba0aaf98 Il vient de toucher une prime, il est en fonds aujourd’hui.
+74110682cc En 1952, Fawcett Books était riche du succès sans précédent de « Women’s Barracks ».
+1ccca6d543 Elle trempa ses doigts dans le bénitier et se signa.
+ef01085de0 (Il existe certes un grand nombre de livres de cuisine japonaise avec des instructions et des dosages détaillés, mais c’est cette philosophie de cuisine libre que j’ai rencontrée le plus souvent.)
+9b51dbd734 ✗
+8684c39b74 Pendant les jours suivants, pendant que la viande séchait, ils ont tous deux été occupés. Ils ont fini le bateau-bol et l’ont enduit de la colle que Jondalar avait fabriquée en faisant bouillir des sabots, des os et des restes de peau.
+137d875a33 Je dois recoller le pied de la chaise.
+cdda7c5a83 Ses yeux étaient rivés sur l’écran.
+c40234d42c Gardez les yeux rivés sur ce poste jusqu’à la fin des émissions. Je vous assure que ce que vous y verrez sera un vaste désert.
+f388d57b00 Les enfants ont besoin d’aide pour comprendre des choses comme le maniement d’un pinceau, la découpe efficace, le collage soigneux et adroit, et même la façon de manier une éponge lors d’un nettoyage.
+d36c185232 = Friendship is the strongest ⟦glue⟧ that holds the village together. | L’amitié est le ciment le plus solide qui unit le village.
+47fa1374e6 = “Thank you, ⟦grandpa⟧,” said the young girl, handing him the newspaper. | « Merci, papi », dit la jeune fille en lui tendant le journal.
+e4bfe02b96 ✗
+44251945b2 un torse velu ; un dos velu
+cfa28f6587 ✗
+7505817a1d On ne sait même pas si la femme était une victime d’homicide. Ne disaient-ils pas qu’ils avaient pu sauter tous les deux ?
+8f010e8b87 Le médecin légiste accusait du retard dans les autopsies et était de mauvaise humeur, si bien qu’on ne savait même pas si le vieil homme trouvé dans la piscine avait été assassiné.
+26cccff13b Les langues indo-européennes partagent diverses similitudes en raison de leur héritage commun à partir d’un ancêtre commun.
+1c2c97c9a3 Il est ironique que j’aie oublié mon manuel sur la mémoire humaine.
+c3a66d00e1 Il est ironique qu’un membre d’une équipe de relevé ait disparu […]
+5fa2c56a9c C’est ironique que nous mangions un sandwich à Sandwich, dans le Massachusetts.
+9d73f66bea Ne le prends pas personnellement. On fait juste de l’ironie.
+aa86ab1a8f Je rassemble mes bagages et je me prépare pour mon voyage.
+3534658439 De nombreux systèmes radar combinent ondes radio et micro-ondes.
+32342f3114 Une mère de trois enfants, animée par la vengeance, a été condamnée à 168 jours de prison après avoir été reconnue coupable d’avoir tué le chaton de son voisin, un animal de dix semaines, en le passant au micro-ondes.
+57ecb1e808 Il n’éprouvait pas le moindre regret pour ses actes.
+7e43f7cbb6 Je me suis assis au chevet de ma sœur en épluchant des oranges pour elle.
+02c933ad8e J’ai pelé une banane et je l’ai mangée avec appétit.
+ed67613ea1 Nous avons arraché le vieux papier peint par bandes là où il se décollait.
+66a1b29bf4 Je suis resté trop longtemps au soleil, et mon nez commençait à peler.
+8f8be35844 l’auteur d’une action
+3917ea10da Il est impératif que ces formulaires soient remplis avec exactitude pour le travail que vous avez effectué, sous votre numéro d’interprète unique […]
+25524e4202 Nous rappelons aux invités que régler ce problème n’est pas une partie de plaisir, et leur demandons de patienter.
+aca114e8f3 Nous sommes allés pique-niquer dans la forêt.
+f60f6944b5 Rôtissage : faites rôtir un jambon entièrement cuit ou une épaule de porc selon […]
+a6fba2a761 Les adhérents sont majoritairement âgés, 90 % ayant plus de 60 ans.
+b73ffa96a6 Les deux groupes sont principalement confinés aux zones aux climats chauds à tropicaux […]
+648fa42044 ✗
+b4eb3684ca ✗
+ec2a8bd847 une innocence primitive ; l’Église primitive
+379cc03153 Les stations intermédiaires étaient de type très rudimentaire.
+e9e95e1599 un style vestimentaire primitif
+31413209a8 ATTENDU qu’il est opportun de modifier la loi relative au gouvernement de la Marine de Sa Majesté, dont la richesse, la sécurité et la force du royaume dépendent tant, sous la bonne Providence de Dieu :
+6cc8468de6 L’idée était de compiler une liste complète de providences dûment documentées, comme entreprise commune transcendant les barrières confessionnelles.
+d28cbb1ad7 Sa prévoyance pour sa vieillesse est exemplaire.
+720dc70efb Chaque acte d’un Romain, de sa naissance à sa mort, du lever au coucher du soleil, était contrôlé et supervisé par une divinité présidente. L’homme était ainsi pratiquement une marionnette symbolique entre les mains du panthéon romain.
+1adb5dc0ee Selon ses projections, environ 42 % des femmes américaines en âge de procréer verront changer la distance qui les sépare de la clinique d’avortement la plus proche.
+e814bf3f4f Après sa diarrhée, le patient a été mis au régime riz, viande froide et yaourt.
+8a695596ac Valence l’a bien mérité après avoir dominé la possession pendant les vingt dernières minutes, même si Chelsea a défendu avec détermination et a limité les Espagnols à des tirs de loin.
+6583786c60 ✗
+2d65ed09e7 Les êtres humains devraient emprunter une voie droite, et l’art aussi. Nous devrions promouvoir la bonté et la beauté par l’art.
+bdb28da970 ✗
+0e9e4a016c ✗
+b53ccefccc ✗
+e327ef38c3 La rivalité binoculaire est un phénomène visuel dans lequel la perception alterne entre différentes images présentées à chaque œil.
+868e8c205d Les Bruins de Boston entretiennent une rivalité ancienne avec les Canadiens de Montréal.
+974034e4b9 James et Polly se vouent une rivalité acharnée, depuis que cette dernière a été sélectionnée dans le Tea Time Teaser.
+a065234d80 Les biens communs sont ceux qui sont rivaux dans leur consommation mais non excluables.
+13018a1dd8 Tant que le total des avances de ce contrat n’aura pas été remboursé par les droits d’auteur de l’un ou de plusieurs livres de ce contrat, l’auteur ne percevra pas de droits supplémentaires.
+0297fa92e9 Il y a un tas de labyrinthes, c’est vraiment très amusant et complètement addictif — vous devriez certainement envisager d’ajouter ce petit bijou à votre collection.
+cffd2d5d66 Algernon, espèce d’idiot. Maintenant tu veux m’épouser ? Tu ne te souviens pas que nous étions déjà fiancés, et que j’ai rompu avec toi ?
+5d0bca02fd J’ai écrit trois histoires. Enfin, une n’est qu’un squelette, mais les deux autres sont presque achevées.
+151a8ee144 La structure de l’organisation est essentiellement la même qu’il y a dix ans, mais beaucoup de nouveaux visages sont arrivés et repartis.
+4b6d7689b0 Ses décorations d’Halloween fantaisistes comprennent des squelettes dansants qui chantent une chanson lugubre.
+7157a92aa4 Elle a tellement maigri pendant sa maladie qu’elle est devenue un squelette.
+a7ed9ea4c4 Il a préparé un ragoût épicé.
+27b15a8c51 Elle respira l’arôme fort et épicé.
+72b012aa79 Ce curry est trop épicé pour moi. Je ne peux pas le manger.
+7e0dd9a445 Cet endroit est connu pour servir le Donkatsu de la mort, alias le Donkatsu à faire tomber raide, et c’est de loin le plat le plus épicé que j’aie jamais enduré.
+d47ddf6ae2 Ce ruban est-il assez adhésif pour tenir sur cette surface ?
+f8e80181a0 Les livres particulièrement collants se nettoient à l’alcool à brûler.
+765af00207 C’est une situation délicate. Nous pourrions y être pendant des semaines si nous ne faisons pas attention.
+049f6bc0a7 GCN n’est pas un simple dossier de communiqués de presse polis. GCN, ce sont les questions épineuses, les moments doux et les histoires salaces qui composent nos vies.
+3dbf68847e un prix collant ; des salaires rigides
+25f0b7b765 Le bébé devait naître en décembre, et la chaleur moite du mois d’août incommodait Jane.
+6c9ca65b75 Mes yeux me piquent à cause des oignons hachés.
+0efd989327 Regarde cette vilaine piqûre de frelon : elle est devenue bleue !
+db23360541 Elle est morte d’une piqûre d’abeille.
+35900c435e Cette plante te piquera un peu si tu la touches.
+eca3374911 Un moustique m’a piqué le bras.
+b4f594e2fa Ma main me brûle après avoir frappé si longtemps à la porte.
+b04313103e Je pensais pouvoir me garer devant l’hôtel, mais ils m’ont extorqué cinq livres !
+34bf75be4c Une fois que nous avons assez mangé et bu, nous sommes allés nous coucher.
+d32fb44d50 Je préfère penser que les oiseaux ont un sens de l’humour suffisamment développé pour apprécier le spectacle d’un être humain penché sous un buisson en train d’embrasser le dos de sa main.
+854ff27bf4 Nous voulions construire un tipi, mais nous n’avons pas trouvé de bâtons assez longs.
+19fdc0afd2 Certains accordent une valeur suffisamment élevée à une place pour préférer faire leurs trajets quotidiens sur la ligne Western Region Vine Street.
+fce4291308 Au passage de 2020 à 2021, quelque 240 chantiers étaient actifs sur le tracé de la phase 1 de HS2 entre Londres et les Midlands de l’Ouest.
+eb060320eb Il a démonté l’ordinateur pour voir comment il fonctionnait.
+342091cb8e Je me demande ce qui la fait marcher.
+54c4bac62b M. Levi a peut-être été hanté par des conflits enfouis, sans lien avec Auschwitz.
+9157561bfd Les vacances ont commencé par deux incidents sans rapport.
+fed205bee7 Il avait le même nom de famille que moi, mais nous n’étions pas apparentés.
+5c2366f64a un regard vide dans ses yeux
+1c24fc923a l’évent d’un fût ; l’évent d’un moule
+f609afd929 Selon les géologues qui travaillent dans la région, les évents du château d’Aragon crachent du dioxyde de carbone depuis au moins plusieurs centaines d’années, peut-être plus.
+46fb365663 = The stove has a small ⟦vent⟧ at the top to let out the smoke. | Le poêle a une petite ouverture au sommet pour évacuer la fumée.
+ec396457f8 Le poêle est évacué vers l’extérieur.
+9a01dfa553 Les gaz d’échappement sont évacués vers l’extérieur.
+123891852c On peut parler ? J’ai besoin de me défouler.
+c3ceb4aa21 Il exprime sa colère avec violence.
+9eff47f0a8 = The horse ⟦vented⟧ loudly through its nostrils as the rider mounted. | Le cheval souffla bruyamment par les naseaux quand le cavalier monta en selle.
+101150fd13 Quand on fait l’imposteur en se défoulant, on peut regarder à travers la grille pour voir qui passe.
+2917a27e25 « Among Us » est tellement ancré dans la culture de la génération Z que des expressions comme « le jaune est suspect », « le violet a été évacué » ou « passer le vote » font partie de notre langage quotidien.
+101816ce37 Il y eut un bruit crépitant près de mon oreille droite.
+db1e84b9c5 Il y a un ouragan dans les parages des Bahamas.
+4ab65c66b2 Je pèse dans les 80 kilos.
+3127f33956 Grande, blonde, pâle et délicieuse Kathleen, avec sa poitrine ondoyante, distribuait des sourires bienveillants mais restait surtout silencieuse.
+f1f7048095 « J’avoue que j’ai été tenté une ou deux fois de tout plaquer pour vivre dans un endroit comme celui-ci [le pic Bogda, en Chine] », répondit-il. / « Qu’est-ce qui t’en a empêché ? » / Il lui adressa un regard pâle. « Le célibat. »
+319b81438c = The old ⟦wardrobe⟧ stored winter coats and blankets. | La vieille armoire renfermait des manteaux d’hiver et des couvertures.
+bf9b48ab40 = She defended her friend with great ⟦warmth⟧ in the meeting. | Elle défendit son amie avec beaucoup de chaleur lors de la réunion.
+c2e9ddd0d7 ✗
+6b1624d4f7 Après trois tasses de café, elle était trop excitée pour dormir.
+91cb8b46c0 J’ai eu un brelan, et j’étais survolté.
+8d038bcf13 Dans le style typiquement singapourien, cependant, une fois la décision de se connecter prise, les différentes agences ont veillé à diffuser Internet très rapidement.
+f122fb00bf Les amateurs de café ont désormais un nouveau moyen de se mettre en surchauffe. Les utilisateurs d’ordinateurs portables et de tablettes peuvent déguster leur double latte moka grande taille tout en surfant sur le Web simultanément chez STARBUCKS […]
+7746378196 Il voit aussi ce qu’elle pourrait signifier pour Baldwin et les autres démocrates des élections secondaires : « S’ils comptent voter pour elle à la présidence, ils voteront probablement pour la liste complète. »
+1e15fe81d6 Nous devons lever l’incertitude provoquée par le Brexit.
+feb3ba161a L’agacement de Biden face à l’incapacité de Londres à résoudre sa « question irlandaise » après le Brexit a aussi joué un rôle.
+3bfa3e78a7 À ce stade, le Bouddha Amida a sans doute plus de fidèles que le Bouddha lui-même.
+9f805222be Certains considèrent Jésus comme un bouddha, notamment parce que le bouddhisme s’était répandu en Judée dès le début du Ier siècle.
+625b1d554b Gene Hunt : Oh, c’est un vrai petit malin. Alors, qu’est-ce que tu suggères, Bouddha ?
+207ebe31db = The apple trees were ⟦flush⟧ with blossom in early May. | Les pommiers étaient couverts de fleurs au début du mois de mai.
+77de6fdab4 = After the sale, the family was ⟦flush⟧ with money for years. | Après la vente, la famille a longtemps nagé dans l’argent.

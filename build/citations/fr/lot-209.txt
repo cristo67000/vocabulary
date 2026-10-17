@@ -1,0 +1,202 @@
+# lot 209 — mots de la bande « étendu » : abduct, accredit, aggravate, ampere, artefact, atrocity, back-to-back, barrack, blare, bluff, bodyfat, brr, characterise, clipper, clog, compress, contaminate, credential, crag, culminate, dazzle, deejay, emphasise, enrol, erupt, fabricate, footstep, graze, guv, implicate, imprison, inhabitant, jinn, khat, larva, manoeuvre, omit, parson, pertain, precede, preside, renovate, sander, sear, shari'a, sneaker, stabilise, starling, in-, under-, -like, -free, -s, -'s, Thing, day-to-day, real-time, in-line, in-service, on-the-job, must-have, old-time, go-between, free-for-all, so-called, such-and-such, head-on, show-off, all-in-one, would-be, one-to-one, he/she, has-been, one-two, know-it-all, part-time, well-to-do, so-and-so, and/or, one-off, time-out, to-do, so-so, know-how, one-way, great-, time-out
+# écartés : sexe (hard-on), poème (ess), notes « Meronyms », « Holonyms » et « Near-synonyms »
+1b423c425d L’outil en ligne de commande gzip permet de compresser des fichiers de plusieurs façons. D’abord, gzip peut compresser les résultats de l’entrée standard.
+45e66a8462 Ce graphique condense tout le rapport d’audit en quelques lignes sur un seul diagramme.
+413fc23722 Il tenait une compresse froide sur sa foulure.
+90b0d764e0 Son geste à deux doigts en disait long sur ce qu’il avait dit à son patron de faire de son poste.
+7947874e35 Dans la loi de 1994 sur la justice pénale et l’ordre public, supprimer les articles 146(4) et 147(3) (les actes homosexuels comme motifs de renvoi de l’équipage des navires marchands).
+43f741c818 = The tea ⟦clipper⟧ crossed the Atlantic in record time. | Le clipper à thé a traversé l’Atlantique en un temps record.
+8011a14c56 = The stranger was a clever ⟦clipper⟧ who fleeced the whole town. | L’étranger était un escroc habile qui a dépouillé toute la ville.
+72a5446761 = The ⟦clipper⟧ shaved the edges off the silver coins. | Le rogneur de pièces grattait les bords des pièces d’argent.
+9ed025d06c Cette maison est délabrée : elle a besoin d’être rénovée.
+61d710d134 = The spring rain will ⟦renovate⟧ the tired fields. | La pluie de printemps va revigorer les champs fatigués.
+7a736f0137 commettre une atrocité
+552abd9e24 Le régime est coupable d’atrocités de masse, notamment de déplacements forcés et de l’utilisation d’armes chimiques.
+7ddefc4488 = The ⟦atrocity⟧ of the crime shocked the nation. | L’atrocité du crime a horrifié la nation.
+2317cf68b5 = That ugly hat is a real ⟦atrocity⟧. | Ce chapeau moche est une vraie horreur.
+400886a9bf L’armée était en manœuvres.
+e2df42fd55 Les manœuvres conjointes de l’OTAN sont autant un exercice de diplomatie que de tactique et de logistique.
+377deed74b = His sudden offer was a clever ⟦manoeuvre⟧ to win the vote. | Son offre soudaine était une habile manœuvre pour gagner le vote.
+dbcffde1cf Le spécialiste en oto-rhino-laryngologie a pratiqué une manœuvre d’Epley, et le patient a été soulagé de son vertige.
+c17ab13557 Le patriarche a manœuvré jusqu’à ce que sa descendance occupe d’innombrables postes clés.
+10bc7124ce De vastes volées d’étourneaux, fuyant le vacarme, battent le ciel à vive allure, comme des nuées d’orage, un soir à midi.
+1c6e3f7592 Les lasers antidrones peuvent brûler ou éblouir les capteurs d’un drone.
+a825a59fe3 Éblouis par les phares du camion, les cerfs se sont arrêtés au milieu de la rue.
+0318984876 Les délégués ont été éblouis par l’originalité de ses arguments.
+be8a7f914d = The drivers were ⟦dazzled⟧ by the setting sun. | Les conducteurs étaient éblouis par le soleil couchant.
+5881a13902 = After the ⟦graze⟧, the cattle returned to the barn. | Après le pâturage, le bétail est rentré à l’étable.
+83010fd78f Bien que ce soit une prairie parfaitement bonne, aucun des villageois n’a jamais fait paître d’animaux sur la prairie de l’autre côté du mur.
+eea5cff6d5 Le bétail broute dans les prés.
+a434a128b7 = The shepherd ⟦grazed⟧ his flock on the hills. | Le berger faisait paître son troupeau sur les collines.
+cd14aa4085 Beaucoup de gens, cependant, grignotent et picorent à peu près du réveil jusqu’à peu avant le coucher.
+3e07f1384c la balle a éraflé le mur
+b8e6d9d0c5 s’écorcher le genou
+0175de9806 Valence était en crise : un club doté de deux stades, dont l’un ne pouvait pas être vendu et l’autre ne pouvait pas être achevé faute de moyens, et une dette de 230 millions d’euros, dont le remboursement a été restructuré.
+3cb954d491 Il portait un débardeur blanc taché qui laissait voir des touffes de poils noirs sous les bras, un pantalon de toile blanche défraîchi et des baskets à semelles de caoutchouc.
+f7c20a99ad = The old ⟦sneaker⟧ hid behind the door to listen. | Le vieux fouineur se cachait derrière la porte pour écouter.
+420cb279de Les Néerlandais portent rarement des sabots de nos jours.
+18aad37d71 Elle monta les escaliers d’un pas lourd. Ses sabots claquaient sur les planches de pin de l’escalier et faisaient trembler la maison.
+22e28267c4 Le plombier a débouché le conduit d’évacuation.
+037a16337f Je l’ai laissé entrer ce matin. Il a perdu un de ses sabots.
+a57ad87173 Les routes sont encombrées par la circulation.
+8587bb6858 Des cheveux bouchent le tuyau d’évacuation.
+32b49ee5c0 = A heavy ⟦clog⟧ of lead hung from his ankle. | Un lourd boulet de plomb pendait à sa cheville.
+315de25e83 = Snow ⟦clogged⟧ the mountain passes for weeks. | La neige encombrait les cols de montagne pendant des semaines.
+e007bb56cd = The new rules ⟦clogged⟧ the business with paperwork. | Les nouvelles règles encombraient l’entreprise de formalités.
+509ab4bfab Ça me frustre de faire tout ce travail puis de tout perdre.
+0c88217912 Mes doigts maladroits contrarient mes efforts de frappe.
+67bc77f531 Cet examen me frustre, car si j’échoue, cela ruinera ma note.
+f607abc37f Que mange la larve d’un triton de montagne ?
+206f80c504 Les femelles reproductrices des Lophogastrida et des Mysida portent leurs embryons et leurs larves dans un marsupium, où se déroule l’intégralité de leur développement embryonnaire et larvaire.
+bde95694e0 = The senior partner ⟦presided⟧ over the firm for thirty years. | L’associé principal a dirigé le cabinet pendant trente ans.
+f9c65b4268 Je présiderai à l’orgue.
+773e16afed Le volcan est entré en éruption, répandant de la lave sur une vaste zone.
+97ebaa6963 La troisième molaire fait son apparition tardivement chez la plupart des gens, et parfois elle n’apparaît pas du tout.
+6fdf437170 Toute la tablée a éclaté de rire.
+218a512673 La foule a explosé de colère.
+68dea72dfa = The locomotive’s ⟦sanders⟧ dropped sand on the rails in the rain. | Les sablières de la locomotive déversaient du sable sur les rails sous la pluie.
+2d05681212 Dans les écoles, il est courant que les enseignants confisquent les jeux électroniques et autres distractions.
+4c10f42d41 Donnez six bouteilles de vin à trois étudiants de première année, et l’hilarité s’ensuivra.
+966e4e918a fabriquer un pont ou un navire
+4a6e67a493 fabriquer des puces informatiques
+33dc48a974 inventer un mensonge ou une histoire
+4f0968c898 Cette roue de secours appartient à cette voiture.
+e66d9a7d0f Cette question n’a aucun rapport avec le sujet, donc je ne vais pas y répondre.
+bcec3d5326 […] la demande de bottes a fortement chuté après la bataille de Waterloo, et Brunel fut emprisonné pour dettes en 1821.
+071e788b9c Aucune de ces personnes n’a jamais eu ce qu’elle désirait vraiment, et si elles en entrevoient une lueur, elles reculent avec méfiance, les défaillances de leur imagination aidant à les emprisonner davantage.
+69e63371d1 Un élément intéressant des semaines précédant les déviations était la mise à disposition d’un train d’apprentissage de la route, pour familiariser les conducteurs des grandes lignes avec l’itinéraire de substitution.
+98af6ef1a3 Le génocide culturel précède le génocide physique.
+611532eddd = The speech was ⟦preceded⟧ by a short prayer. | Le discours était précédé d’une courte prière.
+c72b771faa Les éléments de preuve impliquent la direction générale dans le système.
+6eb8a7a444 Qu’est-ce que la visite de Nixon en Chine impliquait pour la Russie ?
+f4895e749b Cette eau est contaminée. Elle n’est pas potable.
+1483897845 Les bombes et les munitions contiennent des substances toxiques qui contaminent le sol, l’eau et la végétation.
+fad7e5c651 Les convictions politiques répugnantes de [Martin] Heidegger ne contaminent pas son œuvre philosophique.
+4d6a5ee817 Ne contaminez pas le beurre de cacahuète avec la confiture.
+bf3b6d77d2 Plus de 140 000 enfants américains ont perdu un parent ou un grand-parent qui s’occupait d’eux à cause de la Covid-19, ont rapporté jeudi les chercheurs du CDC, soit un enfant américain sur 500.
+b6d8b82f7d ✗
+57eac3f09e = The ⟦parson⟧ preached in the village church. | Le pasteur prêchait dans l’église du village.
+fb6d3d6524 = The long delay ⟦aggravated⟧ the crowd’s anger. | Le long retard a aggravé la colère de la foule.
+ef10e8ce92 Je connais les casernes du camp d’entraînement sur la lande.
+7354a6367f Comment faites-vous la différence entre le bagne disciplinaire et le pénitencier ? Où se trouvent les bagnes disciplinaires ?
+90feea81bf Une façon d’observer ce lien avec les mathématiques consiste à associer à chaque type sa cardinalité, c’est-à-dire le décompte de ses habitants de ce type.
+be42da0fa8 Puis-je voir vos justificatifs, s’il vous plaît ?
+c7862ea514 L’ordinateur vérifie les identifiants de l’utilisateur avant de l’autoriser à se connecter.
+9ebc15f80d Elles méritaient leur avance à la mi-temps et paraissaient parfaitement maîtresses du jeu, jusqu’à ce que le Brésil effectue des changements à la pause et commence à montrer ses références en attaque.
+7c810ee2bc J’ai été enlevé par des extraterrestres.
+05921ca21d La tour se termine en pointe.
+edb13990b2 Leur rupture houleuse a abouti à une ordonnance de protection.
+2cafcf3d5a Le cours se terminera par un examen rigoureux.
+77e4ea9188 L’annonce faite à Canberra par Tony Windsor et Rob Oakeshott a mis un terme à plus de deux semaines de marchandages politiques intenses.
+daf6099f74 Il aime saisir ses steaks tout en gardant une cuisson saignante au centre.
+48f28a1f21 Je vais brûler la peau de ta chair ! Tu mourras mille fois !
+4698f3681a Le soleil du petit matin commençait à brûler l’herbe.
+585430d8bb Le printemps et l’été de 1936 ont apporté aux grandes plaines l’une de ces terribles sécheresses périodiques qui brûlent les récoltes et transforment le « pays de l’herbe rase » en désert.
+be8f5727de Les événements de ce jour-là étaient gravés dans sa mémoire.
+1f8a396e16 Vu l’investissement croissant dans un artefact informatique (c’est-à-dire un site web de service en ligne), il devient important de retenir les clients existants.
+a3bc8623d2 Le simple fait de regarder un modèle nu était un artefact de la suprématie masculine.
+0d6e179903 Dans l’ensemble, la signalétique du NIE semble être un artefact descendant, dicté par la politique institutionnelle, avec l’anglais comme langue par défaut.
+00a436e08e La tache sur son poumon s’est révélée être un artefact de la radiographie.
+4a44684fbc Les fouilles ont livré de nombreux objets romains.
+9454c72f9b L’opacité sur sa radiographie thoracique s’est révélée être un artefact dû à la pellicule.
+73cf61582f Cette image JPEG a été tellement compressée qu’elle présente des artefacts disgracieux, la rendant impropre à la couverture de notre magazine.
+8697fad547 Jody a stabilisé la table en glissant un livre sous le pied court.
+a2f5a99208 Le pays se stabilisera une fois la prochaine élection terminée.
+ba3747a9ec Ils étaient impatients d’enrôler de nouvelles recrues.
+9f0cd869c6 T’es-tu déjà inscrit aux cours de ce trimestre ?
+8d5f1cbd4f Plutôt que d’arrêter ses études, elle s’est inscrite à un programme d’équivalence du baccalauréat pour pouvoir aller à l’université.
+623559e109 Il n’y a pas moyen d’éviter les légères cupules, les courbures, les flexions et les torsions qui caractérisent le bois.
+406c8652ae Le deuxième niveau de lecture, que nous appellerons lecture d’inspection, se caractérise par une attention particulière portée au temps.
+8f6d15652f = The climbers reached the top of the ⟦crag⟧ at dawn. | Les alpinistes ont atteint le sommet de l’escarpement à l’aube.
+7d88f34a30 Même le triste djinn enfermé dans l’image gravée dormait.
+9bb84ee8a0 Sourate 18:50 : « Et Nous dîmes aux Anges : prosternez-vous devant Adam. Ils se prosternèrent tous, sauf Iblis, qui était l’un des djinns. »
+299b9eb88c Mon médecin m’a conseillé de boire moins. Pff, si seulement c’était si facile.
+70af4c42bb Isaac découvrit vite que le deejaying était un métier qui attirait des gens de passage, décontractés mais arrogants.
+78c25279fc La trompette qui retentissait à mes oreilles me donnait mal à la tête.
+5a3d0196fe = The politician ⟦blared⟧ his promises from every street corner. | Le politicien clamait ses promesses à tous les coins de rue.
+4c66b87f45 J’entends à peine ce que tu dis à cause du vacarme de la radio.
+6034fa5cf4 Il met davantage l’accent sur les romans littéraires et les recueils de nouvelles dont nos pages parlent si souvent (et qui ne sont parfois publiés qu’en poche).
+bad600bc63 L’enfant regardait ses pas dans le sable s’effacer sous les vagues.
+53b94c45b1 Les pas des élèves résonnaient dans le hall vide.
+267f623259 Le chemin du jardin avait une petite marche qui descendait vers l’allée principale.
+0362ae7765 À quelques pas de la victime gisait l’arme du crime.
+f3dd8841b0 Fais encore un pas vers moi et tu le regretteras !
+5b8f0f3170 suivre les pas de quelqu’un
+3b0006a2f0 Pour marcher sur les pas de la grandeur, il faut commencer tout en bas d’un long escalier.
+1c92a696b0 Bien sûr, c’était un amateur de khat (quat), du haschich, ce qui réjouissait les flics.
+827eb72555 Et les mendiants arabes décharnés qui mâchent du khat toute la journée pour couper leur faim et planer grâce à l’herbe.
+10b119fbfa La législation de la charia ici est très stricte.
+1fa66340d8 = The current is measured in ⟦amperes⟧. | Le courant se mesure en ampères.
+903eb47e4b Brrr. Même l’idée de descendre sous terre fit frissonner Old Bailey.
+7c16dd36c0 Brr-brr, brr-brr. Le téléphone sonnait avec insistance.
+694786f386 Pendant que nous discutions au portail d’entrée, j’ai entendu un bruit. C’était un « Brrrrrr, Brrrrrr », exactement comme vous l’entendez quand je fais ce bruit.
+ca698dad20 Sa censure accréditera ses éloges.
+b58bedf06d = The envoy was ⟦accredited⟧ to the court of Madrid. | L’envoyé a été accrédité auprès de la cour de Madrid.
+8366d70501 Les nationalismes attribuent souvent tout le chômage à l’immigration.
+4274f83405 Vous me donnez deux livres, chef ? Je n’ai rien mangé depuis hier.
+49936473fd Tout de suite, chef… je veux dire, sergent.
+79d3d468b3 On cache la fenêtre pour que les flics ne puissent pas nous voir.
+d435f189e4 avoir un faible taux de graisse corporelle
+5c4bb3cceb ✗
+3301e99b28 ✗
+814080c3cd infield, infighting, insight, intalk, inwork
+adc0f93839 Indiquez trois références professionnelles personnelles et/ou commerciales.
+46d3a75231 Dégâts : ceux qui ont une vision normale et humaine sont aveugles.
+14621be328 Ma liste de choses à faire s’allonge chaque jour.
+e8553c0233 J’étais gêné qu’ils fassent tout un plat de mon anniversaire.
+f929c3046f Le dessert était plutôt bon, mais le repas était passable.
+43f46bcd16 Il s’en est tiré moyennement lors des essais, et l’entraîneur ne savait pas encore s’il l’ajouterait à l’équipe.
+2ab4ec2883 Les lettres commerciales commencent généralement par « Cher Monsieur Untel ».
+0cc85e066b Ce misérable untel a gâché mon travail !
+4f572420ec Pour accompagner le lancement, LNER a introduit des billets aller-retour tout compris à prix fixe pour deux adultes et jusqu’à quatre enfants, au prix de 129 £ entre Londres, Thornaby et Londres.
+a40b074966 Les candidats marines doivent passer un examen rigoureux.
+59d1461d9e Les aspirantes stars du cinéma deviennent souvent serveuses.
+4774e97e71 Il existe une relation biunivoque entre les jours de grave pénurie de liquidités et ses jours de travail.
+6f10188ba8 une séance de cours individuel
+a82cea6c40 Demandez à une réceptionniste si elle n’est pas occupée.
+9b9363f891 On se fait battre ! Il nous faut un temps mort !
+4b56c0f806 Je vais prendre une brève pause de ce travail.
+a06dcebb57 Je pense qu’Apple Computer est dépassé.
+e20f253e0b Kane s’était décalé pour élargir le jeu par une passe en diagonale, et lorsqu’il s’élança vers le poteau éloigné, Saka renvoya le ballon vers lui : disons un une-deux à longue distance.
+ab2de47c1f C’est une donneuse de leçons méchante et autoritaire.
+fcffe0d426 arrière-arrière-grand-père (le père du grand-père de quelqu’un)
+3651661909 Le centre-ville est désormais un réseau de rues à sens unique.
+bb23b8caef J’ai acheté un billet aller simple pour Leeds.
+25cca744fa La maison de Jane est plus grande que celle de Sarah.
+b025ec9f79 Je l’ai acheté chez Tesco. (voir la forme en s)
+1521996311 un ordinateur → cinq ordinateurs ; Kennedy → Kennedys ; hanger-on → hangers-on ; lapful → lapfuls ; cul-de-sac → cul-de-sacs ; standby → standbys ; push-up → push-ups ; gin and tonic → gin and tonics ; pair → pairs ; beef → beefs
+bcdc436741 Marlo a le savoir-faire pour réparer votre ordinateur.
+35be9fd3e8 Certains philosophes affirment que les personnes aisées devraient être imposées à un taux plus élevé que les plus pauvres.
+e933514941 Voir la comète de Halley est une occasion unique, une fois dans une vie.
+5070e2a4b0 BMW va créer un hommage unique à la célèbre 3.0 CSL.
+798d233435 Ruth et Gehrig ont frappé des coups de circuit consécutifs.
+6a94b92279 Dans le référentiel au repos du π⁰, les photons émergent dos à dos de façon isotrope.
+a806b4df41 p. ex. underapply, underbill, underawe
+d6a4f8aa4b p. ex. underground, underneath, underpass
+d8c60a6ef5 p. ex. understand, undergo, underbear, undertake
+0d6441df33 Avant que Thorstein ne quitte la maison, lui et Asgerd décidèrent de prendre le cadeau d’Arinbjorn, le manteau de soie, dans le coffre d’Egil, et Thorstein le porta au Thing.
+6b5eca9781 Shaylene avait commencé à y travailler deux semaines plus tôt, à temps partiel.
+87c460166e Il faut gérer les corvées quotidiennes.
+fcb78ed2dd J’aimerais connaître le fonctionnement quotidien de l’entreprise.
+d93c298baa Il souffre d’une entorse à la cheville, et son statut est à réévaluer jour après jour.
+28fa939585 Le bâton à selfie est l’accessoire incontournable de cette année.
+ab8fec5082 Il aime écouter de la musique d’autrefois.
+75d89af7e8 = The ruins of the castle stood on ⟦old-time⟧ foundations. | Les ruines du château reposaient sur des fondations d’une époque ancienne.
+8fa0206958 Sweetgreen a déclaré à CNN que l’entreprise était « fière d’annoncer que nous déployons actuellement de nouveaux sacs de focaccia sans PFAS, qui seront disponibles dans tous les restaurants Sweetgreen d’ici la fin du deuxième trimestre ».
+a3993cca31 Elle fait l’intermédiaire entre l’ingénierie et la fabrication ; vous devrez donc lui demander si vous avez besoin de coordonner les deux équipes.
+08b9173a3c Quand l’alarme incendie s’est déclenchée, ce fut la pagaille générale.
+793273d7b5 le prétendu mode d’Ising
+ca3b4d76c2 Ces prétendus « assistants » compliquent notre travail au lieu de le faciliter !
+9e0b7f690d C’est un mauvais système, car si vous voulez faire ceci ou cela, vous devez d’abord trouver cette fonction dans une longue liste désordonnée.
+a6514234f8 Les projets, dont le démarrage est prévu en novembre, sont les suivants : prévision et atténuation en temps réel des perturbations grâce à des communications personnalisées avec les voyageurs […]
+d48a945bea Sans sauvegarde en temps réel ou en personne, il devait au moins dire à Davenport ce qui se passait et où il se dirigeait.
+6b4983ffab ✗
+3807f4164c ✗
+30c1241ad0 Une collision frontale est dangereuse.
+1243b9bc7b une approche frontale d’un problème
+d3b4615441 Arrête de faire le fanfaron, avant que quelqu’un ne se fasse mal.
+2a179b11a0 Le référencement parenthétique est un style de citation qui utilise des citations intégrées entre parenthèses.
+a37a2a372c BBC BASIC permet au programmeur d’écrire du langage d’assemblage en ligne.
+fb3c0aa022 Pour sensibiliser leur personnel, les ASO peuvent proposer des formations en cours d’emploi sur l’inceste et ses conséquences sur les pratiques sexuelles à risque et autres comportements à haut risque, aux professionnels comme aux pairs éducateurs.
+4b3bf2d118 Nous proposons des formations en cours d’emploi et à temps plein pour les salariés.
+811505251f formation sur le tas

@@ -1,0 +1,202 @@
+# lot 193 — mots de la bande « étendu » : strangely, susceptible, translator, transmit, tutor, unsafe, verge, wander, yeast, Jerome, Julius, Roland, SMS, Santiago, Warsaw, absorption, accelerate, acne, advertise, apologise, assassin, backlash, brewery, bulb, chew, collateral, congestion, crossover, crunch, curtains, demise, dependence, dictator, dire, disagreement, disregard, distributor, dominion, downhill, dreadful, drunken, earnest, erase, extinct, forbid, freezer, genetically, hare, herein, honorary, immature, imperative, knit, manly, morale, mute, needless, nerd, novelty, optimism, outdated, oxide, peripheral, pint, poop, pornography, proceeding, pronounce, provisional, shove, smashing, softball, southeastern, spur, storytelling, stupidity, suppress, sweating, tangible, tilt, trivial, unofficial, veil
+# écartés : insultes et grossièretés, sexe, drogue, violence, paroles de chansons, notes « Holonyms », sens archaïques (Bible, Shakespeare, Spenser, Chaucer)
+be1706b75e Bien que je ne sois jamais allé à Boston, tout me semblait étrangement familier.
+fa339a58ba Il était sujet à de petites maladies.
+2a0829e221 Les nombres rationnels se laissent décrire comme des quotients de deux entiers.
+b7857915c1 Une surface bien préparée se prête à une peinture durable.
+66ee4e625d Le Premier ministre Chou n’attendit pas que l’interprète ait fini. « Jamais, jamais, jamais », répondit-il dans un anglais parfait.
+b382e28656 = The painter was one of the earliest ⟦translators⟧ of photographs into colour prints. | Le peintre fut l’un des premiers traducteurs de photographies en tirages couleur.
+ada01c8e72 Les efforts de traction et de freinage sont transmis à la caisse de la manière habituelle, par un pivot dirigé vers le bas.
+71301ea7e3 Un appel de détresse a été émis par le navire en difficulté.
+0b9fc85d89 Il a réussi le cours difficile grâce à l’aide de son tuteur.
+33a1cf0622 Pour à peu près les mêmes raisons que les langages sûrs sont préférés aux langages non sûrs, ces capacités puissantes mais non sûres de Java devraient être restreintes.
+0b87cdb524 Le RMT a clairement indiqué que nos adhérents ont le droit de refuser de travailler dans des conditions dangereuses, et le syndicat suivra la situation de près. […]
+68555372cf De l’autre côté de la voiture, un autre agent armé était occupé auprès du passager, allongé sur un bas-côté herbeux.
+cc684bf342 = The ⟦verge⟧ of the lake was thick with reeds. | La rive du lac était couverte de roseaux.
+b247ac4d29 J’étais au bord des larmes.
+c5a9bf55d7 errer dans les champs
+8c23888cbc Un écrivain s’écarte de son sujet.
+9db591847b = The baker added ⟦yeast⟧ to the dough before dawn. | Le boulanger ajouta de la levure à la pâte avant l’aube.
+95c6eee388 Jerome K. Jerome, écrivain britannique.
+356df55e9b Le président Donald Trump a déclaré que le secrétaire au Trésor Scott Bessent n’est plus envisagé pour remplacer Jerome Powell à la présidence de la Réserve fédérale.
+641c37608b L’autre option de coalition est le EFF, dirigé par l’ancien dirigeant de la jeunesse de l’ANC Julius Malema, exclu du parti il y a plus de dix ans.
+be178dffc9 Vespasien, homme simple, riait toujours, car tant de Julii et de Claudii avaient été divinisés après leur mort. Sur son lit de mort, il dit : « Hélas ! Je crois que je deviens un dieu. »
+e4279a9978 Ons Jabeur a critiqué Roland-Garros pour avoir snobé le tennis féminin, en déclarant : « Je ne pense pas qu’ils aient des filles. »
+9f9f9c78a3 L’enquête d’Empower Interactive révèle que plus de sept utilisateurs de téléphone portable sur dix jugent inacceptable toute forme de SMS non sollicité.
+1e5e1d0700 Le 12 février 1541, Valdivia fonda la ville de Santiago, mais elle fut détruite au bout de six mois par les Araucans, l’un des peuples les plus belliqueux rencontrés par les Espagnols […]
+92a0865900 Créé par les Allemands en octobre 1940, le ghetto de Varsovie fut le plus grand ghetto juif de l’Europe occupée par l’Allemagne.
+da2b503cac Les plantes dépendent de l’absorption de la lumière du soleil pour la photosynthèse.
+34164f4e55 L’éponge montrait une absorption remarquable de l’eau.
+1a2401a9cd l’absorption d’une petite tribu par une plus grande
+ee5755ca80 l’engloutissement des corps dans un tourbillon
+1f09a88c82 l’absorption de la lumière, de la chaleur, de l’électricité, etc.
+1079906c93 L’entreprise prévoit d’accélérer sa croissance grâce à de nouvelles stratégies marketing.
+9eea4eb052 Elle a dû accélérer son rythme de travail pour respecter la date limite.
+5e54edf284 accélérer notre départ
+f6ac11bc9e Il a souffert d’acné sévère pendant son adolescence.
+94af00c244 Le dermatologue lui a prescrit une crème pour traiter son acné.
+29a13612a6 Pour vos besoins personnels, faites de la publicité sur Internet ou dans un journal local.
+02139f37a3 Sur les ondes, ils font la promotion de leur produit pendant les émissions radio de fin de journée et les journaux télévisés.
+50ca2f9cc8 Mon correspondant s’est excusé de ne pas avoir répondu à ma lettre.
+766a1713f4 Aujourd’hui, je veux m’excuser auprès de mes collègues.
+180af71e8e = The old writer tried to ⟦apologize⟧ for his harsh words in the preface. | Le vieil écrivain tenta de s’excuser de ses propos durs dans la préface.
+dc744ab64d Qu’a jamais accompli la violence ? Qu’a-t-elle jamais créé ? Aucune cause de martyr ne peut être réduite au silence par la balle d’un assassin.
+d099a01cc5 La réaction du public à la proposition fut rapide et insistante.
+04b4f10cef Nous avons fait une excursion d’une journée à la brasserie Guinness.
+f32643cb03 Mike travaille pour la brasserie locale.
+05b8e429a8 les plantes qui poussent dans la terre à partir de graines ou de bulbes
+1d0e1e2d16 le bulbe de l’aorte
+59ba54c4bd un tube fluorescent
+f6871aaa16 Il portait deux pulls, tous deux mités et sales mais chauds.
+f1dd956203 Sa joue gauche semblait avoir été tailladée et mâchée !
+93e395b5f8 Le vent du désert et le sable avaient rongé la souche en lanières de bois déchiquetées.
+cecf191650 Il garde ses aliments dans des fûts en acier pour empêcher les souris de ronger des trous dans les sacs.
+887ed99822 Éviter le « mâchonnement » de bande. Au début de l’ADAT, les blocs en « V » (deux bras qui font passer la bande autour de la tête) pouvaient parfois se désaligner et « ronger » la piste extérieure […]
+655681d2f2 Bien que ce ne soit pas une cause directe, l’escarmouche frontalière a certainement joué un rôle d’incitation collatérale à la guerre.
+fe0b5607c8 Oncles, tantes, cousins, neveux et nièces sont des parents collatéraux.
+01b46f33f5 = The new law had a ⟦collateral⟧ effect on small farmers. | La nouvelle loi a eu un effet collatéral sur les petits agriculteurs.
+9e09ad96a3 À l’époque coloniale, quand la terre valait peu et que les banques n’existaient pas, la plupart des prêts reposaient sur des biens humains. Au début des années 1700, les esclaves étaient la principale garantie en Caroline du Sud.
+3b961996f4 Outre les artères, le sang circule dans de nombreuses veines que nous appelons collatérales.
+57a20dac50 congestion pulmonaire
+70cda38bb3 Network Rail a conçu et réalisé le nouveau croisement en dix mois seulement — « phénoménalement vite », dit Mands — et ces travaux sont inclus dans le coût de construction de 20 millions de livres.
+019f6d54a5 En rentrant, j’ai trouvé Susan devant la télévision, les pieds sur le canapé, en train de croquer un bâton de céleri.
+09eed1f1e8 Ces métadonnées facilitent beaucoup la tâche du moteur de recherche pour traiter les données des requêtes.
+41fae90759 Les coléoptères craquaient sous les lourdes bottes des hommes pendant qu’ils travaillaient.
+2e24bfa135 = The sledge ⟦crunched⟧ its way over the frozen snow. | Le traîneau crissait sur la neige gelée.
+f0694733a3 J’aime le croquant de ces biscuits.
+a0138db178 Étalez le beurre de cacahuète, la crème fouettée et un peu de Nutella sur toute la surface, jusqu’au bord de la tortilla. Parsemez de croquant et roulez en partant d’un des bords non rognés.
+6f0e50ea0f Cela me fait toujours un peu mal quand un jeune radical flamboyant comme Neil Miller s’avère, au moment décisif, un défenseur si ardent du statu quo.
+f911a7c7db Il a mis un terme à sa carrière de joueur de cricket, qui a duré deux décennies, mardi.
+82c61df4ac Ton compte est bon !
+42a632f3bd Le manque de financement a finalement conduit à l’abandon du projet.
+6bb45b576f « Qui va s’en prendre à lui [V. Poutine] ? Tout le monde attend simplement sa disparition », a ajouté [Oleg] Tinkov.
+90429beb2a Déplacer les composants vers des zones qui reçoivent plus de chaleur plus tôt dans la rentrée, et même provoquer une désintégration partielle de la structure du satellite pendant la rentrée pour faciliter la destruction.
+cf3ce8f70e Il dépendait profondément d’elle pour être guidé.
+8da76a4abf Sa dépendance à la cocaïne a causé sa ruine.
+3673252c6b Dictateur, nom : une personne qui ne laisse pas les PDG américains dicter la manière dont son pays est gouverné.
+ed5deaf133 Ce que redoutent le plus les dictateurs, c’est de perdre le soutien des forces armées ; quand cela arrive, c’est comme si une bête féroce avait perdu ses dents.
+48590e2b06 des conséquences dramatiques ; être dans une situation désespérée
+c9bb814c3d Son erreur grossière lui permit de le mater avec son coup suivant.
+0a4e22cea7 Et bien sûr, négliger 1… Q-R8 mat serait une erreur désastreuse.
+2a5415f399 Ils ont eu un petit désaccord sur la couleur à donner à la chambre, mais ils sont parvenus à un compromis.
+fa38d7b579 La théorie montre un désaccord considérable avec les données.
+8a3902f4cf Les deux camps étaient en désaccord.
+15e2ed1749 L’indifférence du gouvernement envers les besoins des personnes handicapées est scandaleuse.
+422c12f3fd Le mépris de l’administration Trump pour la procédure régulière a été une constante dans les litiges liés à sa politique migratoire.
+ef4db4e387 Le rappel indique que les distributeurs — Walmart, CVS et AACE Pharmaceuticals — organiseront le retour de tous les produits concernés.
+b7fdb1b2e1 = The clan held ⟦dominion⟧ over the valley for centuries. | Le clan exerça sa domination sur la vallée pendant des siècles.
+1cd47de286 = Her calm presence held a quiet ⟦dominion⟧ over the room. | Sa présence calme exerçait un ascendant tranquille sur la pièce.
+9dff9f18c2 les domaines d’un roi ; l’empire des passions
+01f372544c Comme nous étions arrivés au sommet de la montagne, il ne restait plus qu’à descendre.
+9aeffc50fa J’ai descendu comme je pouvais, glissant dans la boue le long d’une berge escarpée qui suivait un ruisseau jusqu’à se jeter dans un petit cours d’eau.
+26bd46b3be Après les remarques de mauvais goût de Don, nos relations avec lui se sont dégradées.
+add992fe07 Après une prestation épouvantable pendant les 45 premières minutes, ils ont relevé le niveau après la pause…
+11e70e56a0 une démonstration ivre d’exubérance grossière
+a88e5631f3 Il écrivait bien, dans un style vigoureux et familier, avec l’air d’être extrêmement sérieux, et plein de connaissances qui débordaient de ses pages, agrémentées d’illustrations plutôt bruyantes.
+731b3848b2 J’ai effacé ce mot de la page parce qu’il était faux.
+3bf649b431 Je vais effacer cette bande.
+6af75bfad4 Je vais effacer ces fichiers.
+3a6efc8360 Les fichiers s’effaceront rapidement.
+d852e73a98 Le tableau noir s’est effacé facilement.
+7e66c72d2a Les dinosaures ont disparu depuis des millions d’années.
+48a3dcd38f Le résultat est essentiellement une espèce hybride d’apparence semblable à son ancêtre disparu.
+eb9b4a6e0b = His hopes were ⟦extinct⟧ after the third rejection. | Ses espoirs étaient éteints après le troisième refus.
+e2412707c3 Il est interdit de fumer dans le restaurant.
+5f4516f60a Solon interdit aussi l’exportation de maïs et d’autres produits agricoles, à la seule exception de l’huile d’olive, dont Athènes avait un surplus.
+6b6df484fc = The doctor ⟦forbade⟧ her to leave the house until she was healed. | Le médecin lui interdit de quitter la maison jusqu’à sa guérison.
+41350f1552 Une rivière infranchissable interdit l’approche de l’armée.
+5c8ee35d05 L’entreprise de conditionnement livre habituellement des crevettes à quelques clients réguliers, comme les panureurs, les congélateurs, les conserveurs ou les grossistes en crevettes fraîches.
+15b30b9ce7 Il est facile d’acheter des daifukus emballés dans du plastique dans les épiceries japonaises de New York, et de repérer des boîtes de glace mochi dans les rayons congélateurs des supermarchés.
+0dc21e9feb ✗
+aec08ea2f1 […] des cartouches « congélateur » (comme l’Action Replay), pour prendre facilement le contrôle […]
+0b0cb0449c L’exécution du programme était suspendue grâce à une extension matérielle spéciale, le « congélateur », et le contenu de la mémoire était sauvegardé sur disque.
+59b1fcf4de John Smith est génétiquement apparenté à Jane Doe.
+6347799fec Hildebrandt a certainement raison d’affirmer que toutes les images de rêve pourraient s’expliquer génétiquement, si nous consacrions suffisamment de temps et d’attention à retracer leur origine.
+58d6e34c0c L’allemand et le danois sont génétiquement apparentés.
+342192011e Le lièvre est une autre viande délicieuse : elle est plus « carnée », plus foncée et plus riche que le lapin.
+0ddce29536 À Milan, le lièvre à la royale est parfumé de chocolat râpé, qui ajoute couleur et profondeur à la sauce.
+947cf814ed Le lièvre a la réputation d’exciter le désir ; la soupe de lièvre est réputée avoir une valeur aphrodisiaque particulière.
+f7dd1ae352 Les théories équationnelles développées dans le présent document sont des théories équationnelles conditionnelles ordinaires.
+98fa300239 Avez-vous été partie à une action en justice close dans l’année précédant le dépôt de la requête initiale au présent litige ?
+d63b9d5314 diplôme honorifique ; citoyen d’honneur
+3778c9cdcf Megsie est une employée honoraire, car elle aide les autres clients pendant qu’elle fait ses courses ici.
+a8cc138dae Je vous considère comme un membre honoraire de notre famille, car vous êtes parmi nous depuis si longtemps.
+340b2f412c L’homme était puéril d’avoir piqué une colère.
+1c5791a58d On n’est jeune qu’une fois, mais on peut rester puéril toute sa vie.
+cbf90ffea8 Il est impératif que tu viennes ici tout de suite.
+a02b74e2be Donne ce document à Ozzy. Il est impératif qu’il le lise et le comprenne. C’est compris ?
+ae5f21d921 = The general’s ⟦imperative⟧ tone left no room for argument. | Le ton impératif du général ne laissait aucune place à la discussion.
+e8b6a20fc2 Visiter Berlin est un impératif.
+08fd26941f Les verbes dans des phrases comme « Fais-le ! » et « Dis ce que tu veux ! » sont à l’impératif.
+5bedc8dd36 tricoter un bas
+035d1835a3 La première génération tricotait sur commande ; la deuxième tricote encore pour son propre usage ; la suivante laisse le tricot aux fabricants industriels.
+03f1f4ef3c Les mailles tricotées ressemblent à de petits V vus de face.
+1d1c53730d La lutte pour la survie a soudé étroitement les hommes entre eux.
+ca3f270fc6 Le témoin a assemblé son témoignage à partir de bribes contradictoires de ouï-dire.
+40cb182dcb Tous ces semis s’étaient entremêlés en une bordure kaléidoscopique.
+560462b2f8 = He tried to show a ⟦manly⟧ calm after the shock of the accident. | Il tenta d’afficher un calme viril après le choc de l’accident.
+ce597cfdde un exercice destiné à remonter le moral
+0d239bc8b7 Après les licenciements, le moral était au plus bas ; le personnel était si découragé que rien n’avançait.
+92145807f4 […] Les païens ont fait irruption dans ton Temple, et Tu gardes le silence ! Ésaü se moque de tes enfants, et Tu restes muet ! Montre-toi, lève-toi, que ta voix retentisse, Toi le muet parmi tous les muets !
+68e4125ef4 = The old servant was a ⟦mute⟧ who communicated only with gestures. | Le vieux domestique était muet et ne communiquait que par gestes.
+e18ab96607 Un long silence suivit, pendant lequel le croque-mort se tourna vers eux et dit : « Vous voudrez bien sûr une urne, monsieur ? »
+ca19e37174 Veuillez couper le son de la musique pendant que je passe un appel.
+e620e0449b Ton nouveau projet ne sera qu’une dépense inutile.
+5e56527f6c […] c’étaient des élans d’imagination inutiles d’un homme qui avait fait tant de manières pour paraître sans prétention.
+8720e5d435 Les brutes l’appelaient « intello » à l’école.
+300d0ab383 « Oui, je suis un intello total, et toute la salle a éclaté de rire », dit Orszag.
+14a5394b13 un fan de bandes dessinées
+4a01fd4bce GLORIA : Un intello est un idiot ou une autre personne absurde.
+e1822ca63c Les intellos du Far West
+13fc98d514 Men In Black 3 n’a pas la nouveauté du premier film, et sa vision des années 1960 ressemble beaucoup à une fête déguisée psychédélique, tout en caricatures grossières et en ambiance groovy.
+1337e1ca34 = The bakery offered a ⟦novelty⟧ every week to attract customers. | La boulangerie proposait chaque semaine une nouveauté pour attirer les clients.
+0726d01982 Le champion russe s’en est très bien sorti. Nepomniachtchi, simple invité, a joué avec toute sa force, y compris une nouveauté intéressante dans la ligne très analysée de la Ruy Lopez du mur de Berlin.
+17b1e2abfd Il est rare de nos jours qu’une nouveauté apparaisse dès le septième coup, mais dans la dernière journée de la Bundesliga allemande, un septième coup récemment découvert a permis de gagner une belle partie.
+d4e5830b3d Hanks est connu pour être un lecteur passionné d’histoire et de biographies, et il semble rechercher des récits qui offrent un certain optimisme et un humanisme. En d’autres termes, il incarne fondamentalement des gens bien.
+5e7e96b6e9 J’aime sa jeunesse, sa beauté et surtout son optimisme : elle est convaincue que tout finira bien.
+19cd26dfa9 Son logiciel de traitement de texte dépassé ne pouvait pas lire les fichiers que je lui ai envoyés.
+cfd1f7a857 Votre version du document est obsolète.
+fa647de9b3 En fait, le monoxyde d’azote (à ne pas confondre avec le protoxyde d’azote, ou gaz hilarant) est l’une de nos principales molécules de signalisation.
+9b5a8574d6 Nous avons isolé le gène codant la glycoprotéine P0 des cellules de Schwann, la principale protéine structurale de la gaine de myéline périphérique.
+c40b61f8ef Le quadragénaire [Mike Skinner] est prêt à risquer son corps d’autres façons, en troquant une tasse de thé contre une pinte de bière double offerte par un fan, qu’il avale d’un trait et en se salissant.
+dbccd5f329 Laissez-moi trois pintes demain, laitier.
+fad1a3c5f1 Quelques pintes, s’il vous plaît, barman.
+b0310fa37c Finn : Tu dois avoir une soif terrible ce soir. Je n’ai jamais vu un homme boire deux pintes d’un coup.
+0c82151b8e 4 boules moyennes de glace au café (environ 1 pinte, 340 grammes), ramollie jusqu’à ce que les bords commencent à fondre
+8256e1992f La crotte du chien est sur l’herbe.
+23bde19c60 De nombreux sites interdisent totalement la pornographie.
+4a3c934f33 Ce qui est pornographie pour l’un est le rire du génie pour l’autre.
+e27f742038 Dans The Four Pillars of Wisdom, il consacre un chapitre bien mérité à la presse financière et à sa faiblesse pour la « pornographie financière » — les reportages sensationnalistes sur les gérants de fonds stars.
+43b8800aa9 J’avais une vue de choix sur les débats.
+a6865b5014 une procédure prudente ou violente
+f29493a3b9 Je vous déclare unis par le mariage.
+c5f1ade39e Les secouristes sont intervenus, mais il a été déclaré mort sur les lieux.
+746a9c54dc Malgré les efforts de réanimation, M. Gray a été déclaré mort le 19/04/2015.
+8c7ae456ca La date provisoire du mariage est le 2 avril, mais elle doit être confirmée à l’église.
+5af297ea67 Marsden et Jones ont été nommés dans l’équipe provisoire pour le championnat d’Europe, à confirmer avant la date limite du 30 juin.
+acf9bbdd5a = He grasped the oar, received his guests on board, and ⟦shoved⟧ from shore. | Il saisit la rame, accueillit ses hôtes à bord et poussa la barque du rivage.
+add042b1fe = The rowers gave the boat a last ⟦shove⟧ into the current. | Les rameurs donnèrent à la barque une dernière poussée dans le courant.
+e8144d32d0 Nous avons passé un moment formidable au zoo.
+2eacf5538a Le boxeur a porté un coup formidable à la tête de son adversaire.
+ed62f606ed Cela vous donnera quelqu’un avec qui échanger des plaintes faciles, ce qui, comme le dira tout habitué des matchs, est la clé d’un bon moment.
+7876508861 La partie sud-est du pays est la plus aisée.
+57bef49d8d ✗
+caba52032d = Her courage was a ⟦spur⟧ to every student who heard her speak. | Son courage fut un aiguillon pour chaque élève qui l’entendit parler.
+7c2cb7ac1b ✗
+84408febbe Elle bifurque de la ligne de Robin Hood, offrant dix miles de voie d’essai à voie unique avec une section double de trois miles, capable de tester jusqu’à 120 km/h.
+dde351f62f La typographie dynamique redynamise le genre du récit en anthropomorphisant les polices, en défibrillant la calligraphie, et en créant des ambiances rythmées sans sacrifier la vitesse ni la richesse.
+86dc0d3ef1 Dawes, Drummer, Diogo : ils devraient tous parler en argot de Beltline tout le temps. Juste assez pour donner du goût sans gêner le récit.
+d5c226e047 Je suppose qu’on peut mettre cela sur le compte d’une bêtise crasse, mais ce n’est guère une excuse.
+4d88aeb15f La bêtise de Jimmy lui a coûté sa voiture.
+f23e4d2437 La dissidence politique fut brutalement réprimée.
+d735a074e7 J’ai eu du mal à réprimer mon sourire.
+7382730623 Ses cheveux noirs de jais étaient tressés et son visage blanc crayeux sous sa couche de poudre (elle souffrait de transpirations constantes et de séborrhée).
+d884aa4190 Bien que l’univers SCP soit bien sûr rempli de choses que nous ne considérerions certainement pas comme « réelles », la plupart des SCP sont tangibles ou perceptibles d’une manière ou d’une autre.
+bb96823fbd = Knights held a ⟦tilt⟧ every Sunday in the meadow below the castle. | Les chevaliers organisaient chaque dimanche un tournoi dans la prairie sous le château.
+f4e3232e47 Il s’est présenté à une fonction publique.
+7cb1a382f3 City va désormais faire de la Premier League une priorité encore plus grande, tout en se regroupant pour préparer ce qu’ils espèrent être une nouvelle tentative en Ligue des champions la saison prochaine.
+e344dc17a9 = His ⟦trivial⟧ duties at the office were routine and dull. | Ses tâches ordinaires au bureau étaient routinières et ennuyeuses.
+78af7ad0ea Le syndicat des conducteurs ASLEF a brusquement rejeté l’allégation d’une action non officielle, la qualifiant de mensonge. Et Avanti West Coast n’a pu fournir aucune preuve de son affirmation, lorsqu’il a été interrogé par RAIL.
+19ad1a73dc les résultats non officiels du scrutin
+bab6ad9e25 La raison non officielle de l’invasion du pays était toutefois de contrôler ses ressources.
+2621a48951 = She drew a thin ⟦veil⟧ over her face before entering the church. | Elle abaissa un fin voile sur son visage avant d’entrer dans l’église.

@@ -1,0 +1,202 @@
+# lot 205 — mots de la bande « étendu » : bulldog, cheat, civilisation, conceive, conserve, contour, cuddle, deceive, discard, disciple, embark, enlist, evade, geez, gland, guerrilla, hinder, hoop, housewife, hurdle, inhibitor, inquire, lash, leftover, lessen, loosen, moan, motif, originate, overflow, pew, pickle, pigment, pilgrim, precaution, prescribe, rake, relic, reprint, reunite, ripple, robber, rein, rumour, scramble, scrape, shear, shorten, smoker, soar, sow, spawn, sprinkle, thinker, tumble, traverse, tumour, validate, vanish, beneficiary, compile, civilisation, lash, magnum
+# écartés : paroles de chansons (housewife, magnum, vanish), sexe (moan, civilisation), notes « Near-synonyms »
+e6a1a64c20 = Her ⟦hoop⟧ skirt brushed the doorframe as she entered. | Sa jupe à cerceau a frôlé le chambranle en entrant.
+1b10003529 Il a couru le 100 mètres haies.
+3d4b0a33b1 = The farmer bought new ⟦hurdles⟧ to fence the sheep pen. | Le fermier a acheté de nouvelles claies pour clôturer le parc à moutons.
+7d3e32e051 Les sauteurs les plus populaires sont l’Equihopper (G. Leathem FCR 1938), qui saute à la même distance au-delà de la haie qu’il s’en trouve.
+74c69eb28b = The traitor was dragged to the gallows on a ⟦hurdle⟧. | Le traître fut traîné jusqu’au gibet sur une claie.
+664438d399 Dans de nombreuses églises, certains bancs sont réservés aux officiants cléricaux ou liturgiques, comme les chanoines, ou aux familles de notables.
+7028ad199a Les bancs se remplissent, notamment de jeunes : la fréquentation des églises par la génération Z a quadruplé ces dernières années, à partir d’une base modeste, mais c’est surtout la direction de la tendance qui compte.
+bc5510eab5 Je pense que beaucoup d’Américains cherchent en fait une église relativement apolitique dans la chaire comme sur les bancs.
+f272fe0efd J’ai jeté un petit caillou dans l’étang et j’ai regardé les rides s’étendre.
+bce5586eb5 Les rides à la surface de l’eau trahissent la présence des poissons, qui attendent l’occasion de bondir sur les insectes qui rasent l’eau.
+1ce04638c7 La marée descendante avait laissé des rides dans le sable.
+26cbbba5df J’aime la crème glacée au fudge marbré, mais j’apprécie surtout fouiller dans la boîte pour attraper la partie marbrée et ne manger que celle-là.
+3290f0371a Ces problèmes ont été aggravés par une crise de change qui s’est propagée dans l’économie en 1961-1962, […]
+79ef32acd2 Le « Mech » de Hearns a tiré quinze missiles d’un coup. Austen a regardé les missiles entrer. Ils se sont écrasés dans un bosquet, fauchant les troncs.
+6aacadc489 Je me suis cogné en dégringolant l’escalier et je me suis cassé une dent.
+a8b963c920 Quand vous venez de passer un petit moment au lit et que vous vous sentez froissé et paresseux, elle voudra peut-être se lever pour faire le lit.
+f115b10f17 = The puppies ⟦tumbled⟧ down the grassy bank. | Les chiots dégringolaient le talus herbeux.
+0f5c9d1b8a Les cours des actions se sont effondrés après la révélation de la faillite imminente de l’entreprise.
+a1345a8cc3 La procréation assistée peut aider ceux qui essaient de concevoir.
+3463ff01e3 = The architect ⟦conceived⟧ the building as a series of gardens. | L’architecte a conçu le bâtiment comme une succession de jardins.
+7d37af0ea2 Peux-tu l’imaginer en chef ?
+083a2fb772 Viens là, Paul, un câlin te remontera le moral.
+5536020fbf Les jeunes amoureux se blottissaient sur le canapé.
+2322da85d5 Elle berçait le nourrisson avant d’aller dormir.
+1fea27c35b J’ai froid ; tu peux te rapprocher et me câliner, mon cœur ?
+5063ea7650 = The hare ⟦cuddled⟧ in the furrow to hide. | Le lièvre se blottit dans le sillon pour se cacher.
+0fa5a8364d Tous les passagers sont priés d’embarquer maintenant.
+ffe66a4daf Phil s’est lancé dans son voyage hier.
+3b9e77522f La « housewife » du soldat était une petite trousse de couture qu’on emportait pour réparer à temps les vêtements et l’équipement.
+bcc543add4 Voulez-vous une partie des fournitures restantes de l’événement ?
+01e12a34d1 J’ai des spaghettis restants au frigo, donc je ne compte pas cuisiner ce soir.
+7479ed35a3 C’est un reste d’hier, mais il est encore parfaitement bon.
+c00aebf87d La meule entière de fromage est un reste de la fête.
+68819136dc Vous voyez comment l’artiste répète le motif de volute dans toute l’œuvre ?
+4adeeeacc2 Les anciens philosophes conservaient leurs prétendues découvertes avec une précaution misérable.
+740603c062 sa vie fut sauvée par la précaution
+13ae93cbfc prendre des précautions contre les risques d’accident
+396a7421c2 Malgré toutes ces précautions, les violentes tempêtes provoquaient parfois des congères qui paralysaient complètement la circulation.
+419e2d26af Elle a gratté la planche de bois avec ses ongles.
+9f9b71a4fd Cette voiture accroche souvent les dos d’âne les plus bas, en raison de sa garde au sol réduite.
+234aa949ed Elle a trébuché sur une pierre et s’est écorché le genou.
+eb88144a57 Grattez le chewing-gum avec un couteau.
+c5540abb2e J’ai réussi l’examen de justesse.
+0ce50be9d2 tondre l’afro de quelqu’un
+6f7a9c5335 La composante totale du vent le long de la piste est passée d’un vent de face de 8 nœuds à un vent arrière d’environ 56 nœuds sur une période de 44 secondes.
+64121f8f22 = The farmer ⟦sheared⟧ the sheep in early spring. | Le fermier a tondu les moutons au début du printemps.
+50c797edd5 = The gardener sharpened his ⟦shears⟧ before pruning the roses. | Le jardinier a aiguisé ses cisailles avant de tailler les rosiers.
+62967c58b5 = The sheep gave the farmer a good ⟦shear⟧ this year. | Les moutons ont donné une belle tonte au fermier cette année.
+6329bcb8f6 Nous avons rencontré un cisaillement de vent désagréable à l’approche et avons dû remettre les gaz.
+e6f6b8687a Il devra traverser la montagne pour atteindre l’autre versant.
+0d4b63b84e parcourir tous les nœuds d’un réseau
+76efca2f48 = The pleats should be ⟦traversed⟧ by a second fold. | Les plis doivent être recoupés par un second pli.
+44d65ef78d Pensez toujours à composter votre billet avant d’entrer dans le train. Un billet non composté peut entraîner une lourde amende.
+710694b43f Le fichier de données ne peut pas être importé, car il ne valide pas le schéma.
+91ae33e55d éluder la force d’un argument
+2bb8135793 Il a esquivé les coups de son adversaire.
+20b6088744 = The thief ⟦evaded⟧ the police by slipping into the crowd. | Le voleur a échappé à la police en se glissant dans la foule.
+68af5d7c90 = Do not ⟦evade⟧ the question with long excuses. | N’esquivez pas la question par de longues excuses.
+112cb1fc17 La sécheresse freine la croissance des plantes.
+2636b2a2f3 Arsenal jouait sans arrière latéral reconnu, leur défense comprenant quatre défenseurs centraux, et le manque de largeur freinait leur progression.
+941641ff8e Elle a empêché un homme de se suicider.
+c69cee6cf5 la partie arrière d’un chariot
+a66ac0bbb9 les parties postérieures d’un cheval
+b42a7e9e36 ✗
+d2493cb211 JG : J’en ai plus que nous ne pourrions jamais en faire, c’est certain. Mais il n’y a jamais de surabondance de qualité, et la qualité est vraiment difficile à trouver, la vraie qualité.
+17177cccee Les urgences de l’hôpital débordaient de cas de grippe.
+8b38759c1f La rivière a débordé de la digue sur la route.
+c613abde12 Les ombres avaient commencé à déborder de leurs flaques stagnantes, du côté de la nuit, quand bientôt le fracas de la bataille s’éteignit.
+ea492a03bd La crue soudaine a inondé la majeure partie du parc et quelques maisons.
+73592bb1e8 Un cornichon va très bien avec un hamburger.
+f97c359f55 Ce bac est rempli de la saumure dans laquelle nous mettrons les petits concombres.
+633b4b16ed L’alpiniste s’est retrouvé dans une situation délicate quand un rocher s’est détaché.
+8151efd9be Je vous en prie, mademoiselle Jones, réalisez dans quelle situation délicate vous vous trouvez.
+ca16a4844f Nous avons mis en conserve (au vinaigre) le reste de la récolte.
+6c749fca05 Ces concombres se marinent très bien.
+332b3e119c L’équipage décapera les garnitures demain matin.
+de679111e4 Vous pouvez maintenant restaurer les données sérialisées (pickled). Si vous le souhaitez, fermez votre interpréteur Python et ouvrez une nouvelle instance pour vous en convaincre […]
+f8a8bea5eb Pour illustrer comment cela fonctionnerait en pratique, considérez un champ conçu pour stocker et récupérer une copie sérialisée (pickled) de n’importe quel objet Python.
+92da692f28 Le médecin a prescrit de l’aspirine.
+0bf61a35f4 La propriété répond aux critères prescrits par la réglementation.
+e5d9fff000 = Long possession may ⟦prescribe⟧ a right of way. | Une possession prolongée peut établir un droit de passage.
+109189d119 Le roman a été réimprimé avec une annexe.
+b1024aa252 = The magpie is a notorious ⟦robber⟧ of birds’ nests. | La pie est une voleuse de nids notoire.
+8e5f6f56fb J’ai brouillé des œufs avec des épinards et du fromage.
+6d29033eb6 Découvrir certaines des plus belles chutes d’eau, rivières et bassins de Grande-Bretagne sous les angles les plus improbables, en escaladant le lit d’une rivière de montagne, en remontant ou en descendant.
+099560881c une ruée de dernière minute vers la ligne d’arrivée
+78e2b4193d Le menu du restaurant propose « le brouillé du fermier » (dans le petit-déjeuner toute la journée) et « la fricassée du pêcheur » (dans les plats du dîner).
+88c241f62d Êtes-vous un pécheur ou un saint ?
+50fef9c4ad Un document de planification rédigé en octobre 1984 indiquait que les coûts de maintenance de la classe 46 montaient en flèche et qu’un retrait rapide interviendrait ; c’est ce qui s’est produit avant la fin de l’année.
+00ec88c3f7 = The eagle ⟦soars⟧ above the valley. | L’aigle plane au-dessus de la vallée.
+b30d42dda0 Les prix à la pompe ont grimpé à de nouveaux sommets pendant la grève.
+c20adf6152 = Her courage ⟦soars⟧ above every misfortune. | Son courage s’élève au-dessus de toutes les épreuves.
+b328110674 cet apparent envol du faucon à capuchon
+a849bb72d1 Le pâtissier a saupoudré les gâteaux de sucre glace.
+f6c9905430 Le pâtissier a saupoudré les gâteaux de sucre glace.
+14c99d4dbb Il a bruiné dehors toute la journée.
+fa75bf58cb Il a décoré la carte de Noël d’une pincée de paillettes.
+bf81be7b76 Mon souvenir me laisse une brûlure profonde et constante, les yeux irrités et rouges par de brèves averses de larmes qui me surprennent depuis des jours.
+63df02686d Eh bien, j’ai essayé de faire comme vous et grand-père le dites : ne pas utiliser mon « penseur », mais mon imagination.
+c34e00c691 DALE : C’est un intellectuel.
+fc80cc0119 Il est possible que certains microbes ne se contentent pas de s’installer dans les tumeurs, mais les aident à grandir. Ils peuvent masquer la tumeur au système immunitaire, neutraliser les médicaments ou aider les tumeurs à se propager dans le corps.
+31a6fd7fda ✗
+070b50bb66 La fonction f telle que f(x) = x² s’annule en x = 0.
+ca16163dcc On chuchotait que des hommes avaient été « dissous » par la Ligne et revenaient retournés. Renversés comme un gant.
+4389649cb1 Et comme pour le prouver, un de ses amis a été « escamoté » et n’a plus jamais été revu. Le gars est monté dans un taxi un soir, et personne ne l’a jamais revu.
+7fd32e3a83 Il nous faut un avocat qui défendra notre cause, un vrai bouledogue.
+85b33b2839 = The ⟦bulldog⟧ edition of the newspaper sold out by noon. | L’édition de première heure du journal s’est arrachée avant midi.
+c119ba9dd4 Sa détermination de bouledogue devait lui offrir l’occasion qu’il cherchait.
+ed39b92f7a Samuel Johnson a compilé l’un des dictionnaires les plus influents de la langue anglaise.
+b3c7f108c1 Après avoir compilé ce programme, je le lancerai pour voir s’il fonctionne.
+8283225fbb C’est douloureux de commencer à voir clair : vous avez été trompé par les personnes et les institutions mêmes auxquelles vous faisiez confiance pour vous guider.
+23feafa1bb = She was a faithful ⟦disciple⟧ of the philosopher. | Elle était une disciple fidèle du philosophe.
+ea410eba05 Sacrée semaine !
+0a54a5def6 Oh là là, oh zut ! Je sais que notre Betty [White] est toujours si surprise quand elle reçoit un prix et une vague d’adulation, alors je suis prêt à ce qu’elle nous surprenne à son tour.
+857ee4a256 Le presse-étoupe d’un robinet est généralement garni de ficelle imprégnée de suif ou d’une graisse similaire.
+e82bc4b212 L’offensive des paramilitaires d’extrême droite contre les guérilleros marxistes a échoué, parce qu’ils ne connaissaient pas assez bien le terrain.
+83286ba859 J’ai constaté que la méditation quotidienne était un frein utile aux pensées négatives.
+05accfde76 Puis-je me permettre de vous demander à qui j’ai l’honneur de parler ?
+6e757c7616 La police enquête déjà sur l’incident.
+624d102163 Ce sont ces gens, messieurs, les disséminateurs de ces rumeurs, qui sont mes dangereux accusateurs ; car ceux qui les entendent supposent que quiconque se penche sur de telles questions doit être athée.
+78a0596bbb = The coachman cracked his ⟦lash⟧ over the horses. | Le cocher fit claquer sa lanière au-dessus des chevaux.
+16f5ebecee Le coupable reçut trente-neuf coups de fouet.
+59199f7620 = His remark was a sharp ⟦lash⟧ at the vanity of the rich. | Sa remarque était une cinglante critique de la vanité des riches.
+9ae52868ef Une lesbienne qui avait été fouettée à l’adolescence parce qu’elle disait être gay.
+c9e42a14c0 De grosses vagues fouettaient le rivage.
+290c7189eb L’équipe de Carlo Ancelotti, peu en forme, a eu du mal à cadrer en première mi-temps tandis que Bolton menaçait, Matthew Taylor ayant frappé juste au-dessus.
+3ef8fa135b = The horse ⟦lashed⟧ out with its hind legs. | Le cheval a ruadé des pattes arrière.
+66a5acaa38 Je ne voudrais pas encore défaire ce cheval, pèlerin. Je veux bien te regarder d’abord.
+ce74bee513 Cela supposerait de construire des râteaux de canons ou des réseaux de canons-planeurs pour construire des murs mobiles.
+f5f3e1f60b Le moteur de commutation est instable, mais plusieurs d’entre eux, combinés, peuvent former des puffers stables, des vaisseaux et des râteaux.
+8feaebb74b De plus, sa « troupe » de mules, sans cesse croissante, dépassait la petite parcelle de terre qu’il avait héritée au Tennessee.
+50c018d1d6 portant la charge utile totale d’une troupe typique de mules à environ vingt fois celle du flameme le plus puissant.
+242d02e41f Elle ratisse l’allée de gravier pour la garder égale.
+7c66726bb0 Nous avons ratissé toutes les feuilles en tas.
+f0480e3800 Le regard de Jack balaya la pièce, cherchant un signe que quelque chose n’allait pas, que quelqu’un allait soudain bondir et la saisir.
+df8d05c0a4 Les mitrailleuses ennemies balayaient la route.
+9319fb17e1 Le casino ne fait qu’engranger l’argent ; c’est comme une licence pour imprimer de la monnaie.
+9bcb6ae469 Les griffes acérées du chat m’ont labouré le côté du visage.
+21fe83c01d La mariée en voulait beaucoup qu’on l’ait laissée à l’église.
+c35e06b442 de sorte qu’ils ressentent comme une agression l’empiètement kartvélien récent sur leurs terres, accompagné de tentatives répétées de les géorgianiser.
+2d7d4bc651 Vous nous en voulez de vous avoir offert ce choix ?
+82680a34d5 Il court une rumeur selon laquelle il va se marier.
+5e8eaeed08 une rumeur qui circule
+3aa785b8b3 On dit qu’il était voleur, mais ce n’est que de la rumeur.
+3b56634c16 réduire la ration de nourriture
+21bc4b008c Heureusement qu’il ne s’agissait pas d’une truie. Ils ont d’habitude juste mis bas en cette période de l’année. Une truie aurait été sacrément irritable.
+3e1595606a En Angleterre, on appelait généralement « sow » un bloc de fonte dont le poids dépassait 10 quintaux ; en dessous, on l’appelait « pig », d’où vient le terme actuel « pig iron » (fonte brute).
+0bf5e0556f Quand j’eus semé le champ, la journée de travail était terminée.
+03cdc88fac Comme on sème, on récolte.
+721258acb5 Sans surprise, cela a semé le doute chez d’autres exploitants de diesel-hydrauliques ; […]
+b7803aa03d = The night ⟦sowed⟧ the sky with stars. | La nuit a semé le ciel d’étoiles.
+4cb2d28e73 Une grenouille pond des milliers de têtards chaque année.
+db6842c1dd Le serveur web engendre un nouveau processus pour traiter chaque requête client.
+5b425f93a9 Nous avons posé des torches pour empêcher les créatures de se multiplier.
+2fc006b1ee Les gaspareaux sont des poissons anadromes : nés en eau douce, ils passent leur vie dans l’océan, puis reviennent chaque année à leur lieu de naissance pour frayer.
+0c146eaa73 Cette idée effroyable est le rejeton d’un grand conglomérat d’entreprises.
+9aeaad3015 Même l’insouciant Homer est un peu effrayé par la rêverie privée de West, et encourage sa progéniture à s’éloigner lentement sans croiser le regard de l’homme fou.
+c8a56c8b7a Vous êtes le bénéficiaire chanceux de cette offre spéciale.
+bcbe084c39 Dans un second temps, les droits sur l’actif sont répartis entre le trustee, qui détient le titre formel, et le bénéficiaire, qui reçoit l’intérêt économique (futur).
+cc40cab923 Si un bénéficiaire ne survit pas au constituant d’une période de 30 jours, le trustee répartit la part de ce bénéficiaire entre les bénéficiaires survivants par représentation.
+1efef2528b La civilisation moderne est le produit de l’industrialisation et de la mondialisation.
+ff044edecb ✗
+11b4ad4129 Un ermite n’a pas beaucoup de goût pour la civilisation.
+3520772fbd Je suis content de retrouver la civilisation après une journée avec cette famille bruyante.
+cc70078220 La civilisation de l’enfant par l’enseignant n’a pas été une tâche facile.
+9d30a939d7 ✗
+a96a49c374 Certains touristes de l’arrière-pays auraient pu se couvrir de honte, s’ils avaient été capables d’en avoir, en se plaignant qu’ils avaient hâte de retourner à la civilisation.
+7cb055a038 conserver des fruits avec du sucre
+b82e81ba07 le profil à faible traînée d’une automobile moderne
+691b98a8ae = The king ⟦discarded⟧ his ministers after the defeat. | Le roi a congédié ses ministres après la défaite.
+32046eba0a L’armée veut que les soldats potentiels s’engagent.
+5f6e275c46 Nous avons recruté cinquante nouveaux membres.
+e091c78bce Ils ont obtenu le soutien du gouvernement.
+f5d4253d94 La charité […] allégera sa peine.
+4c74dd656a Après le repas de Thanksgiving, Bill a desserré sa ceinture.
+295d0c9409 dénouer un nœud ; relâcher son emprise sur quelque chose
+9615ad80b5 J’ai remarqué que ma ceinture de sécurité s’était progressivement desserrée pendant le trajet.
+ef25ee3578 Sa chevelure est retenue par une lourde barrette émaillée. Il desserre la barrette et la pose sur la table.
+8bcba79644 Ils partageaient la même crainte qu’il se mette à gémir.
+2a7f209c67 Nous avons entendu au loin le gémissement d’un cerf blessé.
+a5d85dc173 pousser un long gémissement
+b0efc72dc2 ✗
+c5e6e4092a « Ne me quitte pas », gémit-il.
+b35a709f2a Einstein est à l’origine de la théorie de la relativité.
+e4ca9749f3 Les bailleurs de fonds qui ont lancé le projet de l’Encyclopédie en 1745 n’avaient aucune idée de dans quoi ils s’engageaient.
+daadd38707 Le projet est né du gouverneur et du conseil.
+01e7f19491 L’idée d’adapter une grue à une locomotive pour les manœuvres de triage, principalement dans les cours d’usine, semble être née avec la locomotive du North London Railway en 1872.
+a79f1e83b6 La chlorophylle est le pigment responsable de la couleur verte de la plupart des plantes.
+f6a84add7b L’ombre (umber) est un pigment fabriqué à partir d’argile contenant de l’oxyde de fer et de manganèse.
+8fa2bf78ea Le gouvernement tente de freiner la hausse des prix.
+89bdaa177c Il paraissait, à en juger par les ruines éparpillées au loin sur ses flancs, être une partie de la ville entièrement abandonnée par ses habitants modernes aux reliques de sa grandeur passée.
+65f053bc86 = Be cased up, like a holy ⟦relic⟧? | Être enfermé comme une relique sainte ?
+b52ec44f27 L’une des cibles principales des observations cosmologiques actuelles et surtout futures sont les reliques thermiques lumineuses du grand big bang chaud.
+ebdbce5d31 Après dix ans de séparation, le groupe va se reformer.
+c1611dd9e2 Deux des membres ont tenté à plusieurs reprises, sans succès, de réunir le groupe.
+ea78cfdda2 un fumeur de narguilé
+a922b2f94d un consommateur de cannabis
+dbc8e34720 = We found seats in the ⟦smoker⟧ at the back of the train. | Nous avons trouvé des places dans le wagon fumeurs à l’arrière du train.
+40f12e832c ✗
+1cc0e33d3d = The war had ⟦shortened⟧ his fortune. | La guerre avait amputé sa fortune.

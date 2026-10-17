@@ -1,0 +1,202 @@
+# lot 180 — mots de la bande « étendu » : methodology, murderer, nap, nickel, niece, pardon, persuade, pier, predecessor, premise, quiz, redemption, remedy, revision, scent, slate, stimulus, sunrise, surge, tee, token, twilight, vocabulary, whoa, woody, worthless, yacht, Bruno, Eleanor, Protestant, Solomon, Southampton, Stephanie, Venus, Wu, absorb, advancement, assurance, barber, boycott, carpenter, coding, cuisine, dioxide, doom, eclipse, eighteen, enjoyment, exhaust, glimpse, hawk, homemade, infectious, inferior, injustice, insulin, intro, kindle, lid, manor, masterpiece, melody, memo, narrator, partisan, pony, prolonged, reliance, reluctant, retention, ribbon, roommate, rotten, shah
+# écartés : drogue, fusillade, paroles de chansons, sexe, notes « Near-synonyms », sens archaïques (Bible, Shakespeare, Spenser)
+f78e1583de Une grande nation ne débat pas, dans des larmes niaises et des sympathies diaboliques, pour savoir s’il ne faudrait pas pieusement sauver et maternellement chérir la vie de ses meurtriers.
+81d91290ef Les régulateurs ont été pris au dépourvu par l’effondrement financier.
+6bb36f1ed9 ✗
+8a64b9b51d = The pilots dropped thousands of ⟦nickels⟧ over the enemy lines. | Les pilotes ont largué des milliers de tracts sur les lignes ennemies.
+8d79c141dd Nous avons effectué de nombreuses missions de largage de tracts au-dessus des zones peuplées du sud de la France, en lâchant des milliers de livres de documents.
+50ccc77f60 Ma nièce vient de fêter ses 15 ans.
+90a25e3e9e Le président […] aura le pouvoir d’accorder des sursis et des grâces pour les infractions contre les États-Unis, sauf en cas de mise en accusation.
+4ebd389603 = I hope you will ⟦pardon⟧ my late arrival; the trains were delayed. | J’espère que vous voudrez bien excuser mon retard : les trains ont été retardés.
+accc45e8d0 Ce vendeur a réussi à me convaincre d’acheter ce flacon de lotion.
+9352ebfb1c La force de l’explosion a détruit une paire de piles du pont, et deux travées se sont effondrées dans la rivière sur les péniches.
+90cadcad44 Votre bateau est amarré au ponton.
+beb9c0ffe7 Il y a une salle de jeux vidéo sur la jetée.
+6680d83e60 Une brise fraîche vient de l’eau et descend le long de la jetée.
+4d0947eba9 Le nouveau ponton de 216 millions de livres sera utilisé par toutes les compagnies aériennes qui opèrent actuellement depuis le terminal 2, les vols migrant progressivement vers le nouveau ponton dès qu’il sera pleinement opérationnel.
+f2a0ad6089 La machine à vapeur était le prédécesseur des locomotives diesel et électriques.
+868cf04a16 = Let us start from the ⟦premise⟧ that all employees are honest. | Partons de la prémisse que tous les salariés sont honnêtes.
+d4c164ab54 = If the ⟦premises⟧ of the argument are true, the conclusion must follow. | Si les prémisses du raisonnement sont vraies, la conclusion s’ensuit.
+da3e20842c entrer sans autorisation dans les locaux d’autrui
+70eef6bc09 Nous sommes arrivés deuxièmes au quiz du pub.
+5fdd7aed4f = Where did you buy that ⟦quiz⟧ of a hat? It looks like a clown’s. | Où as-tu acheté ce chapeau farfelu ? On dirait celui d’un clown.
+a499c94d0d Avant de créer le monde, Dieu connaissait à la fois la nécessité et les moyens de la rédemption qu’il accorderait par Jésus-Christ.
+67c78d4872 Lorsque l’argent entre, les opérateurs de stablecoins peuvent décider comment et quand acheter des réserves. Lorsqu’ils font face à des rachats, ils doivent agir plus vite.
+464e90b65b = A new law may ⟦remedy⟧ the shortage of housing in the city. | Une nouvelle loi pourrait remédier à la pénurie de logements dans la ville.
+3c58a8d46f La relecture peut transformer une copie passable en une excellente, et une excellente en une brillante.
+aca08f2dd7 L’histoire complète de sa rédaction, de sa révision, de sa transmission et de sa publication est complexe et compliquée, au-delà de la portée nécessairement limitée de cette note […].
+9239ecb761 Indiquez le numéro de révision. Vous devrez peut-être ajouter un triangle et un numéro, comme indiqué à la figure 9-6, pour indiquer le numéro de révision.
+6b5f48d70a La première chose que les membres doivent comprendre au sujet d’une révision, c’est que les statuts actuels ne sont pas du tout en discussion. Si la révision est rejetée, aucune modification des statuts actuels n’intervient.
+9e077ba863 Toute cette révision de dernière minute a vraiment payé à l’examen ! J’ai eu les meilleures notes !
+8553ec1014 le parfum des fleurs / d’une mouffette
+4bd77774bb dégager / libérer / exsuder une odeur
+3bfcf8f56d Je crois que le limier a le meilleur flair de tous les chiens.
+b7191c1f5e Les chiens ont capté la piste, mais l’ont vite perdue.
+874f000509 Il s’éloigna en trottinant sous un parapluie de toile, traînant derrière lui une odeur de parfum bon marché.
+d8680a1f01 Les chiens ont flairé le renard dans les bois.
+6b72950513 Maggie aurait presque pu sentir un feu avant qu’il ne prenne.
+69b2daf3b3 = I stopped to ⟦scent⟧ the sea air before I went inside. | Je me suis arrêté pour respirer l’air marin avant d’entrer.
+d35a92cc1e = The teacher wrote the sums on the ⟦slate⟧ for the children to copy. | Le maître écrivait les calculs sur l’ardoise pour que les enfants les recopient.
+ac685d52df réagir à un stimulus
+4cd5a5fdbd Je te retrouve aux docks au lever du soleil.
+740fc0b58b As-tu vu le magnifique lever de soleil ce matin ?
+1f8833664e C’était l’aube de son esprit.
+5330468a2e Il ressentit une vague d’excitation.
+fbefcc31c2 Une surtension sur ce générateur a provoqué une panne de courant dans tout le quartier.
+43cd675525 Quand le diesel était poussé à fond, l’ampèremètre indiquait normalement entre 1 500 et 1 600 ampères, avec des pics occasionnels de courant au démarrage ou sur les pentes les plus raides, jusqu’à 1 700, voire 1 800 ampères.
+63198f687b = The ⟦surge⟧ of the sea against the harbour wall woke the whole village. | Le ressac contre le mur du port réveilla tout le village.
+c09a9c3da8 capacité de surcharge ; flotte de réserve ; capacités de déploiement d’urgence
+b3289501a5 Les ventes de grille-pain ont grimpé en flèche l’an dernier.
+b84f6a33f6 Un navire avance, tangue et se soulève.
+a018fbeb64 Utiliser une poussée arrière maximale à basse vitesse peut faire pomper le moteur en raison de l’ingestion de ses propres gaz d’échappement.
+6a7101a4cc « ETA » se prononce « i-ti-é » au lieu de « I SPELL Echo Tango Alfa ».
+dae49a6052 Ils disposent d’échantillons d’écriture et examinent les boucles arrière des p et les barres des t.
+c1663caeb2 Selon la Bible, l’arc-en-ciel est le signe de l’alliance de Dieu avec Noé.
+aa3713a657 Les jetons du métro sont remplacés par des cartes magnétiques.
+a9a1a79cb8 Un bon d’achat pour une librairie est la solution la plus simple pour un cadeau de Noël.
+257ff78795 Acceptez ce bustier en gage de notre temps passé ensemble.
+3f3b4b3cfe Chacun choisit un pion (chapeau, brouette, dé à coudre, etc.) et le place sur la case Départ.
+398b64a32d Il donna un petit coup de frein au stop.
+88f8d33d29 Il existe encore de nombreuses églises où la participation des femmes n’est que symbolique.
+a8231e7852 Il a été embauché comme simple alibi noir de l’entreprise.
+a93c0d813f Il faut toutefois noter que, partout où les pasteurs s’opposent aux églises mixtes, le mélange racial n’est que symbolique.
+4e245a4171 Je distinguais à peine son visage dans le crépuscule.
+a041b60405 ✗
+bd112c8802 Il faisait déjà nuit quand je suis rentré chez moi.
+34fb224db6 = A faint ⟦twilight⟧ filtered through the shutters into the room. | Une faible lueur filtrait par les volets dans la pièce.
+fe5a5163f2 Le crépuscule de sa vie
+23c36ea82e Le crépuscule […] des probabilités.
+8f1f737486 Mon vocabulaire russe est très limité.
+387e6db372 Le vocabulaire des sciences sociales est souvent incompréhensible pour les gens ordinaires.
+0b8ad3ccf7 Le vocabulaire de toute langue est influencé par les contacts avec d’autres cultures.
+bf73ed2a5b Je vois Mickie s’échauffer, je m’apprête à lui saisir le bras, le retenir, et dire : « Oh, doucement, Mick, pas ici, ça ne vaut pas le coup pour ce qui vient de se passer à l’intérieur. »
+02873e5ca2 Oh là, tu es sérieux ?
+7b3012ed5d Oh, doucement, ma fille, c’est une sacrée honte.
+8ead733451 = The village lay in a quiet ⟦woody⟧ valley far from the road. | Le village se nichait dans une vallée boisée et paisible, loin de la route.
+97c76b8828 Les sous-arbrisseaux, les arbustes, les arbres et les lianes sont tous des plantes ligneuses.
+e4cd23bc98 les parties ligneuses d’une plante
+02c74a814a Ne sois pas un fainéant bon à rien ! Va te trouver un travail.
+29188113d5 Les mensonges sont aussi importants que la vérité, car sans mensonges, la vérité ne vaut rien.
+2f3fbe91cc Voulez-vous faire de la voile sur le yacht de mon oncle ?
+a3bc2d8eac Vous êtes un vrai marin ! Êtes-vous membre du club de yachting local ?
+1bcf381285 C’était l’homme qui nous a offert ces grandes équipes costaudes, aux joueurs au menton hérissé, avec des noms redoutables comme Bruno et Bulldog.
+f782bc6c6c = My cousin ⟦Eleanor⟧ has just started at the university. | Ma cousine Eleanor vient de commencer à l’université.
+d285ac4051 = The ⟦Protestant⟧ vicar of the parish welcomed all the families to the service. | Le pasteur protestant de la paroisse a accueilli toutes les familles au culte.
+60df546f6b = The ⟦Protestant⟧ churches of the town hold their services on Sunday mornings. | Les églises protestantes de la ville tiennent leurs offices le dimanche matin.
+55799dd778 ✗
+7c920fa8ce Essayer de rejoindre la Hollande ou la France
+32f5731e8d Cette saison, Southampton a vu une foule de joueurs clés blessés : Danny Ings, Stuart Armstrong, Theo Walcott, Kyle Walker-Peters, Jannik Vestergaard.
+0d4c0064c0 « Ne m’appelle pas Stephanie », avait dit Steve. « Je ne sais pas pourquoi, mais se faire appeler Stephanie me donne toujours l’impression d’être quelque chose de pâle et de terne sorti de Jane Austen. »
+089e0b00f4 ✗
+a9e7da007c Vénus se lève le premier jour à 5 h 15, et à 4 h 25 le dernier jour. […] Elle commence maintenant à se déplacer vers le nord.
+19c2543060 = The art museum displays a copy of the famous ⟦Venus⟧ of Botticelli. | Le musée d’art expose une copie de la célèbre Vénus de Botticelli.
+08361bfd4d J’ai beaucoup regretté de ne pas avoir pu voir Hsing-ping, une très vieille ville bâtie par le souverain du royaume de Wu, à l’époque des Trois Royaumes, au IIIᵉ siècle.
+76ca788d60 = Her studies ⟦absorbed⟧ her completely during the final year. | Ses études l’ont entièrement absorbée durant sa dernière année.
+05fed5a301 les progrès du savoir
+014f7fd253 La tempête a emporté d’innombrables vies et forcé des centaines de milliers de personnes à fuir leur communauté sans assurance de revenir bientôt.
+38c7a6547d = She faced the judges with calm ⟦assurance⟧. | Elle fit face aux juges avec un calme assuré.
+de1eb032e3 Son aplomb est insupportable.
+f5ea94b86b = The minister gave ⟦assurances⟧ that the hospital would stay open. | Le ministre a donné des assurances que l’hôpital resterait ouvert.
+0426752a92 Il y a aussi un salon de coiffure et ce passage obligé des gares britanniques : une librairie WH Smith.
+af9f6a9763 ✗
+458429c6d0 Les boycotts de raisins de la UFW et de la solidarité avec le Chili ont eu très peu de contacts entre eux, malgré les liens étroits entre les filières fruitières de la Californie et du Chili.
+46e7b35594 Les grosses abeilles africaines robustes sont des charpentières (Xylocopa) : elles creusent de petits tunnels dans le bois et n’abritent que quelques individus.
+bd1cf44cf5 J’ai passé toute la nuit à coder, mais le programme était prêt au matin.
+92075ba7b0 Le restaurant est réputé pour son excellente cuisine.
+9d82c945ec La cuisine française est considérée comme l’un des styles culinaires les plus raffinés et élégants du monde.
+1f67bb63b4 Les lésions discoïdes et les atteintes subaiguës mineures peuvent être contrôlées par congélation au dioxyde de carbone ou par une cure d’atabrine.
+410bcf2c0b « Quand dois-je m’attendre à lui ? » demanda Roy, résigné à son sort.
+6edd4e3924 « Quand il prendra le trône, vous serez arrêté. » « Tu mens comme ton maître, Carfax. Ton sort est scellé. »
+e3e701bd26 Chung était le premier des quatre choix du deuxième tour. Son arrivée pourrait sceller le destin de Rodney Harrison.
+714905ec28 Puis le narrateur souriant m’a plongé dans l’angoisse : je devais tirer moi-même sur le cordon d’ouverture. J’ai failli m’évanouir.
+4b95f66feb Je prends des médicaments tous les jours ; je n’aurais jamais cru que je tomberais dans un cauchemar sans fond qui me ferait sentir condamné.
+f8e9d8f473 un criminel condamné à mort
+516fc7e189 = The stubborn plan was ⟦doomed⟧ from the start by poor funding. | Le plan obstiné était voué à l’échec dès le départ, faute de financement.
+525e14669c Toute la postérité de nos premiers parents a subi une éclipse perpétuelle de la vie spirituelle.
+2452d50173 La Lune a éclipsé le Soleil.
+d58a78e736 L’espace de noms Util.System éclipse l’espace de noms System de plus haut niveau.
+f0f3d795cd Tout dans son restaurant, ouvert depuis un an, reflète son amour de faire venir les gens à table pour une cuisine bonne et simple, que n’éclipsent ni clochettes ni sifflets.
+11c29a958b Le droit de vote des citoyens des États-Unis âgés de dix-huit ans ou plus ne peut être refusé ni restreint par les États-Unis ou par un État en raison de l’âge.
+f96295a1d8 Peu d’activités améliorent autant le plaisir d’un bon repas partagé en bonne compagnie.
+b26e864b9c Notre République continue d’accroître la jouissance de la liberté sur son territoire, et d’offrir force et encouragement à tous ceux qui aiment la liberté dans le monde.
+6abea23c64 J’ai tiré plus de plaisir du camp d’été que de toute autre partie de l’école.
+e0f990e5f7 L’eau a été épuisée du puits.
+cf83cd7053 L’humidité du sol est épuisée par l’évaporation.
+df2d79fe84 épuiser un puits
+1b74277eb0 vider un trésor
+51b4a658bd Mon grand-père ne semble jamais épuiser son stock de mauvaises blagues.
+44c6677cdd J’ai épuisé mes forces en gravissant la colline.
+654dcebea2 Je commence seulement à entrevoir l’ampleur du problème.
+78cd5f44fb = As she passed the house, she ⟦glimpsed⟧ a child at the window. | En passant devant la maison, elle entrevit un enfant à la fenêtre.
+530459b79b Je n’ai fait qu’entrevoir la voiture, donc je peux vous dire la couleur mais pas le numéro d’immatriculation.
+ce24a1e0cf = I had a ⟦glimpse⟧ of the answer, but could not yet say it. | J’avais entrevu la réponse, sans encore pouvoir la formuler.
+ab6bf418d6 Il est illégal de chasser les faucons ou d’autres rapaces dans de nombreuses régions du monde.
+234a21793b Le président Donald Trump a passé des années à jouer le rôle de faucon face à la Chine.
+53c946aacf Faucon de nature, Ellenborough était fortement favorable à l’envoi à Saint-Pétersbourg d’un ultimatum avertissant que toute nouvelle incursion en Perse serait considérée comme un acte hostile.
+da5a5dff93 « Je veux apprendre avant l’anniversaire de Ruby. » Pride remonta son col contre le vent qui soufflait de la rivière.
+89cee80e36 Il chevauchait à califourchon pendant la chasse au faucon ; elle, au fauconnier, adoptait la position convenable de l’amazone, en amazone.
+6be4876a25 Les rolliers chassent à l’affût depuis les branches nues en hauteur.
+7f04e0696b guetter les mouches
+7bd30abefd un pâté de poulet maison
+03c1a328ff ✗
+3ce024ce22 Les maladies plus contagieuses, comme la grippe, sont généralement moins graves.
+6479964933 Le cancer n’est généralement pas contagieux.
+da644c6897 Malgré son mieux-être, le patient reste contagieux.
+2ccb0d95ac Je doute que [la salive] soit très contagieuse… je ne pense pas que ce soit une voie de transmission normale.
+3ff14ac3c9 Son enthousiasme au travail peut vraiment être contagieux.
+8f74745977 La pop est plus entraînante que la musique d’ascenseur.
+94a68638e0 Le menteur pathologique était moralement inférieur à ses électeurs, bien plus sympathiques.
+85940394d8 Anna s’était toujours sentie inférieure à son frère à cause de ses mauvais résultats scolaires.
+a783a1d44e À cause du problème de connexion Internet, le système génère un fichier audio de qualité inférieure.
+b39717b0bc Elle déteste se rendre dans des endroits de second ordre.
+e5549aa1a2 un chiffre ou une lettre en indice
+0ec4f838f2 Puisque tu es mon subordonné, je peux te dire de faire tout ce que je veux.
+3b169f2025 Le silence face à une injustice flagrante, le soutien qu’on lui apporte, ou même la participation active à celle-ci, ont un prix.
+a632f41580 Maman a dit que le diabète de grand-mère était dû au fait que son corps avait cessé de produire sa propre insuline.
+34890aa2b2 Au niveau national, le prix moyen de l’insuline a presque triplé entre 2002 et 2013, et les prix ont augmenté de 10 % ou plus par an depuis, forçant de nombreux diabétiques à rationner leur insuline.
+202b5721a4 L’arrivée de l’insuline au milieu du XXᵉ siècle a changé la vie de millions de diabétiques.
+ecbbc63703 A : Quelle insuline prenez-vous ? B : Je suis sous insulinothérapie basale-bolus, qui consiste pour moi en glargine et lispro.
+57a4be011f Jeux, démos, intros. C’était la même chose, c’était la scène. La tendance était de craquer et de faire des démos et des intros.
+fb4ff8623a Si les règles stipulent que la taille des DLL s’ajoutera à la limite de 64 Ko, il ne reste pas beaucoup de place pour coder une intro.
+15440ce355 Il a suscité un enthousiasme pour le projet chez ses collègues.
+044de0a6de = A quarrel was ⟦kindling⟧ between the two families over the land. | Une querelle couvait entre les deux familles au sujet du terrain.
+843ed09fd5 Une portée de chatons.
+7cd59914dc Elle se souvient qu’on lui a demandé de recueillir une portée de chatons.
+e07c57b0bb Mal rider, shortboarder ou gamin : tout le monde surfe comme un débutant de temps en temps.
+5d490c04a9 le reste d’entre nous a réussi à esquiver les surfeurs incontrôlables
+44d77c8843 En gros, il dit qu’il y a un couvercle sur mon entreprise et sur mon avenir, et que ce couvercle, c’est moi. Je suis le problème de mon entreprise, et tu es le problème de la tienne.
+992f4ce448 À sa sortie de prison aux Pays-Bas, Warren est retourné dans son « quartier » du Merseyside pour reprendre son rôle de « roi de la coke ».
+3929006460 Dixon, enfin promu sergent en 1964, a surveillé son « quartier » de Dock Green jusqu’en mai 1976, et « Evening, all » était devenu une phrase culte nationale.
+071b55ff42 Les chefs-d’œuvre ne sont pas achevés, ils sont abandonnés.
+2d53e5f893 On peut à peine exagérer en décrivant la conception suivante de Drummond comme une classe de locomotives britanniques exceptionnelle, et peut-être son chef-d’œuvre.
+0dc38b04d9 Alyssa aime chanter des mélodies en jouant de la batterie.
+5f9b829537 La première est que l’appel récursif trouve la solution de son sous-problème dans la mémoïsation et retourne immédiatement.
+a99e24ea6b Morgan Freeman était le narrateur de « La Marche de l’empereur ».
+eb4170cd2f Fervents partisans d’aucun des deux partis, les agriculteurs de l’Indiana n’ont pas agi en bloc […]
+b8ac437b86 officier partisan, corps de partisans
+0a726c1024 Ils étaient aveuglés par le zèle partisan.
+9c9d36480c Ayant mis de côté les intérêts partisans, Greenwood s’employa à faire du travail d’équipe la devise de sa présidence, tout en recherchant la participation la plus large possible aux enquêtes suivantes.
+3814248bff = He paid a ⟦pony⟧ for the old bicycle at the market. | Il a payé vingt-cinq livres pour le vieux vélo au marché.
+937a909b8a « Non, des poneys », dis-je.
+75fcf468e1 L’éboulement a suivi une période de pluies prolongées.
+0ff964965c Votre confiance en son expertise est peut-être mal placée.
+1fb9c31a5f L’industrie s’efforce de réduire sa dépendance aux combustibles fossiles.
+3f40540e17 La pauvreté en Australie a reculé, la dépendance aux aides sociales s’est stabilisée et la pauvreté de longue durée devient rare, mais le bien-être économique global ne progresse plus […]
+dcf30af945 Le bateau était un piètre appui.
+d5e229908d Étonnamment, notre nouveau chien rechigne à rapporter la balle.
+d587258d23 Elle hésitait à lui prêter l’argent.
+e582e5ab8e = The mechanic claimed the ⟦retention⟧ of the car until the bill was paid. | Le garagiste a retenu la voiture jusqu’au règlement de la facture.
+53005060b4 « Quand même », répéta Suit. « La façon dont elle gère l’enrayage de l’arme. » Suit secoua la tête, admirative. « Tapez, rechargez, tirez, sans hésiter. C’est une maîtrise extraordinaire. »
+c6ebbbeebe C’étaient des machines à écrire à course frontale, à levier, avec des claviers QWERTY à quatre rangées, encrées par un ruban.
+96c4ce4104 Lundi marquant le début du mois annuel de sensibilisation au cancer du sein en octobre, les partisans porteront leurs rubans roses pour soutenir la recherche en vue d’un remède.
+b98ce99109 Je vis avec Marsha. Nous sommes colocataires.
+c9b8948aef Les planchers étaient abîmés et les murs pourris.
+5e1f57f534 Sa bouche sentait mauvais et ses dents étaient pourries.
+2e35f7ad0d Cette politique pourrie va créer davantage d’injustice dans ce pays.
+d6925664fd Cet homme est un père pourri.
+94d5200ffd Si vous laissez une poubelle sans surveillance pendant quelques semaines, les déchets qu’elle contient vont pourrir.
+f8abd732e3 Pourquoi le temps est-il toujours pourri dans cette ville ?
+8ff7c8acc3 C’était une idée pourrie de sortir le bateau aujourd’hui.
+31e39123b0 Nous avons été accueillis cordialement à Téhéran par le chah et l’impératrice Farah, un banquet délicieux, et nous avons eu le temps nécessaire pour discuter du Moyen-Orient et de l’énergie nucléaire avec le chah.
+591abc05bc Ce volume vient s’ajouter au domaine en pleine expansion de la méthodologie de recherche : l’étude des recherches à méthodes mixtes et à modèles mixtes.
+6cd42f4828 Par exemple, une méthodologie agile doit favoriser la livraison fréquente de systèmes opérationnels plutôt qu’une livraison unique en « big bang ».

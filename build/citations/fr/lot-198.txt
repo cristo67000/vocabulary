@@ -1,0 +1,202 @@
+# lot 198 — mots de la bande « étendu » : browse, buff, cartel, claw, climax, clad, commence, congratulate, constituent, cushion, cyclist, dictate, disrupt, drip, duh, duplicate, emerald, fart, fetish, flaw, fundraiser, garment, grin, hale, heap, hum, inventor, isolate, leopard, lumber, madam, meadow, motivate, mound, muddy, multitude, muse, nanny, nineteen, nucleus, organism, orbital, overhaul, poppy, poke, prick, quarry, rib, sap, sheikh, sponge, strait, sucker, tease, transmitter, typhoon, vaccination, vibration, wicket, Saxon, announcer, blackout, bluff, abide, attacker, avail, billing, booty, ordinance, yarn, abide
+# écartés : sexe (climax, mound, sap n° 2), paroles de chansons (Valerie, tease, Saxon), notes « Near-synonyms », « Holonyms » et « Meronyms », citations sans le mot
+306fafc8a8 ✗
+7e7b04521c = The concert reached its ⟦climax⟧ with the final encore. | Le concert atteignit son apogée avec le dernier rappel.
+d53e96de28 Les deux-points indiquent au lecteur que ce qui suit est étroitement lié à la proposition précédente.
+ec61f3c250 acheter un paquet de préservatifs
+9761a6189d Toutefois, une proportion importante des participants préférait le préservatif non en latex, ou déclarait qu’il le recommanderait aux autres.
+c415f0cc1a — Il fait chaud dans le désert. — Eh bien, évidemment !
+8a788c8942 Bah, moi je suis Jasmine, je sais même pas nouer mes lacets !
+124d51002d Ouh… je ne me sens pas très bien, là…
+bbe6a7c321 = The ring was set with a large ⟦emerald⟧ surrounded by diamonds. | La bague était ornée d’une grosse émeraude entourée de diamants.
+a7b740bfbc = The ⟦emerald⟧ lake shimmered under the summer sun. | Le lac vert émeraude scintillait sous le soleil d’été.
+661edbf4bf Il y a un défaut dans ce couteau.
+9cf4403ee6 Ce vase présente un défaut.
+25a5848f23 une faille dans un testament, un acte notarié ou une loi
+28c670f85d = Every plan has its ⟦flaws⟧, and this one is no exception. | Tout projet a ses défauts, et celui-ci ne fait pas exception.
+83f48d75ee Ils traîneront le roi à Paris et le garderont sous leur surveillance.
+6800159dd0 = Despite his age, he was still ⟦hale⟧ and hearty. | Malgré son âge, il restait vigoureux et en pleine santé.
+ae790725cb En isolant ces deux grands types de relations, l’hyponymie et l’incompatibilité, nous pouvons caractériser les relations au sein d’un vaste réseau d’éléments.
+2132381123 = Scientists ⟦isolated⟧ the gene in a single week. | Les chercheurs ont isolé le gène en une seule semaine.
+04ea0c5771 les prés salés près de la baie de Newark
+59aa8d33a7 La réunion hebdomadaire du personnel devait motiver les employés.
+0501bb6eff Il n’était mû que par son intérêt personnel.
+f374eabfb1 Des pompes actionnées par la vapeur sont utilisées dans l’industrie manufacturière.
+dbfa736517 Le lanceur attendait sur le monticule.
+836992b576 ✗
+9dff59ef4e Il a monté sa purée en dôme, laissant plus de place dans l’assiette pour la viande.
+78a39ab245 Enlève tes bottes boueuses avant d’entrer.
+e880dbe814 Il traversa péniblement le champ boueux.
+3d73c8f217 L’eau, auparavant limpide, était désormais trouble à cause de la lutte entre l’alligator et le sanglier.
+72fdb334dc = The boots left ⟦muddy⟧ prints across the kitchen floor. | Les bottes ont laissé des traces boueuses sur le carrelage de la cuisine.
+7f7cbefc10 = The old wizard had a ⟦mystic⟧ smile that no one could read. | Le vieux sorcier avait un sourire mystique que personne ne parvenait à déchiffrer.
+253cf7c14e L’échevin Richard Mell a alors fait voter des arrêtés contre le colportage dans les 33e et 47e quartiers.
+111fd02064 Ward a fait preuve d’une belle vitesse pour devancer Reina sur le ballon et placer une frappe basse dans le coin.
+61663c1a73 J’ai fouillé dans les décombres, cherchant mes clés perdues.
+fdd236c426 Si vous tentez d’entrer avec POKE dans un octet une valeur hors de cette plage, Basic affiche une erreur ILLEGAL QUANTITY.
+37a32865c8 = Be careful of the ⟦prick⟧ of the rose thorn. | Attention à la pointe de l’épine de rose.
+9bf22c9c01 J’ai senti une vive piqûre quand l’infirmière a prélevé du sang.
+810dc7c076 John sentit à peine l’aiguille lui piquer le bras quand l’infirmière habile lui prit du sang.
+40874286ce = The vet ⟦pricked⟧ the cow’s ear to take a sample. | Le vétérinaire piqua l’oreille de la vache pour prélever un échantillon.
+ee1709858a Michel-Ange a lui-même extrait du marbre dans la carrière de Carrare, mondialement célèbre.
+2e4af5d6a2 ✗
+40debb9562 Regarde ce pauvre nigaud qui tond notre pelouse pendant qu’on fait semblant que notre tondeuse est cassée.
+b2c2fb87b0 Tuchel sera ravi de la réaction de ses joueurs, mais il s’inquiétera de l’usure que ces 120 minutes épuisantes leur ont infligée.
+c3b8ea8949 = The ⟦sheikh⟧ welcomed the visitors into his tent. | Le cheikh accueillit les visiteurs sous sa tente.
+1127c84f3f le détroit de Gibraltar
+3589fb0085 = The ferry crossed the ⟦strait⟧ in under twenty minutes. | Le ferry traversa le détroit en moins de vingt minutes.
+5b601e826e = The town lay on a narrow ⟦strait⟧ of land between two seas. | La ville s’étendait sur une étroite langue de terre entre deux mers.
+2c25bd5c8c Statistiquement, cette personne est aussi susceptible d’être un homme aisé, mais surtout, elle veut être instruite, passionnée, et plus qu’un bon récit.
+06b9f9d29c ✗
+fd0c16af60 ✗
+941133f392 Le vieux chêne résiste au vent sans relâche.
+23b66125e6 Par Dieu, monsieur, je n’en supporterai pas un orteil de plus.
+9021e87d67 Nous sommes plutôt végétariens, nous n’aimons pas le tabac ni l’alcool, et nous ne supportons pas la drogue.
+73f4639700 Les cibles laissent penser que les assaillants sont favorables au vaste dispositif de censure connu sous le nom de Grand Pare-feu de Chine.
+08b13d4109 Ainsi, la victime pourra peut-être découvrir le ou les systèmes zombies à l’origine de l’attaque DoS, mais ne parviendra sans doute pas à remonter jusqu’à l’attaquant réel.
+14d6329339 J’ai profité de l’occasion.
+83db334ec4 Le musée affirme qu’il dispose de protocoles clairs pour traiter toute forme de discrimination ou de mécontentement, et que [Tanya] Barson n’y a jamais eu recours, […]
+5b46e1d7de Les artifices ne serviront à rien au pécheur le jour du jugement.
+99491144b7 Les médicaments ne serviront à rien pour enrayer la maladie.
+e149c00c79 Le plaidoyer devant le tribunal doit porter.
+500bfe4dd0 Les acteurs qui ont un statut plus élevé dans l’industrie n’obtiennent pas toujours le premier rôle : s’ils n’ont joué qu’un petit rôle, l’affiche revient à la personne dont le personnage est au centre du film.
+14a0067b27 Après leur tournée d’Halloween, les enfants se sont installés pour savourer leur butin de bonbons.
+a5c91f86c9 Je me suis arrêté dans plusieurs librairies pour feuilleter des livres.
+d178b3282f Je fais juste un tour, je regarde.
+ffb1b38d0f L’hypertexte est un moyen de relier et d’accéder à des informations de toutes sortes, sous forme de réseau de nœuds, dans lequel l’utilisateur peut naviguer à sa guise.
+602d152a77 = Deer ⟦browse⟧ on the young shoots at the forest edge. | Les cerfs broutent les jeunes pousses à la lisière de la forêt.
+d9b19bd639 Difforme, sans traits, et une peau de daim.
+de75febb7c C’est un vrai passionné d’histoire. Il sait tout ce qu’il y a à savoir sur la guerre de Sécession.
+26f5a6f2dd = The reenactors wore ⟦buff⟧ leather jerkins. | Les figurants portaient des gilets en cuir naturel non teint.
+deae705e7e = A ⟦buff⟧ coat protected the rider from the rain. | Un manteau de cuir naturel protégeait le cavalier de la pluie.
+67947d5d96 Le videur était un gaillard costaud et musclé, tatoué, au crâne rasé et à l’air sévère.
+d447cee32c ✗
+e980a288b3 = Each petal narrows to a slender ⟦claw⟧ where it meets the stem. | Chaque pétale se rétrécit en un onglet mince à la base, là où il rejoint la tige.
+aac69d7a6f De Gea a de nouveau été le héros de United quelques secondes après l’égalisation d’Hernandez, plongeant sur sa gauche pour repousser le tir de Dirk Kuyt, qui avait repris un superbe centre de Stewart Downing.
+5d2b18968f Les discours ont ouvert trois jours d’ateliers, de séminaires et d’activités culturelles.
+2def623d45 À l’aube, nous commencerons à rouler.
+7c71814bf4 Nous devons féliciter Dave et Lisa pour leur mariage.
+efe5d583b9 Rappelle-moi de féliciter Dave et Lisa pour leur mariage.
+bcac19c99f Je me suis félicité du succès de mon plan.
+d540767170 Des perturbateurs ont interrompu le discours de l’homme.
+a423d7bacc Les travaux du tunnel ont été perturbés par une grève.
+d65d7a6d6f Internet permet aux petites entreprises agiles de bouleverser les plus grandes et les plus lourdes.
+dea3badffd Il s’agit d’une entrée en double.
+e000b908e5 Si nous dupliquons l’information, en tirons-nous vraiment beaucoup ?
+9bfa924b2d Pouvez-vous copier ce genre de clé ?
+1b598b4525 Vous n’avez pas besoin de reproduire mes efforts.
+bf4c0a047a Il avait du mal à égaler les compétences de sa femme.
+3fc8154469 C’est un double, mais une très bonne copie.
+488ba8fabe Je vous envoie un double de celle-ci et de ma dernière dépêche.
+eaf27de714 La folie momentanée qui frappe les joueurs de bridge survient fréquemment au bridge en rubber comme en duplicate ; et, bien qu’elle n’aboutisse que rarement à un meurtre, elle met souvent fin à des mariages et à de solides amitiés […]
+6ce9f7fe41 Chaque collection, qui peut être un unicat ou plusieurs spécimens en double dans plusieurs herbiers, constitue un enregistrement dans la base de données des conifères.
+0ee3a6bd6f = He couldn’t help but ⟦fart⟧ during the meeting. | Il n’a pas pu s’empêcher de péter pendant la réunion.
+2d3625ad0c Au-dessus de sa tête, la cheminée crachait une suie noire dans le ciel.
+35bf5abd01 Nous sommes restés coincés derrière une Ford Escort qui crachait de la fumée noire depuis dix minutes.
+4ac2fa9236 Je crois avoir entendu un pet. C’était toi, Nigella ?
+e71272a1ff Les pets silencieux sont souvent les plus puants.
+2e66d34ed8 Les idoles et les fétiches étaient habillés et blanchis, et recevaient des sacrifices.
+2593093203 Je connais un type qui a un fétichisme des pieds.
+a0fc342223 un fétichisme pour le cuir
+9e8e19e10e L’époque la plus amusante fut celle de la « corbeille à papier », qui combinait la manie de l’empilement et l’obsession du contenant.
+574461d1ad Il parle du même sujet depuis des heures ; je soupçonne qu’il a une véritable obsession pour ça.
+4a817fbda4 La collecte de fonds de cette année prendra la forme d’une marche sportive.
+0c1729e0b1 Elle travaille comme collectrice de fonds pour le Parti démocrate.
+f321544cb1 L’orchestre emploiera des femmes comme musiciennes, cheffes d’orchestre, administratrices, musicologues, compositrices et collectrices de fonds.
+8d0e6f5902 = She wrapped herself in a warm ⟦garment⟧ against the cold. | Elle s’enveloppa dans un vêtement chaud contre le froid.
+52078132be L’état le plus élevé, dans lequel l’âme se défait complètement de son vêtement de chair et devient un esprit désincarné.
+27a8939313 Une fois la cérémonie terminée, un large sourire s’étala sur son visage, et c’est ce sourire qu’elle vit, à la fois soulagé et heureux.
+b6c0e66718 Le lendemain, quand mon fils est apparu à la porte, cartable sur le dos, le professeur a éclaté d’un large sourire et a ouvert les bras pour l’embrasser.
+8be5bfd0df Pourquoi tu souris ? J’ai dit quelque chose de drôle ?
+247e437de4 Elle lui adressa un sourire de plaisir face à sa gêne.
+24f10e29ce = The dog began to ⟦grin⟧, baring its teeth at the stranger. | Le chien se mit à retrousser les babines, montrant les dents à l’inconnu.
+3ca7c9abde un tas de terre ; un tas de pierres
+dd6c5df39f = I have a ⟦heap⟧ of work to finish before Friday. | J’ai une montagne de travail à finir avant vendredi.
+5b472bcde8 = She has ⟦heaps⟧ of friends in the village. | Elle a des tas d’amis dans le village.
+9cc19ad63d Vous devriez déplacer ces structures de la pile vers le tas pour éviter un éventuel dépassement de pile.
+783f291be6 Nous fredonnons joyeusement avec la musique.
+b425c5a32f = A bee was ⟦humming⟧ around the lavender. | Une abeille bourdonnait autour de la lavande.
+7d97e8dd3d Les rues bourdonnaient d’activité.
+3bce5b137d fredonner un air
+a2624badbd L’équipe a fredonné « We Shall Overcome » en revenant sur le terrain après la pause.
+4b9c48f986 Cette pièce bourdonne vraiment d’activité : tu as déjà essayé le grand ménage de printemps, mon vieux ?
+053bcde7df La jeune inventrice a obtenu un brevet pour son dessin.
+5e447c8809 Thomas Edison était l’inventeur du phonographe.
+c3f22a7436 Les peaux de léopard ont toujours été des marchandises recherchées pour leurs spectaculaires motifs tachetés.
+639f1269a1 Le léopard (Panthera pardus ou Felis pardus cf tulliana) est un proche parent du lion, mais les références bibliques qui le mentionnent sont très rares, ce qui suggère qu’il n’était pas aussi courant.
+f61f7fb1d6 = The attic was full of old ⟦lumber⟧: broken chairs and dusty boxes. | Le grenier était encombré de vieux bric-à-brac : chaises cassées et cartons poussiéreux.
+bdc8aec205 « […] Cette taille, madame ! » Assurément, les mesdames n’auraient pas été intéressées.
+d5800cef83 Mme Grey se demandait si la tenue qu’elle essayait la faisait paraître grosse. La vendeuse a simplement dit : « Elle vous va très bien, madame ».
+14d69512e5 Une fois trop âgée pour exercer comme prostituée, elle est devenue maquerelle.
+888dfcb33b Selina n’arrêtait pas de pousser et de bousculer pendant le jeu des chaises musicales. L’institutrice de la maternelle a dit que c’était une petite pimbêche de mauvaise humeur.
+ba4c02af1c = The speaker addressed the ⟦multitude⟧ from the balcony. | L’orateur s’adressa à la foule depuis le balcon.
+4cbfa62b9e Yoko Ono était l’épouse, la maîtresse et la muse de John Lennon.
+b23ada772e Quand je l’ai interrogée sur son goût pour les rôles d’artistes égocentriques, O’Hara a réfléchi : « Peut-être que j’essaie simplement de m’en débarrasser. J’ai tellement peur de finir comme ça. »
+b3b2e43d67 = She would often ⟦muse⟧ on the meaning of life. | Elle méditait souvent sur le sens de la vie.
+aa754d266c La nounou surveillait de près ses petits protégés.
+30c10c706c Les chèvres et les boucs se ressemblent beaucoup, ayant tous deux des cornes noires, recourbées et dangereusement pointues.
+ad5a7da2f8 Elle parle de « groovy » comme si on était en mil neuf cent soixante-neuf.
+3a58716cf3 Cette collection formera le noyau d’une nouvelle bibliothèque.
+a4869f9c19 La M25 est une rocade qui contourne Londres.
+47e569a5d5 Cette stratégie, connue sous le nom de restriction calorique, s’est révélée capable d’allonger la durée de vie de divers organismes et de réduire leur taux de cancers et d’autres maladies liées à l’âge.
+9558c5f8c8 Pour la première fois, Edith percevait l’hôtel comme un organisme bien peuplé, ses employés se contentant d’attendre qu’une occasion appropriée les appelle à se présenter […].
+d44c2c1e8a Le moteur nécessitait une révision complète pour fonctionner correctement.
+65aae82dbe Pendant que les moteurs sont traités au dépôt diesel, leurs locomotives mères sont révisées à l’atelier de montage.
+931c27ccbc Les troupes de la garnison ont formé une haie d’honneur pour les deux équipes, qui sont sorties pour l’hymne national avec des coquelicots brodés fièrement sur leurs vestes de survêtement.
+dc3c30c5b2 une baleine cassée sur le parapluie
+b3c8040fcb Il se fait toujours charrier pour ses chemises extravagantes.
+5537028ed2 = Steel beams ⟦rib⟧ the roof of the new stadium. | Des poutres d’acier nervurent le toit du nouveau stade.
+5ea2851039 = She dipped the ⟦sponge⟧ in warm soapy water. | Elle trempa l’éponge dans de l’eau savonneuse tiède.
+b9bdf483ed Après six heures de travail, j’ai obtenu ce gâteau biscuit incroyable, avec des fraises fraîches, de la crème fraîche, de la chantilly, de la crème anglaise, du crumble et des meringues, un dessert assez riche et exceptionnel.
+78883094be = He ⟦sponged⟧ the spilled juice from the table. | Il épongea le jus renversé sur la table.
+e6c42fdbc9 = The rain ⟦sponged⟧ the chalk drawings off the pavement. | La pluie a effacé les dessins à la craie du trottoir.
+b79a332c30 Il vit aux crochets de ses amis depuis un mois.
+43d6928813 = The farmer fed the ⟦sucker⟧ pig by hand in the barn. | Le fermier nourrissait à la main le porcelet de lait dans la grange.
+47a2ada22b = He lives off his brother; he’s such a ⟦sucker⟧. | Il vit aux crochets de son frère, c’est un vrai parasite.
+987125b02b Le vendeur l’a embobiné pour qu’il signe un contrat de maintenance coûteux.
+ed7b019447 = Farmers must ⟦sucker⟧ their tobacco plants every week. | Les agriculteurs doivent ébourgeonner leurs plants de tabac chaque semaine.
+f573a5ef20 = The roses will ⟦sucker⟧ if you leave the stems uncut. | Les rosiers vont drageonner si vous ne coupez pas les tiges.
+a4699eb930 ✗
+e40815dfd4 = The bullies ⟦teased⟧ him until he finally lost his temper. | Les brutes se moquaient de lui jusqu’à ce qu’il perde enfin son sang-froid.
+162ec5e61b = He tried to ⟦tease⟧ her into a smile with silly jokes. | Il essayait de la faire sourire à force de plaisanteries idiotes.
+5415ad5b48 L’épinéphrine et la dopamine sont deux autres neurotransmetteurs de la famille des catécholamines.
+6a479d5e07 ✗
+b2ec234528 ✗
+773eacfa71 Vous verrez un petit frémissement, un tremblement, une vibration le long du guindant. Ce frémissement est votre allié.
+1ddf60b8aa = Each ⟦vibration⟧ of the string produced a clear note. | Chaque vibration de la corde produisait une note claire.
+edf8a229ac = He slipped through the garden ⟦wicket⟧ and closed it behind him. | Il se faufila par le petit portillon du jardin et le referma derrière lui.
+a859622927 En s’approchant, il entendit le bruit de pas qui entraient dans la chapelle et le claquement du guichet du confessionnal.
+425526a835 […] en Allemagne de l’Ouest, la Saxe et les Saxons étaient devenus synonymes du régime communiste d’Ulbricht, […]
+d48306cad3 Tous les habitants des anciens États de la RDA ne sont pas des Saxons, et ils ne parlent pas tous le saxon, […]
+ba3bd579af ✗
+522f53975a C’était un homme grand, très saxon, c’est-à-dire un Anglais, ayant abandonné les vices et les cruautés, et développé la patience et le sang-froid.
+0c503a5fdd Même les présentateurs de télévision lors des derniers Jeux olympiques d’hiver arboraient un logo sur leurs vestes.
+b7d6238f68 Selon un communiqué de presse diffusé par le personnel de la clinique, un black-out de la presse locale avait laissé le public dans l’ignorance du harcèlement subi par la clinique.
+1828859014 Pendant le « black-out », de nombreuses voitures et camions réels avaient leurs ailes avant peintes en blanc pour éviter les accidents.
+7946c6ef09 Ce n’est que du bluff, ou Ce n’est qu’un bluff.
+236da48283 Le pari de John était un bluff : il a misé sans même avoir une paire.
+a8de9c2ac4 John a bluffé en misant sans même avoir une paire.
+b133eb5ab9 Le gouvernement affirme qu’il convoquera des élections si ce projet de loi n’est pas adopté. Est-il vraiment prêt à le faire, ou est-ce du bluff ?
+1b7f6ea8df Nous avons bluffé pour passer les gardes.
+29a443d652 = He threw down a ⟦cartel⟧ of challenge in the middle of the square. | Il lança un cartel de défi au milieu de la place.
+6d1fda2b2d = The two armies agreed to a ⟦cartel⟧ for the exchange of prisoners. | Les deux armées ont conclu un accord d’échange de prisonniers.
+7b76883173 Le cuivre et l’acier plaqué de cuivre résistent indéfiniment à la corrosion dans un sol relativement dépourvu d’ammoniac.
+6b281d9f83 La sonde est constituée d’une fibre de silice gainée de plastique, avec une gaine en Téflon FPA pour empêcher la lumière ambiante de se disperser dans le système.
+da74ecb24d ✗
+36e0694300 C’est l’un de ces hommes massifs vêtus de sensibilité.
+799b046079 = Water is a ⟦constituent⟧ part of every living cell. | L’eau est un élément constitutif de chaque cellule vivante.
+015a7f0e98 = The ⟦constituent⟧ assembly drafted the new law. | L’assemblée constituante a rédigé la nouvelle loi.
+32bc5b9932 Dans les États baltes d’Estonie, de Lettonie et de Lituanie, trois des quinze républiques constitutives de l’Union soviétique, les fantasmes les plus dangereux de l’année dernière ont été sanctionnés par le gouvernement lui-même.
+3f9a3ab535 = Each ⟦constituent⟧ of the mixture was weighed separately. | Chaque constituant du mélange a été pesé séparément.
+f09f02cb1d amortir un coup
+080dab3109 Et puis je réduirais le message à une phrase de base, sans l’adoucir par des excuses (des excuses, de ma part !) ni expliquer pourquoi je voulais que le comportement antisocial cesse.
+60d0e8a72d rembourrer un canapé
+73295cd42b La plupart des motards étaient membres du Pagans’ Motorcycle Club de Washington.
+2f299dacfd L’étiquette veut que les invitations de mariage reçoivent une réponse écrite.
+e76ef0be5a Le professeur de français a dicté un passage de Victor Hugo.
+cceea3a4fd Elle dicte une lettre à une sténographe.
+fd4399f021 La géologie détermine à peu près l’emplacement du tunnel.
+6d411261c3 Je n’ai pas dessiné ce comptoir sur papier, ni le restaurant d’ailleurs. C’est le matériau qui a dicté la conception.
+afdcf1a053 Écouter le robinet du voisin goutter toute la nuit me rendait fou !
+b562e47bab L’évier fuit-il, ou ai-je simplement renversé de l’eau sur le sol ?
+fe758c4b82 Le Old Hall regorge tout simplement de chefs-d’œuvre des peintres flamands.

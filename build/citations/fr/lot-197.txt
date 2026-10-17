@@ -1,0 +1,202 @@
+# lot 197 — mots de la bande « étendu » : pointer, presume, regulator, sabotage, sexist, shutdown, sic, wedge, Deborah, affinity, alloy, bale, beaver, caller, casualty, cavity, chap, crank, disgust, disturbance, enclosure, evangelical, famine, geek, granny, handicap, hostility, infringement, interrupt, invade, knockout, lantern, linen, lookout, moonlight, moose, noun, overthrow, paradigm, pavement, pigeon, plateau, playlist, precinct, pudding, refrigerator, resin, scarce, sibling, simulator, soak, spectacle, stint, storey, tailor, weary, wiki, Armenian, Marxist, Yankee, accusation, allergy, astronaut, attain, attendant, breaker, caste, cellar, chant, climax
+# écartés : insultes et termes sexuels (motherfucker, beaver), paroles de chansons, notes « Near-synonyms » et « Meronyms », citations où le mot n’apparaît pas, bibliographie (sic)
+5532eded63 Un homme pointait le doigt vers un autre, manquant de peu d’enfoncer le bout de son index dans la poitrine de l’homme. Je me suis rapproché et j’ai entendu l’homme au doigt tendu accuser l’autre de tricherie.
+ae3a65d8e7 Je considère que les affectations et les pointeurs (variables) comptent parmi les « trésors les plus précieux » de l’informatique.
+f1d87e3a2e Le système signale l’avancement d’une tâche en modifiant l’apparence du pointeur. Les pointeurs d’occupation prennent généralement la forme d’une horloge.
+430cfa6239 L’enseignant m’a donné quelques conseils pour bien rédiger un article.
+9d680ce11f Docteur Livingstone, je présume ?
+2c7cf1d4b7 Les traces de pattes dans la neige nous permettent de supposer la visite du chat du voisin.
+6aaf3892fa Je ne prétends pas être une autorité dans ce domaine, je ne me permettrais donc jamais de vous dire comment diriger votre propre entreprise.
+4f7dee1a4d […] en partie parce qu’un réservoir clé du comté a dû être vidé pour réduire les risques sismiques signalés par les autorités fédérales de régulation.
+90e129c37a Le conducteur G. A. Rowett, du dépôt de Neville Hill de la région Nord-Est, a rejoint la locomotive en tant que pilote et a pris le régulateur, le chauffeur Wheddon continuant d’alimenter la chaudière.
+e4b048e71b Cette séparation effectuée, Gimbert ouvrit le régulateur pendant que Nightall remontait sur la plate-forme, afin de tirer le wagon en feu loin du reste du train chargé de bombes.
+796fb58abd La ligne de chemin de fer avait été sabotée par des commandos ennemis.
+e23fffb4a3 Nos plans ont été sabotés.
+68810d8193 [Katara (Mae Whitman) :] Tu es le plus sexiste, le plus immature, le plus écervelé — j’ai honte d’être ta parente !
+7f1f93a5c4 Il faut saisir votre mot de passe au démarrage, mais il n’est pas exigé à l’arrêt.
+9aae5295d0 Un capot en plastique protège le bouton d’arrêt de l’escalator pour empêcher les petits enfants de l’actionner et de l’arrêter.
+67f9d0d401 Quand il m’a insulté, ma réplique l’a tellement cloué sur place qu’il a quitté la pièce.
+fdb66bc403 Je me suis replié sur moi-même et me suis laissé engloutir dans un repli typiquement autistique.
+8e25bb5969 Leur détresse pouvait se manifester de multiples façons et aboutir à une crise de surcharge ou à un repli.
+b34c78387a Dans sa publication, Matthews affirmait souhaiter que « davantage de Noirs [sic] s’intéressent aux croyances anciennes de l’Afrique préchrétienne ».
+25da6eddf2 Tu peux glisser une cale sous la porte ? Elle n’arrête pas de se refermer sous le courant d’air.
+38f0c16dce Peux-tu me couper une part de fromage ?
+8225453cb1 Nous avons commandé une boîte de quartiers de pommes de terre au four avec notre pizza, et une salade iceberg en guise d’accompagnement.
+183521a059 Semer la discorde entre [personnes, peuples, camps, alliés, etc.]
+bbf61b6e8a Elle portait des compensées, et j’ai la terrible impression qu’il s’agissait de celles de sa mère, restées depuis le siècle dernier.
+1f80b45f1e J’ai maintenu la fenêtre ouverte en la calant avec un tournevis.
+be2f056f94 Je me suis faufilé dans l’alcôve et j’ai écouté attentivement.
+35dcc6a033 Il avait coincé le paquet entre le mur et le dossier du canapé.
+ad04d549b5 Mon noyau Linux s’est bloqué après l’installation de la dernière mise à jour.
+0f9ad8aca0 Et Déborah, prophétesse, femme de Lappidoth, jugeait alors Israël.
+ac0cf6296a = Her parents named her ⟦Deborah⟧ after a great-aunt, though everyone called her Debbie. | Ses parents lui donnèrent le prénom de Deborah en souvenir d’une grand-tante, mais tout le monde l’appelait Debbie.
+0b728a69d6 = There was a natural ⟦affinity⟧ between the two artists from the start. | Il existait dès le départ une véritable affinité entre les deux artistes.
+c13a5c6888 = Their joy carried a faint ⟦alloy⟧ of regret. | Leur joie était teintée d’un soupçon de regret.
+cc2062e202 = The farmer stacked the hay ⟦bales⟧ in the barn before the rain. | Le fermier entassa les bottes de foin dans la grange avant la pluie.
+62c4b9823a ✗
+bccda47abb ✗
+716eeedb8e = She wore a ⟦beaver⟧ hat to the winter wedding. | Elle portait un chapeau en castor pour le mariage d’hiver.
+fc404ded57 — Qui est l’appelant ?
+205dbc8fed Thaler a été arrêtée à Orono en mai dernier, après qu’un appelant a signalé que la voiture qu’elle conduisait avait une vitre arrière brisée et un pneu crevé.
+6e9bd0f97b Si la fonction appelée lève une exception, l’appelant doit être prêt à gérer l’erreur.
+700af58f8b Le cours de son éducation fut semblable à celui des autres, sans grands accidents qui l’eussent détourné de sa voie.
+0feec6d2d5 Parmi les pertes récentes figure la ligne de la S.B.B. reliant Nyon à Divonne-les-Bains, juste de l’autre côté de la frontière française, fermée à toute circulation au début du service d’hiver.
+a33676a660 Jim a eu deux caries soignées chez le dentiste hier.
+ac64500746 = The dry winter wind will ⟦chap⟧ your lips if you don’t use balm. | Le vent sec de l’hiver va gercer tes lèvres si tu n’utilises pas de baume.
+c2b2be4a76 La porte de ma classe était fermée. J’ai dû la frapper, et Mlle Rankine est venue ouvrir et m’a lancé un regard furieux […]
+a3f4af6e96 Qui est ce type, là-bas ?
+3956119e03 = The old shopkeeper knew every regular ⟦chap⟧ by name. | Le vieux commerçant connaissait chaque client régulier par son nom.
+a9177e098d Billy-Bob est un vieux grincheux insupportable ! Il a chassé mon chat.
+478ac03da3 = She could be a ⟦crank⟧ when she hadn’t had her morning coffee. | Elle pouvait être grincheuse quand elle n’avait pas encore bu son café du matin.
+a5484432f9 Ça me dégoûte de la voir mâcher la bouche ouverte.
+d82cb8671e D’un air de dégoût, elle sortit de la pièce en trombe.
+56735f2ad1 Ce type cause pas mal de troubles, tu sais : c’est un vrai fauteur de troubles.
+fd30007684 Une pièce jointe accompagnait la lettre : une photo.
+1fe7ca4ca6 Nous vous remercions de la photo jointe à votre courrier.
+333289bfae Le cheval gagnant est arrivé en tête dans l’enclos de désellage.
+f75199f038 L’enceinte en verre contient la vapeur de mercure.
+8aab3330e5 La clôture de terres publiques est contraire à la loi.
+9179d39512 L’expérience exige l’enfermement de la vapeur de mercure dans un tube de verre.
+8bf015fcc0 La culture en bandes a disparu après les enclosures.
+629685c9e8 Lorsque la mosquée est tombée sous l’influence d’un groupe musulman prosélyte (Jamaat Tabligh), la situation jusque-là harmonieuse a sensiblement changé.
+3e82c6284c Le docteur Bhatia a souligné que la famine avait existé à toutes les époques et dans toutes les sociétés où les moyens de communication et de transport n’étaient pas développés.
+545e7bb75e Les causes profondes de la famine actuelle sont connues : pauvreté, faibles niveaux de santé…
+73c625df82 = Thousands died of ⟦famine⟧ during the long siege. | Des milliers de personnes moururent de faim pendant le long siège.
+c8033f2935 Au fond, la plupart des acteurs célèbres sont des mordus de théâtre.
+46a12c7661 J’étais un vrai geek de l’informatique au lycée, mais je sors beaucoup plus maintenant.
+0c08d0a637 Mon portable s’est encore planté. Il me faut un dépanneur informatique.
+a786df6430 La communauté des radioamateurs — des bricoleurs sans permis, à la pointe des possibilités technologiques — préfigurait la communauté des geeks qui allait peupler la Silicon Valley cinquante ans plus tard.
+4d5c7ca3da J’ai vu un allumé mordre la tête d’un poulet vivant.
+b43b4b19e8 ✗
+206ceee0a1 Je vais devenir mamie !
+2804ffffff Cette mamie là-bas a besoin de ton aide.
+defadc593d En échecs, un handicap consiste souvent à retirer la tour de dame.
+5e3de8625f Le plus âgé des garçons a gagné, bien que son adversaire ait reçu un handicap de cinq mètres.
+f8720ca139 L’âge est souvent un handicap.
+5a7feff0a6 Ma rancœur et ma colère envers toi ont suscité de l’hostilité et une division entre nous.
+04dace94b2 La Géorgie, classée 16e mondiale, a dominé la mêlée avant la mi-temps et a contraint l’Angleterre à commettre une série d’infractions, mais le demi d’ouverture Merab Kvirikashvili a manqué trois pénalités.
+914f1e77fc En récompense de leur dévouement, [les lévites] furent chargés de garder le sanctuaire contre toute violation.
+8caf8f5b1b Un politicien franc-tireur a interrompu le débat à plusieurs reprises en criant.
+947a97e3bf La régularité de la route n’était interrompue par aucune colline.
+fa04e58707 Le circuit récepteur de paquets a interrompu le microprocesseur.
+39e16968a9 Dans certaines circonstances, la police est autorisée à empiéter sur la vie privée d’une personne.
+3645a9f4d5 Les troupes argentines ont envahi les îles Malouines en 1982.
+001680e001 Lorsqu’une gaffe typique l’amène à envahir le Beagle et à tenter de dérober Charles Darwin (David Tennant), il découvre que son « perroquet » bien-aimé, Polly, est en réalité un dodo.
+8442c4f3e9 Le pique-nique a été envahi par les fourmis.
+aaf485ba0d Le boxeur a mis son adversaire K.-O.
+1e99aa69e9 Débranchez un nœud pour voir comment le réseau réagit à la mise hors service d’un nœud.
+dacb73c30f Si vous avez déjà participé à une course en sac, vous savez que c’est un véritable succès auprès des enfants comme des adultes.
+777a02e0e3 Il a asséné un coup de K.-O.
+067500d8f7 Tu aurais dû voir ses yeux, à couper le souffle.
+13e7a5e9dc […] et une carte composite à couper le souffle : sa valeur sur le « compteur de réservations » grimpe alors en flèche.
+c1b162380e Il s’agit d’une souris dite « knockout », élevée avec un gène réduit au silence, afin de mieux révéler la fonction réelle de ce gène.
+6ed9a9373f La lanterne de la coupole du Capitole à Washington, ou celle de la cathédrale de Florence.
+f8e233826a La gare possède aussi un grand toit à demi-coupole de style pavillon français, couvert de tuiles en écailles et de crêtes en fer, ainsi qu’une salle rectangulaire à étage, avec des arcades et un lanterneau en bois.
+456118b9d9 Elle a rangé le linge fraîchement lavé dans le placard.
+fe3ad8834f L’opération a échoué lorsque la sentinelle a repéré le groupe ennemi.
+37e6debf47 Nous avons gardé un guetteur toute la nuit, mais personne n’est venu.
+bd7f22a0d7 = The forecast looked like a poor ⟦lookout⟧ for the harvest. | Les prévisions laissaient présager une mauvaise récolte.
+d88f4b13fc Les enquêteurs découvrent que le capitaine Ospina a dû prendre un second emploi, en travaillant dans un bar en parallèle, afin de joindre les deux bouts pour sa famille.
+0e268f8fc0 Il y a trois sièges arrière individuels. Ils coulissent, se rabattent ou peuvent tous être retirés complètement, de sorte que le véhicule peut servir de fourgonnette.
+7b9aba3223 Certaines protéines ont pour fonction première d’agir comme enzymes, mais elles jouent aussi un rôle secondaire, comme la transduction du signal ou la régulation transcriptionnelle.
+5127717fa9 Nous avons vu un élan au bord de la forêt.
+b990a916e5 Les castors géants d’Europe vivaient à la même époque que les premiers élans, Libralces gallicus.
+1d4a4421ef ✗
+11cc3ff887 ✗
+1dcade6ef2 ✗
+535bce96ee ✗
+f3b52b427f ✗
+83299c8c31 ✗
+e800de71d7 Des records ont été battus, des courses ont été dédiées, des rêves ont été rêvés, des départs ont été truqués et des noms ont été transformés en verbes.
+caa85dedfb Les noms sont les données ; les verbes sont les transformations de ces données, et ils représentent donc une grande part de la complexité des systèmes.
+3d3ae20c9a Vous choisissez soit (1) le verbe (changer la police) d’abord, puis sélectionnez le nom (le paragraphe) auquel le verbe doit s’appliquer, soit (2) le nom d’abord, puis appliquez le verbe.
+8435fa86ad Je déteste le gouvernement actuel, mais pas au point de vouloir le renverser.
+4a94bba9b8 « L’Amérique a voté pour des expulsions massives », a écrit mercredi sur X Stephen Miller, conseiller de la Maison-Blanche. Il a ajouté que les manifestants de Los Angeles « essaient de renverser le résultat de l’élection ».
+128ea3975d ✗
+198dc67b8c Le livre de Thomas Kuhn « La Structure des révolutions scientifiques » a fait parler des changements de paradigme, au point que le mot lui-même évoque désormais une perspective incomplète ou biaisée.
+c1f2948fcd La DRT est un exemple paradigmatique de théorie sémantique dynamique, […]
+cde3a4a462 ✗
+e43b4c5736 Le paradigme de « to sing » est « sing, sang, sung ». Le verbe « to ring » suit le même paradigme.
+16d7085aeb Les munitions antipistes sont conçues pour causer un maximum de dégâts aux revêtements des pistes d’aérodrome.
+f60b168841 = The ⟦pavement⟧ outside the café was wet with rain. | Le trottoir devant le café était mouillé par la pluie.
+fd452578eb Kalb s’est précipité à l’aéroport et a trouvé un « pigeon » pour sortir la pellicule : une Américaine qui se rendait à Londres.
+5f0fef4e1c L’obésité infantile, en hausse depuis plus de vingt ans, semble avoir atteint un palier, ce qui constitue une étape potentiellement importante dans la lutte contre la prise de poids excessive chez les enfants.
+c62d9fc36f M. [Jensen] Huang a néanmoins raison : l’adoption a atteint un palier.
+3f5e7289dc Lorsque vous regroupez des fichiers MIDI dans un album, vous pouvez les lire comme un CD, avec un mode répétition, un mode aléatoire et une liste de lecture programmée.
+8c15f6df99 = Visitors were forbidden to enter the ⟦precincts⟧ of the cathedral after dark. | Il était interdit aux visiteurs de pénétrer dans l’enceinte de la cathédrale après la tombée de la nuit.
+69033ff256 Les plats de ce chapitre représentent une gamme de flans salés multiethniques et de puddings cuits à la vapeur, avec quelques surprises comme un pudding popover au chèvre et un pudding au pain, à la laitue et au fromage.
+f060e4ab46 Les puddings cuits à la vapeur, appréciés en hiver, sont faciles à préparer et délicieux. Servis avec l’une des sauces sucrées (recettes 497 à 506), ils constituent une fin de repas copieuse et satisfaisante.
+e7bb5d45cf Nous avons de la tarte aux pommes en dessert aujourd’hui.
+868206a473 Doris Winstanley : Ah oui. Du cobbler à la rhubarbe, qui reste du dimanche.
+ad8cb9303b ✗
+e40d4ec252 = At every party he was a human ⟦refrigerator⟧, freezing every conversation. | À chaque soirée, c’était un vrai glaçon, qui refroidissait toutes les conversations.
+7c4cbcc5c5 Les pins produisent une résine collante.
+90dd53bdcd L’artiste a utilisé de la résine synthétique dans ses sculptures.
+c00bef55e6 À la fin du XXe siècle, les éléphants étaient devenus rares, même en Afrique.
+111323756e Le projet a échoué faute de ressources disponibles sur le marché national.
+e64bb732f0 Aucun de mes frères et sœurs n’est encore marié.
+9d1cf73ef2 Elle n’avait qu’un frère cadet, Joshua, né un an après elle.
+79eccf2e58 Bush suggéra que cette différence pourrait représenter un cas de polymorphisme chromosomique ou, plus probablement, d’espèces sœurs.
+65361c753a Les cours en salle pour les conducteurs sont en cours : chacun doit passer une journée entière sur le simulateur avant de tester une rame sur la nouvelle ligne de 350 millions de livres.
+01b5c5f50a = The ⟦simulator⟧ faked a fever to skip the exam. | Le simulateur fit semblant d’avoir de la fièvre pour éviter l’examen.
+82a9ef3bfe Pendant qu’il écrivait pour Mastertronic, David avait constaté que les ventes de « simulateurs » étaient bien meilleures que celles des jeux moins réalistes […]
+85060a17d6 Je vais me prélasser dans le bain pendant deux heures.
+2d6d27e4ad Faites tremper les haricots toute la nuit avant de les cuire.
+a603be96ca Une éponge absorbe l’eau ; la peau absorbe l’humidité.
+3c04f33037 J’ai absorbé toutes les connaissances possibles à l’université.
+681f77948d L’eau a imbibé mes chaussures et m’a donné les pieds mouillés.
+b3436c2ac7 Bien sûr, si nous possédons une société de construction aéronautique, une plantation de betteraves de cinq mille acres ou une caisse d’épargne dont le fils du président siège au conseil d’administration, nous pouvons pomper des millions à l’Oncle Pigeon.
+fcac526d9b La course de chevaux était un spectacle palpitant.
+024fb39ad0 J’ai apprécié sa présentation, mais elle a besoin de plus de mise en scène.
+cca2292afe Il s’est donné en spectacle.
+dd4b25a088 Il a fait un séjour en prison.
+6d63efdfd3 Lilian Greenwood compte parmi ses plus belles réussites la promotion de la diversité et de l’inclusion, accomplie pendant ses deux années à la présidence de la commission des transports de la Chambre des communes.
+8d289c423f = She gave her time without ⟦stint⟧. | Elle donnait son temps sans compter.
+45773ffd39 = The factory set each worker a daily ⟦stint⟧ of twenty crates. | L’usine assignait à chaque ouvrier une tâche quotidienne de vingt caisses.
+903d1166db Un parking à plusieurs niveaux.
+81c9ba3127 Pour des raisons superstitieuses, beaucoup d’immeubles numérotent leur 13e étage 14 et sautent le 13.
+f4fedfb0dd Le symbole de l’API pour l’occlusive vélaire sonore est le g à une seule panse (ɡ), et non le g à double panse (g).
+5a5457b5bb Il travaille comme tailleur sur Swanston Street.
+22beb9d96e = We caught a ⟦tailor⟧ off the rocks at dusk. | Nous avons pêché un tassergal depuis les rochers au crépuscule.
+a8d36ae153 Une loi taillée sur mesure.
+9bff00653b Nous pouvons adapter cette veste à votre taille si vous le souhaitez.
+466c352a5f ✗
+011ffebc32 Garçon ! Il y a une mouche dans ma soupe !
+e8bb1c050b Un voyageur épuisé frappa à la porte.
+926408d613 Il m’adressa un sourire las.
+bd5b490fdf Des soldats las de marcher ou d’être enfermés ; je me suis lassé d’étudier et j’ai quitté la bibliothèque.
+49630a1600 Il passait beaucoup de temps à éditer des articles sur le wiki.
+bfe438602d Les Arméniens étaient toutefois menés à tour de rôle par une avant-garde politisée, souvent issue d’une vie urbaine et cosmopolite, éloignée de l’est rural de l’Anatolie.
+6b2a1faff3 Certains historiens travaillant sur ces projets ont été influencés, d’une manière ou d’une autre, par des conceptions marxistes de l’histoire.
+8983884abb Quel genre de marxiste consacre six ans à la perfection d’un roman si éloigné de la lutte pour demain ?
+3d1cd79733 Comme les marxistes, les wokistes sont des millénaristes, qui travaillent pour un lendemain magique ne devant rien ni à la pratique passée ni aux faiblesses humaines.
+908a358527 Les paris sont compliqués avec les paris simples, les paris placés, les each-way et les paris complexes comme les doubles, les trébles, les Yankees et autres.
+20342b6968 = The prosecutor read out the ⟦accusation⟧ against the defendant in a clear voice. | Le procureur lut à voix haute l’accusation portée contre le prévenu.
+64ba99bd94 Une accusation de crime.
+1782120da0 Mon père ne peut pas avoir d’animaux chez lui à cause d’une allergie.
+889f8c6666 Il a une allergie à la téléréalité.
+d3964ba74b Bien que venus de mondes sociaux, économiques et politiques différents, les astronautes et les cosmonautes avaient beaucoup en commun, tant comme professionnels que comme êtres humains.
+9fcfbc9248 Pour atteindre un tel niveau de maîtrise, il faut des heures de pratique chaque jour.
+16e32c94d0 Mais une arrivée à l’heure parfaite de tous les trains le même jour n’est jamais réalisée.
+8d6a5d03e9 = By then she had ⟦attained⟧ the age of eighteen. | À ce moment-là, elle avait atteint l’âge de dix-huit ans.
+05ad5e9da2 Donnez vos clés aux employés du parking et ils garent votre voiture pour vous.
+df9f7f03ce Un briseur d’âmes.
+ac2c312b40 « Oh, il y a des brisants droit devant ! » cria-t-on depuis le charbonnier Nightingale.
+3320669c4b Au concasseur à charbon.
+46c5ae131e A : John est-il au basculeur ? B : Non, il est au concasseur aujourd’hui.
+47ceb72d5f Leurs radios avaient été brouillées par un casseur de canal se faisant appeler Yankee Bucket Mouth.
+3cc1bb6a1b Le Pakistan est un État conservateur et religieux. La fondation Edhi se distingue en ignorant la caste, la croyance, la religion et la secte. Cette position stricte lui a valu quelques critiques de la part de groupes religieux.
+0249a86eb5 = Their family had formed a closed ⟦caste⟧ of artisans for centuries. | Leur famille formait depuis des siècles une caste fermée d’artisans.
+47dfe40062 = The ⟦caste⟧ system still shapes marriage choices in many rural villages. | Le système des castes influence encore les choix matrimoniaux dans de nombreux villages ruraux.
+3eae84e976 La ferme a connu plusieurs agrandissements au fil des décennies ; elle possède trois caves, dont l’une est plus ancienne que les deux autres.
+5d7728146f La compagnie d’assurance a évalué sa cave à 27 000 dollars, en grande partie grâce à ses bouteilles de Château Hypothetica 1972.
+6e1170a800 Les Tigers ont fini en bas du classement toute l’année, et j’en ai assez.
+85c69e4b7e Les supporters ont scandé des insultes à l’adresse de l’arbitre.
+041f061722 En se rendant à Parliament Square, les manifestants ont scandé des slogans, entonné l’hymne national hongrois et agité des bannières et des drapeaux hongrois (sans l’emblème communiste détesté).
+e9d5e3cfed = His speech built to a ⟦climax⟧ that brought the crowd to its feet. | Son discours monta crescendo jusqu’à un point culminant qui fit se lever la foule.
+c7fcd2e9fb En artisan des points culminants, des sensations fortes, de la caractérisation, des dialogues réussis, du suspense et des affrontements, j’avais souvent esquissé l’histoire de Dresde.
+30cc711c65 ✗
+5cd35f4e81 ✗
+d7b035414d ✗
+d0f518f7f6 ✗
+60510c04fd ✗

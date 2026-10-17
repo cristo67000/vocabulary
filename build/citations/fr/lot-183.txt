@@ -1,0 +1,202 @@
+# lot 183 — mots de la bande « étendu » : forge, greenhouse, hierarchy, invalid, jointly, lightweight, metabolism, notch, omega, parody, parole, penguin, photoshop, prom, questionable, queue, sailor, supermarket, sweater, tenant, tractor, trout, turnover, variant, vegetarian, visibility, Scouts, abundant, algebra, antenna, audition, bravo, chop, comparative, complement, conquer, conquest, continuity, crawl, credible, cursed, delightful, digit, dinosaur, doomed, drainage, drowning, embarrassment, fairness, felony, flint, floral, fundamentally, guts, herb, herd, ideological, immortal, incumbent, insider, insufficient, interval, jelly, lick
+# écartés : sexe, drogue, violence, paroles de chansons, notes « Near-synonyms », sens archaïques (Shakespeare, Spenser, Bible, Chaucer, Royal Air Force)
+b5bfcea6b6 = The blacksmith’s ⟦forge⟧ glowed red all morning. | La forge du forgeron rougeoyait toute la matinée.
+095edf4cb2 Si le projet utilise une forge comme GitLab, GitHub ou BitBucket, il est très facile de rechercher dans tous les journaux de commits passés […]
+587722c122 Il avait dû falsifier la signature de son ex-femme. Le jury a appris que les documents avaient été falsifiés.
+a052992f9c Les actions récentes du responsable politique visent à forger une relation avec les électeurs indécis.
+813e1f4567 Dans The Last Guardian, un garçon enlevé forge une relation difficile avec une bête effrayante pour survivre.
+51ae642216 = The accountant ⟦forged⟧ the invoices to hide the missing money. | Le comptable a falsifié les factures pour masquer l’argent manquant.
+d048681d6a ✗
+bfd42d0e84 = The pilot wiped the rain from the ⟦greenhouse⟧ of the aircraft. | Le pilote essuya la pluie sur la verrière de l’appareil.
+80fb564b16 Les défaites sociales naissent dans des hiérarchies sociales strictes où quelques-uns dominent la majorité. La surpopulation aggrave les nombreux maux de la défaite sociale au sein de ces hiérarchies fondées sur la domination.
+e7a93b2a31 Ton argument n’est pas valable, car il repose sur un raisonnement circulaire.
+dc10361f9e Ce contrat non valide ne peut pas être exécuté juridiquement.
+5ed0faeb4c Ils ont élevé l’enfant ensemble, bien qu’ils ne soient plus mariés.
+a7ddbf8a3c À la suite de cette réunion ministérielle, les quatre procureurs généraux — des États-Unis, du Salvador, du Guatemala et du Honduras — se sont engagés conjointement à cibler MS-13.
+eb25d8991b Attendez, c’est à propos de l’autre soir où vous avez tous les deux complètement picolé ?
+0fd4deb861 Il mentionne le « énorme moteur couché sur le flanc » ; il s’agissait en réalité d’une locomotive 2-2-2 pesant 27 tonnes, plutôt légère, même pour 1868.
+e202442251 Par exemple, la construction légère et les bogies Jacobs font gagner du poids, et un train plus léger consomme moins d’énergie.
+c5b75678b3 Le métabolisme des bactéries aérobies nécessite de l’oxygène.
+a474525655 Les petits animaux ont un métabolisme bien plus élevé que les grands, car ils perdent davantage de chaleur corporelle.
+0eb4b127a2 Les entailles sur les manches de hache de guerre de cette tribu représentent les ennemis tués.
+0e1fcb26dd Cette voiture est un cran au-dessus de l’autre.
+e26b5fb68c Pouvez-vous parler un cran plus fort, s’il vous plaît ?
+7d8bf909cd ✗
+8a2be0e08e Le fait que la lettre soit incisée au-dessus de la ligne indique qu’il s’agit probablement d’un oméga.
+cf40d32fb3 Je suis l’Alpha et l’Oméga, le Premier et le Dernier, le Commencement et la Fin.
+3d65758ed5 Et il y a toujours l’option Oméga. À tout moment, vous pouvez aller à Manhome, descendre dans les caves, soulever le couvercle noir de la chambre de stase de votre clone, et appuyer sur le bouton noir.
+e4f46092f6 On obtient le rapport entre la section efficace rho et la section efficace oméga.
+e090b41081 = The ⟦parody⟧ of the minister’s speech made the whole room laugh. | La parodie du discours du ministre a fait rire toute la salle.
+ef2cb25abb Le film comique parodiait tout le genre western.
+746c97e579 Il sera encore en liberté conditionnelle pendant près de deux ans.
+783372f4bd Il a été libéré sur parole.
+7b68ca15bf Une habitante du Minnesota qui a tué son fils de six ans passera désormais le reste de sa vie en prison, sans possibilité de libération conditionnelle.
+a75160fc5e = The officer gave his ⟦parole⟧ that he would not try to escape. | L’officier donna sa parole qu’il ne tenterait pas de s’évader.
+1308f8d399 Elwood : On ne peut pas mentir à une religieuse. Il faut qu’on aille rendre visite au pingouin.
+491381d555 Elle a accusé le procureur d’avoir retouché l’image pour l’incriminer.
+dd8969ff20 Les photographies peuvent aussi être manipulées ; une image « photoshopée » peut être magnifique sans donner une idée juste d’un lieu (c’est un tout autre sujet).
+9390492994 Veux-tu être mon cavalier pour le bal ?
+428ef89546 Le plus beau moment de ma vie a été le bal de fin d’année que nous avons eu en avril 2009.
+38ad126a06 Il est discutable de savoir si l’univers est ouvert ou fermé.
+a85cfdb9cc MAHA s’est propagé sur les réseaux sociaux et a entraîné une explosion d’affirmations douteuses sur la santé et le bien-être.
+ed76051d28 Manifestement inspiré de Ren & Stimpy, il met en scène un wallaby et son chien flatulent. Si une partie de l’humour est assez drôle, une autre est douteuse.
+bff279bd5a Les implémentations de files d’attente reposent généralement sur l’ordre d’insertion, comme les files FIFO (premier entré, premier sorti) ou LIFO (dernier entré, premier sorti, appelées aussi piles).
+3352fd5fdc = The ⟦queue⟧ at the bakery stretched around the corner by eight o’clock. | La file d’attente à la boulangerie s’étirait au coin de la rue dès huit heures.
+314f7c949d ✗
+f665f2a27a Bien qu’il y ait une vaste zone de circulation au-delà des quais à Clacton, la congestion est sévère les samedis de pointe ; aux heures de pointe, les voyageurs doivent faire la queue jusqu’à la rue […]
+9d2c0372d1 Je fais la queue pour rejoindre une partie.
+9cd53614ad C’est un marin talentueux qui a passé de nombreuses années en mer.
+c84f535b5c Un autre marin a été placé en garde à vue.
+f7e637a3e5 = She wore a white ⟦sailor⟧ hat with a flat brim to the regatta. | Elle portait un chapeau de paille blanc à bord plat pour la régate.
+2289ec7b3b Je suis allé au supermarché acheter de quoi manger.
+d4d1e14a50 Les canettes de Coca-Cola goût original, Coca-Cola Zero sans sucre, Diet Coke et Sprite Zero envoyées aux cafés et restaurants sont également retirées, ainsi que les packs de 6 × 250 ml d’Appletiser destinés aux supermarchés britanniques.
+33368d8cf8 ✗
+7edc56256a ✗
+2a1ad23355 Le cardiologue qui a pratiqué le test d’effort d’Alex le 21 août a observé pendant l’examen qu’Alex transpirait abondamment.
+8c3d20d6dd = The garment workers’ union fought the ⟦sweater⟧ who paid them below the minimum. | Le syndicat des couturières combattit le marchand de sueur qui les payait en dessous du minimum.
+6ac75c3a70 de doux locataires de ce bosquet
+2d09ea44fa = The new ⟦tenant⟧ moved into the flat on Monday. | Le nouveau locataire a emménagé dans l’appartement lundi.
+92d3978bec = Small birds ⟦tenanted⟧ the old barn for many years. | De petits oiseaux occupèrent la vieille grange pendant de longues années.
+807135aef3 L’EWS dément aussi toute rumeur de tracteurs envoyés en Espagne, mais ils avaient déjà démenti les rumeurs de tracteurs pour la France jusqu’à la signature du contrat !
+0161b148c8 Ce n’est pas un crime d’apprécier un peu de lard, une truite ou que sais-je encore.
+2833b4c7da Beaucoup de pêcheurs considèrent la truite comme la proie archétypale.
+93ec58061a Dis donc, vieille bique, tu ne peux pas continuer à ramener des chats à la maison ! Tu n’en as déjà pas les moyens pour ceux que tu as !
+277c85032f L’entreprise réalisait un chiffre d’affaires annuel de 500 000 dollars.
+5bf155d67a Dans toute l’Europe, le secteur réalise un chiffre d’affaires de 4 milliards d’euros et emploie environ 25 000 personnes, les époxydes étant présents dans de nombreux produits du secteur.
+2af43c0c15 Ils ne m’ont servi qu’un seul chausson aux pommes au petit-déjeuner.
+5d8ef934f6 Les Nimrods ont commis une nouvelle perte de balle décevante, en route vers une nouvelle défaite humiliante.
+207227619f une mauvaise rotation dans un wagon
+ce0b40cd50 Un fort taux de rotation du personnel peut entraîner un faible moral des salariés.
+8866548e63 L’insatisfaction au travail entraîne un fort taux de rotation.
+07ac484c74 Toutes les races de chiens sont des variantes de l’espèce « Canis lupus familiaris ».
+89266b83a0 La plupart des exploitants ferroviaires ont réduit leur service avec des horaires d’urgence, car ils peinent à faire face à la hausse rapide des absences de personnel due au variant Omicron de la COVID.
+302b5835de Le mot « kerosine » est une variante de « kerosene ».
+e8d2c64f2c Le nombre « Terms » correspond au nombre total de mots et d’expressions lexicales, y compris les sous-entrées et autres éléments lexicaux imbriqués, mais à l’exclusion des variantes.
+16f615bbab Hé hé. Tu frappes comme une végétarienne !
+40eefa25e3 Beaucoup de végétariens ont horreur de l’idée de tuer des animaux pour se nourrir, et des méthodes d’abattage.
+7b1b16919e Selon les entretiens menés par les correspondants du New York Times à travers le pays, de plus en plus de gens, surtout les jeunes, renoncent aux « aliments carnés » au profit d’un mode de vie végétarien.
+6d5c35d51c Existe-t-il un hot-dog végétarien au goût agréable ? Parce que tous ceux que j’ai essayés avaient le goût de pneu fondu.
+cc1bf35060 J’ai un frère végétarien.
+c7a04d5ca7 La visibilité depuis cet angle était bonne.
+e578ddde39 Baden-Powell n’a pas lui-même écrit d’histoires d’animaux, mais lorsqu’il a décidé de fonder une organisation pour les garçons plus jeunes, sur le modèle des Scouts, […]
+2e7bf47b65 Lord Baden-Powell d’Angleterre est généralement crédité d’avoir fondé les Scouts. Il n’y a aucun doute qu’il a fondé le mouvement scout en Angleterre selon un modèle militaire […]
+51444a72d5 […] Retournant la situation, les Scouts ont fait subir à l’agresseur le même sort en le faisant sauter […]
+a5e5517dbe Comme les terroristes de Rhodésie s’appuyaient largement sur les lettres pour communiquer, les Scouts capturaient souvent une mine de renseignements […]
+fe281728b7 […] partout où je suis allé […] j’ai trouvé des compagnies de Scouts inspirées par la véritable tradition scoute […]
+10f527a8f3 Outre les activités scoutes habituelles comme les randonnées et les camps d’été, les Scouts participaient à diverses fêtes nationales polonaises […]
+189fcbefeb un choix abondant de tapis parmi lesquels choisir
+6d6efdb764 un visage délicat encadré de cheveux noirs abondants
+57d368ec6b = The village was ⟦abundant⟧ in harvests and in kindness. | Le village regorgeait de récoltes et de bonté.
+dc68f14bb0 ✗
+7d7f3da162 L’algèbre est utilisée aujourd’hui par les chirurgiens pour désigner la réduction osseuse, c’est-à-dire la remise en place des os, et l’idée de restauration est présente aussi dans le contexte mathématique.
+c9950c0c45 La base de ces relations réside dans les chimiorécepteurs olfactifs des antennes des insectes…
+208225e308 Dans le même ouvrage, Brown emploie « antennes » pour désigner à la fois les antennes radio et les antennes des insectes, dans les descriptions plus techniques.
+30a67589ed Obama est habile. Il aborde les choses grâce à une antenne sensible.
+e144bc8978 La plupart des infirmières croient qu’elles sont nées avec une sorte d’antenne qui les guide dans la pratique clinique et les aide à déterminer ce qui est juste et ce qui ne l’est pas…
+149bd7ec0f J’ai passé cinq auditions cette semaine.
+1e1a7f11a6 Son audition était médiocre.
+99964dfd27 = The soft music was pleasant to the ⟦audition⟧ of the guests. | La douce musique était agréable à l’écoute des invités.
+e7a6c9ebf1 Nous avons auditionné plusieurs acteurs pour le rôle.
+aa5d8b91b5 Plusieurs acteurs ont passé une audition pour le rôle.
+21d24f3d45 Bravo, tu as fait un travail brillant !
+3a1ae6b970 J’aime seulement les côtelettes d’agneau avec de la gelée de menthe.
+3365e58b0b J’attendais au comptoir de la boucherie que l’on découpe des côtelettes d’agneau.
+b40c913517 Les deux joueurs ayant une quinte as-roi, le pot fut partagé.
+d08930bd7d Il ne faudrait qu’un bon coup de hache pour abattre le jeune arbre.
+03af771fc7 = The ⟦chop⟧ at the village fair attracted lumberjacks from three counties. | La compétition de bûcheronnage à la fête du village a attiré des bûcherons de trois comtés.
+6de7d1f252 couper du bois ; hacher un oignon
+505099a018 Lui couper la tête.
+0070740436 Nous devrions amputer une partie du budget de ce service.
+b9ba8fd725 Il nous a donné un exemple comparatif pour illustrer le fonctionnement de l’esprit humain.
+6c4649a507 Une étude comparative entre Homo sapiens et Homo neanderthalensis.
+bdaf704942 J’ai réussi le test avec une facilité relative.
+dd8658c314 Les ratios d’investissement sont positifs. Des données comparatives et des tendances sont nécessaires pour tirer des conclusions définitives. L’absence de comparaisons et de données de tendance limite les conclusions.
+660a54b920 Kings Place à Londres, qui a un an, s’est imposée comme un lieu de programmation imaginative, en complément du Wigmore Hall, toujours vert.
+f99dd6c018 Une onzaine de membres sur les quinze que compte le conseil de Somerton ont démissionné mardi.
+65b2105843 Le complémentaire du bleu est l’orange.
+9b1050032d Nous pensons que votre ajout complétera l’équipe.
+c929e4c001 Je crois que nos talents se complètent vraiment.
+20fda569df Les saveurs du poivre et de l’ail se complètent, donnant un goût très riche une fois combinés.
+a1339491ca En 1453, l’Empire ottoman conquit Constantinople.
+9bde83d51b À la fin de la saison, il avait conquis le baseball.
+fd88852444 C’est la stratégie de son directeur de campagne qui a vraiment remporté l’élection pour lui.
+a92f446cf2 La conquête de la Perse par Alexandre le Grand
+54bf9a7e1d La conquête de l’espace par l’humanité
+4a13546383 = The explorers returned with the ⟦conquest⟧ of a new land for the king. | Les explorateurs revinrent avec la conquête d’une nouvelle terre pour le roi.
+2af7c488ad Lire la philosophie allemande exige une attention soutenue.
+bd2acbc71d En dépannant le système de chauffage et de climatisation, nous avons constaté une absence de continuité dans un circuit normalement fermé.
+62cb751c71 Ne viens pas ramper vers moi avec tes excuses inutiles !
+ee5a6c286b Je crois que je vais nager le crawl pendant les cent prochains mètres.
+d65c373645 Je crois que je vais nager le crawl plutôt que la brasse.
+fc7d409fe6 L’horrible spectacle m’a donné la chair de poule.
+3a0ec21448 Le bébé a rampé dans tout le deuxième étage.
+e366fa30da trouver une excuse plausible
+8d5e3f07ce Alors que le WMRE précise que l’électrification est la seule option crédible pour décarboner, il affirme que les trains bi-mode pourraient être utilisés entre-temps.
+b023a4f15f Cet oiseau maudit me vole encore mon lait !
+1f7d14e142 Félicitations pour cette délicieuse absurdité à propos de Nimzovitch […]
+c3d0df03b1 C’est ce que je compte faire chez Yahoo : offrir à l’utilisateur final quelque chose de précieux et de délicieux qui lui donne envie de venir sur Yahoo chaque jour.
+af75372008 Le nombre en base 10 123,4 comporte quatre chiffres : le chiffre des centaines est 1, celui des dizaines 2, celui des unités 3, et celui des dixièmes 4.
+977531851d La numération hexadécimale (base seize) comprend les chiffres 0 à 9, ainsi que A (=10 en décimal), B, C, D, E et F. Seize s’écrit lui-même 10 avec deux chiffres.
+b7f0223321 Jai a saisi les épaules d’Andrew avec les trois mêmes doigts qu’il avait utilisés pour empoigner le crâne de l’ancien sceptique, et il l’a fait tourner sur lui-même.
+8b79d7f9df Une éclipse à six chiffres couvre la moitié de la surface lunaire.
+c0b60ebc4e Contrairement à ce que montrent certains dessins animés, aucun être humain n’existait lorsque les dinosaures parcouraient la Terre.
+58eece55f0 Ptérosaures, plésiosaures, ichtyosaures, je ne sais pas, ce sont tous des dinosaures pour moi !
+a55cc2510b La pancarte dans la vitrine annonçait à vendre ou à échanger le dernier « dinosaure » encore existant produit par Detroit.
+98db972ed5 C’est une vieille dure à cuire, mais c’est une erreur de la considérer comme un dinosaure ; vous le faites à vos risques et périls.
+a619ef5e51 Les dinosaures étaient condamnés à l’extinction.
+92e5ed910f Dans la partie avant du cyclone, le drainage katabatique est freiné ; mais son intensité maximale est observée dans la partie arrière du cyclone.
+7a2f2e71e3 Il est dangereux de nager dans cette rivière : il y a eu trois noyades l’an dernier.
+1386c4fb9d Jack, tu es une honte pour cette famille.
+4ce90af83b La perte de cette affaire très médiatisée a été un embarras pour le cabinet.
+5ede1582fc Nous avions, à un moment donné, réfléchi-je, une abondance de bons chefs d’escouade, des hommes prêts dans la section.
+60ca1dc979 Le paysage offrait une richesse embarrassante à l’archéologue industriel, et des vestiges des XVIIIᵉ et XIXᵉ siècles étaient encore visibles en abondance.
+5ffae93812 Certains ont remis en cause l’équité des nouvelles lois.
+f4aa49b1e3 En tant que procureur chargé des crimes, je poursuis les infractions graves, notamment les homicides, les agressions sexuelles, la mise en danger d’enfants, les fusillades et autres voies de fait criminelles, ainsi que les affaires médiatiques.
+4e7d4f352f Jordan Gee, 37 ans, de Nanticoke, en Pennsylvanie, a été inculpé de trois chefs de menaces criminelles à l’encontre du président et d’un chef de menaces interétatiques, selon le ministère de la Justice.
+dac9d4fd8d Il a utilisé du silex pour faire du feu.
+5b2f5aa90b Il a utilisé un briquet à silex pour faire du feu.
+61e5fec12f Franchement, j’aime le motif floral de ce vase chinois.
+6a32e78244 Ce que montre la science, dit-il, c’est que le cerveau d’un toxicomane est fondamentalement différent de celui d’un non-toxicomane.
+f3fb7d2e12 Elle ne tolère aucune bêtise de qui que ce soit : elle a du cran.
+7b787c947a Il a fallu du cran pour prendre la parole devant ce public.
+dcd48a07da Son discours manquait de mordant.
+afb02cb0f7 Le mécanisme interne de cette montre Rolex est à toute épreuve.
+1836ec18c0 Il connaissait tous les rouages de l’entreprise : comment les choses se font vraiment.
+e8a3a50668 Si les plantes médicinales utilisées par les sorcières étaient censées être mauvaises, comment se fait-il que, depuis des siècles au moins, les gens aient bénéficié des propriétés curatives de ces plantes ?
+722b4bc247 ✗
+ac4f429f8a ✗
+6ae25e2d8b George (AO) décrit le lien entre la bagarre et le respect : « Parce que certains pourraient venir te dire : “Ah, c’est une chiffe molle, il ne sait pas se battre. Il ne vaut rien.” »
+f85e060664 un troupeau de bétail
+2e7ab62445 un troupeau de moutons
+d875871cbd Zakouma est le dernier endroit sur Terre où l’on peut voir plus d’un millier d’éléphants en mouvement dans un seul troupeau compact.
+df752d93b6 Je n’ai jamais suivi le troupeau.
+77761ee851 Les moutons paissent sur de nombreuses collines.
+fde69a853e Tout prédateur qui chasse des animaux grégaires ou en bancs doit être capable d’isoler un individu à attaquer.
+848450054b Il est employé pour garder les chèvres.
+33e2e3ea0f = The shy newcomers quickly ⟦herded⟧ together with the others. | Les nouveaux venus, timides, se sont vite regroupés avec les autres.
+735141a202 Il y a des économistes de tout le spectre idéologique.
+b951982e00 Le régime, idéologique dans sa gouvernance, a poursuivi son programme malgré les critiques des experts.
+9e7f8f0054 Les dirigeants les plus impitoyables de l’histoire étaient souvent des idéologues animés de visions utopiques.
+6ac43b32dd = She had ⟦immortal⟧ hopes that her name would survive in the books. | Elle nourrissait des espoirs immortels : que son nom survive dans les livres.
+977d76639a Tazmania/Sphère intermédiaire a besoin de bâtisseurs, d’administrateurs et d’immortels. […] Les immortels n’ont pas besoin d’expérience.
+70ebb5c98a le gros orteil incomplet d’un oiseau
+3e208af2f4 Si le sénateur en exercice meurt, il est remplacé par une personne nommée par le gouverneur.
+bfd52b62e0 = The old dog lay in an ⟦incumbent⟧ posture by the fire. | Le vieux chien était couché dans une posture indolente près du feu.
+d0ec48ab2d Tout comme l’intérêt grandissait sous l’ancien ministre des Transports, Grant Shapps, il pourrait décroître avec le nouveau secrétaire aux Transports, Mark Harper.
+08ba6f37cb ✗
+23323c2149 Il est aussi un initié astucieux de l’ANC, qui a passé dix ans à Robben Island aux côtés de Nelson Mandela et des autres « grands » du mouvement.
+693d86dadd = The ⟦insider⟧ of the cathedral dome shone with golden mosaics. | L’intérieur de la coupole de la cathédrale resplendissait de mosaïques dorées.
+d2d241f828 C’est une condition nécessaire, mais insuffisante.
+8ab870b93f = The tools were ⟦insufficient⟧ for such delicate work. | Les outils étaient insuffisants pour un travail aussi délicat.
+ff1aa50c87 l’intervalle entre les contractions pendant l’accouchement
+91d1035634 L’Espagne a effectué trois changements à la mi-temps, faisant entrer l’ancien capitaine d’Arsenal Fabregas, le Chelsea Juan Mata et le gardien du Liverpool Pepe Reina à la place de Xavi, David Silva et Casillas.
+1c790c982b Sa mère lui a préparé une gelée pour le dessert, à lui et à ses amis.
+1b71dafd6f Rincewind se détendit légèrement, ce qui voulait dire qu’il donnait encore à une corde de violon l’allure d’un bol de gelée.
+8658fa8992 = She spread homemade ⟦jelly⟧ of wild strawberries on the toast. | Elle étalait sur les tartines de la gelée de fraises des bois faite maison.
+575cc4423d À ces mots, sœur Samantha sembla secouer sa graisse, si bien qu’elle se rassit dans son fauteuil.
+54c043efdf gelée de pied de veau
+8dfe310476 Le chat se lécha le pelage.
+f4c74d2baa Jim ferma les yeux et lécha son cornet de glace à la vanille.
+623d1dde05 Elle lécha le dernier peu de miel sur la cuillère avant de la laver.
+e442661f91 ✗
+0c03893a20 Mon père peut battre le tien.

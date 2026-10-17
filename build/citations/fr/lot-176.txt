@@ -1,0 +1,202 @@
+# lot 176 — mots de la bande « étendu » : haunted, hiking, illegally, inclined, informal, marker, marsh, maturity, messy, ninja, optimistic, owl, pharmacy, problematic, processor, promotional, prospective, psychiatric, repeal, roast, rubbish, saga, sliding, surplus, swallow, systematic, unaware, underway, unstable, upstairs, vague, wee, woo, zip, Ivan, Panama, Sacramento, abundance, antique, autonomy, booking, breeze, carnival, commodity, congressman, cooperative, coral, correlation, correspondent, curtain, dentist, dough, dug, fatigue, fellowship, fictional, fragile, fringe, granite, greens, hardy, instinct, irony, judgement, legion, lime, lively, logistics, maple
+# écartés : fusillade, grossièretés, sexe, paroles de chansons, sens archaïques (Shakespeare, Spenser, Chaucer)
+d8f4a1e1cd un soldat hanté par les souvenirs du combat
+0266948dfe Pour protéger le glacier, les autorités ont limité à 10 000 le nombre de visiteurs par jour et interdit la randonnée sur la glace.
+79b88a98a5 Comme les années précédentes, les politiques du gouvernement visant à freiner les hausses de prix ont consisté à restreindre l’offre de crédit et la liquidité des banques […]
+9f4764823c Il a reçu une contravention pour stationnement illégal à côté d’une bouche d’incendie.
+236f3a4c49 La rampe de décollage était inclinée à 20 degrés.
+0b64742a4f Elle a tendance à s’emporter.
+ccfda51f9d J’ai tendance à te croire.
+a32d8501a6 une réunion informelle
+ef8130f651 N’utilise pas le marqueur indélébile sur le tableau blanc.
+8747a13308 Le membre du conseil Phillip Carlson […] a déclaré considérer l’élection de Brading comme un jalon du chemin parcouru par la communauté gay et lesbienne.
+6273293542 De nombreux animaux vivent dans le marais.
+8ab3481338 Le marais de Čepkeliai est constitué principalement de tourbière.
+3ac5a9e7c4 La capacité d’assumer ses responsabilités est un signe de maturité.
+227d24b314 Certains aliments et boissons, comme le vin, n’atteignent leur pleine saveur qu’à maturité, ce qui a un prix.
+57c1a6550e Certaines espèces d’insectes atteignent la maturité sexuelle bien avant leur maturité corporelle.
+c5a90c4ede Tout le bac de guppys était à maturité et prêt à se reproduire.
+48789c4a86 Le billet a été encaissé à l’échéance.
+35608548bf Jim passa ses doigts dans ses cheveux bruns en bataille.
+7b944f1f94 C’est la personne la plus désordonnée que j’aie jamais rencontrée.
+b0e401965c Dites bonjour à la réponse bâclée au carton d’invitation. L’habitude de répondre aux invitations, sans parler de venir aux soirées comme promis, est devenue aussi démodée que le ramoneur, et bien plus désordonnée.
+0aedd2757a Un ninja JavaScript doit écrire beaucoup de code et construire des choses !
+b48989c90d D’autres banquiers se baptisent « ninjas », descendants modernes des super-espions des clans samouraïs du XVIIᵉ siècle.
+228c1061d0 Des ninjas d’eNintendo étaient dans le Discord et observaient. Maintenant, tous les développeurs de Yuzu ont remis leurs appareils électroniques, leurs sites, leurs journaux…
+06bcca1b9f J’avais « Zelda : Tears of the Kingdom » qui tournait sur mon PC deux semaines avant sa sortie sur Switch, et je suis toujours là. Qu’ils envoient les ninjas, j’attends.
+11e79e89ae Il travaillait autrefois pour l’agence japonaise en tant que ninja.
+ce5ca2b103 Les hommes… apprennent maintenant à devenir des ninjas, ou des « infiltrés ».
+c4b72e818e d’humeur optimiste
+d4b9ee1767 a adopté une vision optimiste
+0a5865f5ad Un groupe de hiboux s’appelle un parlement.
+4067e6848e Son jardin était une pharmacie de plantes aromatiques.
+1b11e27c88 Il espérait arrêter la pharmacopée que le charlatan lui avait prescrite.
+ac14f8f2a4 Cependant, estimer ce que les consommateurs paieront à l’avenir est problématique.
+91d9328bad La gare dispose d’un café et d’un logement pour le personnel, car c’est un point important de relève des équipages, même si cela peut poser problème lorsque les trains sont en retard.
+5f00b5ec06 cela laisse présager un avenir problématique pour le mouvement
+7b072c1280 La problématique insoluble de l’essentialisme contre l’antiessentialisme et du primordialisme contre le circonstancialisme, endémique à l’analyse identitaire aujourd’hui.
+8c89f025f4 Le robot de cuisine a réduit les légumes en lamelles.
+1b108b6349 Cet ordinateur a deux processeurs, mais un seul clavier.
+cc53973839 C’est un gestionnaire de dossiers de prêt dans une banque.
+e37ba3b99c Collectez cinq bons promotionnels pour réclamer votre lot.
+363ec166a7 Dans certains services, les ex aequo sur la liste de promotion sont départagés selon la date de dépôt du dossier.
+e5ce683afd Les étudiants admissibles sont ceux qui ont déjà postulé à l’université mais n’ont pas encore été admis.
+419232e025 Le roi de France et le roi de Suède sont […] circonspects, industrieux et, dans cette affaire, prévoyants aussi.
+ccdc71ea4e Un peu au-dessus de I-ch’ang se trouve le site prévu d’un barrage hydroélectrique très prometteur pour l’industrialisation du centre de la Chine.
+81fc804508 Certaines femmes souffrant de dépression post-partum et de déséquilibre thyroïdien peuvent avoir besoin d’antidépresseurs et d’une thérapie psychiatrique.
+9059a39464 De même que les mœurs font les lois, les mœurs les abrogent aussi.
+da580e0d61 abroger une loi
+3b731e0964 ✗
+c14e2f6252 ✗
+9eeca4180e rôtir de la viande à la broche
+125ce53305 Les grains de café doivent être torréfiés avant utilisation.
+64ad8ecac6 faire griller des châtaignes ou des cacahuètes
+3a96757d6b Il a rembarré un petit caïd qui s’est ensuite battu avec lui.
+315816717a Le pitre de la classe aime se faire chahuter par ses camarades comme par le personnel.
+e86a96ae9b faire cuire une pomme de terre sous la cendre
+619463e474 Servez le rôti avec de la sauce et de la purée.
+4ec4030a90 Viens ce week-end pour le rôti du dimanche.
+10238d3413 La torréfaction « foncée » signifie que le grain de café a été torréfié à une température plus élevée et plus longtemps que dans une torréfaction légère.
+d45fd25d69 Tout ce que la professeure a dit pendant ce cours était n’importe quoi. Comment peut-elle croire qu’une viole de gambe et un violoncelle sont la même chose ?
+64142c1cde Les ordures sont collectées tous les jeudis à Gloucester, mais le mercredi à Cheltenham.
+6a38b0ee82 Les chèvres sont des mangeuses intrépides. Elles fouillent les ordures à la recherche de restes de nourriture.
+ffae1440ab La plupart de ce qu’ils vendent est de la pure camelote.
+3e30e97c3d Cette journée a été pourrie, et ça va empirer : ma belle-mère vient passer quelques jours.
+b42704867f Quelle blague ! Je n’ai rien fait de tel !
+64b9198b41 « Oh, mon œil ! Mais au moins, ça veut dire que tu as le temps de jouer au foot. »
+645c80bc47 Manchester City a tourné la page de l’affaire Carlos Tevez avec une victoire élégante à Blackburn, qui les maintient à égalité de points avec le leader, Manchester United.
+25584f4641 Le dernier Fire Emblem, développé par les créateurs d’Advance Wars et disponible aux États-Unis, est le septième volet d’une saga épique commencée il y a treize ans sur NES.
+9886c241b8 Notre jardin est juste à l’extérieur de la porte coulissante.
+9df71552ea La dernière livraison de marchandises dépasse nos besoins.
+c61d409d6f Les vêtements sont faits pour être portés, et la nourriture est faite pour être avalée : elles restent piégées dans le monde physique.
+23699655cf J’avais si mal à la gorge que je ne pouvais pas avaler.
+72a04baac9 Elle déglutit nerveusement, avec l’air presque malade de ce qu’elle devait dire.
+79a6a4aa07 Les Américains ont gobé son histoire parce qu’ils en avaient envie.
+fcab06f5b2 Son corps, comme tant d’autres engloutis par la gueule affamée de l’océan, n’a jamais été retrouvé.
+317c300c40 = The new giant store has ⟦swallowed⟧ up all the small shops on the high street. | Le nouveau géant de la distribution a absorbé toutes les petites boutiques de la grand-rue.
+2a89d1f781 Il a avalé l’aspirine d’une seule gorgée d’eau.
+2a20872052 Elle a bu une gorgée de lait et fit la grimace. « Ce lait a tourné. »
+6bf8dcb1a8 Les blocs existent en une grande variété de modèles. Tous sont conçus pour n’être utilisés que dans un sens. La corde passe par la gorge du bloc.
+56e0c0a93b En outre, les manilles en J peuvent passer dans le rail de génois d’un voilier moderne, même avec une écoute déjà sous tension, ce qui est très utile pour préparer un changement de voile sur la même amure.
+d44f1e93cc l’étude systématique des croyances religieuses
+5d42309323 J’ignore la réponse à cette question.
+a1e0cfdc4a Heureusement, elle ignorait que j’avais passé les cinq dernières années en prison.
+95daaa7180 = He went on talking, quite ⟦unaware⟧ that the meeting had already ended. | Il continuait de parler, sans se rendre compte que la réunion était déjà terminée.
+94315871ee La vague suivante, bien engagée, consiste à délocaliser à l’étranger les tâches administratives…
+b541e65f17 La structure est trop instable pour tenir debout en toute sécurité.
+ba24343eb3 La situation politique reste instable.
+33e5f361df Nous louons la chambre à l’étage à un étudiant.
+01f5b36396 Ce lancer rapide était trop haut pour être une balle.
+a91f9e73ae Les quantificateurs faibles (some et many, sometimes et often) et les forts (all, always) excluent toute lecture à clause inférieure pour la négation située à l’étage dans les mêmes contextes.
+d879c265b0 La femme du dessus a demandé aux gens dehors de cesser de faire la fête.
+ac36b13e5b Je déteste les gens qui habitent au-dessus, et je déteste particulièrement leur piano.
+edfab4d8a8 Après que Joe a dansé le hula sur la table de cuisine, ses amis se demandaient s’il n’avait pas un peu de jeu dans la tête.
+2e40eb2ad2 = A ⟦vague⟧ unease settled over the village as the storm approached. | Une vague inquiétude s’installa sur le village à l’approche de l’orage.
+c6bb0eaa11 une expression d’insulte vague
+bbc9babd58 Comme tu avais l’air un peu froid, j’ai allumé un petit feu.
+f204f1f8ed Je n’avais jamais vu un petit garçon faire ça comme ça. Il était moins bon nageur que moi, et il ne faisait que s’éclabousser.
+1f0f48ee14 Ils essaient de regagner les clients avec ce nouveau forfait mobile.
+12b9677421 ✗
+fcc5735c3c = The farmers ⟦wooed⟧ the rain with dances in the dry summer. | Pendant l’été sec, les paysans courtisaient la pluie par des danses.
+655d64f5e4 La balle a fendu l’air.
+b3470ab311 Fonce jusqu’aux magasins pour acheter du lait.
+0a35fc94ac « J’arrive tout de suite », dit Chase. Elle s’engouffra dans le bureau pour verser une gamelle de friandises light pour Quincy.
+6232069d6b Tottenham a aussi eu du mal au départ à créer de réelles occasions de marquer, Bale, Luka Modric et Rafael van der Vaart échangeant des passes en vain.
+be5f24c65d « Norvégienne ? » dit Barry, incrédule, comme si elle venait d’annoncer que la famille d’Ivan venait de la Lune.
+634ae224e8 Ivan hurle des insultes à ses amis.
+1c44e6c95c Les économistes de Capital Economics ont écrit dans une note d’août que les pays dollarisés El Salvador, Panama et l’Équateur affichent une « inflation nettement plus faible que dans le reste de la région ».
+21352ec571 Un homme, un plan, un canal : Panama !
+50061f80c9 ✗
+c7527d4a98 En raison de l’abondance de matériel artistique, la classe a réalisé un immense collage.
+3ace43ddf6 Le temps ne manque pas vraiment, alors ne traînez pas.
+5db61149d8 = The museum displays coins from the ⟦antique⟧ world of Greece and Rome. | Le musée présente des monnaies du monde antique grec et romain.
+08298e3b14 L’indépendance financière et la micro-retraite représentent pour moi l’autonomie que je me suis créée, ce qui est un sentiment puissant.
+6ceda6dadf Mais, tout en écartant avec assiduité toute pensée de sa propre autonomie et en proclamant ses victimes juges, il surpasse, dans son autocratie voilée, tous les excès de l’art autonome.
+518ff43978 […] le fait qu’une théorie scientifique trouve des applications à une grande variété de phénomènes différents n’implique rien quant à l’autonomie de cette théorie vis-à-vis des lois physiques plus profondes.
+56ccb30f06 Les réservations à l’avance ont d’abord été suspendues. Elles sont à nouveau disponibles, mais avec moins d’une semaine de disponibilité à la fois.
+1b0bfe842c La brise faisait bruisser les papiers sur son bureau.
+7bac406077 Après le latin, l’espagnol était un jeu d’enfant.
+49e2a2a0a4 La découverte a fait sensation.
+25425e262e Quand la fête foraine est arrivée en ville, tout le monde voulait de la barbe à papa.
+77f81513c6 Nous avons tous pu faire un tour de manège quand ils ont amené leur fête foraine en ville.
+484c3ebddd L’environnement social porte les traces ambiguës du carnaval : il résiste à l’idéologie du capitalisme et, en même temps, reproduit l’ordre social capitaliste.
+fc6d771639 En se référant aux travaux de Bourdieu, Zukin (2004, p. 38) fait remarquer que faire ses courses est bien plus que l’achat de marchandises.
+7e9eaf0571 Si l’acte d’achat consiste essentiellement à transformer des marchandises anonymes en possessions, faire ses courses est une activité culturelle autant qu’économique.
+227d7e3204 Autrefois à la pointe de l’électronique grand public, les calculatrices ne sont plus qu’une simple marchandise.
+e094160830 Le prix du pétrole brut se détermine dans des échanges continus entre professionnels sur les nombreuses bourses de matières premières du monde.
+e4aef36ed6 Ce fut une bousculade quand les parlementaires ont sauté par-dessus la rampe, pressés d’être les premiers à signer leur âme.
+26cae2e0f9 Le patient était rarement coopératif et avait tendance à refuser les soins.
+ca45b801da une entreprise coopérative
+222eaa06a2 Chez les grossistes, les grossistes volontaires et les coopératives proposent une gamme de produits et un nombre d’articles bien plus larges en marques propres que les non-affiliés.
+45bfb6b82d Le responsable d’une coopérative agricole du canton de Chien-shih, dans la province du Hubei, sermonnait sa femme paysanne : « Pour gagner leur émancipation, les femmes doivent faire un travail de production exactement comme les hommes. »
+bb42060908 = She wore a dress in a soft ⟦coral⟧ shade. | Elle portait une robe d’un corail doux.
+b0a5918305 = The baby chewed on a ⟦coral⟧ teether while his mother cooked. | Le bébé mâchouillait un hochet en corail pendant que sa mère cuisinait.
+e125d7deda Par exemple, les scientifiques peuvent utiliser des données issues d’études plus vastes sur la corrélation entre les taux d’anticorps et l’efficacité du vaccin chez les adultes, pour prédire son efficacité chez les enfants.
+b8e8dd1d2b Kála et kalánka ont des correspondants largement répandus dans les langues romanes de la Méditerranée occidentale.
+337980f0e0 Il a tiré les rideaux à 23 heures avant de s’endormir.
+7f892c62dd Il a mis tellement de temps à se raser la tête que nous sommes arrivés 45 minutes après le lever du rideau et l’entrée tardive nous a été refusée.
+83c5000b57 Le capitaine Rense, assiégeant pour nous la cité d’Errona, […] fit creuser une mine sous une grande courtine des murailles […].
+4775599545 Oh, tu ne pourrais pas être marié à un dentiste. Ne sois pas ridicule.
+e7c6f9c7a8 La pâte à pizza est très élastique.
+1277118a16 Ses remboursements de prêt immobilier le laissaient à court de fric.
+01565b3fb4 Je suis stupéfait, vraiment stupéfait, que tu n’aies pas mis de côté un peu de fric. Tu dois être fou.
+c5d3decf59 = The sow’s ⟦dug⟧ was swollen after the piglets were born. | Le pis de la truie était gonflé après la mise bas des porcelets.
+bb8128851c ✗
+b5536ac531 Pour certains, le déluge constant qui a atteint son comble l’année dernière commence à se transformer en un sentiment nouveau, et jusqu’alors impensable : la lassitude face à Taylor Swift.
+d85b01dfec Alan Pardew était de loin le plus frustré au Emirates, attribuant à la fatigue le fait qu’Arsenal ait pu achever son équipe dans les dernières minutes.
+ec99d0c20d = After his promotion he was spared the ⟦fatigues⟧ of the night shift. | Après sa promotion, il fut épargné par les corvées du service de nuit.
+a0c127dadc Les défaillances mécaniques dues à la fatigue des matériaux font l’objet d’efforts d’ingénierie depuis plus de 150 ans.
+544721e4a4 ✗
+f919271f10 Les cycles répétés de pressurisation ont fatigué la peau métallique de l’avion, jusqu’à ce qu’elle finisse par se rompre en plein vol.
+a4cd3ba979 La Communauté de l’Anneau
+97b7185d31 Que la grâce du Seigneur Jésus-Christ, l’amour de Dieu et la communion du Saint-Esprit soient avec vous tous.
+482547dc5c = She enjoyed the ⟦fellowship⟧ of her colleagues on Friday evenings. | Elle appréciait la compagnie de ses collègues les vendredis soir.
+1604ed0a54 Roméo et Juliette sont des personnages de fiction.
+16bf2cf671 Le récit du crime fait par le concierge s’est révélé entièrement fictif.
+b5c60f5d04 Les Simpson est une série télévisée de fiction.
+e76f9e2476 Inclure à la fois des livres factuels et des livres de fiction aurait réduit la valeur de l’étude ; le contenu serait devenu trop hétérogène pour tirer des conclusions significatives.
+bdcf075484 les conventions de la fiction et de la non-fiction
+4193c88ccf L’ONU tente de maintenir le processus de paix fragile dans la région.
+5bdd94bf57 Elle a rattrapé le vase fragile avant qu’il ne se brise sur le sol.
+afe1f02ac2 Le chimiste synthétise une molécule fragile.
+ee176ac7f5 C’est une personne très fragile, qui sombre facilement dans la dépression.
+cf8b8d6d54 la frange d’une image
+aab74fb1cf Dos Santos, souvent relégué en marge à Tottenham depuis son départ de Barcelone, a adressé un centre fantastique que Pavlyuchenko a expédié de la tête au fond pour son premier but de la saison.
+de01c1e4f7 un groupe marginal du parti
+d8250544e8 Il habite à la périphérie de Londres.
+7e9beb4c29 De plus, bien que plusieurs lignes atteignent les marges du district des lacs anglais, c’est la seule qui le traverse réellement.
+e94482691d Il remonta le bord ouest de la lande, le long d’une lisière d’arbustes où la berce poussait en touffes emmêlées et où les ronces s’élevaient plus haut que lui.
+0310e883b4 Le violoncelliste Charlotte Moorman, muse de Nam June Paik et championne militante de tout ce qui est marginal, était aussi de la partie.
+2558f10ae5 = The curtain was ⟦fringed⟧ with gold tassels. | Le rideau était bordé de franges d’or.
+18c980bb00 = Tall reeds ⟦fringed⟧ the edge of the pond. | De hauts roseaux bordaient le bord de l’étang.
+ef3fd69339 Beaucoup de monuments vendus aux États-Unis sont taillés dans du granit produit en Chine, en Inde et ailleurs outre-mer, tandis qu’une grande partie de l’équipement de taille de pierre vient d’Europe.
+22161a6f04 Le chou vert frisé est mon légume préféré !
+29492bac1f féculents, viandes et légumes verts
+a6fb52b67b Les algues sont délicieuses, et maintenant que tu es tombé amoureux de ces légumes de l’océan, tu ne vas sans doute plus pouvoir attendre de finir plusieurs bols par jour.
+6aa8ded801 Les pousses de thé — la nouvelle croissance à l’extrémité des branches — sont souvent récoltées pour le marché de gros ou de détail, ou pour un traitement personnel.
+7e1b7bcd0e Dans la phase II, nous avons mené la partie terrain de l’étude pendant deux semaines consécutives en avril 2002, période qui coïncidait avec la fin de la saison de récolte des verdures florales de printemps pour cette année-là.
+3d40278597 Même ajouter 1 mm d’épaisseur au carton, pour le rendre plus résistant, pourrait consommer une part importante de forêt, multipliée par des centaines de milliards de boîtes.
+270d3231b4 Une plante rustique est une plante qui peut supporter les extrêmes du climat, comme le gel.
+433919a43e = The ⟦hardy⟧ explorer pressed on alone through the snow, unafraid. | L’explorateur courageux poursuivit seul à travers la neige, sans crainte.
+039361252a Beaucoup d’animaux craignent le feu par instinct.
+0f1e5307ef un instinct d’ordre ; être modeste par instinct
+a685d5730a L’instinct de Debbie était de se méfier de John.
+2b03fc8aa3 Le principal mérite de la reconnaissance par Rorty du double visage — léger et sérieux — de l’ironie est de nous inciter à aller dans ce sens.
+3e6e057ba9 La seconde ironie est que le seul Américain qui saisit intuitivement cette réalité, ou autrement, et qui possède un ego suffisamment grand pour pouvoir gouverner dans ces circonstances, est le président.
+4101826fb4 La nourriture avait un goût ironique.
+d35ce5e73e Il ne restait plus rien, à part la pile de dossiers sur mon bureau, et l’air ironique du visage de Catherine.
+6dcfdcf74d La clé de la situation était le jugement sur le rôle que les chemins de fer pouvaient jouer dans les temps modernes.
+d94de69eed un homme de jugement / un homme de bon jugement
+c2f423ab9f un politicien sans discernement
+b135cd976b = In my ⟦judgement⟧, the new manager is the right person for the job. | À mon avis, le nouveau directeur est la bonne personne pour le poste.
+973647ba43 = The court will hand down its ⟦judgement⟧ on Friday. | Le tribunal rendra son jugement vendredi.
+9169cc420d Leurs affaires complexes sont gérées par une armée de comptables.
+8148f3c477 Avec tout le respect dû à Aaron, chaque époque semble avoir eu sa cohorte de fraudeurs et de tricheurs qui utilisaient la science disponible pour prendre l’avantage.
+98f8defb52 La chaux, produit de la cuisson de la craie ou du calcaire, pouvait être achetée déjà cuite, ou être cuite dans des fours spécialement construits à proximité des chantiers.
+5a561ddf07 = The hunter smeared ⟦lime⟧ on the branches to catch the thrushes. | Le chasseur enduisait de glu les branches pour attraper les grives.
+ed9bd05ad5 Sellers a continué jusqu’à ce qu’on lui fasse enfin confiance pour manœuvrer les projecteurs, ceux qui peuvent faire réussir ou échouer le numéro d’un artiste.
+efbc4efb34 Comme les malades étaient souvent présents, il ne pouvait pas toujours compter sur un jeune public enjoué dans la même salle, et le divertissement n’était pas toujours de qualité.
+3d5e7cb7a8 = The ⟦lively⟧ colours of the painting caught every visitor’s eye. | Les couleurs vives du tableau attiraient le regard de tous les visiteurs.
+9993fffd4d Nous avons sous-estimé la logistique du déménagement d’un laboratoire entier.
+d7b3c6887c La logistique de l’opération exigeait une planification minutieuse.
+a9b251e913 Ils ont un grand érable dans leur jardin.

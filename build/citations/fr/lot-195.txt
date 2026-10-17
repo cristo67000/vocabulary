@@ -1,0 +1,202 @@
+# lot 195 — mots de la bande « étendu » : camel, catering, charger, chunk, cocoa, compartment, corpus, cove, dictatorship, dread, dub, dummy, electorate, erosion, expo, flank, flare, forex, intimacy, kitten, lever, mileage, multiplayer, mutant, mutation, mythology, neon, nutritional, pedal, pillar, plausible, precipitation, pup, quarantine, query, restraint, rift, salesman, scarlet, sewer, shits, southwestern, spokesperson, stitch, substrate, swell, theoretically, thirst, transitional, unused, vinegar, wig, Carmen, Edmund, Fiona, accessory, aggressively, align, amnesty, assertion, atop, attic, await, broadcaster, cache, coherent, comfy, crooked, cultivation, ding, displacement, drastic, edible, endorse, enhancement, fax, flick
+# écartés : insultes, sexe, drogue, violence, notes « Near-synonyms », sens archaïques (Bible, Shakespeare, Spenser, Chaucer), propos ableistes ou racistes
+7c6d4dc4be Les fers et le chameau peuvent atteindre toutes les cases d’une couleur. Les autres pièces sont plus limitées : le pion mort ne peut pas bouger du tout, et le navetteur ne peut aller et venir qu’entre deux cases.
+a23c86c2a4 = The paper’s stories were cheap ⟦catering⟧ to the readers’ taste for scandal. | Les articles du journal flattaient à bon compte le goût des lecteurs pour le scandale.
+f445579e40 Mets les piles dans le chargeur pendant la nuit pour pouvoir les utiliser demain.
+0e5a8673da Cette attaque peut blesser l’homosexuel, mais même blessé il se sent supérieur, car il n’est pas un taureau, un animal aveugle et stupide. Il est plutôt esthète : un raffiné, pas un cheval de bataille.
+a17fe3fc39 Le chevalier chevauchait un destrier blanc.
+4e83184cfe La statue s’est brisée en morceaux.
+0e207836ef un bloc de granit
+0675325134 Je parierais volontiers une bonne partie de ma retraite que ce chiffre n’a pas diminué.
+b313a14b3b […] elle parierait gros que c’était l’une des plus belles chambres où Kate-Lynn Bowers ait jamais dormi : c’était le genre d’endroit où l’on réfléchit à deux fois avant de s’enfuir.
+14c1bf467d Le premier DWORD d’un bloc de données du chunk RIFF est un code à quatre caractères identifiant le type de forme du fichier.
+59504c67db En fait, certains linguistes suggèrent que 45 à 60 % de ce que vous produisez dans votre langue maternelle sont des blocs fonctionnels de langue. Ces blocs donnent aussi une certaine impression d’aisance.
+baac724e71 Aimez-vous le cacao ?
+a0cf5f3940 Le cacao coulait dans leurs veines.
+721a6e5e70 J’aime regarder la télévision avec un chocolat chaud.
+293cd20b90 Deux hommes étaient assis dans un compartiment bien éclairé d’un wagon de troisième classe.
+2c9ad27c99 Aujourd’hui, les bases de données informatiques et les corpus rendent infiniment plus facile ce type de recherche, mais le processus de collecte reste essentiellement le même.
+f09083eb6c Une approche par corpus est une méthode utile pour observer, décrire et interpréter les caractéristiques stylistiques de la langue dans des textes littéraires et non littéraires.
+427ee08b3e le corps de l’utérus
+d03ad576e7 Malgré leur ignorance, ils étaient inévitablement prospères, car leur ferme occupait une large étendue de fond de vallon, avec une terre si noire et riche qu’elle aurait fait pousser des patates douces longues comme le bras.
+97e3157edd Il n’y eut aucune élection sous la dictature de Franco.
+27c53edd36 Cela a eu un effet déplorable en fournissant des prétextes pour étouffer toute pensée philosophique indépendante et en établissant la dictature du parti sur la science et la culture dans tous les domaines.
+8bcddb4617 J’appréhende le résultat de l’examen, car il pourrait décider de toute ma vie.
+5b2de9c212 = She ⟦dreaded⟧ the phone call from the bank every morning. | Elle redoutait chaque matin l’appel de la banque.
+b90982b3b7 Ma visite chez le médecin me remplit d’appréhension.
+b178facbee = Her ⟦dread⟧ of her grandfather’s anger kept the children silent. | Sa crainte révérencielle de la colère de son grand-père tenait les enfants silencieux.
+228007eed5 = The king stood to ⟦dub⟧ the young squire a knight with his sword. | Le roi se leva pour armer chevalier le jeune écuyer, d’un coup d’épée sur l’épaule.
+86b0d2f9f7 = The chest was ⟦dubbed⟧ with silver studs and brass corners. | Le coffre était orné de clous d’argent et de coins de laiton.
+9e04d71b12 = In the village, a man of wealth is ⟦dubbed⟧ a man of worth. | Au village, un homme riche est réputé pour sa valeur.
+81997b892b ✗
+ea7d83e8fc Ne sois pas si bête !
+9baa11ed45 Pour comprendre les effets de l’accident, nous avons fait tomber un mannequin du toit.
+c6f9ff33c9 Hé, espèce d’idiot, quoi de neuf ?
+e6b8852b43 ✗
+152cb2f69b Le vote a été compté et l’électorat s’est exprimé.
+50cac0b212 La circonscription de Finchley touche celle de Much-Binding-in-the-Marsh, et coupe en deux le nouveau lotissement de Royal Cupolas.
+bfabd03f43 […] le Brandebourg, qui devait devenir Berlin, acquit un statut distinct d’électorat au milieu du XIVᵉ siècle.
+89cfc52d0a érosion de la marque, causée par l’usage quotidien du terme déposé
+4a232c4607 l’érosion de la confiance d’une personne
+4c8df23f38 NPR a parlé à plus de trente personnes au salon de carrière du DHS organisé à Provo la semaine dernière.
+9c0f031947 J’ai pris la pièce de vingt-cinq cents et je l’ai cachée dans mon flanc droit.
+ef262ea524 = The ship fired a ⟦flare⟧ into the night to signal for help. | Le navire tira une fusée éclairante dans la nuit pour appeler à l’aide.
+c44ae2899b Des fusées éclairantes ont servi à détourner la circulation de l’accident.
+035ee77e6c Les leurres thermiques attirèrent les missiles à tête chercheuse.
+8a2d75f038 Le capitaine a réussi son arrondi à la perfection, et nous nous sommes posés en douceur.
+e410864ae3 = A ⟦flare⟧ of anger lit up his face when they mentioned the name. | Un éclat de colère illumina son visage quand on prononça ce nom.
+610f3390c1 Le nombre de sociétés de change a augmenté régulièrement, et 41 étaient autorisées en décembre 1990, dont 33 étaient actives.
+9b5964a71e J’ai noué ici de nombreuses intimités et amitiés, mais je crains qu’elles ne soient trop fragiles pour supporter un trajet de deux cent quarante kilomètres.
+9493dfdbba Il reconnut le ton qu’utilisent les sœurs complices pour évoquer les infirmités de leurs maris. C’était l’appel de Shama à une sœur pour échanger des confidences et manifester son soutien.
+c473532f6b Les bébés lapins s’appellent des lapereaux. La mère prépare un nid douillet pour ses petits.
+b3a372bcc0 Ne parle que si l’on t’adresse la parole, petit.
+0210e5dcd4 Des marchepieds et des mains courantes rétractables sont prévus de chaque côté des voitures. Les marchepieds, commandés par le chef de train, sont actionnés par des leviers manuels dans le vestibule d’entrée.
+732614230c Après avoir présenté ces chiffres généraux, le rapport commence l’analyse des types de trafic par rapport au kilométrage des lignes.
+ecbe5cbc6e Ce vieil ordinateur a encore beaucoup de ressources.
+b9b43e15ec Il y a pas mal de potentiel dans la langue, la parole et l’informatique, en particulier dans la recherche.
+8e76404f74 Votre argument a une certaine valeur.
+58631671f5 Il a toujours aimé jouer à des jeux multijoueurs avec ses amis.
+393b220976 Je viens d’apprendre que le jeu aura du multijoueur à sa sortie !
+d26f738c10 Les suggestions audio qu’on vient d’évoquer seraient avantageuses lorsque des paires travaillent ensemble à un ordinateur, ou lorsque des joueurs collaborent ou s’affrontent dans des jeux et simulations éducatifs en ligne.
+342f4a21fd Ton voisin semble être un mutant ; il est tellement embarrassant !
+9f2de7f84f Elle pourrait vraiment apprécier cette relation avec Raven, s’il n’était pas un mutant homicide.
+961a5c2dd5 Noms collectifs : une flûte ou une mutation de grives.
+19ab7c224a Cet épisode, plein d’humour, est particulièrement amusant pour ceux qui ne prennent pas au sérieux la mythologie de « X-Files ».
+df2e60488a Les néons et les éclairages à LED peuvent être commandés à distance.
+eeb21e5d41 Maroney a aussi indiqué qu’elle souhaitait connaître la composition nutritionnelle complète des deux produits Lunchable, pour déterminer s’ils respectent pleinement les directives nutritionnelles actuelles et proposées du NSLP.
+03d71ee2ea Les voitures à boîte manuelle ont trois pédales, les automatiques en ont deux.
+589019f880 Un piano possède généralement deux ou trois pédales.
+e751f2d562 Un petit orgue n’a généralement qu’un ou deux jeux au pédalier.
+604b6ab40f actionner la pédale de son métier à tisser
+ec7d23d88f Il était à bout de souffle après avoir pédalé dans la côte raide.
+2b87b61594 Le vieil homme se tortillait de rire. « Salut, mon gars ! » lança-t-il quand Dave s’éloigna à vélo.
+822f1b268c une colonne de fumée
+b4510fa346 C’est un pilier de la communauté.
+65e06a8e6f Star Trek est l’un des piliers du divertissement moderne.
+858569f6be Les SPETSNAZ russes sont des forces irrégulières qui opèrent discrètement, offrant au gouvernement russe une négation plausible.
+9dd8d8dd02 un prétexte plausible ; des manières plausibles ; une illusion plausible
+bcf0fb2477 Le ministère de l’Environnement sud-coréen a indiqué dans un communiqué qu’aucune précipitation notable n’avait été observée après l’opération d’ensemencement des nuages.
+7edd2c5c57 Ce type de matériau bio-inspiré utilise la précipitation de calcite microbienne pour réparer les fissures qui apparaissent de manière autonome, améliorant ainsi la durabilité du matériau et réduisant les coûts d’entretien.
+2caaf6a6c6 = The detective acted with some ⟦precipitation⟧ and lost the trail. | Le détective agit avec une certaine précipitation et perdit la piste.
+d6c5162e3b Le chien a eu ce lit depuis qu’il était un petit chiot.
+7d7416968c Le nouveau professeur n’est qu’un jeune blanc-bec.
+4ec15b20cd Mon petit chien aime courir aussi vite qu’il peut, mais ne peut pas toujours s’arrêter à temps !
+f4d937caa8 Les touristes ont été mis en quarantaine pour éviter que l’un d’eux ne puisse propager la peste.
+4ca5ae47a4 = The family spent two weeks in ⟦quarantine⟧ after the outbreak. | La famille passa deux semaines en quarantaine après l’épidémie.
+fc87a33442 Venise commença à mettre en quarantaine les navires entrants pendant quarante jours en 1448, pour empêcher de nouvelles flambées de peste bubonique.
+b28e91c4c1 Les voyageurs internationaux doivent se mettre en quarantaine à leurs frais, dans un hôtel désigné, pendant quatorze jours à leur arrivée.
+11de63f487 Le professeur a répondu à la question de l’élève sur la biosynthèse.
+c89f0ecca9 L’administrateur de la base a activé la journalisation des requêtes à des fins de débogage.
+a32c864dbf Je vous renvoie à votre ligne précédente, où vous utilisez ensemble un point d’interrogation et un point d’exclamation.
+7e9e12980c Elle avait écrit dans son journal : « Je ne crois pas être dans un camp de concentration ?????? », les points d’interrogation devenant de plus en plus grands et nombreux jusqu’à couvrir la page entière […]
+4f4af33d9c Assurez-vous que toutes les attaches sont bien serrées.
+fb8c48a6f3 Essayez de faire preuve de retenue quand vous parlez à votre patron.
+c23b19906f Le Grand Canyon est une faille de la surface terrestre, mais il est plus petit que certaines des failles sous-marines.
+a8d79a6afe = A ⟦rift⟧ in the clouds let the sun shine on the valley. | Une déchirure dans les nuages laissa le soleil éclairer la vallée.
+5548255f96 Mon mariage traverse une crise : la dispute a creusé un fossé entre nous, et nous n’arrivons pas à nous réconcilier.
+7df78b29e4 Elon Musk, l’entrepreneur milliardaire de la tech, a ouvert une nouvelle brouille avec Donald Trump en dénonçant le projet de loi fiscal et budgétaire du président américain comme une « abomination dégoûtante ».
+e39adb8974 Diriez-vous qu’il est juste de qualifier ces commerciaux de vos équipes de dynamiteurs, ou de vendeurs de chaussures en daim ?
+c4eeea19cd = All her household are clothed with ⟦scarlet⟧. | Tous ceux de sa maison sont vêtus d’écarlate.
+0f45594d01 Il a clôturé notre correspondance en écrivant : « Dieu merci pour les masques, parce que je suis écarlate. »
+e5efdd63bb Il y avait un bouchon dans l’égout après qu’un vêtement a été jeté dans les toilettes.
+de6af349d5 Il a eu la chiasse pendant trois jours.
+db990521ac Les habitants jugent que les couchers de soleil du sud-ouest sont les plus beaux.
+93c7c38c5b Biden et ses porte-parole ont fièrement mis en avant son grand plan d’aide contre la COVID comme un stimulus majeur pour la police, dans un contexte national déjà marqué par des dépenses policières sans équivalent mondial.
+8102e8858f Les subventions aux informations consistent ainsi à mettre à disposition des porte-parole, à produire des communiqués ou à organiser des pseudo-événements conçus pour répondre aux besoins de production des médias et attirer leur attention […]
+296d727d11 Au bout d’un quart d’heure, j’ai eu un terrible point de côté.
+e627e5ebd6 J’ai un point de côté. Je vais devoir m’arrêter et me reposer.
+db7b46888d un point de côté
+f343e87248 prendre un point
+fb52a1a805 Je me suis profondément coupé en cuisinant et j’ai dû aller à l’hôpital pour me faire recoudre.
+845ff0926b La surface rocheuse d’une cuvette de marée est le substrat d’un organisme sessile comme la patelle.
+e9cb29add3 Les amphistégines et les péneroplidés faisaient partie des rares taxons trouvés dans les environnements de la baie, probablement en raison de leur préférence pour les substrats phytaux et de leur tolérance à des niveaux modérés d’eutrophisation.
+c23cf5eeef Le substrat d’un aquarium peut modifier l’acidité de l’eau.
+0ad269cf9a Le substrat d’un cours d’eau influence la longévité des poissons.
+4ee8aa5581 Les pluies et la fonte des neiges font gonfler les rivières au printemps.
+6e8b59a4c4 être gonflé d’orgueil ou de morgue
+1daaa6ac83 Mes chevilles avaient enflé à cause de la chaleur.
+014e3607b9 la houle d’un océan agité
+9210761be8 = A small ⟦swell⟧ of land rose above the marsh, where the hunters waited. | Une petite élévation de terrain se dressait au-dessus du marais, où les chasseurs attendaient.
+1b62c3cfcd = She wore the ⟦swellest⟧ hat in town to the wedding. | Elle portait le chapeau le plus élégant de la ville pour le mariage.
+7231ef0b1f Les orgasmes, c’est super, mais ce n’est pas le remède à toutes les injustices.
+b67a7d3a6d Il nous racontait à quel point il était un type formidable, un as, etc.
+33d778f667 Je ne l’ai pas testé, mais en théorie, il devrait voler.
+2e9e4dafad Bien sûr, il ne fera jamais −100 ici comme en Antarctique, mais un écart de 300 degrés restait théoriquement possible un matin record de froid au Minnesota, si nous chauffions assez le sauna.
+2836c19a03 Non, mais l’assurance le couvre. En théorie.
+3dadfd5ad6 Des rumeurs d’inculpation circulaient dans cette communauté largement gay et lesbienne depuis peu après le début de l’enquête, théoriquement secrète, en 1984.
+aa9cac77a4 J’ai résolu le problème en théorie plutôt qu’en pratique.
+f31b74fb66 Nous avons eu une grande soif pendant notre randonnée.
+4816678d6a Il avait une belle soif et se rendit donc dans son pub favori de Dublin.
+db2a96c66b Il avait soif d’elle, et elle avait la même soif de lui.
+d3d70227f4 Si l’on reste longtemps dans le désert sans eau, la soif peut rendre fou.
+70b20126e1 J’ai soif de savoir, et l’éducation me rassasiera.
+1e24645cae assoiffé de sang
+bf19195a1f XHTML 1.0 Transitional
+7003a70944 J’ai deux bons repas gratuits qui n’ont pas été utilisés.
+2bb47fa8cb La loi resserre aussi la part des exonérations non utilisées que les États peuvent reporter d’une année sur l’autre.
+74f463af7b Je ne suis pas habitué aux nuits sombres de la campagne.
+9e691abb96 En Perse, on offrait aux jeunes mariés des pieds de mouton macérés dans du vinaigre, comme incitation à l’amour.
+a593b7ac96 une gamme de vinaigres aux herbes
+3f40cb62dc Rahm Emanuel débordait de vinaigre à propos de sa proposition de retraite obligatoire à 75 ans pour le président et le reste du pouvoir exécutif, ainsi que pour le Congrès et la magistrature.
+27e6f7b7b6 Mais porter une perruque n’est pas une raison pour tuer un homme, à une ou deux exceptions notables près.
+bed794c2c9 = The old lawyer was a ⟦wig⟧ in the courtroom, feared by all. | Le vieil avocat était un bonnet de la cour, redouté de tous.
+ac070b6052 « Elle ne l’a pas fait. Elle m’a appelé d’après le frère de Guy Lombardo, Carmen Lombardo, qui chantait avec l’orchestre.
+81c96a4dd2 = My friend ⟦Edmund⟧ builds model ships in his spare time. | Mon ami Edmund construit des maquettes de navires pendant ses loisirs.
+4afe3680e4 = Our niece ⟦Fiona⟧ plays the fiddle at every family wedding. | Notre nièce Fiona joue du violon à chaque mariage de famille.
+60a7a82128 Les fêtes surprises réussissent grâce à l’aide de voisins ou de collègues complices.
+d8c3556fd8 Ses actes étaient clairement complices, car ils l’ont aidé à commettre et probablement aussi à dissimuler le crime.
+d394fd0228 Elle avait un doigt surnuméraire à une main.
+a7a1541766 Il y avait un doigt surnuméraire du côté cubital de chaque main.
+b7431ec096 les accessoires d’un téléphone portable
+d4b27e4d2c L’une des premières d’une vague de créatrices américaines contemporaines apparues dans les années 1990, elle [Kate Spade] a bâti une marque sur l’attrait de vêtements et d’accessoires qui faisaient sourire les acheteuses.
+07335c182c Elle était complice du meurtre, car elle l’a aidé à le commettre et probablement aussi à le dissimuler.
+159d845ab8 On peut être complice avant le fait ou complice après le fait. Peu importe qu’il s’agisse de l’avant ou de l’après : dans les deux cas, on est dans le pétrin.
+a0ff531e77 Le service a maintenu sa position avec ardeur jusqu’à ce que je produise des preuves de son inexactitude, y compris un enregistrement d’un des appels avec un haut responsable du MI5.
+8cca097676 Les piétons se sont alignés de manière à former, vus d’en haut, un motif pyramidal.
+6971cfbad3 Il a dit que les amnisties des bâtiments étaient « un enjeu énorme ».
+6a28b355e3 « Le nombre de personnes qui bénéficieront d’une amnistie quand je serai président sera zéro », a déclaré DeSantis, interrogé sur la possibilité d’en laisser certaines des 10 millions rester aux États-Unis.
+f273ea2f29 Vous êtes un homme aux affirmations péremptoires !
+41960f64e9 Supposons qu’on vous donne l’affirmation semi-factuelle « même si Nora avait aimé les mathématiques, elle serait devenue scientifique », et que vous découvriez ensuite que Nora est bien devenue scientifique.
+d2a26fa8c3 l’affirmation de ses droits ou de ses prérogatives
+bd1adb3005 Ce n’est qu’une affirmation nue.
+524e9fe4e0 Il était assis au sommet de la montagne, attendant la fin du monde.
+72ca4152b6 « Le monothéisme est né ici », me dit Goren, au sommet d’une falaise surplombant l’étendue d’eau couleur de fer.
+0cf1994491 Il était assis au sommet de la montagne, attendant la fin du monde.
+92124cc325 Nous sommes montés au grenier pour chercher les cartons contenant nos souvenirs d’enfance.
+8e01a12f6e J’attends votre réponse à ma lettre.
+18a6813441 En amour, pourtant, les femmes sont courageuses. Combien grimpent sur les toits des maisons et des palais, et le font encore, quand leurs amants les attendent !
+83c308302e Des récompenses glorieuses attendent les justes au ciel ; une souffrance éternelle attend en enfer les pécheurs mortels.
+072b136514 Ce sont des terres exotiques où de grandes aventures nous attendent.
+390f782ce9 Robert Lee devait couvrir un match de l’université de Virginie dans la ville pour le diffuseur le 2 septembre.
+19fabd73e9 Le gouvernement a également proposé de moderniser l’aéroport de Kangerlussuaq, ancienne base militaire américaine dans l’ouest du Groenland, pour accueillir des avions de chasse F-35, ont indiqué vendredi les diffuseurs DR et TV2.
+4463c4dfdb Les membres de l’équipe Discovery, composée de vingt-neuf hommes, ont constitué des dépôts de matériel pour permettre à l’équipe polaire de voyager léger, en sautant de dépôt en dépôt sur le chemin du retour.
+0365364b1a Peut-être Khrouchtchev avait-il vraiment un plan cohérent en tête lorsqu’il a placé les missiles nucléaires à Cuba.
+385e7e9ad2 Anglia fait partie d’un phénomène plus large du VIIᵉ siècle : la formation de royaumes reconnaissables et cohérents, issus de la société tribale fragmentée qui a émergé des ruines de la Bretagne romaine.
+5df300175f La robe de chambre et les pantoufles étaient si chaudes et douillettes qu’elle s’endormit dans son fauteuil.
+5f2f26b7ee Nous avons gravi le sentier sinueux jusqu’au sommet de la colline.
+2022d08c45 Ce tableau est de travers : pourrais-tu le redresser pour moi ?
+2c8dda3403 Il essayait de m’intéresser à une autre de ses combines louches.
+5dbbe61502 Il est tellement véreux que tout le monde évite autant que possible de le fréquenter.
+89f9bf8703 Je ne lui parlerais pas maintenant, mon gars ! Il est un peu tordu aujourd’hui !
+172325f688 La mise en culture de ces vallées remonte à des milliers d’années.
+234f729698 La mise en culture du coteau a entraîné l’érosion des sols.
+c80787336c Si vous surfez régulièrement, vous allez abîmer votre planche.
+5da1ec5ce5 = He would ⟦ding⟧ the old bottle against the wall in anger. | Il envoyait la vieille bouteille contre le mur, furieux.
+11a08e58b9 = The ⟦displacement⟧ of the ship’s cargo made it list to port. | Le déplacement de la cargaison fit pencher le navire à bâbord.
+58c45d8ed0 Si notre troisième tentative échoue, nous pourrions avoir besoin d’idées radicales.
+ed202bbcc0 Bien que rassis, le pain était comestible.
+179bcc8b95 Les graines récemment germées sont souvent encore plus nutritives pour l’homme, car les substances stockées se transforment fréquemment en substances plus comestibles et plus savoureuses.
+4d7fc8ff9d Le président a soutenu John Smith comme sénateur.
+e739fdcdfd Le tribunal a inscrit à son dossier trois points de pénalité pour conduite en état d’ivresse.
+21b70202ce L’assignation a été revêtue de la mention de la nature de la demande, de sa cause et de la réparation demandée dans l’action.
+63416cb829 Le produit d’origine, à la conception simpliste, a connu de nombreuses améliorations au fil des ans.
+0ce859ab1c La brume de l’aube qui s’élève des North Downs voisines crée un effet sépia sur la rivière, sans aucune retouche numérique.
+12afbc026a ✗
+816b4367aa Il a déjà la copie des autres empreintes digitales que Leo lui a envoyées par télécopie pour comparaison.
+eddce46333 Pouvez-vous expliquer comment on envoie un fax depuis le Pilot Pro ? Faxer améliorerait beaucoup mon utilisation du Pilot. / Merci !
+6c6af36bd8 Il retira la poussière d’un coup de doigt.
+0172c79946 Elle eut un geste dédaigneux de la chevelure et sortit de la pièce à grands pas.
+8b702587e8 Mon film préféré de tous les temps est « Autant en emporte le vent ».
+babf3d2d73 On va au ciné ce soir ?
+28678f52aa chasser la poussière des bottes d’un coup
+8e3fa4b573 rejeter ses cheveux d’un geste de la tête

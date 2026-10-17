@@ -1,0 +1,202 @@
+# lot 199 — mots de la bande « étendu » : drip, duct, emblem, ew, glacier, kernel, liaison, miner, orphan, pineapple, prostitute, rotate, scissors, shampoo, swipe, trumpet, adhere, archaeology, blockade, cartridge, cashier, cloak, colt, concession, discourage, dwell, hassle, hog, intercept, invent, jockey, latitude, lea, libertarian, mummy, offend, overdose, parameter, piercing, procession, purge, scooter, undo, winger, asteroid, batter, blush, booster, bun, calculator, commute, craving, dissent, disturb, flop, glitter, hardship, hen, implication, mango, pagan, programmer, promoter, rhyme
+# écartés : violence sexuelle et paroles de chansons (flop, Valerie-type, hassle), notes « Near-synonyms », citations sans le mot
+8cc9d479e3 La duchesse ruisselait de bijoux.
+a41b2a4e6e Mon stylo cassé a fait couler de l’encre sur la table.
+fc0afc83df Du toit de chaume, une averse ruisselait rapidement.
+6aa171645f Le temps n’est pas si mauvais. Je veux dire : il pleut, mais tu ne vas pas être trempé à ce point.
+8cc88f4f66 J’ai besoin d’un seau pour récupérer les gouttes.
+24214b9584 J’ai mis une goutte d’extrait de vanille dans mon chocolat chaud.
+ec5f3d58e0 Il ne va pas très bien. Les médecins l’ont mis sous perfusion.
+020bc35929 = The slow ⟦drip⟧ of the faucet kept me awake all night. | Le goutte-à-goutte lent du robinet m’a empêché de dormir toute la nuit.
+2678ed7674 Il n’a même pas eu le courage de lui demander son nom… quel nigaud !
+71ee59688e des conduits de chauffage et de climatisation
+0e24ac3092 Les camions médicaux étaient ornés de l’emblème de la Croix-Rouge.
+c3a7d2f6ac La pauvreté endémique des quartiers ethniques n’était qu’un symbole de la mise à l’écart du groupe par la société tout entière.
+20a627d211 = The dove is an ⟦emblem⟧ of peace. | La colombe est l’emblème de la paix.
+6814eef77d Beurk ! Il y a une mouche dans ma soupe.
+b589f4e06e Beurk ! Ce beurre de cacahuète a un goût dégoûtant !
+88724a06d8 Ils ont averti que les effets de la fonte des glaciers sur les ressources en eau deviennent « de plus en plus graves » pour la Chine.
+956fc7e609 On peut skier sur le glacier aussi bien en hiver qu’en été.
+9a7bf1c3ea La file d’attente à la pharmacie avançait à la vitesse d’un glacier.
+a727a41128 le cœur d’un argument
+79559998b9 Le noyau Linux est open source.
+2f8fc3b15a Si une fonction est continue, son noyau est un ensemble fermé.
+63131c7270 Les autruches, en saison de reproduction, sont inlassablement volages : mâles comme femelles recherchent des liaisons avec plusieurs partenaires.
+edb158a468 = Stir a ⟦liaison⟧ of egg yolks and cream into the soup. | Incorporez une liaison de jaunes d’œuf et de crème à la soupe.
+5413719bf7 Le groupe de mineurs est resté bloqué sous terre après l’effondrement d’un puits.
+cdf6837c63 ✗
+a5e2a2ad34 Cette mesure aurait probablement empêché les mineurs de bitcoins basés au Kazakhstan d’accéder au réseau.
+fedc98a5a7 Un objet orphelin n’est pas nuisible dans un langage doté d’un ramasse-miettes, comme Java. Toutefois, réduire le nombre d’objets orphelins devrait améliorer les performances du code.
+26fe29263a = Spread the cream cheese on the bread and top it with crushed ⟦pineapple⟧. | Étalez du fromage à la crème sur le pain et garnissez-le d’ananas écrasé.
+bcb544954b Kai Wen : Pourquoi pas ? Tu n’es qu’une prostituée. / Vicky : Comment oses-tu m’appeler prostituée !
+fde22fc99d Madonna ferait n’importe quoi pour de l’argent, tu sais, c’est une vraie prostituée. Et je n’ai rien contre les prostituées.
+ca330ef80a ✗
+d7813f7d7a Le chat a donné un coup de patte au lacet.
+cd3f6afe20 Il pivota sur sa chaise pour me faire face.
+9d44ee0f47 L’appareil entame sa rotation à soixante nœuds.
+b555fb827a Tournez le cadran vers la gauche.
+e49aae5370 Les équipes d’infirmières tournent chaque semaine.
+acdfecaed4 J’ai toujours admiré le point de vue japonais, qui consiste à ne pas garder beaucoup d’objets à la fois, mais à faire tourner les possessions, et à les exposer avec une grande simplicité.
+ac60243e7f Des ciseaux servent à couper les fleurs.
+e29b2c1b14 Utilisez des ciseaux pour les couper si vous n’avez pas de sécateur.
+b356dcd6f6 Ils ont exécuté un ciseau parfait.
+d149ce736e Je vais faire un shampooing à la moquette.
+68bd4e07de Mon ami maniaque de la propreté shampouine compulsivement à chaque bain qu’il prend.
+56e3e0dc76 Appliquez ensuite le mélange d’après-shampooing sur les cheveux lavés, de la racine aux pointes, puis, au bout de dix minutes, rincez normalement.
+7921e03382 = There is a clear ⟦similarity⟧ between the two languages. | Il existe une nette ressemblance entre les deux langues.
+db37de22f2 Il a passé sa carte devant le lecteur de la porte.
+4942184b0b Balayez vers la gauche pour masquer la barre d’outils.
+6a5ad501dd Voici l’écran de verrouillage de l’iPhone avec son fond d’écran Terre par défaut. Pour déverrouiller votre téléphone, faites glisser le curseur de gauche à droite.
+30a50a9a29 Hé ! Qui m’a piqué mon déjeuner ?
+759e019c36 Je pourrais peut-être piquer du Tintex au bazar du coin.
+310ebceafc Eric (Benjamin Sarpong-Broni) : Mmm, non, je ne t’ai pas « piquée ». Je ne t’ai pas draguée. […] Ni personne d’autre. […] Je ne l’ai pas draguée.
+59e755318f Le héraut royal sonna de la trompette pour annoncer leur arrivée.
+4b0b97411f Les trompettes étaient placées à l’arrière de la fosse d’orchestre.
+712f7966b8 Le gros taureau poussa un mugissement grave en chargeant les chasseurs.
+d73c9e9f39 = She was the ⟦trumpet⟧ of the new ideas in the town. | Elle était le porte-voix des idées nouvelles dans la ville.
+cf9eff8e5d Si l’on adoptait ce dernier principe, même les jonctions en T sans importance prendraient la forme de trompettes ou de demi-trèfles.
+a0899637f9 Cedric gagnait sa vie en lançant des appels à la monnaie aux passants dans le métro.
+2195dd2678 Le dresseur du cirque a claqué son fouet, signalant à l’éléphant de barrir.
+90f36294ae La musique retentissait dans les haut-parleurs, me faisant mal aux oreilles.
+e0ed9ee9b4 L’oiseau lança un second cri. Dinah écouta l’écho s’éteindre autour d’elle.
+3910a193b1 De la cire collait à son doigt.
+2ed4b7d0b9 Pour la plupart, les compagnes de Hefner correspondaient toutes au même modèle : une vingtaine d’années, une poitrine généreuse et des cheveux blonds. « Eh bien, je suppose que je sais ce que j’aime », a-t-il dit un jour, quand on l’interrogea sur ses préférences.
+e7d31db3be Cet article présente un aperçu des commentaires, si minimes soient-ils, qu’il a reçus, et met en évidence un certain nombre d’inexactitudes qui semblent s’accrocher au dictionnaire avec une régularité inquiétante.
+ba200f672a Les promoteurs du bâtiment ont demandé qu’une campagne archéologique soit menée.
+d23fb84df5 L’archéologie nous dira quelles méthodes funéraires utilisaient les Grecs anciens.
+278336db6b Un blocage de six jours, du 28 mai au 2 juin, a permis à NR [National Rail] de redresser la voie dans la gare, ce qui a permis de porter la vitesse de ligne de 60 à 85 mph sur un tronçon de 4 km.
+5d754781b6 Nintendo n’a pas manqué de vanter bruyamment tous les avantages du format cartouche, notamment des temps de chargement très réduits et la robustesse des cartouches […]
+e8ee4195ac Nous aimerions voir quelqu’un commercialiser une cartouche de synthèse vocale basse consommation, qui s’associerait à l’Epson et utiliserait sa batterie interne.
+1b50f5ab34 Les cuisiniers n’avaient jamais cuisiné avant, les caissiers n’avaient jamais encaissé, les plongeurs n’avaient jamais fait la plonge, les serveuses n’avaient jamais servi, et les directeurs n’avaient jamais dirigé.
+9c9cd356ac La nuit dissimulait ses mouvements sous son manteau d’obscurité.
+d07d1fb87b = He is still a ⟦colt⟧ in politics. | Il est encore un bleu en politique.
+1bbc830086 = The young ⟦colts⟧ impressed the selectors in the practice match. | Les jeunes de l’équipe ont impressionné les sélectionneurs lors du match d’entraînement.
+5795584644 = The ⟦concession⟧ of the election came late that night. | La reconnaissance de la défaite est venue tard dans la nuit.
+1ab33fa7c7 = The union accepted a ⟦concession⟧ on working hours. | Le syndicat a accepté une concession sur les horaires de travail.
+5c35fa9278 Ne vous laissez pas décourager par le travail qui reste à faire : vous le terminerez à temps.
+806ddc437a = They ⟦dwell⟧ in a small village near the coast. | Ils habitent un petit village près de la côte.
+cbc61659c9 = Her memory still ⟦dwells⟧ in my heart. | Son souvenir demeure encore dans mon cœur.
+c8f8b7a0cd Arrête de ressasser le passé !
+0ae10dd76e J’ai dû me démener beaucoup pour être le premier à obtenir un billet.
+fd161511d8 Le pauvre garçon a été harcelé par une bande de fauteurs de troubles sur le chemin du retour.
+52eefd501a ✗
+755ad7347a Si vous ne voulez pas vous embêter à convertir les formats, vous devrez rester avec un seul programme.
+88528b6f6a Si l’on vous surprenait à « hasser », comme nous appelions les duels aériens, votre carrière pouvait prendre fin. L’interdiction des duels aériens a divisé notre escadrille en trois factions.
+27b7c8ddb1 Oui, peu importe, vieux cochon desséché.
+cb63012389 Depuis la dernière mise à jour, ce programme est devenu un gouffre à processeur.
+e778533b02 Hé ! Arrête d’accaparer toutes les couvertures.
+7625f4a50d La climatisation ne marchait pas très bien, et il n’y avait qu’un seul ventilateur ; et dès que Winn-Dixie et moi sommes entrés dans la bibliothèque, il a tout accaparé.
+f5e0679c19 = The groom ⟦hogged⟧ the pony’s mane for the show. | Le palefrenier a ras-tondu la crinière du poney pour le concours.
+77378668ee Il peut être difficile de sécuriser les écoutilles de cargaison sur les navires qui se courbent en dos d’âne ou s’affaissent, et l’étanchéité du navire peut alors être compromise.
+55144a77a3 La police a intercepté le colis de marchandises volées pendant son transport.
+a0fadb28b5 Après des semaines de travail acharné, j’ai inventé une nouvelle façon de classer les pochettes d’allumettes par ordre alphabétique.
+089dc9902f Je savais qu’il fallait que j’invente une excuse, et vite.
+931d04ee65 Il nous faut un nom pour ce formulaire : inventons-en un.
+cb571497b7 = The old ⟦jockey⟧ swindled every buyer at the market. | Le vieux maquignon escroquait chaque acheteur du marché.
+f3d93e124f Loin du centre de la civilisation Shang, Wu-ch’eng se trouve bien au sud du Yangzi, à peu près à la même latitude que Changsha à l’ouest et que Wenzhou à l’est.
+16b46fbd54 averses de neige aux latitudes nordiques
+80fe09d07b Ses parents lui ont accordé une grande liberté.
+eda2ad3aff Jouant d’étourdissants tours le long des prés couverts de bruyère ;
+89fe05e4ed Ce n’était pas la seule chose que les frères Koch faisaient différemment.
+cf8f923cfd Il a des opinions libertariennes.
+79bf836beb Beaucoup de gens croyaient à la malédiction de la momie, et la malédiction est vite devenue une partie acceptée de la légende de Toutânkhamon.
+c35a5abd43 […] M. Pearson présente une description particulière de la momie très parfaite d’un ibis, qui constitue le sujet principal de cet article.
+c2cb07426d = The museum displays a ⟦mummy⟧ from the Ptolemaic period. | Le musée expose une momie de l’époque ptolémaïque.
+eb0f7fcf6c Vos accusations me blessent profondément.
+bc5b237491 Une lumière vive incommode l’œil.
+41edd46a2d Ne t’inquiète pas, je ne me vexe pas facilement.
+83cdf155ca mourir d’une overdose d’héroïne
+7980d0f746 Les overdoses de médicaments sont la première cause de mort accidentelle en Virginie-Occidentale, et cet État est en tête du pays pour les overdoses mortelles. L’OxyContin, surnommée « héroïne des ploucs », règne en maître.
+d9d27e79f2 Attention à ne pas prendre trop de ces pilules.
+529066fb19 Elle a fait une overdose de cocaïne.
+668f68394d Claude a fait une overdose d’héroïne dans un garni miteux de Chicago, trois ans plus tard.
+dba41f8d84 Les paramètres de cohésion (paramètres de solubilité) peuvent être utilisés, avec une justification théorique complète, pour caractériser de nombreuses surfaces…
+5181d84983 À cette fin, nous dérivons un estimateur d’erreur a posteriori pour l’erreur par rapport au paramètre inconnu.
+f969e0ea99 Le problème d’estimation de paramètres traité dans ce chapitre consiste à estimer le paramètre inconnu, ū [un v barré, en réalité], à partir de N échantillons du processus d’observation.
+2b9d54c3bf Il faut aussi évoquer la régulation d’une OpenAI à but lucratif. L’entreprise a d’abord retardé le lancement de son GPT-2 précédent, qui ne comptait que 1,5 milliard de paramètres, parce qu’elle s’inquiétait de ses conséquences.
+3521e699fe Le bruit perçant des enfants s’entendait à deux pâtés de maisons de l’école primaire.
+c086a563c6 le cortège du Lord-maire
+f7c69fd7b2 un cortège de personnes en deuil
+a33acfae2a L’Écosse a bien tenu à 45 sans perte avant que je prenne le premier guichet, puis ce fut une promenade.
+3dcfae94ac Après le processus, la machine purge la chambre avant de la ventiler pour éliminer les gaz toxiques.
+4fd58df1d6 = The heavy rain ⟦purged⟧ the air of smoke. | La pluie battante a débarrassé l’air de sa fumée.
+48ec71bb2c Deng Xiaoping a été purgé deux fois pendant la Révolution culturelle, mais il a réussi à revenir au pouvoir après la mort de Mao.
+cb23e9987a Staline veillait à ce que ses purges soient irréversibles.
+bbff58a1ac = The doctor prescribed a strong ⟦purge⟧ for the patient. | Le médecin prescrivit un purgatif puissant au malade.
+20e85e40b9 « Halloween doit rester une fête, la purge n’est pas une plaisanterie, la purge est une menace », a déclaré aux journalistes jeudi le ministre de l’Intérieur, Christophe Castaner.
+7629a15572 L’incident est né d’un tract largement diffusé parmi les élèves des écoles de la ville via les réseaux sociaux, annonçant une « purge » à 15 heures, partant du Mondawmin Mall pour finir au centre-ville.
+a4c4c97770 Bow Pocket Scooter […] Scooter en sergé à enfiler, avec trois plis devant, […]
+e78abab77a Ce qui est fait ne peut être défait.
+c2da06736a Heureusement, nous pouvons réparer la plupart des dégâts causés au système par la guerre.
+23e26d8f3c Pourriez-vous défaire ma boucle, s’il vous plaît ?
+88c4b07859 PROSTITUÉE : Défais-moi. Allez, mon cœur.
+1f0000d6a3 = The scandal ⟦undid⟧ his reputation for good. | Le scandale a ruiné sa réputation pour de bon.
+d6ff53e4cf Le centre a passé le ballon à l’ailier gauche, qui a tiré et marqué.
+b72efa82a6 Mais l’ailier de Norwich a tiré à côté alors qu’il était seul face au but, et une autre tentative a touché le poteau à la 75e minute.
+00a75bd4b5 Nous avons bu une rasade de grog.
+075242b585 Les plans orbitaux des astéroïdes, petits corps qui tournent autour du Soleil principalement entre les orbites de Mars et de Jupiter, sont souvent plus inclinés…
+8851161c73 À la grande consternation de sa mère, le garçon a plongé son doigt dans la pâte à crêpes.
+5812ae36f7 Quand il partait en virée, il devenait très violent.
+a935435a00 = She felt a warm ⟦blush⟧ spread across her cheeks. | Elle sentit une chaleur lui monter aux joues.
+e41d8288b3 Chaque tableau se compose d’un disque d’aluminium blanc, pulvérisé sur les bords d’une subtile touche de bleu, de rose ou de gris.
+62eb242bc0 La cérémonie d’indépendance n’a pas pu empêcher que s’efface l’éclat de la révolution d’avril, quand des œillets semblaient pousser à chaque boutonnière.
+f4ddf5e8f3 La scène d’amour le faisait rougir jusqu’à la racine des cheveux et jusqu’au bout des oreilles.
+638a57848e Il n’était pas habitué à tant d’attention, alors il a rougi en voyant des dizaines de paires d’yeux posées sur lui.
+690688ea2d = Our town has much to ⟦blush⟧ for after that scandal. | Notre ville a de quoi rougir après ce scandale.
+7ad6b680af = The sunrise made the eastern sky ⟦blush⟧ pink. | Le lever du soleil faisait rougir le ciel à l’est.
+6b940cf127 Son district n’est pas non plus le bastion démocrate que décrivent les partisans : les électeurs y ont soutenu Barack Obama de justesse en 2008, mais ont voté pour M. Bush avec une nette avance en 2004.
+224b28329c Quand as-tu eu ton dernier rappel de tétanos ?
+adfdf60f72 Dans l’enquête de septembre de la Kaiser Family Foundation, 71 % des personnes non vaccinées ont déclaré que le besoin de rappels indiquait que les vaccins ne fonctionnaient pas.
+44ba658414 chignon lâche ; chignon en bataille ; chignon serré
+c11afd3585 jolis chignons ; chignons serrés
+9f42fe7e33 ✗
+d7b8c76f3c calculatrice électronique ; calculatrice de poche
+91613c7060 La « calculatrice » sur le bureau d’un comptable dans les années 1950 était une machine à additionner à mécanique interne.
+71775b4c08 ✗
+412fc118f9 Il s’est révélé être un calculateur froid, déterminé à saboter ses collègues.
+aff3b41c4b Pendant la guerre, sa grand-mère avait travaillé comme calculatrice à la station de décryptage de Bletchley Park.
+ad2c4d8b53 Une paire de matrices partagent le même ensemble de vecteurs propres si et seulement si elles commutent.
+14aae72b64 convertir les dîmes en rentes perpétuelles pour une somme
+b0008a25e3 convertir les allers-retours quotidiens en abonnement saisonnier
+4bbbaa950d convertir le péage quotidien en un forfait annuel
+eebb40ca6d La liste des victoires que votre remise à zéro peut vous apporter est longue, et elle comprend une foule de gains qui n’ont rien à voir avec la balance : moins d’imperfections, des cheveux plus épais, moins de douleurs articulaires. Moins d’envies. Pas de baisse d’énergie en milieu de journée.
+98d40cd1e8 Un système qui réprime la dissidence est intolérant aux erreurs, ignorant et fragile.
+5505fa8462 La ventilation bruyante m’a dérangé pendant l’examen.
+bde330977c Le spectacle a été interrompu à deux reprises par un téléphone portable qui sonnait.
+3842d6a906 Un glissement de terrain a perturbé le cours de la rivière.
+dbbe165902 Le traumatisme a perturbé son esprit.
+895292b8dd Il s’est affalé devant la télévision, épuisé par le travail.
+91bc28cd46 Le dernier album a fait un flop, et le studio a donc résilié son contrat.
+f0b7d12cdd […] pas seulement l’ancien objectif matériel de « trois repas chauds et un endroit où crécher », […]
+92cb2a3381 Ils ont ouvert des cryptes et des caves, véritables vastes dortoirs où les hippies vagabonds et démunis peuvent passer la nuit.
+c36deef4b1 La mule épuisée rabattit les oreilles en avant et reprit sa marche pesante.
+45faf8344f Ça commence avec Chris Paul, parce que Blake ne simulait pas vraiment comme ça, tu sais, l’année dernière.
+36b10289e3 Alors que Stern reprochait jeudi à Vogel d’avoir qualifié le Heat de « plus grosse équipe simulatrice de la NBA », il a laissé entendre qu’il trouvait du mérite à ce sentiment.
+f51ae79e38 ✗
+45625de051 Le flop ne t’a pas aidé, mais il a sans doute aidé les autres mains.
+47054b606c Voici six conseils pour bien jouer au flop (les trois premières cartes communes).
+f2d8089aa9 … bouse ou « cow-flop », bouse de vache, souvent séchée et utilisée comme combustible de chauffage.
+f16b55698c les ornements scintillants d’un sapin de Noël
+59b1eb8a10 les scènes éblouissantes d’une cour
+84b6e1a6a2 Il a déjà traversé des périodes de gêne financière.
+bfd2a67b15 Si les services ferroviaires de ce type étaient supprimés sans aucune solution de remplacement, il y aurait bien sûr des difficultés dans certains cas.
+195f4fabf4 Lorsque vous visitez le musée, nous vous invitons à faire un don de 10 $ si cela ne vous pèse pas.
+299705520b À Tain, au nord d’Inverness, le personnel a repéré 11 mâles et au moins sept femelles, le plus grand nombre depuis 2011.
+2dd1233040 Le rejet de déchets dans la rivière aura de graves conséquences pour l’environnement.
+d3b22b08fa Dennis Reynolds : L’idée que les choses pourraient mal tourner pour elle si elle refuse de coucher avec moi. Bon, pas que les choses vont mal tourner pour elle, mais elle pense qu’elles vont le faire.
+1d021cb337 Les jours de chaleur, il s’allongeait à l’ombre d’un manguier, laissant la petite Eugenia grimper sur son ventre et tirer sur sa barbe.
+741fe48c46 En Pennsylvanie et dans l’ouest du Maryland, les « mangues » étaient généralement préparées avec des poivrons verts.
+675e4fbf65 = Cut the tops from the ⟦mango⟧ peppers and remove the seeds. | Coupez le haut des piments doux à confire et retirez les graines.
+c37f8b366f Lors de la christianisation, de nombreuses sociétés converties ont transformé leurs divinités païennes en saints.
+2cd9c8535d Cette communauté compte un nombre étonnant de païens.
+e5d999a013 Le programmateur d’EPROM grave les données dans la puce EPROM. Une fois la programmation terminée, retirez la puce EPROM et branchez-la dans le circuit […]
+f063c46b66 Ce système comprend une chaudière avec son propre thermostat pour réguler la température de l’eau, une pompe, un ballon d’eau chaude, un thermostat d’ambiance et une forme de programmateur horaire.
+bb612d9f46 Les quelques classiques estivaux interminables diffusés chaque année par les programmateurs des radios rock.
+792a5107f1 Donc, s’il y a une réelle pénurie de matériel de formation et d’occasions pour les programmateurs de radio, alors écrivons-en.
+f1ae53d040 un promoteur d’idées séditieuses
+de407aa1a3 Le langage même que nous utilisons pour symboliser la réalité est à la fois le produit et le promoteur de la réalité répressive de notre conscience actuelle.
+54d4606827 La poésie nordique regorge de rimes comme « sól … sunnan ».
+4a2e4778bb Le rap utilise des rimes comme « money … honey » et « nope … dope ».
+f2ce9e51d5 De nos jours, beaucoup d’éditeurs disent ne plus vouloir d’histoires écrites en vers.
+b5d801cc25 = He would ⟦prostitute⟧ his talents to the highest bidder. | Il vendrait son talent au plus offrant, quitte à le prostituer.
+4601229235 = The bride’s friends planned a wild ⟦hen⟧ night. | Les amies de la future mariée organisaient une soirée d’enterrement de vie de jeune fille très animée.
